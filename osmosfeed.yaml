@@ -8,3 +8,5 @@ cacheMaxDays: 30
 sources:
   - href: https://www.daemonology.net/hn-daily/index.rss
   - href: https://www.phoronix.com/rss.php
+
+siteTitle: "the news rss reader"
