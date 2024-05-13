@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
+    <title>osmos::feed</title>
+    <updated>2024-05-13T01:04:37.105Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
+    <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
+    <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-12]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-12.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-12.html"/>
+        <updated>2024-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 12, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Selling 'Ghost in the Shell'
+(comments)
+
+
+So We've Got a Memory Leak
+(comments)
+
+
+100k Stars
+(comments)
+
+
+Why you can hear the temperature of water
+(comments)
+
+
+Scientists Find an 'Alphabet' in Whale Songs
+(comments)
+
+
+Adam Curtis on the dangers of self-expression (2017)
+(comments)
+
+
+The Emacs Window Management Almanac
+(comments)
+
+
+PeaZip: Open-source file compression and encryption software
+(comments)
+
+
+Virtualizing the 6502 on a 6502 with 6o6
+(comments)
+
+
+Show HN: Open-Source Video Editor Web App
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.9 Released With Faster Intel Core Ultra Performance, Larger Console Fonts Option]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.9-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-6.9-Released"/>
+        <updated>2024-05-12T21:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Linux 6.9 is out! Linux 6.9 has been released on time as the newest stable kernel version for rolling-release Linux distributions and other summer releases/updates. Linux 6.9 has a number of exciting features and improvements for those habitually updating to the newest version...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Features Expected From The NTSYNC Driver To Performance Optimizations]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Feature-Preview</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Feature-Preview"/>
+        <updated>2024-05-12T15:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Barring any last minute reservations by Linus Torvalds, Linux 6.9 stable should release later today. In turn the Linux 6.10 merge window will then open for the next two weeks and already some early pull requests have been submitted for this next kernel version. Here is a look at some of what to expect with the Linux 6.10 kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 AMD P-State To Deliver Fixes, Better Support On Older Zen CPUs]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-AMD-P-State</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-AMD-P-State"/>
+        <updated>2024-05-12T14:30:06.000Z</updated>
+        <summary type="html"><![CDATA[The recent AMD P-State Linux driver patches for heterogeneous core CPU topology, Fast CPPC, and Core Performance Boost haven't made it to the Linux power management's "-next" branch ahead of the imminent Linux 6.10 cycle. Thus it looks like those features won't be ready to make it for v6.10 unless by chance being deemed ready in the coming days and then sent in as part of a secondary set of merge window changes. However, some other AMD P-State fixes/improvements are queued up...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Arc Graphics Demonstrated Running On ARM With Ampere Altra]]></title>
+        <id>https://www.phoronix.com/news/Intel-Arc-Graphics-On-ARM</id>
+        <link href="https://www.phoronix.com/news/Intel-Arc-Graphics-On-ARM"/>
+        <updated>2024-05-12T10:47:37.000Z</updated>
+        <summary type="html"><![CDATA[With the new Intel "Xe" Direct Rendering Manager kernel driver that's been in development one of the touted benefits of the clean sheet driver design is that it would enable using Intel discrete GPUs on non-x86 CPU architectures. The long-used "i915" DRM kernel graphics driver has many x86'isms in the code-base built up over the many years of Intel integrated graphics that were only ever found within their x86/x86_64 processors. But now in the era of Intel discrete graphics, there's been issues in trying to run Intel Arc Graphics on say ARM, POWER9, and RISC-V, among others. The experimental Intel Xe driver was recently successfully demonstrated in running on ARM using an Ampere Altra workstation...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD RDNA4 "GFX12" Support Merged For Mesa's RadeonSI Driver]]></title>
+        <id>https://www.phoronix.com/news/AMD-RDNA4-Merged-Mesa-RadeonSI</id>
+        <link href="https://www.phoronix.com/news/AMD-RDNA4-Merged-Mesa-RadeonSI"/>
+        <updated>2024-05-12T10:31:41.000Z</updated>
+        <summary type="html"><![CDATA[Following all of the GFX12 code and related IP landing within the AMDGPU Linux kernel driver as well as the LLVM AMDGPU shader compiler back-end and other code in enabling the next-generation of AMD Radeon graphics, the RadeonSI OpenGL driver support for RDNA4 (GFX12) was merged this Sunday into Mesa...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IO_uring Bringing Better Send Zero-Copy Performance With Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-IO_uring</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-IO_uring"/>
+        <updated>2024-05-12T10:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Linux I/O expert and subsystem maintainer Jens Axboe has submitted all of the IO_uring feature updates ahead of the imminent Linux 6.10 merge window...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another AMD Zen 5 PCI ID Squeezing Into Linux 6.9]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.9-One-More-Zen-5-PCI-ID</id>
+        <link href="https://www.phoronix.com/news/Linux-6.9-One-More-Zen-5-PCI-ID"/>
+        <updated>2024-05-12T09:56:32.000Z</updated>
+        <summary type="html"><![CDATA[The Linux 6.9 kernel should debut as stable later today unless Linus Torvalds has second thoughts and decides to delay it by issuing a v6.9-rc8 kernel instead that would then push out the official release by an extra week. In any event, as a last-minute "x86/urgent" pull request is another Zen 5 PCI ID being added...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReactOS "Open-Source Windows" Making Good Strides On SMP CPU Support]]></title>
+        <id>https://www.phoronix.com/news/ReactOS-May-2024-Update</id>
+        <link href="https://www.phoronix.com/news/ReactOS-May-2024-Update"/>
+        <updated>2024-05-12T00:16:50.000Z</updated>
+        <summary type="html"><![CDATA[The ReactOS project has posted their latest newsletter that outlines progress made during the past two months. ReactOS continues working to be an open-source operating system that offers application and driver binary compatibility with Microsoft Windows to in effect serve as a "open-source Windows" albeit the hardware support and application support are still an ongoing affair...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-11]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-11.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-11.html"/>
+        <updated>2024-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 11, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Deno KV internals: building a database for the modern web
+(comments)
+
+
+Cubic millimetre of brain mapped at nanoscale resolution
+(comments)
+
+
+Life-like particle system
+(comments)
+
+
+Roman Tyrian purple snail dye found in UK for first time
+(comments)
+
+
+Is the largest root of a random real polynomial more likely real than complex?
+(comments)
+
+
+KeePassXC Debian maintainer has removed all network features
+(comments)
+
+
+Coronal mass ejection impact imminent, two more earth-directed CMEs
+(comments)
+
+
+Thread: Tech we can’t use or teach?
+(comments)
+
+
+Why the CORDIC algorithm lives rent-free in my head
+(comments)
+
+
+Immersive Math
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Torvalds Voices Thoughts On Linux Mitigating Unexpected Arithmetic Overflows/Underflows]]></title>
+        <id>https://www.phoronix.com/news/Torvalds-Arithmetic-Overflows</id>
+        <link href="https://www.phoronix.com/news/Torvalds-Arithmetic-Overflows"/>
+        <updated>2024-05-11T13:19:26.000Z</updated>
+        <summary type="html"><![CDATA[For those interested in some insightful Linux kernel mailing list reading this weekend, there's been a vibrant discussion on the ability for the Linux kernel to mitigate unexpected arithmetic overflows/underflows/wraparounds...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Making Good Progress On HDR, Better Gamescope Integration]]></title>
+        <id>https://www.phoronix.com/news/KDE-HDR-Colors-Part-3</id>
+        <link href="https://www.phoronix.com/news/KDE-HDR-Colors-Part-3"/>
+        <updated>2024-05-11T11:00:22.000Z</updated>
+        <summary type="html"><![CDATA[KDE developer Xaver Hugl has written a third blog post outlining some of the latest HDR and color management improvements that have been readied for KDE's KWin compositor as well as ongoing improvements to Valve's Gamescope compositor...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Releases Pingora 0.2 For Building Fast & Reliable Networked Systems]]></title>
+        <id>https://www.phoronix.com/news/Cloudflare-Pingora-0.2</id>
+        <link href="https://www.phoronix.com/news/Cloudflare-Pingora-0.2"/>
+        <updated>2024-05-11T10:34:21.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago Cloudflare outlined how they began replacing Nginx with their own in-house creation, Pingora. Back in February of this year Cloudflare open-sourced Pingora and in April issued the maiden release of Pingora. Out today is Pingora 0.2 as the second release of this Rust framework that is already used in production by Cloudflare...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustls Can Now Work With Nginx Via New OpenSSL Compatibility Layer]]></title>
+        <id>https://www.phoronix.com/news/Rustls-With-Nginx</id>
+        <link href="https://www.phoronix.com/news/Rustls-With-Nginx"/>
+        <updated>2024-05-11T10:27:02.000Z</updated>
+        <summary type="html"><![CDATA[Rustls is the modern TLS library written in the Rust programming language with a large emphasis on memory safety and security. Rustls is backed by Google, AWS, and others as well as being a recipient of Germany's Sovereign Tech Fund. The latest exciting milestone for the open-source project is that Rustls can now work with Nginx...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wasmer 4.3 Released: WebAssembly Runtime 25% Faster On Cold Startups]]></title>
+        <id>https://www.phoronix.com/news/Wasmer-4.3-Released</id>
+        <link href="https://www.phoronix.com/news/Wasmer-4.3-Released"/>
+        <updated>2024-05-11T09:59:14.000Z</updated>
+        <summary type="html"><![CDATA[Wasmer 4.3 is out as the newest version of this WebAssembly (WASM) runtime that supports WASIX, WASI, and EmScript execution. This cross-platform WASM runtime continues to be focused on driving lightweight containers that can run anywhere in a very secure manner...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6 Sees More Features Merged Ahead Of Plasma 6.1]]></title>
+        <id>https://www.phoronix.com/news/KDE-Smooth-Dolphin-And-More</id>
+        <link href="https://www.phoronix.com/news/KDE-Smooth-Dolphin-And-More"/>
+        <updated>2024-05-11T09:45:26.000Z</updated>
+        <summary type="html"><![CDATA[KDE developers had another busy week as more features were merged ahead of next month's Plasma 6.1 release...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA's Open GPU Linux Kernel Driver Will Soon Be The Default For Turing & Newer GPUs]]></title>
+        <id>https://www.phoronix.com/news/NVIDIA-R560-Open-Default</id>
+        <link href="https://www.phoronix.com/news/NVIDIA-R560-Open-Default"/>
+        <updated>2024-05-11T01:46:55.000Z</updated>
+        <summary type="html"><![CDATA[While we are all waiting for the NVIDIA R555 series Linux driver beta that is expected to debut as soon as next week based on prior information with Wayland improvements (explicit sync) and more, with the NVIDIA R560 series Linux driver successor is a very interesting change: NVIDIA is planning on defaulting to using their open-source GPU kernel driver by default for GeForce RTX 2000 "Turing" GPUs and newer...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-10]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-10.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-10.html"/>
+        <updated>2024-05-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 10, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Sound-suppressing silk can create quiet spaces
+(comments)
+
+
+Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done
+(comments)
+
+
+Sioyek is a PDF viewer with a focus on textbooks and research papers
+(comments)
+
+
+The world has probably passed peak pollution
+(comments)
+
+
+Apple apologizes for iPad 'Crush' ad that 'missed the mark'
+(comments)
+
+
+Popover API
+(comments)
+
+
+Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years
+(comments)
+
+
+Superfile – A fancy, pretty terminal file manager
+(comments)
+
+
+Jim Simons has died
+(comments)
+
+
+Most of Europe is glowing pink under the aurora
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Aims For AMF Decode In FFmpeg, Questioned Over Vulkan Video Commitment]]></title>
+        <id>https://www.phoronix.com/news/AMD-AMF-FFmpeg-Better-2024</id>
+        <link href="https://www.phoronix.com/news/AMD-AMF-FFmpeg-Better-2024"/>
+        <updated>2024-05-10T16:52:52.000Z</updated>
+        <summary type="html"><![CDATA[AMD last week sent out a set of patches to enhance the open-source FFmpeg multimedia library with integration around the AMD Advanced Media Framework (AMF). The AMF SDK allows for "optimal" access to AMD GPUs for multimedia processing but this patch series questioned the need in an era of Vulkan Video APIs beginning to see adoption...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Adding TPM Bus Encryption & Integrity Protection]]></title>
+        <id>https://www.phoronix.com/news/Linux-610-TPM-Encrypt-Integrity</id>
+        <link href="https://www.phoronix.com/news/Linux-610-TPM-Encrypt-Integrity"/>
+        <updated>2024-05-10T14:34:30.000Z</updated>
+        <summary type="html"><![CDATA[Linux 6.10 is introducing support for Trusted Platform Module (TPM2) encryption and integrity protections to prevent active/passive interposers from compromising them. This follows a recent security demonstration of TPM key recovery from Microsoft Windows BitLocker being demonstrated. TPM sniffing attacks have also been demonstrated against Linux systems too, thus the additional protections be made with Linux 6.10 to better secure TPM2 modules...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Takes Open-Source Hyperscan Development To Proprietary Licensed Software]]></title>
+        <id>https://www.phoronix.com/news/Intel-Hyperscan-Now-Proprietary</id>
+        <link href="https://www.phoronix.com/news/Intel-Hyperscan-Now-Proprietary"/>
+        <updated>2024-05-10T14:07:26.000Z</updated>
+        <summary type="html"><![CDATA[While Intel can be praised for their dozens (or likely by now, hundreds) of open-source projects they maintain and countless other existing open-source software projects they actively contribute to and are covered by Phoronix on a near-daily basis, not everything there is open-source. Intel is a wonderful and leading open-source promoter but occasionally there are closed-source blobs or questionable moves such as today: Intel is taking their Hyperscan library development from BSD-licensed open-source software to now the Intel Proprietary License moving forward...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.9 Features Many Great Improvements For Both Intel & AMD]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.9-Features-Intel-AMD</id>
+        <link href="https://www.phoronix.com/news/Linux-6.9-Features-Intel-AMD"/>
+        <updated>2024-05-10T10:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Barring any last minute reservations by Linus Torvalds, the Linux 6.9 kernel should be released as stable on Sunday. It's been a fairly quiet week so Linux 6.9 stable will likely happen as opposed to going through an extra week with a 6.9-rc8 candidate. With this spring 2024 kernel there are many great features and improvements, especially for modern Intel and AMD platforms...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulkan 1.3.285 Released With New Extension From Valve VKD3D-Proton Developer]]></title>
+        <id>https://www.phoronix.com/news/Vulkan-1.3.285-Released</id>
+        <link href="https://www.phoronix.com/news/Vulkan-1.3.285-Released"/>
+        <updated>2024-05-10T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The Vulkan API 1.3.285 spec revision is out today with a handful of fixes/clarifications and another new extension developed by Valve engineering...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocky Linux 9.4 Released For RHEL 9.4 Derived Distribution]]></title>
+        <id>https://www.phoronix.com/news/Rocky-Linux-9.4-Released</id>
+        <link href="https://www.phoronix.com/news/Rocky-Linux-9.4-Released"/>
+        <updated>2024-05-10T10:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Building off last week's release of Red Hat Enterprise Linux 9.4 (RHEL 9.4) has been AlmaLinux 9.4 and now the other notable community-focused downstream: Rocky Linux 9.4...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SDL3 Adds PipeWire Camera Support]]></title>
+        <id>https://www.phoronix.com/news/SDL3-PipeWire-Camera-Capture</id>
+        <link href="https://www.phoronix.com/news/SDL3-PipeWire-Camera-Capture"/>
+        <updated>2024-05-10T10:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Adding to the growing list of features coming with the SDL3 release for this hardware/software abstraction layer commonly used by cross-platform games and other software is PipeWire camera capturing support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Updates Its PyTorch Build With More Large Language Model Optimizations]]></title>
+        <id>https://www.phoronix.com/news/Intel-Extension-PyTorch-2.3</id>
+        <link href="https://www.phoronix.com/news/Intel-Extension-PyTorch-2.3"/>
+        <updated>2024-05-10T10:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Intel has released their Intel Extension for PyTorch v2.3 to succeed their earlier v2.1 derived extension. With this updated extension targeting PyTorch 2.3, Intel is rolling out more optimizations around Large Language Models (LLMs)...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 3.6 Preview Released With Linux 6.5, Updated Arch Linux & Mesa 24.1]]></title>
+        <id>https://www.phoronix.com/news/SteamOS-3.6-Preview</id>
+        <link href="https://www.phoronix.com/news/SteamOS-3.6-Preview"/>
+        <updated>2024-05-10T01:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Valve tonight released a SteamOS 3.6 Preview as the latest version of their Arch Linux derived operating system that powers the Steam Deck and can be installed on other devices as well...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla's Llamafile 0.8.2 Scores Big With New AVX2 Performance Optimizations]]></title>
+        <id>https://www.phoronix.com/news/Llamafile-0.8.2-More-AVX2</id>
+        <link href="https://www.phoronix.com/news/Llamafile-0.8.2-More-AVX2"/>
+        <updated>2024-05-10T00:15:09.000Z</updated>
+        <summary type="html"><![CDATA[One of the interesting innovations out of Mozilla Ocho as the browser company's innovation and experiments group is Llamafile, a easy way to distribute and run AI large language models (LLMs) from a single file. Out this evening is Llamafile 0.8.2 is the newest release with an updated Llama.cpp and most excitingly are some AVX2 performance optimizations...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-09]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-09.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-09.html"/>
+        <updated>2024-05-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 09, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Show HN: AI climbing coach – visualize how to climb any route based on your body
+(comments)
+
+
+TimesFM: Time Series Foundation Model for time-series forecasting
+(comments)
+
+
+Show HN: I built a non-linear UI for ChatGPT
+(comments)
+
+
+Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x
+(comments)
+
+
+The Time I Lied to the CTO and Saved the Day
+(comments)
+
+
+Algebraic Data Types for C99
+(comments)
+
+
+Deaf girl is cured in world first gene therapy trial
+(comments)
+
+
+Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun
+(comments)
+
+
+Leaked deck reveals how OpenAI is pitching publisher partnerships
+(comments)
+
+
+It's always TCP_NODELAY
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLVM Dealing With Slower Performance On AMD CPUs When Targeting AMD Zen Optimizations]]></title>
+        <id>https://www.phoronix.com/news/LLVM-Slower-With-AMD-Opts</id>
+        <link href="https://www.phoronix.com/news/LLVM-Slower-With-AMD-Opts"/>
+        <updated>2024-05-09T20:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently there was an LLVM bug report of "Worse runtime performance on Zen CPU when optimizing for Zen." Well, that's not good... Fortunately, that bug is now fixed with the latest LLVM Clang compiler code but other deficiencies in the AMD CPU optimization targeting remain...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLUB Updates Submitted Ahead Of Linux 6.10 Merge Window]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-SLAB-SLUB-Changes</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-SLAB-SLUB-Changes"/>
+        <updated>2024-05-09T19:46:03.000Z</updated>
+        <summary type="html"><![CDATA[If all goes well the Linux 6.9 stable kernel will be released on Sunday and in turn mark the opening of the Linux 6.10 merge window. In hoping for an on-time release, some Linux kernel subsystem maintainers have been already submitting early pull requests of their feature material for v6.10. Among those early pulls are the SLAB (SLUB) updates...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Preparing PCIe TPH Support For Upcoming CPUs]]></title>
+        <id>https://www.phoronix.com/news/AMD-PCIe-TPH-Linux-Patches</id>
+        <link href="https://www.phoronix.com/news/AMD-PCIe-TPH-Linux-Patches"/>
+        <updated>2024-05-09T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A new patch series sent out today by AMD Linux engineers confirm that PCIe TPH will be supported with "upcoming AMD hardware" as a nice performance optimization feature for PCI Express...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 24.04 LTS & Fedora 40 Continue To Trail Intel's Linux Performance Optimizations]]></title>
+        <id>https://www.phoronix.com/review/intel-ubuntu2404-fedora40</id>
+        <link href="https://www.phoronix.com/review/intel-ubuntu2404-fedora40"/>
+        <updated>2024-05-09T16:26:56.000Z</updated>
+        <summary type="html"><![CDATA[While Canonical has been investing more into the performance of Ubuntu Linux and engaged some new performance improvements in Ubuntu 24.04 LTS, it's still not the fastest Linux distribution out there on x86_64 hardware. Similarly, the recently released Fedora Workstation 40 features the brand new GCC 14 compiler and other leading-edge open-source software packages, but there's still more performance left on the table as shown by Intel. Here are some fresh benchmarks looking at how Ubuntu 24.04 LTS and Fedora Workstation 40 are competing with Intel's in-house Clear Linux distribution that offers aggressive x86_64 Linux performance defaults and the best possible out-of-the-box Linux performance on modern x86_64 hardware.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Publishes Micro Engine Scheduler "MES" Firmware Documentation]]></title>
+        <id>https://www.phoronix.com/news/AMD-MES-Firmware-Docs</id>
+        <link href="https://www.phoronix.com/news/AMD-MES-Firmware-Docs"/>
+        <updated>2024-05-09T14:00:53.000Z</updated>
+        <summary type="html"><![CDATA[As expected, AMD today published the Micro Engine Scheduler "MES" firmware documentation for RDNA3 graphics processors as part of better engaging with the open-source community and aiming to address some gaps in their open-source GPU compute stack...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChromeOS EC Hardware Monitoring Driver Being Revived For Framework Laptops]]></title>
+        <id>https://www.phoronix.com/news/ChromeOS-EC-HWMON-Driver</id>
+        <link href="https://www.phoronix.com/news/ChromeOS-EC-HWMON-Driver"/>
+        <updated>2024-05-09T12:56:11.000Z</updated>
+        <summary type="html"><![CDATA[In addition to a Framework Laptop EC driver being prepared for Linux that extends the Chrome OS embedded controller (EC) used by recent Framework Laptops, a ChromeOS EC hardware monitoring (HWMON subsystem) driver has also been revived as a further support extension for Framework laptops on Linux...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-08]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-08.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-08.html"/>
+        <updated>2024-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 08, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Pyspread – Pythonic Spreadsheet
+(comments)
+
+
+Hackers discover how to reprogram NES Tetris from within the game
+(comments)
+
+
+Can turning office towers into apartments save downtowns?
+(comments)
+
+
+LPCAMM2 is a modular, repairable, upgradeable memory standard for laptops
+(comments)
+
+
+Decker: A reincarnation of HyperCard with 1-bit graphics
+(comments)
+
+
+U.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers
+(comments)
+
+
+'Underwater bicycle' propels swimmers forward at superhuman speed
+(comments)
+
+
+AlphaFold 3 predicts the structure and interactions of life's molecules
+(comments)
+
+
+Steve Albini has died
+(comments)
+
+
+Development Notes from xkcd's \"Machine\"
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RISC-V Performance On Ubuntu 24.04 LTS With Scaleway's EM-RV1]]></title>
+        <id>https://www.phoronix.com/review/ubuntu-2404-riscv</id>
+        <link href="https://www.phoronix.com/review/ubuntu-2404-riscv"/>
+        <updated>2024-05-08T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently I've been testing out the Scaleway's Elastic Metal RV1 (EM-RV1) RISC-V cloud servers. Initially they were using Ubuntu 23.10 for providing an up-to-date Ubuntu Linux RISC-V experience while quickly upgraded to Ubuntu 24.04 LTS. For those curious how Ubuntu 24.04 is performing on RISC-V hardware, here are some comparison benchmarks.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-07]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-07.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-07.html"/>
+        <updated>2024-05-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 07, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+A 100x speedup with unsafe Python
+(comments)
+
+
+Design docs at Google (2020)
+(comments)
+
+
+Secure Randomness in Go 1.22
+(comments)
+
+
+The best way to have complex discussions?
+(comments)
+
+
+Attackers can decloak routing-based VPNs
+(comments)
+
+
+Caniemail.com – like caniuse but for email content
+(comments)
+
+
+Proton Mail discloses user data leading to arrest in Spain
+(comments)
+
+
+Cold brew coffee in 3 minutes using acoustic cavitation
+(comments)
+
+
+Apple introduces M4 chip
+(comments)
+
+
+Road resurfacing during the daytime without stopping traffic [video]
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-06]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-06.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-06.html"/>
+        <updated>2024-05-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 06, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Take a look at Traefik, even if you don't use containers
+(comments)
+
+
+Machine Unlearning in 2024
+(comments)
+
+
+Simplicity is an advantage but sadly complexity sells better (2022)
+(comments)
+
+
+Monitoring energy usage with smart plugs, Prometheus and Grafana
+(comments)
+
+
+Social engineering takeovers of open source projects
+(comments)
+
+
+Deep Reinforcement Learning: Zero to Hero
+(comments)
+
+
+BlackHole: macOS Audio Loopback Driver
+(comments)
+
+
+Remnants of a legendary typeface have been rescued from the Thames
+(comments)
+
+
+Show HN: A free site to explore and discover 6k plants
+(comments)
+
+
+A fourteen-day free trial ain’t gonna cut it
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-05]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-05.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-05.html"/>
+        <updated>2024-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 05, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+In Praise of Idleness (1932)
+(comments)
+
+
+How to build a $20B semiconductor fab
+(comments)
+
+
+Verified Rust for low-level systems code
+(comments)
+
+
+Show HN: Dillo 3.1.0 released after 9 years
+(comments)
+
+
+Atari's Mike Jang
+(comments)
+
+
+Show HN: gpudeploy.com – \"Airbnb\" for GPUs
+(comments)
+
+
+Automated integer hash function discovery
+(comments)
+
+
+MIT abandons requirement of DEI statements for hiring and promotions
+(comments)
+
+
+Israel shuts down local Al Jazeera offices
+(comments)
+
+
+Bollards: Why and What
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-04]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-04.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-04.html"/>
+        <updated>2024-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 04, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+A Mathematical Theory of Communication [pdf]
+(comments)
+
+
+The Nature of Code (2nd Edition)
+(comments)
+
+
+Stirling PDF: Self-hosted, web-based PDF manipulation tool
+(comments)
+
+
+Ontario family doctor says new AI notetaking saved her job
+(comments)
+
+
+Figma’s Journey to TypeScript
+(comments)
+
+
+AI copilots are changing how coding is taught
+(comments)
+
+
+How hard can generating 1024-bit primes be?
+(comments)
+
+
+Show HN: BandMatch – “Tinder” but for finding musicians to create bands/collab
+(comments)
+
+
+Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU
+(comments)
+
+
+I don't want to fill out your contact form
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-03]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-03.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-03.html"/>
+        <updated>2024-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 03, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Every map of China is wrong
+(comments)
+
+
+Building a rocket engine from scratch
+(comments)
+
+
+A Single Div
+(comments)
+
+
+I’m writing a new vector search SQLite Extension
+(comments)
+
+
+Cardio fitness is a strong, consistent predictor of morbidity and mortality
+(comments)
+
+
+Woodworking as an escape from the absurdity of software
+(comments)
+
+
+Unique volumes of Brothers Grimm fairy tales discovered in Poland
+(comments)
+
+
+DNS traffic can leak outside the VPN tunnel on Android
+(comments)
+
+
+Lithium-free sodium batteries exit the lab and enter US production
+(comments)
+
+
+As private equity dominates wheelchair market, users wait months for repairs
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+</feed>
