@@ -128,7 +128,7 @@
           "description": "Barring any last minute reservations by Linus Torvalds, Linux 6.9 stable should release later today. In turn the Linux 6.10 merge window will then open for the next two weeks and already some early pull requests have been submitted for this next kernel version. Here is a look at some of what to expect with the Linux 6.10 kernel...",
           "link": "https://www.phoronix.com/news/Linux-6.10-Feature-Preview",
           "publishedOn": "2024-05-12T15:40:54.000Z",
-          "wordCount": 2235,
+          "wordCount": 2257,
           "title": "Linux 6.10 Features Expected From The NTSYNC Driver To Performance Optimizations",
           "imageUrl": null
         },
@@ -138,7 +138,7 @@
           "description": "The recent AMD P-State Linux driver patches for heterogeneous core CPU topology, Fast CPPC, and Core Performance Boost haven't made it to the Linux power management's \"-next\" branch ahead of the imminent Linux 6.10 cycle. Thus it looks like those features won't be ready to make it for v6.10 unless by chance being deemed ready in the coming days and then sent in as part of a secondary set of merge window changes. However, some other AMD P-State fixes/improvements are queued up...",
           "link": "https://www.phoronix.com/news/Linux-6.10-AMD-P-State",
           "publishedOn": "2024-05-12T14:30:06.000Z",
-          "wordCount": 1895,
+          "wordCount": 2014,
           "title": "Linux 6.10 AMD P-State To Deliver Fixes, Better Support On Older Zen CPUs",
           "imageUrl": null
         },
@@ -148,7 +148,7 @@
           "description": "With the new Intel \"Xe\" Direct Rendering Manager kernel driver that's been in development one of the touted benefits of the clean sheet driver design is that it would enable using Intel discrete GPUs on non-x86 CPU architectures. The long-used \"i915\" DRM kernel graphics driver has many x86'isms in the code-base built up over the many years of Intel integrated graphics that were only ever found within their x86/x86_64 processors. But now in the era of Intel discrete graphics, there's been issues in trying to run Intel Arc Graphics on say ARM, POWER9, and RISC-V, among others. The experimental Intel Xe driver was recently successfully demonstrated in running on ARM using an Ampere Altra workstation...",
           "link": "https://www.phoronix.com/news/Intel-Arc-Graphics-On-ARM",
           "publishedOn": "2024-05-12T10:47:37.000Z",
-          "wordCount": 1936,
+          "wordCount": 2055,
           "title": "Intel Arc Graphics Demonstrated Running On ARM With Ampere Altra",
           "imageUrl": null
         },
@@ -158,7 +158,7 @@
           "description": "Following all of the GFX12 code and related IP landing within the AMDGPU Linux kernel driver as well as the LLVM AMDGPU shader compiler back-end and other code in enabling the next-generation of AMD Radeon graphics, the RadeonSI OpenGL driver support for RDNA4 (GFX12) was merged this Sunday into Mesa...",
           "link": "https://www.phoronix.com/news/AMD-RDNA4-Merged-Mesa-RadeonSI",
           "publishedOn": "2024-05-12T10:31:41.000Z",
-          "wordCount": 1921,
+          "wordCount": 1902,
           "title": "AMD RDNA4 \"GFX12\" Support Merged For Mesa's RadeonSI Driver",
           "imageUrl": null
         },
@@ -168,7 +168,7 @@
           "description": "Linux I/O expert and subsystem maintainer Jens Axboe has submitted all of the IO_uring feature updates ahead of the imminent Linux 6.10 merge window...",
           "link": "https://www.phoronix.com/news/Linux-6.10-IO_uring",
           "publishedOn": "2024-05-12T10:11:17.000Z",
-          "wordCount": 1730,
+          "wordCount": 1849,
           "title": "IO_uring Bringing Better Send Zero-Copy Performance With Linux 6.10",
           "imageUrl": null
         },
@@ -188,7 +188,7 @@
           "description": "The ReactOS project has posted their latest newsletter that outlines progress made during the past two months. ReactOS continues working to be an open-source operating system that offers application and driver binary compatibility with Microsoft Windows to in effect serve as a \"open-source Windows\" albeit the hardware support and application support are still an ongoing affair...",
           "link": "https://www.phoronix.com/news/ReactOS-May-2024-Update",
           "publishedOn": "2024-05-12T00:16:50.000Z",
-          "wordCount": 1861,
+          "wordCount": 1961,
           "title": "ReactOS \"Open-Source Windows\" Making Good Strides On SMP CPU Support",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "For those interested in some insightful Linux kernel mailing list reading this weekend, there's been a vibrant discussion on the ability for the Linux kernel to mitigate unexpected arithmetic overflows/underflows/wraparounds...",
           "link": "https://www.phoronix.com/news/Torvalds-Arithmetic-Overflows",
           "publishedOn": "2024-05-11T13:19:26.000Z",
-          "wordCount": 2505,
+          "wordCount": 2508,
           "title": "Torvalds Voices Thoughts On Linux Mitigating Unexpected Arithmetic Overflows/Underflows",
           "imageUrl": null
         },
@@ -208,7 +208,7 @@
           "description": "KDE developer Xaver Hugl has written a third blog post outlining some of the latest HDR and color management improvements that have been readied for KDE's KWin compositor as well as ongoing improvements to Valve's Gamescope compositor...",
           "link": "https://www.phoronix.com/news/KDE-HDR-Colors-Part-3",
           "publishedOn": "2024-05-11T11:00:22.000Z",
-          "wordCount": 1828,
+          "wordCount": 1925,
           "title": "KDE Making Good Progress On HDR, Better Gamescope Integration",
           "imageUrl": null
         },
@@ -218,7 +218,7 @@
           "description": "Two years ago Cloudflare outlined how they began replacing Nginx with their own in-house creation, Pingora. Back in February of this year Cloudflare open-sourced Pingora and in April issued the maiden release of Pingora. Out today is Pingora 0.2 as the second release of this Rust framework that is already used in production by Cloudflare...",
           "link": "https://www.phoronix.com/news/Cloudflare-Pingora-0.2",
           "publishedOn": "2024-05-11T10:34:21.000Z",
-          "wordCount": 1860,
+          "wordCount": 1763,
           "title": "Cloudflare Releases Pingora 0.2 For Building Fast & Reliable Networked Systems",
           "imageUrl": null
         },
@@ -248,7 +248,7 @@
           "description": "KDE developers had another busy week as more features were merged ahead of next month's Plasma 6.1 release...",
           "link": "https://www.phoronix.com/news/KDE-Smooth-Dolphin-And-More",
           "publishedOn": "2024-05-11T09:45:26.000Z",
-          "wordCount": 1864,
+          "wordCount": 1761,
           "title": "KDE Plasma 6 Sees More Features Merged Ahead Of Plasma 6.1",
           "imageUrl": null
         },
@@ -258,7 +258,7 @@
           "description": "While we are all waiting for the NVIDIA R555 series Linux driver beta that is expected to debut as soon as next week based on prior information with Wayland improvements (explicit sync) and more, with the NVIDIA R560 series Linux driver successor is a very interesting change: NVIDIA is planning on defaulting to using their open-source GPU kernel driver by default for GeForce RTX 2000 \"Turing\" GPUs and newer...",
           "link": "https://www.phoronix.com/news/NVIDIA-R560-Open-Default",
           "publishedOn": "2024-05-11T01:46:55.000Z",
-          "wordCount": 2035,
+          "wordCount": 2154,
           "title": "NVIDIA's Open GPU Linux Kernel Driver Will Soon Be The Default For Turing & Newer GPUs",
           "imageUrl": null
         },
@@ -268,7 +268,7 @@
           "description": "AMD last week sent out a set of patches to enhance the open-source FFmpeg multimedia library with integration around the AMD Advanced Media Framework (AMF). The AMF SDK allows for \"optimal\" access to AMD GPUs for multimedia processing but this patch series questioned the need in an era of Vulkan Video APIs beginning to see adoption...",
           "link": "https://www.phoronix.com/news/AMD-AMF-FFmpeg-Better-2024",
           "publishedOn": "2024-05-10T16:52:52.000Z",
-          "wordCount": 2107,
+          "wordCount": 2210,
           "title": "AMD Aims For AMF Decode In FFmpeg, Questioned Over Vulkan Video Commitment",
           "imageUrl": null
         },
@@ -278,7 +278,7 @@
           "description": "Linux 6.10 is introducing support for Trusted Platform Module (TPM2) encryption and integrity protections to prevent active/passive interposers from compromising them. This follows a recent security demonstration of TPM key recovery from Microsoft Windows BitLocker being demonstrated. TPM sniffing attacks have also been demonstrated against Linux systems too, thus the additional protections be made with Linux 6.10 to better secure TPM2 modules...",
           "link": "https://www.phoronix.com/news/Linux-610-TPM-Encrypt-Integrity",
           "publishedOn": "2024-05-10T14:34:30.000Z",
-          "wordCount": 1751,
+          "wordCount": 1870,
           "title": "Linux 6.10 Adding TPM Bus Encryption & Integrity Protection",
           "imageUrl": null
         },
@@ -288,7 +288,7 @@
           "description": "While Intel can be praised for their dozens (or likely by now, hundreds) of open-source projects they maintain and countless other existing open-source software projects they actively contribute to and are covered by Phoronix on a near-daily basis, not everything there is open-source. Intel is a wonderful and leading open-source promoter but occasionally there are closed-source blobs or questionable moves such as today: Intel is taking their Hyperscan library development from BSD-licensed open-source software to now the Intel Proprietary License moving forward...",
           "link": "https://www.phoronix.com/news/Intel-Hyperscan-Now-Proprietary",
           "publishedOn": "2024-05-10T14:07:26.000Z",
-          "wordCount": 2237,
+          "wordCount": 2231,
           "title": "Intel Takes Open-Source Hyperscan Development To Proprietary Licensed Software",
           "imageUrl": null
         },
@@ -308,7 +308,7 @@
           "description": "The Vulkan API 1.3.285 spec revision is out today with a handful of fixes/clarifications and another new extension developed by Valve engineering...",
           "link": "https://www.phoronix.com/news/Vulkan-1.3.285-Released",
           "publishedOn": "2024-05-10T10:40:00.000Z",
-          "wordCount": 1916,
+          "wordCount": 1900,
           "title": "Vulkan 1.3.285 Released With New Extension From Valve VKD3D-Proton Developer",
           "imageUrl": null
         },
@@ -318,7 +318,7 @@
           "description": "Building off last week's release of Red Hat Enterprise Linux 9.4 (RHEL 9.4) has been AlmaLinux 9.4 and now the other notable community-focused downstream: Rocky Linux 9.4...",
           "link": "https://www.phoronix.com/news/Rocky-Linux-9.4-Released",
           "publishedOn": "2024-05-10T10:33:17.000Z",
-          "wordCount": 1813,
+          "wordCount": 1797,
           "title": "Rocky Linux 9.4 Released For RHEL 9.4 Derived Distribution",
           "imageUrl": null
         },
@@ -328,7 +328,7 @@
           "description": "Adding to the growing list of features coming with the SDL3 release for this hardware/software abstraction layer commonly used by cross-platform games and other software is PipeWire camera capturing support...",
           "link": "https://www.phoronix.com/news/SDL3-PipeWire-Camera-Capture",
           "publishedOn": "2024-05-10T10:26:44.000Z",
-          "wordCount": 1789,
+          "wordCount": 1686,
           "title": "SDL3 Adds PipeWire Camera Support",
           "imageUrl": null
         },
@@ -338,7 +338,7 @@
           "description": "Intel has released their Intel Extension for PyTorch v2.3 to succeed their earlier v2.1 derived extension. With this updated extension targeting PyTorch 2.3, Intel is rolling out more optimizations around Large Language Models (LLMs)...",
           "link": "https://www.phoronix.com/news/Intel-Extension-PyTorch-2.3",
           "publishedOn": "2024-05-10T10:19:12.000Z",
-          "wordCount": 1721,
+          "wordCount": 1840,
           "title": "Intel Updates Its PyTorch Build With More Large Language Model Optimizations",
           "imageUrl": null
         },
@@ -348,7 +348,7 @@
           "description": "Valve tonight released a SteamOS 3.6 Preview as the latest version of their Arch Linux derived operating system that powers the Steam Deck and can be installed on other devices as well...",
           "link": "https://www.phoronix.com/news/SteamOS-3.6-Preview",
           "publishedOn": "2024-05-10T01:51:51.000Z",
-          "wordCount": 1865,
+          "wordCount": 1849,
           "title": "SteamOS 3.6 Preview Released With Linux 6.5, Updated Arch Linux & Mesa 24.1",
           "imageUrl": null
         },
@@ -358,7 +358,7 @@
           "description": "One of the interesting innovations out of Mozilla Ocho as the browser company's innovation and experiments group is Llamafile, a easy way to distribute and run AI large language models (LLMs) from a single file. Out this evening is Llamafile 0.8.2 is the newest release with an updated Llama.cpp and most excitingly are some AVX2 performance optimizations...",
           "link": "https://www.phoronix.com/news/Llamafile-0.8.2-More-AVX2",
           "publishedOn": "2024-05-10T00:15:09.000Z",
-          "wordCount": 2067,
+          "wordCount": 2051,
           "title": "Mozilla's Llamafile 0.8.2 Scores Big With New AVX2 Performance Optimizations",
           "imageUrl": null
         },
@@ -368,7 +368,7 @@
           "description": "Recently there was an LLVM bug report of \"Worse runtime performance on Zen CPU when optimizing for Zen.\" Well, that's not good... Fortunately, that bug is now fixed with the latest LLVM Clang compiler code but other deficiencies in the AMD CPU optimization targeting remain...",
           "link": "https://www.phoronix.com/news/LLVM-Slower-With-AMD-Opts",
           "publishedOn": "2024-05-09T20:23:00.000Z",
-          "wordCount": 2117,
+          "wordCount": 2236,
           "title": "LLVM Dealing With Slower Performance On AMD CPUs When Targeting AMD Zen Optimizations",
           "imageUrl": null
         },
@@ -398,7 +398,7 @@
           "description": "While Canonical has been investing more into the performance of Ubuntu Linux and engaged some new performance improvements in Ubuntu 24.04 LTS, it's still not the fastest Linux distribution out there on x86_64 hardware. Similarly, the recently released Fedora Workstation 40 features the brand new GCC 14 compiler and other leading-edge open-source software packages, but there's still more performance left on the table as shown by Intel. Here are some fresh benchmarks looking at how Ubuntu 24.04 LTS and Fedora Workstation 40 are competing with Intel's in-house Clear Linux distribution that offers aggressive x86_64 Linux performance defaults and the best possible out-of-the-box Linux performance on modern x86_64 hardware.",
           "link": "https://www.phoronix.com/review/intel-ubuntu2404-fedora40",
           "publishedOn": "2024-05-09T16:26:56.000Z",
-          "wordCount": 1879,
+          "wordCount": 1998,
           "title": "Ubuntu 24.04 LTS & Fedora 40 Continue To Trail Intel's Linux Performance Optimizations",
           "imageUrl": null
         },
@@ -418,7 +418,7 @@
           "description": "In addition to a Framework Laptop EC driver being prepared for Linux that extends the Chrome OS embedded controller (EC) used by recent Framework Laptops, a ChromeOS EC hardware monitoring (HWMON subsystem) driver has also been revived as a further support extension for Framework laptops on Linux...",
           "link": "https://www.phoronix.com/news/ChromeOS-EC-HWMON-Driver",
           "publishedOn": "2024-05-09T12:56:11.000Z",
-          "wordCount": 1868,
+          "wordCount": 1771,
           "title": "ChromeOS EC Hardware Monitoring Driver Being Revived For Framework Laptops",
           "imageUrl": null
         },
