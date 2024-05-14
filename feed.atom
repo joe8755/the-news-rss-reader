@@ -2,10 +2,174 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-13T01:07:14.456Z</updated>
+    <updated>2024-05-14T00:57:39.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-13]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-13.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-13.html"/>
+        <updated>2024-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 13, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+The Alternative Implementation Problem
+(comments)
+
+
+GPUs Go Brrr
+(comments)
+
+
+Show HN: I made an open-source Loom alternative
+(comments)
+
+
+Protecting your email address via SVG instead of JavaScript
+(comments)
+
+
+Telegram has launched a pretty intense campaign to malign Signal as insecure
+(comments)
+
+
+It’s an age of marvels
+(comments)
+
+
+The USDA's gardening zones shifted, this map shows you what's changed
+(comments)
+
+
+Static Chess
+(comments)
+
+
+Squarespace to Go Private in $6.9B All-Cash Transaction with Permira
+(comments)
+
+
+GPT-4o
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.78 Upgrade For Linux 6.10, Dropping In-Tree "alloc" Fork To Save ~10k Lines]]></title>
+        <id>https://www.phoronix.com/news/Rust-For-Linux-6.10</id>
+        <link href="https://www.phoronix.com/news/Rust-For-Linux-6.10"/>
+        <updated>2024-05-13T18:55:46.000Z</updated>
+        <summary type="html"><![CDATA[There's another Rust upgrade coming for the Linux 6.10 kernel to bump the Rust version baseline required for building the Rust in-tree kernel components. This raising of the baseline will continue until a suitable minimum version is achieved where official Rust compiler "just works" well with the Rust'ed kernel bits. The Rust upgrade in Linux 6.10 also does away with its in-tree "alloc" fork for big code savings and simplifying maintenance...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More ARM-Based Handheld Game Consoles Supported By Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-ARM-Hardware</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-ARM-Hardware"/>
+        <updated>2024-05-13T16:56:46.000Z</updated>
+        <summary type="html"><![CDATA[The various ARM SoC/platform pull requests were already merged today by Linus Torvalds for the in-development Linux 6.10 kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Makes AES-XTS Disk/File Encryption Much Faster For Modern Intel/AMD CPUs]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Crypto</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Crypto"/>
+        <updated>2024-05-13T15:15:09.000Z</updated>
+        <summary type="html"><![CDATA[The work written about one month ago on Phoronix for much faster AES-XTS on modern Intel/AMD CPUs for speeding up disk and file encryption by as much as 155% with AMD Zen 4 CPUs has been submitted for Linux 6.10! As expected, this work providing new AES-XTS implementations for modern x86_64 processors is going into Linux 6.10 as part of the crypto subsystem updates...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUSE Working On Upstream Linux Kernel Support For Booting The Raspberry Pi 5]]></title>
+        <id>https://www.phoronix.com/news/SUSE-Upstream-Linux-RPi-5</id>
+        <link href="https://www.phoronix.com/news/SUSE-Upstream-Linux-RPi-5"/>
+        <updated>2024-05-13T15:03:57.000Z</updated>
+        <summary type="html"><![CDATA[While the Raspberry Pi 5 debuted last September already, sadly the mainline Linux kernel still lacks support for booting this popular single board computer... The support on Raspberry Pi OS and other downstream distributions/kernels is good, but the mainline kernel support for the Raspberry Pi SBCs remains a sore spot for this popular ARM single board computer. SUSE engineers have been working on implementing minimal boot support for the Raspberry Pi 5 that will hopefully make it to the mainline kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 126 Available - Adds "Linux" To The Android User Agent String]]></title>
+        <id>https://www.phoronix.com/news/Firefox-126-Download</id>
+        <link href="https://www.phoronix.com/news/Firefox-126-Download"/>
+        <updated>2024-05-13T14:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla has pushed out its release images of the Firefox 126 web browser ahead of its official debut on Tuesday...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Foundation Launches The High Performance Software Foundation]]></title>
+        <id>https://www.phoronix.com/news/High-Perf-Software-Foundation</id>
+        <link href="https://www.phoronix.com/news/High-Perf-Software-Foundation"/>
+        <updated>2024-05-13T10:40:55.000Z</updated>
+        <summary type="html"><![CDATA[Back at Supercomputing 23, the Linux Foundation announced their intent on forming the High Performance Software Foundation for helping to advance open-source software for high performance computing (HPC). The Linux Foundation is now using ISC 24 this week in Hamburg, Germany for announcing that the High Performance Software Foundation has launched...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[x32 Shadow Stacks, Locking Optimizations, Intel VFM & Other x86 Changes For Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-x86-Changes</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-x86-Changes"/>
+        <updated>2024-05-13T10:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Today marks the first official day of the Linux 6.10 merge window. Among the horde of pull requests sent out today were the numerous x86 pull requests of material that's been queuing up in TIP.git of which there are many changes benefiting both Intel and AMD...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU Linux-libre 6.9 Released: More Deblobbing, Fixes Intel Graphics On GuC-Less Systems]]></title>
+        <id>https://www.phoronix.com/news/GNU-Linux-libre-6.9</id>
+        <link href="https://www.phoronix.com/news/GNU-Linux-libre-6.9"/>
+        <updated>2024-05-13T09:58:06.000Z</updated>
+        <summary type="html"><![CDATA[Building off last night's release of Linux 6.9 stable, GNU Linux-libre 6.9-gnu has debuted as this kernel downstream that works on stripping out support for any drivers/hardware depending upon closed-source firmware/microcode and other alterations in the name of software freedom...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel-Powered Aurora Supercomputer Breaks The Exascale Barrier]]></title>
+        <id>https://www.phoronix.com/news/Aurora-Supercomputer-2024</id>
+        <link href="https://www.phoronix.com/news/Aurora-Supercomputer-2024"/>
+        <updated>2024-05-13T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intel, HPE, and Argonne National Laboratory have announced at ISC High Performance 2024 that the Aurora Supercomputer has broken the Excascale barrier and is now the fastest AI supercomputer currently in existence...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arch Linux Powered CachyOS Adds Bcachefs Installer Support]]></title>
+        <id>https://www.phoronix.com/news/CachyOS-Bcachefs-Installer</id>
+        <link href="https://www.phoronix.com/news/CachyOS-Bcachefs-Installer"/>
+        <updated>2024-05-13T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Arch Linux derived CachyOS is known for its aggressive performance optimizations and running well on modern hardware. It's also leading when it comes to adopting other new Linux/open-source features. With this weekend's May 2024 ISO update, CachyOS has rolled out initial support for installing to a root file-system based on Bcachefs...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD 14.1 Bringing Reproducibly Built Kernels, OpenZFS 2.2.4]]></title>
+        <id>https://www.phoronix.com/news/FreeBSD-14.1-Beta-2-Released</id>
+        <link href="https://www.phoronix.com/news/FreeBSD-14.1-Beta-2-Released"/>
+        <updated>2024-05-13T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Following last week's release of FreeBSD 14.1 Beta 1, this weekend brought the second beta candidate right on time...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-05-12]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-05-12.html</id>

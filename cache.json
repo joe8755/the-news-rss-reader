@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-13.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 13, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nThe Alternative Implementation Problem\n(comments)\n\n\nGPUs Go Brrr\n(comments)\n\n\nShow HN: I made an open-source Loom alternative\n(comments)\n\n\nProtecting your email address via SVG instead of JavaScript\n(comments)\n\n\nTelegram has launched a pretty intense campaign to malign Signal as insecure\n(comments)\n\n\nIt’s an age of marvels\n(comments)\n\n\nThe USDA's gardening zones shifted, this map shows you what's changed\n(comments)\n\n\nStatic Chess\n(comments)\n\n\nSquarespace to Go Private in $6.9B All-Cash Transaction with Permira\n(comments)\n\n\nGPT-4o\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-13.html",
+          "publishedOn": "2024-05-14T00:00:00.000Z",
+          "wordCount": 557,
+          "title": "Daily Hacker News for 2024-05-13",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-12.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 12, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nSelling 'Ghost in the Shell'\n(comments)\n\n\nSo We've Got a Memory Leak\n(comments)\n\n\n100k Stars\n(comments)\n\n\nWhy you can hear the temperature of water\n(comments)\n\n\nScientists Find an 'Alphabet' in Whale Songs\n(comments)\n\n\nAdam Curtis on the dangers of self-expression (2017)\n(comments)\n\n\nThe Emacs Window Management Almanac\n(comments)\n\n\nPeaZip: Open-source file compression and encryption software\n(comments)\n\n\nVirtualizing the 6502 on a 6502 with 6o6\n(comments)\n\n\nShow HN: Open-Source Video Editor Web App\n(comments)",
@@ -112,6 +122,116 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Rust-For-Linux-6.10",
+          "author": "Michael Larabel",
+          "description": "There's another Rust upgrade coming for the Linux 6.10 kernel to bump the Rust version baseline required for building the Rust in-tree kernel components. This raising of the baseline will continue until a suitable minimum version is achieved where official Rust compiler \"just works\" well with the Rust'ed kernel bits. The Rust upgrade in Linux 6.10 also does away with its in-tree \"alloc\" fork for big code savings and simplifying maintenance...",
+          "link": "https://www.phoronix.com/news/Rust-For-Linux-6.10",
+          "publishedOn": "2024-05-13T18:55:46.000Z",
+          "wordCount": 1867,
+          "title": "Rust 1.78 Upgrade For Linux 6.10, Dropping In-Tree \"alloc\" Fork To Save ~10k Lines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-ARM-Hardware",
+          "author": "Michael Larabel",
+          "description": "The various ARM SoC/platform pull requests were already merged today by Linus Torvalds for the in-development Linux 6.10 kernel...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-ARM-Hardware",
+          "publishedOn": "2024-05-13T16:56:46.000Z",
+          "wordCount": 1826,
+          "title": "More ARM-Based Handheld Game Consoles Supported By Linux 6.10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Crypto",
+          "author": "Michael Larabel",
+          "description": "The work written about one month ago on Phoronix for much faster AES-XTS on modern Intel/AMD CPUs for speeding up disk and file encryption by as much as 155% with AMD Zen 4 CPUs has been submitted for Linux 6.10! As expected, this work providing new AES-XTS implementations for modern x86_64 processors is going into Linux 6.10 as part of the crypto subsystem updates...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Crypto",
+          "publishedOn": "2024-05-13T15:15:09.000Z",
+          "wordCount": 1906,
+          "title": "Linux 6.10 Makes AES-XTS Disk/File Encryption Much Faster For Modern Intel/AMD CPUs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/SUSE-Upstream-Linux-RPi-5",
+          "author": "Michael Larabel",
+          "description": "While the Raspberry Pi 5 debuted last September already, sadly the mainline Linux kernel still lacks support for booting this popular single board computer... The support on Raspberry Pi OS and other downstream distributions/kernels is good, but the mainline kernel support for the Raspberry Pi SBCs remains a sore spot for this popular ARM single board computer. SUSE engineers have been working on implementing minimal boot support for the Raspberry Pi 5 that will hopefully make it to the mainline kernel...",
+          "link": "https://www.phoronix.com/news/SUSE-Upstream-Linux-RPi-5",
+          "publishedOn": "2024-05-13T15:03:57.000Z",
+          "wordCount": 1955,
+          "title": "SUSE Working On Upstream Linux Kernel Support For Booting The Raspberry Pi 5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Firefox-126-Download",
+          "author": "Michael Larabel",
+          "description": "Mozilla has pushed out its release images of the Firefox 126 web browser ahead of its official debut on Tuesday...",
+          "link": "https://www.phoronix.com/news/Firefox-126-Download",
+          "publishedOn": "2024-05-13T14:56:52.000Z",
+          "wordCount": 1866,
+          "title": "Firefox 126 Available - Adds \"Linux\" To The Android User Agent String",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/High-Perf-Software-Foundation",
+          "author": "Michael Larabel",
+          "description": "Back at Supercomputing 23, the Linux Foundation announced their intent on forming the High Performance Software Foundation for helping to advance open-source software for high performance computing (HPC). The Linux Foundation is now using ISC 24 this week in Hamburg, Germany for announcing that the High Performance Software Foundation has launched...",
+          "link": "https://www.phoronix.com/news/High-Perf-Software-Foundation",
+          "publishedOn": "2024-05-13T10:40:55.000Z",
+          "wordCount": 1836,
+          "title": "Linux Foundation Launches The High Performance Software Foundation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-x86-Changes",
+          "author": "Michael Larabel",
+          "description": "Today marks the first official day of the Linux 6.10 merge window. Among the horde of pull requests sent out today were the numerous x86 pull requests of material that's been queuing up in TIP.git of which there are many changes benefiting both Intel and AMD...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-x86-Changes",
+          "publishedOn": "2024-05-13T10:33:50.000Z",
+          "wordCount": 1900,
+          "title": "x32 Shadow Stacks, Locking Optimizations, Intel VFM & Other x86 Changes For Linux 6.10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GNU-Linux-libre-6.9",
+          "author": "Michael Larabel",
+          "description": "Building off last night's release of Linux 6.9 stable, GNU Linux-libre 6.9-gnu has debuted as this kernel downstream that works on stripping out support for any drivers/hardware depending upon closed-source firmware/microcode and other alterations in the name of software freedom...",
+          "link": "https://www.phoronix.com/news/GNU-Linux-libre-6.9",
+          "publishedOn": "2024-05-13T09:58:06.000Z",
+          "wordCount": 2162,
+          "title": "GNU Linux-libre 6.9 Released: More Deblobbing, Fixes Intel Graphics On GuC-Less Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Aurora-Supercomputer-2024",
+          "author": "Michael Larabel",
+          "description": "Intel, HPE, and Argonne National Laboratory have announced at ISC High Performance 2024 that the Aurora Supercomputer has broken the Excascale barrier and is now the fastest AI supercomputer currently in existence...",
+          "link": "https://www.phoronix.com/news/Aurora-Supercomputer-2024",
+          "publishedOn": "2024-05-13T09:00:00.000Z",
+          "wordCount": 1910,
+          "title": "Intel-Powered Aurora Supercomputer Breaks The Exascale Barrier",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/CachyOS-Bcachefs-Installer",
+          "author": "Michael Larabel",
+          "description": "Arch Linux derived CachyOS is known for its aggressive performance optimizations and running well on modern hardware. It's also leading when it comes to adopting other new Linux/open-source features. With this weekend's May 2024 ISO update, CachyOS has rolled out initial support for installing to a root file-system based on Bcachefs...",
+          "link": "https://www.phoronix.com/news/CachyOS-Bcachefs-Installer",
+          "publishedOn": "2024-05-13T05:00:00.000Z",
+          "wordCount": 1771,
+          "title": "Arch Linux Powered CachyOS Adds Bcachefs Installer Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/FreeBSD-14.1-Beta-2-Released",
+          "author": "Michael Larabel",
+          "description": "Following last week's release of FreeBSD 14.1 Beta 1, this weekend brought the second beta candidate right on time...",
+          "link": "https://www.phoronix.com/news/FreeBSD-14.1-Beta-2-Released",
+          "publishedOn": "2024-05-13T04:00:00.000Z",
+          "wordCount": 1857,
+          "title": "FreeBSD 14.1 Bringing Reproducibly Built Kernels, OpenZFS 2.2.4",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.9-Released",
           "author": "Michael Larabel",
