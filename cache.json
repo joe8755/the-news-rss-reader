@@ -133,6 +133,56 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/AMDVLK-2024.Q2.1",
+          "author": "Michael Larabel",
+          "description": "It's been the better part of two months since the last AMDVLK driver update while today the AMDVLK 2024.Q2.1 driver has been christened...",
+          "link": "https://www.phoronix.com/news/AMDVLK-2024.Q2.1",
+          "publishedOn": "2024-05-15T12:04:25.000Z",
+          "wordCount": 1734,
+          "title": "AMDVLK 2024.Q2.1 Driver Adds Phoenix 2 APU Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-DRM-Graphics",
+          "author": "Michael Larabel",
+          "description": "The big batch of Direct Rendering Manager (DRM) kernel graphics/display driver updates for the Linux 6.10 merge window were sent out today that includes the new \"Panthor\" driver for newer ARM Mali/Immortalis graphics processors and the usual hearty assortment of Intel and AMD graphics driver changes...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-DRM-Graphics",
+          "publishedOn": "2024-05-15T10:37:44.000Z",
+          "wordCount": 1968,
+          "title": "Arm Mali/Immortalis GPU Driver, New AMD Graphics IP & Lunar Lake Display In Linux 6.10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Mir-2.17-Released",
+          "author": "Michael Larabel",
+          "description": "https://github.com/canonical/mirCanonical engineer Matthew Kosarek just released Mir 2.17 as the newest version of this open-source Wayland compositor that can be used for building Wayland-based shells and has shown some interesting potential with the likes of Miracle-WM and Miriway...",
+          "link": "https://www.phoronix.com/news/Mir-2.17-Released",
+          "publishedOn": "2024-05-15T10:24:19.000Z",
+          "wordCount": 1805,
+          "title": "Mir 2.17 Better Supports Hybrid Graphics & Other Wayland Enhancements",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-Battlemage-Sound-Linux",
+          "author": "Michael Larabel",
+          "description": "Along with the various Intel Xe2 driver changes that are ongoing for the Intel Linux graphics driver stack, over in the sound subsystem the in-development Linux 6.10 kernel is bringing HDMI audio support for upcoming Intel Battlemage graphics cards...",
+          "link": "https://www.phoronix.com/news/Intel-Battlemage-Sound-Linux",
+          "publishedOn": "2024-05-15T10:08:20.000Z",
+          "wordCount": 1839,
+          "title": "Sound Support For Intel Battlemage In Linux 6.10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linus-Torvalds-Ampere-More-ARM",
+          "author": "Michael Larabel",
+          "description": "Linux kernel and Git creator Linus Torvalds is known for his current use of an AMD Ryzen Threadripper workstation as his main system after years of using Intel hardware. The past few years he's also been doing more ARM64 testing now that he has an Apple MacBook using Apple Silicon that serves as a nice travel device and for routinely compiling new ARM64 Linux kernel builds. More recently, his ARM64 Linux testing has increased now that he has a more powerful AArch64 system to complement his collection of routine gear...",
+          "link": "https://www.phoronix.com/news/Linus-Torvalds-Ampere-More-ARM",
+          "publishedOn": "2024-05-15T00:29:46.000Z",
+          "wordCount": 1989,
+          "title": "Linus Torvalds Is Doing More ARM64 Linux Testing Now That He Has A More Powerful System",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/systemd-256-rc2",
           "author": "Michael Larabel",
           "description": "The first release candidate of systemd 256 came just under one month ago with new features like run0 as the new sudo alternative, a new \"systemd-vpick\" binary, importctl as another new tool, Zboot kernel support with systemd ukify, systemd-homed improvements, and much more. Systemd 256-rc2 is out this evening with a few more features and other fixes collected over the past several weeks...",
