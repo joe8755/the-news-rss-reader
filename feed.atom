@@ -2,10 +2,184 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-14T00:57:39.408Z</updated>
+    <updated>2024-05-15T00:07:42.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[systemd 256-rc2 Released With A Few More Features]]></title>
+        <id>https://www.phoronix.com/news/systemd-256-rc2</id>
+        <link href="https://www.phoronix.com/news/systemd-256-rc2"/>
+        <updated>2024-05-15T00:06:02.000Z</updated>
+        <summary type="html"><![CDATA[The first release candidate of systemd 256 came just under one month ago with new features like run0 as the new sudo alternative, a new "systemd-vpick" binary, importctl as another new tool, Zboot kernel support with systemd ukify, systemd-homed improvements, and much more. Systemd 256-rc2 is out this evening with a few more features and other fixes collected over the past several weeks...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-14]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-14.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-14.html"/>
+        <updated>2024-05-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 14, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Show HN: An open source framework for voice assistants
+(comments)
+
+
+Apple and Google deliver support for unwanted tracking alerts in iOS and Android
+(comments)
+
+
+Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant
+(comments)
+
+
+Not an iPad Pro Review: Why iPadOS Still Doesn't Get the Basics Right
+(comments)
+
+
+Sir, there's a cat in your mirror dimension
+(comments)
+
+
+VMware Fusion Pro: Now available free for personal use
+(comments)
+
+
+Model Explorer: intuitive and hierarchical visualization of model graphs
+(comments)
+
+
+Veo
+(comments)
+
+
+Gemini Flash
+(comments)
+
+
+Glider – open-source eInk monitor with an emphasis on low latency
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Framework 13 AMD Laptop Seeing Experimental Coreboot Port]]></title>
+        <id>https://www.phoronix.com/news/Framework-13-AMD-Coreboot-WIP</id>
+        <link href="https://www.phoronix.com/news/Framework-13-AMD-Coreboot-WIP"/>
+        <updated>2024-05-14T20:12:25.000Z</updated>
+        <summary type="html"><![CDATA[The Framework Laptops are some great systems with their upgradeable/modular design, friendly Linux support, both Intel and AMD options, the latest models making use of an open-source embedded controller, and nice build quality. The Framework Laptops have proven very popular with Linux/open-source enthusiasts but one of the recurring critiques has been the lack of Coreboot firmware support for these laptops as an alternative (or outright replacement) to the proprietary BIOS/firmware. As a promising avenue for the future, there is experimental work being done on getting Coreboot up and running with the Framework 13 laptop powered by the AMD Ryzen 7040 series...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Releases Updated CPU Microcode For Fixing Three New Security Issues]]></title>
+        <id>https://www.phoronix.com/news/Intel-20240514-CPU-Microcode</id>
+        <link href="https://www.phoronix.com/news/Intel-20240514-CPU-Microcode"/>
+        <updated>2024-05-14T18:29:31.000Z</updated>
+        <summary type="html"><![CDATA[Intel just published a new set of CPU microcode files for updating Alder lake and newer as well as Xeon Scalable 4th Gen and 5th Gen in order to address three security issues plus take care of various functional issues...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benchmarking The First RISC-V Cloud Server: Scaleway EM-RV1 Performance]]></title>
+        <id>https://www.phoronix.com/review/scaleway-risc-v-cloud</id>
+        <link href="https://www.phoronix.com/review/scaleway-risc-v-cloud"/>
+        <updated>2024-05-14T16:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Scaleway by way of their Scaleway Labs group recently launched the Elastic Metal RV1 (EM-RV1) as the world's first RISC-V servers available in the cloud. These RISC-V cloud servers are built around the T-Head 1520 SoC and are an interesting way to explore the RISC-V architecture and/or otherwise make use of RISC-V for CI/CD deployments or other testing purposes. In this article are some benchmarks showing the RISC-V EM-RV1 performance against Intel and AMD x86_64 Linux.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Engineer Ports EXT2 File-System Driver To Rust]]></title>
+        <id>https://www.phoronix.com/news/Rust-VFS-Linux-V2-Now-With-EXT2</id>
+        <link href="https://www.phoronix.com/news/Rust-VFS-Linux-V2-Now-With-EXT2"/>
+        <updated>2024-05-14T14:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Back in late 2023 were Rust abstractions for the Linux kernel's Virtual File-System (VFS) code. Those patches by Microsoft engineer Wedson Almeida Filho have now seen a second iteration posted... In addition to various improvements to the Rust VFS bindings, the new patches bring a work-in-progress EXT2 Rust file-system driver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian Releases APT 2.9.3 With New Package Solver]]></title>
+        <id>https://www.phoronix.com/news/APT-2.9.3-New-Package-Solver</id>
+        <link href="https://www.phoronix.com/news/APT-2.9.3-New-Package-Solver"/>
+        <updated>2024-05-14T13:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Debian's APT packaging tool is working its way toward the big APT 3.0 release. The APT 2.9 development series is underway and debuting last month was APT's new (CLI) user interface with a columnar display, colored text, and other improvements for this widely-used tool on Debian-based environments. APT 2.9.3 is out today as the newest development release and new to this version is a new package solver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Deck IMU Support Submitted For Linux 6.10 Plus ASUS ROG Ally HID]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-HID-Changes</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-HID-Changes"/>
+        <updated>2024-05-14T13:36:34.000Z</updated>
+        <summary type="html"><![CDATA[The Human Interface Devices (HID) subsystem updates have been submitted for the newly-opened Linux 6.10 kernel merge window. Among the HID driver updates coming with Linux 6.10 are supporting the Steam Deck IMU motion sensors as well as HID coverage for the ASUS ROG Ally and ASUS ROG Z13 devices...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVK Vulkan Driver Lands DRM Format Modifiers Support]]></title>
+        <id>https://www.phoronix.com/news/NVK-DRM-Modifiers-Land</id>
+        <link href="https://www.phoronix.com/news/NVK-DRM-Modifiers-Land"/>
+        <updated>2024-05-14T12:18:42.000Z</updated>
+        <summary type="html"><![CDATA[After the 22 patches were under review for the past eight months, merged today is the NVK Vulkan driver support for the VK_EXT_image_drm_format_modifier extension for handling DRM format modifiers...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zone Write Plugging Comes To Linux 6.10 For Better Performance]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Block-Changes</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Block-Changes"/>
+        <updated>2024-05-14T10:45:37.000Z</updated>
+        <summary type="html"><![CDATA[Along with the IO_uring improvements for Linux 6.10, the block subsystem changes have also been merged for this new kernel version...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm Talks Up Their Linux Support For The Snapdragon X Elite]]></title>
+        <id>https://www.phoronix.com/news/Qualcomm-Snapdragon-X-Elite</id>
+        <link href="https://www.phoronix.com/news/Qualcomm-Snapdragon-X-Elite"/>
+        <updated>2024-05-14T10:34:16.000Z</updated>
+        <summary type="html"><![CDATA[While much of the emphasis for Qualcomm's Snapdragon X Elite laptop SoC has been around Windows on Arm PCs, Qualcomm has also been working to have upstream Linux support for this high-end SoC and everything is coming together for said support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi M.2 HAT+ Now Available For $12 To Connect NVMe Drives & More]]></title>
+        <id>https://www.phoronix.com/news/Raspberry-Pi-M2-HAT</id>
+        <link href="https://www.phoronix.com/news/Raspberry-Pi-M2-HAT"/>
+        <updated>2024-05-14T10:27:08.000Z</updated>
+        <summary type="html"><![CDATA[The Raspberry Pi M.2 HAT+ has finally launched for allowing M.2 devices like NVMe drives, WiFi adapters, accelerators, and more to be connected to the Raspberry Pi 5...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjaro 24.0 Released: Powered By Linux 6.9 & The Latest Desktops]]></title>
+        <id>https://www.phoronix.com/news/Manjaro-24.0-Released</id>
+        <link href="https://www.phoronix.com/news/Manjaro-24.0-Released"/>
+        <updated>2024-05-14T10:14:06.000Z</updated>
+        <summary type="html"><![CDATA[Manjaro 24.0 has been released today as the newest version of this Arch Linux derived desktop OS. Manjaro 24.0 ships with the latest the newly-released Linux 6.9 kernel and a slew of other updated packages...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-05-13]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-05-13.html</id>
