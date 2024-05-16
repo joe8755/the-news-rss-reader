@@ -2,10 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-15T12:34:05.239Z</updated>
+    <updated>2024-05-16T01:14:56.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-15]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-15.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-15.html"/>
+        <updated>2024-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 15, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+GPT-4o's Memory Breakthrough – Needle in a Needlestack
+(comments)
+
+
+Ilya Sutskever to leave OpenAI
+(comments)
+
+
+Department of Justice says Boeing may be criminally liable in 737 MAX crashes
+(comments)
+
+
+A low budget consumer hardware espionage implant (2018)
+(comments)
+
+
+Translation of Rust's core and alloc crates to Coq for formal verification
+(comments)
+
+
+Raspberry Pi Ltd is considering an IPO
+(comments)
+
+
+Nearly all Nintendo 64 games can now be recompiled into native PC ports
+(comments)
+
+
+Proteins in blood could provide early cancer warning 'by more than seven years'
+(comments)
+
+
+The Worst Website in the Entire World
+(comments)
+
+
+Adobe Photoshop Source Code (2013)
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa 24.1-rc4 Backports NVK DRM Format Modifiers Support]]></title>
+        <id>https://www.phoronix.com/news/Mesa-24.1-rc4-Released</id>
+        <link href="https://www.phoronix.com/news/Mesa-24.1-rc4-Released"/>
+        <updated>2024-05-15T20:35:51.000Z</updated>
+        <summary type="html"><![CDATA[The Mesa 24.1 stable release is nearing while out today is the fourth weekly release candidate. While the Intel and AMD Radeon graphics driver changes typically dominate new Mesa releases, Mesa 24.1-rc4 is headlined by a big change for the NVK open-source NVIDIA Vulkan driver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel TDX For Confidential VMs Causing Concern Among Fedora & Open-Source Advocates]]></title>
+        <id>https://www.phoronix.com/news/Intel-TDX-Fedora-OSS-Concerns</id>
+        <link href="https://www.phoronix.com/news/Intel-TDX-Fedora-OSS-Concerns"/>
+        <updated>2024-05-15T16:58:41.000Z</updated>
+        <summary type="html"><![CDATA[One of the capabilities of newer Intel Xeon Scalable processors is support for Trust Domain Extensions (TDX) as a way of providing for confidential virtual machines. Intel TDX allows for "isolation, confidentiality, and integrity at the VM level" which is good from the security perspective but the dependence on signed binaries is causing mixed feelings within the Fedora camp at the broader open-source community...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The NTSYNC Driver For Wine/Proton Is "Broken" For Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-NTSYNC-Broken</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-NTSYNC-Broken"/>
+        <updated>2024-05-15T16:18:10.000Z</updated>
+        <summary type="html"><![CDATA[While Linux 6.10 is poised to merge the initial NTSYNC driver for a Windows NT Synchronization Primitive driver that can help with faster Windows gaming performance under Wine/Proton (Steam Play), the driver isn't complete. The initial patches have been in Greg Kroah-Hartman's char-misc-next branch for several weeks to expose the NTSYNC character device, it isn't the entire patch series. Greg has now marked the driver as "broken" for Linux 6.10...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZLUDA Has Been Seeing New Activity For CUDA On AMD GPUs]]></title>
+        <id>https://www.phoronix.com/news/ZLUDA-New-Activity-AMD-CUDA</id>
+        <link href="https://www.phoronix.com/news/ZLUDA-New-Activity-AMD-CUDA"/>
+        <updated>2024-05-15T14:28:46.000Z</updated>
+        <summary type="html"><![CDATA[Back in February I wrote about AMD having quietly funded the effort for a drop-in CUDA implementation for AMD GPUs built atop the ROCm library. This was an incarnation of ZLUDA that originally began as a CUDA implementation for Intel GPUs using oneAPI Level Zero. While AMD discontinued funding ZLUDA development earlier this year, this CUDA implementation for AMD GPUs is continuing to see some new code activity...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XWayland 24.1 Released With Explicit Sync, Better Rootful Experience]]></title>
+        <id>https://www.phoronix.com/news/XWayland-24.1-Released</id>
+        <link href="https://www.phoronix.com/news/XWayland-24.1-Released"/>
+        <updated>2024-05-15T12:41:09.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat's Olivier Fourdan just announced the stable release of XWayland 24.1 as the newest feature release for this X.Org Server code allowing X11 clients to work within the confines of Wayland compositors...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Networking Adds New Intel Hardware Support, More WiFi 7 Enablement]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Networking</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Networking"/>
+        <updated>2024-05-15T12:34:26.000Z</updated>
+        <summary type="html"><![CDATA[The networking subsystem updates have been submitted for the Linux 6.10 kernel. As usual it's a big update with some 90,083 new lines of code and 37,889 lines removed...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMDVLK 2024.Q2.1 Driver Adds Phoenix 2 APU Support]]></title>
         <id>https://www.phoronix.com/news/AMDVLK-2024.Q2.1</id>
