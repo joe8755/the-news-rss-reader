@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-16T01:14:56.570Z</updated>
+    <updated>2024-05-16T12:33:06.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Habana Labs & Xe Linux Driver Maintainer Steps Down]]></title>
+        <id>https://www.phoronix.com/news/Habana-Labs-Maintainer-Down</id>
+        <link href="https://www.phoronix.com/news/Habana-Labs-Maintainer-Down"/>
+        <updated>2024-05-16T10:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Coming as a surprise, longtime Linux developer Oded Gabbay announced he's left Intel / Habana Labs and is therefore stepping down from the maintainer role of the Linux kernel drivers for the Intel Xe DRM driver and more notably the Habana Labs accelerator driver that he's maintained from the start...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve's Linux Graphics Engineers Begin Prepping RADV Driver For AMD RDNA4 "GFX12"]]></title>
+        <id>https://www.phoronix.com/news/Valve-RADV-GFX12-Mesa-Prep</id>
+        <link href="https://www.phoronix.com/news/Valve-RADV-GFX12-Mesa-Prep"/>
+        <updated>2024-05-16T10:32:55.000Z</updated>
+        <summary type="html"><![CDATA[The open-source Mesa driver developers employed by Valve for working on the Linux graphics stack have begun preparing the RADV Vulkan driver and the ACO compiler back-end for the upcoming "GFX12" graphics IP for next-generation RDNA4...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel IPU6 Driver Being Upstreamed In Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/Intel-IPU6-Media-In-Linux-6.10</id>
+        <link href="https://www.phoronix.com/news/Intel-IPU6-Media-In-Linux-6.10"/>
+        <updated>2024-05-16T10:23:27.000Z</updated>
+        <summary type="html"><![CDATA[Intel's Image Processing Unit (IPU) IP has been a cause for concern in recent years as the lack of proper upstream open-source driver support has led Linux users running into troubles making use of MIPI camera sensors on modern laptops. Finally with Linux 6.10 the Intel IPU6 driver is being upstreamed into the media subsystem...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firewire IEEE-1394 Support Continues To Be Improved With The Linux 6.10 Kernel]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Firewire</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Firewire"/>
+        <updated>2024-05-16T10:16:24.000Z</updated>
+        <summary type="html"><![CDATA[While most of you have not thought about or used Firewire (IEEE-1394) in years, there still are some legacy digital video cameras and some professional audio devices relying on the interface. Last year saw a new Firewire maintainer step-up for the Linux kernel after the code had fallen dormant. The plans by that new maintainer, Takashi Sakamoto, are to maintain Linux's Firewire support through 2029. He's continuing to do a good job with the upcoming Linux 6.10 kernel bringing the latest batch of Firewire enhancements...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds On Dogfooding The Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/Linus-Torvalds-Linux-Dogfooding</id>
+        <link href="https://www.phoronix.com/news/Linus-Torvalds-Linux-Dogfooding"/>
+        <updated>2024-05-16T10:02:56.000Z</updated>
+        <summary type="html"><![CDATA[Besides Linus Torvalds examining various elements of code he's merging and build testing it on his AMD Ryzen Threadripper workstation and now also testing more on ARM64 with Ampere Altra, he does these days still believe in "dogfooding" and is in fact running the leading-edge Linux kernel code even during the merge window...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-05-15]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-05-15.html</id>

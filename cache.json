@@ -143,6 +143,56 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Habana-Labs-Maintainer-Down",
+          "author": "Michael Larabel",
+          "description": "Coming as a surprise, longtime Linux developer Oded Gabbay announced he's left Intel / Habana Labs and is therefore stepping down from the maintainer role of the Linux kernel drivers for the Intel Xe DRM driver and more notably the Habana Labs accelerator driver that he's maintained from the start...",
+          "link": "https://www.phoronix.com/news/Habana-Labs-Maintainer-Down",
+          "publishedOn": "2024-05-16T10:54:00.000Z",
+          "wordCount": 2040,
+          "title": "Intel Habana Labs & Xe Linux Driver Maintainer Steps Down",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Valve-RADV-GFX12-Mesa-Prep",
+          "author": "Michael Larabel",
+          "description": "The open-source Mesa driver developers employed by Valve for working on the Linux graphics stack have begun preparing the RADV Vulkan driver and the ACO compiler back-end for the upcoming \"GFX12\" graphics IP for next-generation RDNA4...",
+          "link": "https://www.phoronix.com/news/Valve-RADV-GFX12-Mesa-Prep",
+          "publishedOn": "2024-05-16T10:32:55.000Z",
+          "wordCount": 1823,
+          "title": "Valve's Linux Graphics Engineers Begin Prepping RADV Driver For AMD RDNA4 \"GFX12\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-IPU6-Media-In-Linux-6.10",
+          "author": "Michael Larabel",
+          "description": "Intel's Image Processing Unit (IPU) IP has been a cause for concern in recent years as the lack of proper upstream open-source driver support has led Linux users running into troubles making use of MIPI camera sensors on modern laptops. Finally with Linux 6.10 the Intel IPU6 driver is being upstreamed into the media subsystem...",
+          "link": "https://www.phoronix.com/news/Intel-IPU6-Media-In-Linux-6.10",
+          "publishedOn": "2024-05-16T10:23:27.000Z",
+          "wordCount": 1893,
+          "title": "Intel IPU6 Driver Being Upstreamed In Linux 6.10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Firewire",
+          "author": "Michael Larabel",
+          "description": "While most of you have not thought about or used Firewire (IEEE-1394) in years, there still are some legacy digital video cameras and some professional audio devices relying on the interface. Last year saw a new Firewire maintainer step-up for the Linux kernel after the code had fallen dormant. The plans by that new maintainer, Takashi Sakamoto, are to maintain Linux's Firewire support through 2029. He's continuing to do a good job with the upcoming Linux 6.10 kernel bringing the latest batch of Firewire enhancements...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Firewire",
+          "publishedOn": "2024-05-16T10:16:24.000Z",
+          "wordCount": 1964,
+          "title": "Firewire IEEE-1394 Support Continues To Be Improved With The Linux 6.10 Kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linus-Torvalds-Linux-Dogfooding",
+          "author": "Michael Larabel",
+          "description": "Besides Linus Torvalds examining various elements of code he's merging and build testing it on his AMD Ryzen Threadripper workstation and now also testing more on ARM64 with Ampere Altra, he does these days still believe in \"dogfooding\" and is in fact running the leading-edge Linux kernel code even during the merge window...",
+          "link": "https://www.phoronix.com/news/Linus-Torvalds-Linux-Dogfooding",
+          "publishedOn": "2024-05-16T10:02:56.000Z",
+          "wordCount": 1841,
+          "title": "Linus Torvalds On Dogfooding The Linux Kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Mesa-24.1-rc4-Released",
           "author": "Michael Larabel",
           "description": "The Mesa 24.1 stable release is nearing while out today is the fourth weekly release candidate. While the Intel and AMD Radeon graphics driver changes typically dominate new Mesa releases, Mesa 24.1-rc4 is headlined by a big change for the NVK open-source NVIDIA Vulkan driver...",
