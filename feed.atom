@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-17T01:15:16.965Z</updated>
+    <updated>2024-05-17T12:31:35.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Wires Up More Compute Express Link "CXL" Functionality]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-CXL</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-CXL"/>
+        <updated>2024-05-17T10:49:12.000Z</updated>
+        <summary type="html"><![CDATA[The Compute Express Link (CXL) subsystem development continues to be led by Intel engineers and with the in-development Linux 6.10 kernel there are yet more features in tow...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Readies Xeon Phi Removal For GCC 15]]></title>
+        <id>https://www.phoronix.com/news/GCC-15-Patch-Drops-Xeon-Phi</id>
+        <link href="https://www.phoronix.com/news/GCC-15-Patch-Drops-Xeon-Phi"/>
+        <updated>2024-05-17T10:32:59.000Z</updated>
+        <summary type="html"><![CDATA[For the GCC 14 compiler release is the deprecation of the Xeon Phi targets. With Intel Knights Landing and Knights Mill being end-of-life at Intel, they are working to do away with the GNU Compiler Collection support. A patch has been posted to drop the Xeon Phi ISAs with GCC 15...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EROFS Adds Zstd & Btrfs Gets Minor Performance Work In Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-EROFS-Btrfs</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-EROFS-Btrfs"/>
+        <updated>2024-05-17T10:21:24.000Z</updated>
+        <summary type="html"><![CDATA[The EROFS and Btrfs file-systems saw their feature patches merged as part of the ongoing Linux 6.10 merge window...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sysctl Sentinel Bloat Removal Wrapping Up In Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/Sysctl-Finish-Line-Linux-6.10</id>
+        <link href="https://www.phoronix.com/news/Sysctl-Finish-Line-Linux-6.10"/>
+        <updated>2024-05-17T10:12:01.000Z</updated>
+        <summary type="html"><![CDATA[The year-long effort to removal the sysctl sentinel for clearing bloat from the kernel and allowing faster build times should be crossing the finish line in Linux 6.10...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNOME 47 Aims For Release On 18 September]]></title>
         <id>https://www.phoronix.com/news/GNOME-47-Release-Schedule</id>

@@ -153,6 +153,46 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.10-CXL",
+          "author": "Michael Larabel",
+          "description": "The Compute Express Link (CXL) subsystem development continues to be led by Intel engineers and with the in-development Linux 6.10 kernel there are yet more features in tow...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-CXL",
+          "publishedOn": "2024-05-17T10:49:12.000Z",
+          "wordCount": 1758,
+          "title": "Linux 6.10 Wires Up More Compute Express Link \"CXL\" Functionality",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GCC-15-Patch-Drops-Xeon-Phi",
+          "author": "Michael Larabel",
+          "description": "For the GCC 14 compiler release is the deprecation of the Xeon Phi targets. With Intel Knights Landing and Knights Mill being end-of-life at Intel, they are working to do away with the GNU Compiler Collection support. A patch has been posted to drop the Xeon Phi ISAs with GCC 15...",
+          "link": "https://www.phoronix.com/news/GCC-15-Patch-Drops-Xeon-Phi",
+          "publishedOn": "2024-05-17T10:32:59.000Z",
+          "wordCount": 1889,
+          "title": "Intel Readies Xeon Phi Removal For GCC 15",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-EROFS-Btrfs",
+          "author": "Michael Larabel",
+          "description": "The EROFS and Btrfs file-systems saw their feature patches merged as part of the ongoing Linux 6.10 merge window...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-EROFS-Btrfs",
+          "publishedOn": "2024-05-17T10:21:24.000Z",
+          "wordCount": 1893,
+          "title": "EROFS Adds Zstd & Btrfs Gets Minor Performance Work In Linux 6.10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Sysctl-Finish-Line-Linux-6.10",
+          "author": "Michael Larabel",
+          "description": "The year-long effort to removal the sysctl sentinel for clearing bloat from the kernel and allowing faster build times should be crossing the finish line in Linux 6.10...",
+          "link": "https://www.phoronix.com/news/Sysctl-Finish-Line-Linux-6.10",
+          "publishedOn": "2024-05-17T10:12:01.000Z",
+          "wordCount": 1799,
+          "title": "Sysctl Sentinel Bloat Removal Wrapping Up In Linux 6.10",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/GNOME-47-Release-Schedule",
           "author": "Michael Larabel",
           "description": "The GNOME project has now solidified their release schedule for the current GNOME 47 development cycle: GNOME 47.0 should be out on 18 September...",
