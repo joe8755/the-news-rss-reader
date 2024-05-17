@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-16.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 16, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: Open-source BI and analytics for engineers\n(comments)\n\n\nApple announces new accessibility features, including eye tracking\n(comments)\n\n\nStarting emails with \\\"BEGIN PGP MESSAGE\\\" will fool the filter\n(comments)\n\n\nJepsen: Datomic Pro 1.0.7075\n(comments)\n\n\nNew exponent functions that make SiLU and SoftMax 2x faster, at full accuracy\n(comments)\n\n\nUtah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments\n(comments)\n\n\nThings I won't work with: the higher states of bromine (2019)\n(comments)\n\n\nSome notes on Rust, mutable aliasing and formal verification\n(comments)\n\n\nVCs aren’t your friends\n(comments)\n\n\nLlama 3 implemented in pure NumPy\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-16.html",
+          "publishedOn": "2024-05-17T00:00:00.000Z",
+          "wordCount": 577,
+          "title": "Daily Hacker News for 2024-05-16",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-15.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 15, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nGPT-4o's Memory Breakthrough – Needle in a Needlestack\n(comments)\n\n\nIlya Sutskever to leave OpenAI\n(comments)\n\n\nDepartment of Justice says Boeing may be criminally liable in 737 MAX crashes\n(comments)\n\n\nA low budget consumer hardware espionage implant (2018)\n(comments)\n\n\nTranslation of Rust's core and alloc crates to Coq for formal verification\n(comments)\n\n\nRaspberry Pi Ltd is considering an IPO\n(comments)\n\n\nNearly all Nintendo 64 games can now be recompiled into native PC ports\n(comments)\n\n\nProteins in blood could provide early cancer warning 'by more than seven years'\n(comments)\n\n\nThe Worst Website in the Entire World\n(comments)\n\n\nAdobe Photoshop Source Code (2013)\n(comments)",
@@ -142,6 +152,76 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/GNOME-47-Release-Schedule",
+          "author": "Michael Larabel",
+          "description": "The GNOME project has now solidified their release schedule for the current GNOME 47 development cycle: GNOME 47.0 should be out on 18 September...",
+          "link": "https://www.phoronix.com/news/GNOME-47-Release-Schedule",
+          "publishedOn": "2024-05-17T00:43:33.000Z",
+          "wordCount": 1721,
+          "title": "GNOME 47 Aims For Release On 18 September",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/amd-ryzen-5-8400f",
+          "author": "Michael Larabel",
+          "description": "This week AMD announced the Ryzen 5 8400F and Ryzen 7 8700F processors as new Zen 4 budget CPU contenders lacking any integrated graphics. While part of the Ryzen 8000 series, the 8400F also lacks the Ryzen AI support found in the higher-end SKUs. The Ryzen 5 8400F offers 6 cores / 12 threads, a 4.2GHz base clock and 4.7GHz boost clock, and a 65 Watt TDP while retailing for $169~189 USD. Here are some initial benchmarks of the AMD Ryzen 5 8400F in putting it up against 230+ benchmarks under Linux while also monitoring the CPU power consumption and comparing it to Intel's closest contender as the Core i5 1440F that retails for just under $200.",
+          "link": "https://www.phoronix.com/review/amd-ryzen-5-8400f",
+          "publishedOn": "2024-05-16T22:36:00.000Z",
+          "wordCount": 2092,
+          "title": "AMD Ryzen 5 8400F vs. Intel Core i5 14400F: 230+ Benchmarks For Sub-$200 CPU Performance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Germany-STF-For-FFmpeg",
+          "author": "Michael Larabel",
+          "description": "Following Germany's Sovereign Tech Fund providing significant funding for GNOME, Rust Coreutils, PHP, a systemd bug bounty, and numerous other free software projects, the FFmpeg multimedia library is the latest beneficiary to this funding from the Germany government...",
+          "link": "https://www.phoronix.com/news/Germany-STF-For-FFmpeg",
+          "publishedOn": "2024-05-16T19:29:33.000Z",
+          "wordCount": 1687,
+          "title": "Germany's Sovereign Tech Fund Now Supporting FFmpeg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-NVMe-FDP-Patches",
+          "author": "Michael Larabel",
+          "description": "A patch has been posted by Samsung engineers for implementing Flexible Data Placement (FDP) support within the Linux kernel's NVMe driver code. NVMe FDP allows for the host system to have more control over the placement of logical blocks on the storage device...",
+          "link": "https://www.phoronix.com/news/Linux-NVMe-FDP-Patches",
+          "publishedOn": "2024-05-16T16:58:55.000Z",
+          "wordCount": 1831,
+          "title": "Linux Patch Posted For NVMe Flexible Data Placement (FDP)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AMD-Supermicro-OSFF",
+          "author": "Michael Larabel",
+          "description": "As more positive indications around AMD's OpenSIL effort for open-source CPU silicon initialization to eventually replace AGESA, both AMD and Supermicro are now collaborating with the Open-Source Firmware Foundation. Supermicro has also publicly shown off a platform with OpenSIL+Coreboot and is said to be exploring OpenBMC for future hardware...",
+          "link": "https://www.phoronix.com/news/AMD-Supermicro-OSFF",
+          "publishedOn": "2024-05-16T16:25:57.000Z",
+          "wordCount": 1800,
+          "title": "AMD & Supermicro Collaborating On Open-Source Firmware With The OSFF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/ampere-256-core-2025",
+          "author": "Michael Larabel",
+          "description": "Ampere Computing today made public their roadmap update concerning current and future AArch64 server processors. AmpereOne availability remains tough but the company is hoping next year to introduce a 3nm CPU with up to 256 cores and supporting 12 channel DDR5 memory.",
+          "link": "https://www.phoronix.com/review/ampere-256-core-2025",
+          "publishedOn": "2024-05-16T15:00:00.000Z",
+          "wordCount": 2493,
+          "title": "Ampere Computing 2024 Roadmap Update: 256 Core 3nm CPU In 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/PipeWire-1.2-RC",
+          "author": "Michael Larabel",
+          "description": "Following last year's release of PipeWire 1.0 for managing audio and video streams on the Linux desktop and proving itself a capable replacement to PulseAudio and JACK, among other uses, PipeWire 1.2 is nearing release. Out today is the first release candidate of the upcoming PipeWire 1.2...",
+          "link": "https://www.phoronix.com/news/PipeWire-1.2-RC",
+          "publishedOn": "2024-05-16T12:49:28.000Z",
+          "wordCount": 1863,
+          "title": "PipeWire 1.2 Preps For Async Processing, Snap Support & Explicit Sync",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Habana-Labs-Maintainer-Down",
           "author": "Michael Larabel",
