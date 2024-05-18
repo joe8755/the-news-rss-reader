@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-17.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 17, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nD3 in Depth\n(comments)\n\n\nComputer scientists invent an efficient new way to count\n(comments)\n\n\nEgypt's pyramids may have been built on a long-lost branch of the Nile\n(comments)\n\n\nSlack AI Training with Customer Data\n(comments)\n\n\nA forged Apple employee badge\n(comments)\n\n\nVisualizing algorithms for rate limiting\n(comments)\n\n\nExercises to Learn Rust\n(comments)\n\n\nNon-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]\n(comments)\n\n\nToon3D: Seeing cartoons from a new perspective\n(comments)\n\n\nBend: a high-level language that runs on GPUs (via HVM2)\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-17.html",
+          "publishedOn": "2024-05-18T00:00:00.000Z",
+          "wordCount": 568,
+          "title": "Daily Hacker News for 2024-05-17",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-16.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 16, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: Open-source BI and analytics for engineers\n(comments)\n\n\nApple announces new accessibility features, including eye tracking\n(comments)\n\n\nStarting emails with \\\"BEGIN PGP MESSAGE\\\" will fool the filter\n(comments)\n\n\nJepsen: Datomic Pro 1.0.7075\n(comments)\n\n\nNew exponent functions that make SiLU and SoftMax 2x faster, at full accuracy\n(comments)\n\n\nUtah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments\n(comments)\n\n\nThings I won't work with: the higher states of bromine (2019)\n(comments)\n\n\nSome notes on Rust, mutable aliasing and formal verification\n(comments)\n\n\nVCs aren’t your friends\n(comments)\n\n\nLlama 3 implemented in pure NumPy\n(comments)",
@@ -152,6 +162,56 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Wine-9.9-Released",
+          "author": "Michael Larabel",
+          "description": "Wine 9.9 is out as the newest bi-weekly development release for running Windows games/applications on Linux and other platforms...",
+          "link": "https://www.phoronix.com/news/Wine-9.9-Released",
+          "publishedOn": "2024-05-18T00:37:31.000Z",
+          "wordCount": 1706,
+          "title": "Wine 9.9 Brings ARM Improvements, Drops Obsolete WineD3D Features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Posted-Interrupts",
+          "author": "Michael Larabel",
+          "description": "Merged as part of the IRQ changes for the in-development Linux 6.10 kernel is support for posted interrupts on bare metal hardware...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Posted-Interrupts",
+          "publishedOn": "2024-05-17T16:10:00.000Z",
+          "wordCount": 1870,
+          "title": "Linux 6.10 Adds Support For Posted Interrupts On Bare Metal Hardware",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Ubuntu-24.10-Roadmap",
+          "author": "Michael Larabel",
+          "description": "Oliver Smith who is serving as the Interim Engineering Director for the Ubuntu Desktop team at Canonical has shared some roadmap plans around Ubuntu 24.10. With this being the first post-LTS release following last month's Ubuntu 24.04 Long Term Support, they are more free to innovate this cycle and they have a lot of great plans for enhancing the Linux desktop experience...",
+          "link": "https://www.phoronix.com/news/Ubuntu-24.10-Roadmap",
+          "publishedOn": "2024-05-17T14:00:00.000Z",
+          "wordCount": 1948,
+          "title": "Ubuntu 24.10 To See More Polishing, NVIDIA Wayland By Default & New Welcome Wizard",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/openSUSE-Shipping-OpenVINO",
+          "author": "Michael Larabel",
+          "description": "OpenSUSE is the first major Linux distribution to package up and offer Intel's OpenVINO open-source AI toolkit within its package repository...",
+          "link": "https://www.phoronix.com/news/openSUSE-Shipping-OpenVINO",
+          "publishedOn": "2024-05-17T13:48:33.000Z",
+          "wordCount": 1857,
+          "title": "Intel's OpenVINO Now Available In openSUSE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-FSCRYPT",
+          "author": "Michael Larabel",
+          "description": "FSCRYPT is the file-system encryption framework within the Linux kernel for supporting optional encryption  on file-systems like EXT4, F2FS, and others. With Linux 6.10 an optimization is coming for enhancing the performance of opening files on file-systems supporting FSCRYPT-based encryption but when the files are unencrypted...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-FSCRYPT",
+          "publishedOn": "2024-05-17T12:37:56.000Z",
+          "wordCount": 1770,
+          "title": "Linux 6.10 Improves Performance For Opening Unencrypted Files",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.10-CXL",
           "author": "Michael Larabel",
