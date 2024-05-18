@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-18T01:14:10.090Z</updated>
+    <updated>2024-05-18T12:30:16.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GNOME OS Working On A New Installer & Other Enhancements To Make It More Practical]]></title>
+        <id>https://www.phoronix.com/news/GNOME-OS-New-Installer</id>
+        <link href="https://www.phoronix.com/news/GNOME-OS-New-Installer"/>
+        <updated>2024-05-18T10:56:56.000Z</updated>
+        <summary type="html"><![CDATA[Germany's Sovereign Tech Fund continues providing the resources for various new GNOME desktop development initiatives. There are various efforts underway for new features and refinements with GNOME 47 in September and a renewed emphasis around GNOME OS...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 x86 Instruction Decoder Prepares For APX & Other New Intel Instructions]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-x86-APX-Decode</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-x86-APX-Decode"/>
+        <updated>2024-05-18T10:46:54.000Z</updated>
+        <summary type="html"><![CDATA[The performance events updates were submitted today for the ongoing Linux 6.10 kernel merge window. This pull adds support for Advanced Performance Extensions (APX) and other new Intel CPU instructions to the x86 instruction decoder...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Preps For "When Things Go Seriously Wrong" On Bigger Servers]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Larger-CPUs-MCE</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Larger-CPUs-MCE"/>
+        <updated>2024-05-18T10:34:07.000Z</updated>
+        <summary type="html"><![CDATA[While machine check exception (MCE) events tend to be uncommon, a change made by Intel engineers is accommodating the ability in the Linux kernel to store more machine check records for "when things go seriously wrong" on increasingly high core count servers...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Apps Improving Experience When Running Outside Of Plasma]]></title>
+        <id>https://www.phoronix.com/news/KDE-Go-Non-Plasma-Experience</id>
+        <link href="https://www.phoronix.com/news/KDE-Go-Non-Plasma-Experience"/>
+        <updated>2024-05-18T10:23:36.000Z</updated>
+        <summary type="html"><![CDATA[KDE development remains very busy ahead of next month's Plasma 6.1 desktop release...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wine 9.9 Brings ARM Improvements, Drops Obsolete WineD3D Features]]></title>
         <id>https://www.phoronix.com/news/Wine-9.9-Released</id>
