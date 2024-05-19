@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-18.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 18, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nWuffs: Wrangling Untrusted File Formats Safely\n(comments)\n\n\nThe Downfall of DeviantArt\n(comments)\n\n\nADSL works over wet string (2017)\n(comments)\n\n\nShow HN: I built a website to create financial models for any stock online\n(comments)\n\n\nThinking out loud about 2nd-gen email\n(comments)\n\n\nOpenAI departures: Why can’t former employees talk?\n(comments)\n\n\nEx-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity\n(comments)\n\n\nGio UI – Cross-platform GUI for Go\n(comments)\n\n\nCyber Security: A pre-war reality check\n(comments)\n\n\nIf you’re seeing this, I’m in jail [video]\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-18.html",
+          "publishedOn": "2024-05-19T00:00:00.000Z",
+          "wordCount": 567,
+          "title": "Daily Hacker News for 2024-05-18",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-17.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 17, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nD3 in Depth\n(comments)\n\n\nComputer scientists invent an efficient new way to count\n(comments)\n\n\nEgypt's pyramids may have been built on a long-lost branch of the Nile\n(comments)\n\n\nSlack AI Training with Customer Data\n(comments)\n\n\nA forged Apple employee badge\n(comments)\n\n\nVisualizing algorithms for rate limiting\n(comments)\n\n\nExercises to Learn Rust\n(comments)\n\n\nNon-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]\n(comments)\n\n\nToon3D: Seeing cartoons from a new perspective\n(comments)\n\n\nBend: a high-level language that runs on GPUs (via HVM2)\n(comments)",
@@ -162,6 +172,36 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/SUSE-Agama-Ditches-Cockpit",
+          "author": "Michael Larabel",
+          "description": "SUSE/openSUSE has been busy crafting a next-gen Linux installer that is a web-based installer and originally known as D-Installer but now going by the name Agama...",
+          "link": "https://www.phoronix.com/news/SUSE-Agama-Ditches-Cockpit",
+          "publishedOn": "2024-05-18T19:50:31.000Z",
+          "wordCount": 1719,
+          "title": "SUSE's YaST Team Drops Cockpit With New Installer Code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-NFSD",
+          "author": "Michael Larabel",
+          "description": "The Linux Network File System (NFS) server code (NFSD) is seeing a new Netlink protocol introduced in Linux 6.10 as part of laying the groundwork for the new \"nfsdctl\" utility...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-NFSD",
+          "publishedOn": "2024-05-18T13:53:31.000Z",
+          "wordCount": 1778,
+          "title": "Linux 6.10 NFSD Brings Optimizations & Preps For New nfsdctl Utility",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Niri-0.1.6-Wayland-Compositor",
+          "author": "Michael Larabel",
+          "description": "Niri is a scrollable-tiling Wayland compositor inspired by PaperWM and heavy on the animations/effects. Out this morning is Niri 0.1.6 as the newest feature release for this Wayland compositor...",
+          "link": "https://www.phoronix.com/news/Niri-0.1.6-Wayland-Compositor",
+          "publishedOn": "2024-05-18T13:08:45.000Z",
+          "wordCount": 1680,
+          "title": "Niri 0.1.6 Wayland Compositor Adds Interactive Window Resizing & Mouse View Scrolling",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/GNOME-OS-New-Installer",
           "author": "Michael Larabel",

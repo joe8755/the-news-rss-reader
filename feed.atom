@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-18T12:30:16.991Z</updated>
+    <updated>2024-05-19T01:19:39.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-18]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-18.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-18.html"/>
+        <updated>2024-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 18, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Wuffs: Wrangling Untrusted File Formats Safely
+(comments)
+
+
+The Downfall of DeviantArt
+(comments)
+
+
+ADSL works over wet string (2017)
+(comments)
+
+
+Show HN: I built a website to create financial models for any stock online
+(comments)
+
+
+Thinking out loud about 2nd-gen email
+(comments)
+
+
+OpenAI departures: Why can’t former employees talk?
+(comments)
+
+
+Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity
+(comments)
+
+
+Gio UI – Cross-platform GUI for Go
+(comments)
+
+
+Cyber Security: A pre-war reality check
+(comments)
+
+
+If you’re seeing this, I’m in jail [video]
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUSE's YaST Team Drops Cockpit With New Installer Code]]></title>
+        <id>https://www.phoronix.com/news/SUSE-Agama-Ditches-Cockpit</id>
+        <link href="https://www.phoronix.com/news/SUSE-Agama-Ditches-Cockpit"/>
+        <updated>2024-05-18T19:50:31.000Z</updated>
+        <summary type="html"><![CDATA[SUSE/openSUSE has been busy crafting a next-gen Linux installer that is a web-based installer and originally known as D-Installer but now going by the name Agama...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 NFSD Brings Optimizations & Preps For New nfsdctl Utility]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-NFSD</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-NFSD"/>
+        <updated>2024-05-18T13:53:31.000Z</updated>
+        <summary type="html"><![CDATA[The Linux Network File System (NFS) server code (NFSD) is seeing a new Netlink protocol introduced in Linux 6.10 as part of laying the groundwork for the new "nfsdctl" utility...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niri 0.1.6 Wayland Compositor Adds Interactive Window Resizing & Mouse View Scrolling]]></title>
+        <id>https://www.phoronix.com/news/Niri-0.1.6-Wayland-Compositor</id>
+        <link href="https://www.phoronix.com/news/Niri-0.1.6-Wayland-Compositor"/>
+        <updated>2024-05-18T13:08:45.000Z</updated>
+        <summary type="html"><![CDATA[Niri is a scrollable-tiling Wayland compositor inspired by PaperWM and heavy on the animations/effects. Out this morning is Niri 0.1.6 as the newest feature release for this Wayland compositor...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNOME OS Working On A New Installer & Other Enhancements To Make It More Practical]]></title>
         <id>https://www.phoronix.com/news/GNOME-OS-New-Installer</id>
