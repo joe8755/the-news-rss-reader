@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-19T01:19:39.381Z</updated>
+    <updated>2024-05-19T12:30:46.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Praises Golang PGO For Significant CPU Savings]]></title>
+        <id>https://www.phoronix.com/news/Cloudflare-Golang-PGO</id>
+        <link href="https://www.phoronix.com/news/Cloudflare-Golang-PGO"/>
+        <updated>2024-05-19T10:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Released over a year ago was Golang 1.20 with support for Profile Guided Optimizations (PGO) and has since been improved with Go 1.21 for 2~7% faster Go binaries thanks to this optimization approach also found with other compilers. The engineers at Cloudflare have put out a blog post this week praising Go's PGO support and the CPU savings they are seeing as a result...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXT4 In Linux 6.10 Adds FS_IOC_GETFSSYSFSPATH Support]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-EXT4</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-EXT4"/>
+        <updated>2024-05-19T10:36:43.000Z</updated>
+        <summary type="html"><![CDATA[While EROFS is seeing Zstd support and Bcachefs is seeing performance optimizations with the in-development Linux 6.10 kernel, over on the mature EXT4 file-system side the changes are mostly small. There are some minor changes, more folio conversion work, and also adding support for the FS_IOC_GETFSSYSFSPATH ioctl that has been seeing some standardization and adoption by the common Linux file-systems...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Patch Posted For The Bigscreen Beyond VR Headset]]></title>
+        <id>https://www.phoronix.com/news/Linux-Bigscreen-Beyond-VR</id>
+        <link href="https://www.phoronix.com/news/Linux-Bigscreen-Beyond-VR"/>
+        <updated>2024-05-19T10:14:51.000Z</updated>
+        <summary type="html"><![CDATA[A Linux patch has been posted for delivering a quirk so that the Bigscreen Beyond VR Headset can properly behave under Linux and in turn also jives with the likes of SteamVR...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Scheduler Changes Bring More Refinements]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Scheduler</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Scheduler"/>
+        <updated>2024-05-19T10:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Alongside all of the other pull requests by Ingo Molnar submitted at the start of the week during the opening of the Linux 6.10 merge window were the scheduler updates. As usual, the kernel scheduler work continues to see various tweaks and refinements to enhance its behavior...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turbostat Gains New Features & New Hardware Support With Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Turbostat</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Turbostat"/>
+        <updated>2024-05-19T09:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Linux's Turbostat utility that is developed by Intel for reporting idle/power state statistics, temperatures, and other useful data on modern Intel/AMD processors has seen its changes submitted for the in-development Linux 6.10 kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-05-18]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-05-18.html</id>

@@ -173,6 +173,56 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Cloudflare-Golang-PGO",
+          "author": "Michael Larabel",
+          "description": "Released over a year ago was Golang 1.20 with support for Profile Guided Optimizations (PGO) and has since been improved with Go 1.21 for 2~7% faster Go binaries thanks to this optimization approach also found with other compilers. The engineers at Cloudflare have put out a blog post this week praising Go's PGO support and the CPU savings they are seeing as a result...",
+          "link": "https://www.phoronix.com/news/Cloudflare-Golang-PGO",
+          "publishedOn": "2024-05-19T10:47:59.000Z",
+          "wordCount": 2034,
+          "title": "Cloudflare Praises Golang PGO For Significant CPU Savings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-EXT4",
+          "author": "Michael Larabel",
+          "description": "While EROFS is seeing Zstd support and Bcachefs is seeing performance optimizations with the in-development Linux 6.10 kernel, over on the mature EXT4 file-system side the changes are mostly small. There are some minor changes, more folio conversion work, and also adding support for the FS_IOC_GETFSSYSFSPATH ioctl that has been seeing some standardization and adoption by the common Linux file-systems...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-EXT4",
+          "publishedOn": "2024-05-19T10:36:43.000Z",
+          "wordCount": 1870,
+          "title": "EXT4 In Linux 6.10 Adds FS_IOC_GETFSSYSFSPATH Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-Bigscreen-Beyond-VR",
+          "author": "Michael Larabel",
+          "description": "A Linux patch has been posted for delivering a quirk so that the Bigscreen Beyond VR Headset can properly behave under Linux and in turn also jives with the likes of SteamVR...",
+          "link": "https://www.phoronix.com/news/Linux-Bigscreen-Beyond-VR",
+          "publishedOn": "2024-05-19T10:14:51.000Z",
+          "wordCount": 1910,
+          "title": "Linux Patch Posted For The Bigscreen Beyond VR Headset",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Scheduler",
+          "author": "Michael Larabel",
+          "description": "Alongside all of the other pull requests by Ingo Molnar submitted at the start of the week during the opening of the Linux 6.10 merge window were the scheduler updates. As usual, the kernel scheduler work continues to see various tweaks and refinements to enhance its behavior...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Scheduler",
+          "publishedOn": "2024-05-19T10:04:36.000Z",
+          "wordCount": 1954,
+          "title": "Linux 6.10 Scheduler Changes Bring More Refinements",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Turbostat",
+          "author": "Michael Larabel",
+          "description": "Linux's Turbostat utility that is developed by Intel for reporting idle/power state statistics, temperatures, and other useful data on modern Intel/AMD processors has seen its changes submitted for the in-development Linux 6.10 kernel...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Turbostat",
+          "publishedOn": "2024-05-19T09:48:31.000Z",
+          "wordCount": 1863,
+          "title": "Turbostat Gains New Features & New Hardware Support With Linux 6.10",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/SUSE-Agama-Ditches-Cockpit",
           "author": "Michael Larabel",
           "description": "SUSE/openSUSE has been busy crafting a next-gen Linux installer that is a web-based installer and originally known as D-Installer but now going by the name Agama...",
