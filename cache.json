@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-19.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 19, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nA trustworthy, free (libre), Linux capable, self-hosting 64bit RISC-V computer\n(comments)\n\n\nI organized a 20-acre game of Capture the Flag\n(comments)\n\n\nFloor796\n(comments)\n\n\nCalculus with Julia\n(comments)\n\n\nRiven\n(comments)\n\n\nBig Tech to EU: \\\"Drop Dead\\\"\n(comments)\n\n\nClassic Usenet posts on computer architecture, operating systems and languages\n(comments)\n\n\nTransforming a QLC SSD into an SLC SSD\n(comments)\n\n\nCoding My Handwriting\n(comments)\n\n\nLlama3 implemented from scratch\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-19.html",
+          "publishedOn": "2024-05-20T00:00:00.000Z",
+          "wordCount": 547,
+          "title": "Daily Hacker News for 2024-05-19",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-18.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 18, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nWuffs: Wrangling Untrusted File Formats Safely\n(comments)\n\n\nThe Downfall of DeviantArt\n(comments)\n\n\nADSL works over wet string (2017)\n(comments)\n\n\nShow HN: I built a website to create financial models for any stock online\n(comments)\n\n\nThinking out loud about 2nd-gen email\n(comments)\n\n\nOpenAI departures: Why can’t former employees talk?\n(comments)\n\n\nEx-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity\n(comments)\n\n\nGio UI – Cross-platform GUI for Go\n(comments)\n\n\nCyber Security: A pre-war reality check\n(comments)\n\n\nIf you’re seeing this, I’m in jail [video]\n(comments)",
@@ -172,6 +182,16 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Bcachefs",
+          "author": "Michael Larabel",
+          "description": "Bcachefs lead developer Kent Overstreet today sent out his feature pull request of all the new file-system code that is ready in time for the Linux 6.10 merge window...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Bcachefs",
+          "publishedOn": "2024-05-19T18:15:05.000Z",
+          "wordCount": 1681,
+          "title": "Bcachefs Brings Safety Improvements To Linux 6.10, Preps For Online Fsck",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Cloudflare-Golang-PGO",
           "author": "Michael Larabel",
