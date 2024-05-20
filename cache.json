@@ -183,6 +183,46 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Faster-OCFS2",
+          "author": "Michael Larabel",
+          "description": "It's not often having anything to write about on the Oracle Cluster File-System v2 (OCFS2), but with Linux 6.10 it's seeing a rather significant performance optimization...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Faster-OCFS2",
+          "publishedOn": "2024-05-20T10:42:41.000Z",
+          "wordCount": 1757,
+          "title": "OCFS2 File-System Seeing Improved Write Performance On Linux 6.10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots",
+          "author": "Michael Larabel",
+          "description": "As a small information heads up, the Linux 6.10 kernel will print the number of populated memory slots at boot time to the kernel log as a little helper...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots",
+          "publishedOn": "2024-05-20T10:24:49.000Z",
+          "wordCount": 1851,
+          "title": "Linux 6.10 Will Print The Number Of Populated Memory Slots At Boot Time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-CR-24.17.29377.6",
+          "author": "Michael Larabel",
+          "description": "Intel Compute Runtime 24.17.29377.6 is now available as the latest routine update to this open-source GPU compute stack used by the company's integrated and discrete graphics products for providing OpenCL and oneAPI Level Zero compute capabilities...",
+          "link": "https://www.phoronix.com/news/Intel-CR-24.17.29377.6",
+          "publishedOn": "2024-05-20T10:04:53.000Z",
+          "wordCount": 1773,
+          "title": "Intel CR 24.17.29377.6 Offers Latest OpenCL & oneAPI Level Zero Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Fwpupd-1.9.20-Released",
+          "author": "Michael Larabel",
+          "description": "While Fwupd developers are working toward the Fwupd 2.0 release, out this morning is Fwupd 1.9.20 as the newest point release for this open-source solution for firmware updating on Linux that pairs with the Linux Vendor Firmware Service (LVFS)...",
+          "link": "https://www.phoronix.com/news/Fwpupd-1.9.20-Released",
+          "publishedOn": "2024-05-20T09:51:18.000Z",
+          "wordCount": 1782,
+          "title": "Fwupd 1.9.20 Released With Updated FPC Fingerprint Reader Support",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.10-Bcachefs",
           "author": "Michael Larabel",
           "description": "Bcachefs lead developer Kent Overstreet today sent out his feature pull request of all the new file-system code that is ready in time for the Linux 6.10 merge window...",
