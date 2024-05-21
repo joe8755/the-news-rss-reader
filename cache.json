@@ -193,6 +193,76 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/LibreOffice-24.8-Alpha-1",
+          "author": "Michael Larabel",
+          "description": "Ahead of the planned release in August, the first alpha release of the LibreOffice 24.8 open-source office suite is now available for testing...",
+          "link": "https://www.phoronix.com/news/LibreOffice-24.8-Alpha-1",
+          "publishedOn": "2024-05-21T12:26:51.000Z",
+          "wordCount": 1736,
+          "title": "LibreOffice 24.8 Alpha 1 Open-Source Office Suite Released",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-eDP-DP-X-Elite",
+          "author": "Michael Larabel",
+          "description": "Qualcomm and their partners at Linaro have been busy working on the Linux support for the Snapdragon X Elite as the high-end Arm SoC beginning to roll-out for laptops. The latest Snapdragon X Elite upstreaming is Embedded DisplayPort and DisplayPort support for the Snapdragon X Elite...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-eDP-DP-X-Elite",
+          "publishedOn": "2024-05-21T11:12:02.000Z",
+          "wordCount": 1818,
+          "title": "Linux 6.10 Adds eDP/DisplayPort Support For The Snapdragon X Elite",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-F2FS",
+          "author": "Michael Larabel",
+          "description": "There's a lot of file-system activity going on for the Linux 6.10 merge window: Bcachefs safety improvements, better OCFS2 write performance, continued XFS online repair, and even a \"mail-in merge request\" from prison for ReiserFS. The Flash-Friendly File-System (F2FS) has also seen some new feature work this cycle and has now been merged...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-F2FS",
+          "publishedOn": "2024-05-21T10:58:35.000Z",
+          "wordCount": 1836,
+          "title": "F2FS With Linux 6.10 Delivers Better Performance On Zoned Storage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Hangover-9.9-Released",
+          "author": "Michael Larabel",
+          "description": "André Zwing continues hacking on the Hangover project as a means of running Windows applications on AArch64 Linux by leveraging Wine and pairing it with emulators like QEMU, FEX, or Box64. Besides the initial AArch64/ARM64 focus, Hangover can be important for bring Windows game/application on Linux support eventually to other architectures like POWER and RISC-V...",
+          "link": "https://www.phoronix.com/news/Hangover-9.9-Released",
+          "publishedOn": "2024-05-21T10:51:27.000Z",
+          "wordCount": 1907,
+          "title": "Hangover 9.9 Adds Support For Using The NTSYNC Driver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GCC-13.3-Released",
+          "author": "Michael Larabel",
+          "description": "While GCC 14 recently debuted as stable in the form of GCC 14.1, for those relying on the GCC 13 compiler that debuted last year there is now a new point release available with many bug fixes...",
+          "link": "https://www.phoronix.com/news/GCC-13.3-Released",
+          "publishedOn": "2024-05-21T10:23:32.000Z",
+          "wordCount": 1778,
+          "title": "GCC 13.3 Compiler Released With Tons Of Bug Fixes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Reset-CXL-Devices",
+          "author": "Michael Larabel",
+          "description": "In addition to the CXL updates for Linux 6.10 that were sent in last week, the PCI subsystem updates this week bring a notable addition for Compute Express Link (CXL) devices...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Reset-CXL-Devices",
+          "publishedOn": "2024-05-21T10:12:55.000Z",
+          "wordCount": 1888,
+          "title": "Linux 6.10 Adds Support To Reset CXL Devices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Qt-6.7.1-Released",
+          "author": "Michael Larabel",
+          "description": "The Qt Company today released Qt 6.7.1 as the first point release for the cross-platform Qt 6.7.1 toolkit. Since releasing Qt 6.7 just under two months ago, they have fixed more than 400 bugs...",
+          "link": "https://www.phoronix.com/news/Qt-6.7.1-Released",
+          "publishedOn": "2024-05-21T10:03:41.000Z",
+          "wordCount": 1867,
+          "title": "Qt 6.7.1 Released With 400+ Fixes - Including Several Wayland Fixes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.10-XFS",
           "author": "Michael Larabel",
           "description": "The XFS file-system improvements have been merged for the in-development Linux 6.10 kernel...",

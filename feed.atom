@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-21T01:14:53.728Z</updated>
+    <updated>2024-05-21T12:32:46.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice 24.8 Alpha 1 Open-Source Office Suite Released]]></title>
+        <id>https://www.phoronix.com/news/LibreOffice-24.8-Alpha-1</id>
+        <link href="https://www.phoronix.com/news/LibreOffice-24.8-Alpha-1"/>
+        <updated>2024-05-21T12:26:51.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of the planned release in August, the first alpha release of the LibreOffice 24.8 open-source office suite is now available for testing...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Adds eDP/DisplayPort Support For The Snapdragon X Elite]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-eDP-DP-X-Elite</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-eDP-DP-X-Elite"/>
+        <updated>2024-05-21T11:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Qualcomm and their partners at Linaro have been busy working on the Linux support for the Snapdragon X Elite as the high-end Arm SoC beginning to roll-out for laptops. The latest Snapdragon X Elite upstreaming is Embedded DisplayPort and DisplayPort support for the Snapdragon X Elite...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F2FS With Linux 6.10 Delivers Better Performance On Zoned Storage]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-F2FS</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-F2FS"/>
+        <updated>2024-05-21T10:58:35.000Z</updated>
+        <summary type="html"><![CDATA[There's a lot of file-system activity going on for the Linux 6.10 merge window: Bcachefs safety improvements, better OCFS2 write performance, continued XFS online repair, and even a "mail-in merge request" from prison for ReiserFS. The Flash-Friendly File-System (F2FS) has also seen some new feature work this cycle and has now been merged...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hangover 9.9 Adds Support For Using The NTSYNC Driver]]></title>
+        <id>https://www.phoronix.com/news/Hangover-9.9-Released</id>
+        <link href="https://www.phoronix.com/news/Hangover-9.9-Released"/>
+        <updated>2024-05-21T10:51:27.000Z</updated>
+        <summary type="html"><![CDATA[André Zwing continues hacking on the Hangover project as a means of running Windows applications on AArch64 Linux by leveraging Wine and pairing it with emulators like QEMU, FEX, or Box64. Besides the initial AArch64/ARM64 focus, Hangover can be important for bring Windows game/application on Linux support eventually to other architectures like POWER and RISC-V...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC 13.3 Compiler Released With Tons Of Bug Fixes]]></title>
+        <id>https://www.phoronix.com/news/GCC-13.3-Released</id>
+        <link href="https://www.phoronix.com/news/GCC-13.3-Released"/>
+        <updated>2024-05-21T10:23:32.000Z</updated>
+        <summary type="html"><![CDATA[While GCC 14 recently debuted as stable in the form of GCC 14.1, for those relying on the GCC 13 compiler that debuted last year there is now a new point release available with many bug fixes...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Adds Support To Reset CXL Devices]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Reset-CXL-Devices</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Reset-CXL-Devices"/>
+        <updated>2024-05-21T10:12:55.000Z</updated>
+        <summary type="html"><![CDATA[In addition to the CXL updates for Linux 6.10 that were sent in last week, the PCI subsystem updates this week bring a notable addition for Compute Express Link (CXL) devices...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qt 6.7.1 Released With 400+ Fixes - Including Several Wayland Fixes]]></title>
+        <id>https://www.phoronix.com/news/Qt-6.7.1-Released</id>
+        <link href="https://www.phoronix.com/news/Qt-6.7.1-Released"/>
+        <updated>2024-05-21T10:03:41.000Z</updated>
+        <summary type="html"><![CDATA[The Qt Company today released Qt 6.7.1 as the first point release for the cross-platform Qt 6.7.1 toolkit. Since releasing Qt 6.7 just under two months ago, they have fixed more than 400 bugs...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XFS Expanding Its Online Repair Capabilities In Linux 6.10]]></title>
         <id>https://www.phoronix.com/news/Linux-6.10-XFS</id>
