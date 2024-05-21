@@ -2,10 +2,144 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-20T12:34:32.307Z</updated>
+    <updated>2024-05-21T01:14:53.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XFS Expanding Its Online Repair Capabilities In Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-XFS</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-XFS"/>
+        <updated>2024-05-21T00:40:25.000Z</updated>
+        <summary type="html"><![CDATA[The XFS file-system improvements have been merged for the in-development Linux 6.10 kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-20]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-20.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-20.html"/>
+        <updated>2024-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 20, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances
+(comments)
+
+
+Make timelapses easily using FFmpeg
+(comments)
+
+
+Ask HN: Video streaming is expensive yet YouTube \"seems\" to do it for free. How?
+(comments)
+
+
+Meteor seen in Portugal
+(comments)
+
+
+The Lunacy of Artemis
+(comments)
+
+
+Migrating Uber's ledger data from DynamoDB to LedgerStore
+(comments)
+
+
+3M executives convinced a scientist forever chemicals in human blood were safe
+(comments)
+
+
+ICC prosecutor seeks arrest warrants against Sinwar and Netanyahu for war crimes
+(comments)
+
+
+Introducing Copilot+ PCs
+(comments)
+
+
+Statement from Scarlett Johansson on the OpenAI \"Sky\" voice
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser]]></title>
+        <id>https://www.phoronix.com/news/ReiserFS-README-Linux-6.10</id>
+        <link href="https://www.phoronix.com/news/ReiserFS-README-Linux-6.10"/>
+        <updated>2024-05-20T20:55:30.000Z</updated>
+        <summary type="html"><![CDATA[While ReiserFS is obsolete and will eventually be dropped from the upstream Linux kernel in Linux 6.10 is one last ReiserFS change that was requested by former lead developer Hans Reiser...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFC Patches Posted For Rust-Written NVIDIA "Nova" GPU Driver]]></title>
+        <id>https://www.phoronix.com/news/RFC-Rust-Nova-NVIDIA-Driver</id>
+        <link href="https://www.phoronix.com/news/RFC-Rust-Nova-NVIDIA-Driver"/>
+        <updated>2024-05-20T19:37:20.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat engineers have been developing Nova as a new, Rust-written open-source NVIDIA kernel graphics driver as the eventual successor to the Nouveau kernel driver and is designed around NVIDIA's GPU System Processor (GSP) thus making the driver relevant for RTX 20 / Turing GPUs and newer. Today they posted a request for comments (RFC) patch series of the Nova driver and Rust DRM abstractions...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Announces Q3'2024 Arrival For Lunar Lake]]></title>
+        <id>https://www.phoronix.com/news/Intel-Lunar-Lake-Q3-2024</id>
+        <link href="https://www.phoronix.com/news/Intel-Lunar-Lake-Q3-2024"/>
+        <updated>2024-05-20T18:18:16.000Z</updated>
+        <summary type="html"><![CDATA[Intel previously indicated that Lunar Lake processors would launch by the end of 2024 and leading to anticipation of a Q4 launch... Intel today announced that Lunar Lake will actually launch in Q3...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many x86 Laptop Improvements In Linux 6.10 Plus Acer ARM Laptop]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-x86-Platform-Drivers</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-x86-Platform-Drivers"/>
+        <updated>2024-05-20T17:58:26.000Z</updated>
+        <summary type="html"><![CDATA[The x86 platform driver updates have been merged for the ongoing Linux 6.10 merge window. The platform-drivers-x86 changes continue to primarily revolve around x86 Intel/AMD laptops but also some other desktop/platform drivers. Now in Linux 6.10 there is also a new "ARM64" sub-section of the platform drivers...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora Miracle Spin Approved To Ship As Part Of Fedora Linux 41]]></title>
+        <id>https://www.phoronix.com/news/Fedora-Miracle-Spin-Approved</id>
+        <link href="https://www.phoronix.com/news/Fedora-Miracle-Spin-Approved"/>
+        <updated>2024-05-20T14:33:57.000Z</updated>
+        <summary type="html"><![CDATA[The Fedora Engineering and Steering Committee (FESCo) has approved of the newest Fedora desktop ISO spin: Fedora Miracle...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Farewell Intel Xeon Phi: Support Removed In The GCC 15 Compiler]]></title>
+        <id>https://www.phoronix.com/news/GCC-15-Drops-Intel-Xeon-Phi</id>
+        <link href="https://www.phoronix.com/news/GCC-15-Drops-Intel-Xeon-Phi"/>
+        <updated>2024-05-20T13:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Last week I wrote about Intel aiming to remove Xeon Phi support in GCC 15 with the products being end-of-life and deprecated in GCC 14. While some openly wondered whether the open-source community would allow it given the Xeon Phi accelerators were available to buy just a few years ago and at some very low prices going back years so some potentially finding use still out of them especially during this AI boom (and still readily available to buy used for around ~$50 USD), today the Intel Xeon Phi support was indeed removed...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMDGPU ISP Firmware Upstreamed In linux-firmware.git]]></title>
+        <id>https://www.phoronix.com/news/AMDGPU-ISP-Firmware</id>
+        <link href="https://www.phoronix.com/news/AMDGPU-ISP-Firmware"/>
+        <updated>2024-05-20T12:36:01.000Z</updated>
+        <summary type="html"><![CDATA[It was just earlier this month that AMD Linux kernel graphics driver patches appeared for introducing a new ISP hardware block for Image Signal Processing with new AMD APUs. Already the AMDGPU ISP firmware has appeared in linux-firmware.git indicating that this "ISP" block may be coming in hardware quite soon if not already quietly found within some products...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OCFS2 File-System Seeing Improved Write Performance On Linux 6.10]]></title>
         <id>https://www.phoronix.com/news/Linux-6.10-Faster-OCFS2</id>
