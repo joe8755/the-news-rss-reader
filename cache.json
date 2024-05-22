@@ -203,6 +203,56 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Perf-Tools",
+          "author": "Michael Larabel",
+          "description": "Sent out on Tuesday were all of the perf tool changes for the Linux 6.10 kernel. This includes perf event support for recent Intel CPUs as well as initial AMD Zen 5 processor support...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Perf-Tools",
+          "publishedOn": "2024-05-22T10:46:30.000Z",
+          "wordCount": 1765,
+          "title": "Linux 6.10 Perf Tools Brings AMD Zen 5 Events & Intel Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-KVM",
+          "author": "Michael Larabel",
+          "description": "The KVM changes for the Linux 6.10 kernel were merged a few days ago for this important piece to the open-source Linux virtualization stack...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-KVM",
+          "publishedOn": "2024-05-22T10:32:18.000Z",
+          "wordCount": 1731,
+          "title": "Linux 6.10 KVM Does More Prepping For Intel TDX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Eclipse-OpenJ9-0.45",
+          "author": "Michael Larabel",
+          "description": "Eclipse OpenJ9 v0.45 is now available as the newest version of this high performance JVM for Java applications...",
+          "link": "https://www.phoronix.com/news/Eclipse-OpenJ9-0.45",
+          "publishedOn": "2024-05-22T10:25:00.000Z",
+          "wordCount": 1797,
+          "title": "Eclipse OpenJ9 v0.45 Released For Supporting OpenJDK 22",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-More-SoCs",
+          "author": "Michael Larabel",
+          "description": "Last week the main SoC/platform updates were sent in for Linux 6.10 that included more ARM-based handheld game consoles and other new Arm devices from ASUS wireless routers to set-top boxes to enabling various SoCs. This week a secondary set of updates were submitted for the Linux 6.10 kernel merge window...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-More-SoCs",
+          "publishedOn": "2024-05-22T10:19:45.000Z",
+          "wordCount": 1933,
+          "title": "Linux 6.10 Adds Support For The RISC-V Milk-V Mars & More SoC Additions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Box64-0.2.8-Released",
+          "author": "Michael Larabel",
+          "description": "Box64 is out as the newest version of this Linux user-space x86_64 emulator for running on ARM64 Linux devices. There is also an updated version of Box86 too for that x86 32-bit version on ARM...",
+          "link": "https://www.phoronix.com/news/Box64-0.2.8-Released",
+          "publishedOn": "2024-05-22T09:56:20.000Z",
+          "wordCount": 1887,
+          "title": "Box64 0.2.8 Released With Support For 16K Page Size - Allowing Games On Apple Silicon",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/ASRock-Rack-EPYC-4004-BIOS",
           "author": "Michael Larabel",
           "description": "As a follow-up to this morning's AMD EPYC 4004 review and benchmarks, Supermicro, ASRock Rack, Giga Computing, Tyan, and others have announced new motherboards/servers for these entry-level EPYC servers. In addition with the likes of ASRock Rack they have already published BIOS updates enabling existing AM5 Ryzen server boards to officially support the EPYC 4004 series processors...",

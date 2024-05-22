@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-22T01:15:28.510Z</updated>
+    <updated>2024-05-22T12:33:26.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Perf Tools Brings AMD Zen 5 Events & Intel Updates]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Perf-Tools</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Perf-Tools"/>
+        <updated>2024-05-22T10:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Sent out on Tuesday were all of the perf tool changes for the Linux 6.10 kernel. This includes perf event support for recent Intel CPUs as well as initial AMD Zen 5 processor support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 KVM Does More Prepping For Intel TDX]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-KVM</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-KVM"/>
+        <updated>2024-05-22T10:32:18.000Z</updated>
+        <summary type="html"><![CDATA[The KVM changes for the Linux 6.10 kernel were merged a few days ago for this important piece to the open-source Linux virtualization stack...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eclipse OpenJ9 v0.45 Released For Supporting OpenJDK 22]]></title>
+        <id>https://www.phoronix.com/news/Eclipse-OpenJ9-0.45</id>
+        <link href="https://www.phoronix.com/news/Eclipse-OpenJ9-0.45"/>
+        <updated>2024-05-22T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Eclipse OpenJ9 v0.45 is now available as the newest version of this high performance JVM for Java applications...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Adds Support For The RISC-V Milk-V Mars & More SoC Additions]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-More-SoCs</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-More-SoCs"/>
+        <updated>2024-05-22T10:19:45.000Z</updated>
+        <summary type="html"><![CDATA[Last week the main SoC/platform updates were sent in for Linux 6.10 that included more ARM-based handheld game consoles and other new Arm devices from ASUS wireless routers to set-top boxes to enabling various SoCs. This week a secondary set of updates were submitted for the Linux 6.10 kernel merge window...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Box64 0.2.8 Released With Support For 16K Page Size - Allowing Games On Apple Silicon]]></title>
+        <id>https://www.phoronix.com/news/Box64-0.2.8-Released</id>
+        <link href="https://www.phoronix.com/news/Box64-0.2.8-Released"/>
+        <updated>2024-05-22T09:56:20.000Z</updated>
+        <summary type="html"><![CDATA[Box64 is out as the newest version of this Linux user-space x86_64 emulator for running on ARM64 Linux devices. There is also an updated version of Box86 too for that x86 32-bit version on ARM...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-05-21]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-05-21.html</id>
