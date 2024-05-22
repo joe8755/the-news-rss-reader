@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-21.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 21, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nCity in a Bottle – A 256 Byte Raycasting System\n(comments)\n\n\npg_timeseries: Open-source time-series extension for PostgreSQL\n(comments)\n\n\nEnlightenmentware\n(comments)\n\n\nChameleon: Meta’s New Multi-Modal LLM\n(comments)\n\n\nShipbreaking\n(comments)\n\n\nNoTunes is a macOS application that will prevent Apple Music from launching\n(comments)\n\n\nGoing Dark: The war on encryption is on the rise\n(comments)\n\n\nWhat UI density means and how to design for it\n(comments)\n\n\nCADmium: A local-first CAD program built for the browser\n(comments)\n\n\nGordon Bell has died\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-21.html",
+          "publishedOn": "2024-05-22T00:00:00.000Z",
+          "wordCount": 560,
+          "title": "Daily Hacker News for 2024-05-21",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-20.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 20, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nSwarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances\n(comments)\n\n\nMake timelapses easily using FFmpeg\n(comments)\n\n\nAsk HN: Video streaming is expensive yet YouTube \\\"seems\\\" to do it for free. How?\n(comments)\n\n\nMeteor seen in Portugal\n(comments)\n\n\nThe Lunacy of Artemis\n(comments)\n\n\nMigrating Uber's ledger data from DynamoDB to LedgerStore\n(comments)\n\n\n3M executives convinced a scientist forever chemicals in human blood were safe\n(comments)\n\n\nICC prosecutor seeks arrest warrants against Sinwar and Netanyahu for war crimes\n(comments)\n\n\nIntroducing Copilot+ PCs\n(comments)\n\n\nStatement from Scarlett Johansson on the OpenAI \\\"Sky\\\" voice\n(comments)",
@@ -192,6 +202,36 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/ASRock-Rack-EPYC-4004-BIOS",
+          "author": "Michael Larabel",
+          "description": "As a follow-up to this morning's AMD EPYC 4004 review and benchmarks, Supermicro, ASRock Rack, Giga Computing, Tyan, and others have announced new motherboards/servers for these entry-level EPYC servers. In addition with the likes of ASRock Rack they have already published BIOS updates enabling existing AM5 Ryzen server boards to officially support the EPYC 4004 series processors...",
+          "link": "https://www.phoronix.com/news/ASRock-Rack-EPYC-4004-BIOS",
+          "publishedOn": "2024-05-21T17:30:41.000Z",
+          "wordCount": 2022,
+          "title": "ASRock Rack Releases BIOS Update For EPYC 4004 Support With AM5 Ryzen Boards",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/NVIDIA-555.42.02-Linux-Beta",
+          "author": "Michael Larabel",
+          "description": "It's coming a week later than anticipated but the NVIDIA R555 Linux driver beta has been released! This is the NVIDIA proprietary Linux driver update that brings Wayland explicit sync support along with a host of other important improvements...",
+          "link": "https://www.phoronix.com/news/NVIDIA-555.42.02-Linux-Beta",
+          "publishedOn": "2024-05-21T14:25:15.000Z",
+          "wordCount": 1801,
+          "title": "NVIDIA 555.42.02 Linux Beta Brings Wayland Explicit Sync, GSP Firmware Used By Default",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/amd-epyc-4004",
+          "author": "Michael Larabel",
+          "description": "Over the past several years we have seen AMD Ryzen processors being used for low-cost servers, budget web hosting platforms, game servers, and more. Since the Ryzen 5000 series we have seen the likes of ASRock Rack and Supermicro putting out interesting budget-friendly Ryzen servers and that has ramped up even more with AMD Ryzen 7000 series server performance being stellar thanks to AVX-512 and other improvements making it more practical for such workloads. AMD has now solidified its positioning for entry-level servers with the introduction of the EPYC 4004 series processors. The EPYC 4004 series is derived from the Ryzen 7000 series offerings to facilitate cost conscious server options and putting the Intel Xeon E-2400 series in the crosshairs. In this review is a look at the EPYC 4004 series along with benchmarks of nearly the entire EPYC 4004 product stack compared to Intel's current top-end Xeon E-2400 series processor, the Intel Xeon E-2488 Raptor Lake.",
+          "link": "https://www.phoronix.com/review/amd-epyc-4004",
+          "publishedOn": "2024-05-21T13:00:00.000Z",
+          "wordCount": 2632,
+          "title": "AMD EPYC 4004 Benchmarks: Outperforming Intel Xeon E-2400 With Performance, Efficiency & Value",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/LibreOffice-24.8-Alpha-1",
           "author": "Michael Larabel",

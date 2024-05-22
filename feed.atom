@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-21T12:32:46.073Z</updated>
+    <updated>2024-05-22T01:15:28.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-21]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-21.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-21.html"/>
+        <updated>2024-05-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 21, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+City in a Bottle – A 256 Byte Raycasting System
+(comments)
+
+
+pg_timeseries: Open-source time-series extension for PostgreSQL
+(comments)
+
+
+Enlightenmentware
+(comments)
+
+
+Chameleon: Meta’s New Multi-Modal LLM
+(comments)
+
+
+Shipbreaking
+(comments)
+
+
+NoTunes is a macOS application that will prevent Apple Music from launching
+(comments)
+
+
+Going Dark: The war on encryption is on the rise
+(comments)
+
+
+What UI density means and how to design for it
+(comments)
+
+
+CADmium: A local-first CAD program built for the browser
+(comments)
+
+
+Gordon Bell has died
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASRock Rack Releases BIOS Update For EPYC 4004 Support With AM5 Ryzen Boards]]></title>
+        <id>https://www.phoronix.com/news/ASRock-Rack-EPYC-4004-BIOS</id>
+        <link href="https://www.phoronix.com/news/ASRock-Rack-EPYC-4004-BIOS"/>
+        <updated>2024-05-21T17:30:41.000Z</updated>
+        <summary type="html"><![CDATA[As a follow-up to this morning's AMD EPYC 4004 review and benchmarks, Supermicro, ASRock Rack, Giga Computing, Tyan, and others have announced new motherboards/servers for these entry-level EPYC servers. In addition with the likes of ASRock Rack they have already published BIOS updates enabling existing AM5 Ryzen server boards to officially support the EPYC 4004 series processors...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA 555.42.02 Linux Beta Brings Wayland Explicit Sync, GSP Firmware Used By Default]]></title>
+        <id>https://www.phoronix.com/news/NVIDIA-555.42.02-Linux-Beta</id>
+        <link href="https://www.phoronix.com/news/NVIDIA-555.42.02-Linux-Beta"/>
+        <updated>2024-05-21T14:25:15.000Z</updated>
+        <summary type="html"><![CDATA[It's coming a week later than anticipated but the NVIDIA R555 Linux driver beta has been released! This is the NVIDIA proprietary Linux driver update that brings Wayland explicit sync support along with a host of other important improvements...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD EPYC 4004 Benchmarks: Outperforming Intel Xeon E-2400 With Performance, Efficiency & Value]]></title>
+        <id>https://www.phoronix.com/review/amd-epyc-4004</id>
+        <link href="https://www.phoronix.com/review/amd-epyc-4004"/>
+        <updated>2024-05-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past several years we have seen AMD Ryzen processors being used for low-cost servers, budget web hosting platforms, game servers, and more. Since the Ryzen 5000 series we have seen the likes of ASRock Rack and Supermicro putting out interesting budget-friendly Ryzen servers and that has ramped up even more with AMD Ryzen 7000 series server performance being stellar thanks to AVX-512 and other improvements making it more practical for such workloads. AMD has now solidified its positioning for entry-level servers with the introduction of the EPYC 4004 series processors. The EPYC 4004 series is derived from the Ryzen 7000 series offerings to facilitate cost conscious server options and putting the Intel Xeon E-2400 series in the crosshairs. In this review is a look at the EPYC 4004 series along with benchmarks of nearly the entire EPYC 4004 product stack compared to Intel's current top-end Xeon E-2400 series processor, the Intel Xeon E-2488 Raptor Lake.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LibreOffice 24.8 Alpha 1 Open-Source Office Suite Released]]></title>
         <id>https://www.phoronix.com/news/LibreOffice-24.8-Alpha-1</id>
