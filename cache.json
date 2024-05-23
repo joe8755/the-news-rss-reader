@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-22.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 22, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: I built a game to help you learn neural network architectures\n(comments)\n\n\nShow HN: Pls Fix – Hire big tech employees to appeal account suspensions\n(comments)\n\n\nAmber: Programming language compiled to Bash\n(comments)\n\n\nThe curious case of the missing period\n(comments)\n\n\nStoring knowledge in a single long plain text file\n(comments)\n\n\n'Right to roam' movement fights to give the commons back to the public\n(comments)\n\n\nPluckable Strings\n(comments)\n\n\nOne-third of Amazon warehouse workers are on food stamps or Medicaid\n(comments)\n\n\nTry Clojure\n(comments)\n\n\nLeaked OpenAI documents reveal aggressive tactics toward former employees\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-22.html",
+          "publishedOn": "2024-05-23T00:00:00.000Z",
+          "wordCount": 577,
+          "title": "Daily Hacker News for 2024-05-22",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-21.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 21, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nCity in a Bottle – A 256 Byte Raycasting System\n(comments)\n\n\npg_timeseries: Open-source time-series extension for PostgreSQL\n(comments)\n\n\nEnlightenmentware\n(comments)\n\n\nChameleon: Meta’s New Multi-Modal LLM\n(comments)\n\n\nShipbreaking\n(comments)\n\n\nNoTunes is a macOS application that will prevent Apple Music from launching\n(comments)\n\n\nGoing Dark: The war on encryption is on the rise\n(comments)\n\n\nWhat UI density means and how to design for it\n(comments)\n\n\nCADmium: A local-first CAD program built for the browser\n(comments)\n\n\nGordon Bell has died\n(comments)",
@@ -202,6 +212,96 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/systemd-256-rc3-Released",
+          "author": "Michael Larabel",
+          "description": "It looks like systemd 256 will officially debut as stable in the near future with systemd 256-rc3 being released today and not tacking on any new features compared to the prior release candidates...",
+          "link": "https://www.phoronix.com/news/systemd-256-rc3-Released",
+          "publishedOn": "2024-05-23T00:37:10.000Z",
+          "wordCount": 1844,
+          "title": "systemd 256 Nears Release With run0, systemd-vpick, importctl & More",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-char-misc",
+          "author": "Michael Larabel",
+          "description": "Greg Kroah-Hartman today sent in the char/misc updates for Linux 6.10 alongside the other areas of the kernel he oversees. Among the char/misc changes is adding the NTSYNC driver that exposes the /dev/ntsync character device for use by the likes of Wine and Valve's Steam Play (Proton). But for Linux 6.10 the driver is effectively \"broken\" as most of the feature patches have yet to be included...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-char-misc",
+          "publishedOn": "2024-05-23T00:07:51.000Z",
+          "wordCount": 1800,
+          "title": "Initial Windows NT Sync Driver Merged Into Linux 6.10 But Not Yet Complete",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Mesa-24.1-Released",
+          "author": "Michael Larabel",
+          "description": "Eric Engestrom has announced the release of Mesa 24.1 as this quarter's feature release to these open-source OpenGL and Vulkan drivers...",
+          "link": "https://www.phoronix.com/news/Mesa-24.1-Released",
+          "publishedOn": "2024-05-22T19:27:29.000Z",
+          "wordCount": 1929,
+          "title": "Mesa 24.1 Released With Explicit Sync Vulkan Drivers, More Mature NVK Driver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-RISC-V",
+          "author": "Michael Larabel",
+          "description": "The latest RISC-V port updates have been merged for the in-development Linux 6.10 kernel...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-RISC-V",
+          "publishedOn": "2024-05-22T19:19:01.000Z",
+          "wordCount": 1862,
+          "title": "RISC-V Now Supports Rust In The Linux Kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Steam-Deck-Platform-Driver-2024",
+          "author": "Michael Larabel",
+          "description": "Back in February 2022 prior to the Valve Steam Deck being released, a Steam Deck Platform Driver was posted for the Linux kernel. Sadly, more than two years later, this driver still hasn't been upstreamed into the mainline Linux kernel and it looks like it could still be months before it happens...",
+          "link": "https://www.phoronix.com/news/Steam-Deck-Platform-Driver-2024",
+          "publishedOn": "2024-05-22T17:46:44.000Z",
+          "wordCount": 1903,
+          "title": "Steam Deck Platform Driver In No Apparent Rush For Upstreaming Into The Linux Kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Hardening",
+          "author": "Michael Larabel",
+          "description": "Introduced last year with the Linux 6.7 kernel was a hardening configuration to allow for \"make hardening.config\" as an easy way of building a security-hardened Linux kernel with sane defaults. With Linux 6.10 there are some additional security minded features now enabled...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Hardening",
+          "publishedOn": "2024-05-22T16:53:01.000Z",
+          "wordCount": 1746,
+          "title": "Linux 6.10's Hardening Configuration Now Enables KCFI & Other Features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-USB",
+          "author": "Michael Larabel",
+          "description": "Greg Kroah-Hartman sent out the USB/Thunderbolt changes this morning for the Linux 6.10 merge window that is wrapping up this weekend. Surprisingly, in 2024, a new USB to parallel printer port adapter variant is being introduced with Linux 6.10...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-USB",
+          "publishedOn": "2024-05-22T16:10:00.000Z",
+          "wordCount": 1895,
+          "title": "Linux 6.10 Shows People Are Still Using USB To Parallel Port Adapters In 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-FUSE",
+          "author": "Michael Larabel",
+          "description": "The FUSE updates have been submitted for the Linux 6.10 kernel in supporting file-system implementations within user-space...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-FUSE",
+          "publishedOn": "2024-05-22T15:11:51.000Z",
+          "wordCount": 1849,
+          "title": "FUSE Adds VirtIO-FS Multi-Queue For ~5x Performance Win With Linux 6.10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Alpine-Linux-3.20",
+          "author": "Michael Larabel",
+          "description": "Alpine Linux 3.20 has been released as the newest feature release to this security-minded, lightweight Linux distribution that is popular for embedded and container use. Alpine Linux continues to set itself apart from others by making use of musl libc, Busybox, and other modifications in the name of security and small footprint...",
+          "link": "https://www.phoronix.com/news/Alpine-Linux-3.20",
+          "publishedOn": "2024-05-22T13:02:08.000Z",
+          "wordCount": 1709,
+          "title": "Alpine Linux 3.20 Released With Initial 64-bit RISC-V Support",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.10-Perf-Tools",
           "author": "Michael Larabel",
