@@ -213,6 +213,56 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Staging",
+          "author": "Michael Larabel",
+          "description": "In addition to the Linux 6.10 USB changes and char/misc with the new NTSYNC driver, Greg Kroah-Hartman on Wednesday also sent out the staging updates for Linux 6.10. There isn't much in the way of new code but some 19k lines of code removed thanks to removing an unused driver as well as a broken driver...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Staging",
+          "publishedOn": "2024-05-23T10:58:20.000Z",
+          "wordCount": 1968,
+          "title": "Linux 6.10 Staging Drops Broken & Unused Drivers To Remove 19k L.O.C.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/LLVM-19-Drops-Xeon-Phi",
+          "author": "Michael Larabel",
+          "description": "Similar to the GCC compiler dropping support for the Xeon Phi Knights Mill and Knights Landing accelerators a few days ago, Intel has also gone ahead and seen to the removal of Xeon Phi support for the LLVM/Clang 19 compiler...",
+          "link": "https://www.phoronix.com/news/LLVM-19-Drops-Xeon-Phi",
+          "publishedOn": "2024-05-23T10:44:18.000Z",
+          "wordCount": 1855,
+          "title": "Intel Removes Knights Mill & Knights Landing Xeon Phi Support In LLVM 19",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Non-MM-Patches",
+          "author": "Michael Larabel",
+          "description": "Andrew Morton sent out more patches on Wednesday that have been pulled into the Linux 6.10 kernel. Notable from this latest round of \"non-MM\" updates is enabling more compiler warnings by default and getting newer AMD GPUs working on the RISC-V architecture...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Non-MM-Patches",
+          "publishedOn": "2024-05-23T10:28:29.000Z",
+          "wordCount": 2031,
+          "title": "Newer AMD Radeon Graphics Cards Now Work On RISC-V With Linux 6.10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GNOME-MRE-Over-Mutter-Shell",
+          "author": "Michael Larabel",
+          "description": "GNOME Shell and Mutter had been covered by Ubuntu's GNOME MicroReleaseException \"MRE\" policy that allows for new point releases to ship rather easily as stable updates to existing Ubuntu Linux releases. But breaking the camel's back is GNOME 46.1 shipping explicit sync support. Due to landing a \"significant new feature\" into a point release, the GNOME Shell and Mutter are no longer covered by this exception...",
+          "link": "https://www.phoronix.com/news/GNOME-MRE-Over-Mutter-Shell",
+          "publishedOn": "2024-05-23T10:09:11.000Z",
+          "wordCount": 1851,
+          "title": "GNOME Shell & Mutter Broke Their Good Faith With Ubuntu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-VirtIO",
+          "author": "Michael Larabel",
+          "description": "All of the VirtIO updates are now ready for the Linux 6.10 merge window that is closing this weekend...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-VirtIO",
+          "publishedOn": "2024-05-23T09:57:19.000Z",
+          "wordCount": 1740,
+          "title": "VirtIO Improvements Ready For Linux 6.10",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/systemd-256-rc3-Released",
           "author": "Michael Larabel",
           "description": "It looks like systemd 256 will officially debut as stable in the near future with systemd 256-rc3 being released today and not tacking on any new features compared to the prior release candidates...",
