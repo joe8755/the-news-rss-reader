@@ -2,10 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-23T12:32:24.858Z</updated>
+    <updated>2024-05-24T01:15:20.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Is Disabling NFS v2 Client Support By Default]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-NFS-Client</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-NFS-Client"/>
+        <updated>2024-05-24T00:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Following the NFS server changes from a few days ago for Linux 6.10 that brought optimizations and prepping for the new "nfsdctl" utility, the Network File System client changes have been submitted and merged for this new kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-23]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-23.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-23.html"/>
+        <updated>2024-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 23, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Number 16 (spider)
+(comments)
+
+
+Windows 10 wallpaper was physically built and photographed (2015)
+(comments)
+
+
+Sal Khan is pioneering innovation in education again
+(comments)
+
+
+Show HN: Route your prompts to the best LLM
+(comments)
+
+
+US Justice Department to seek breakup of Live Nation-Ticketmaster
+(comments)
+
+
+OpenAI didn’t copy Scarlett Johansson’s voice for ChatGPT, records show
+(comments)
+
+
+WinDirStat – Windows Directory Statistics
+(comments)
+
+
+The Space Quest II Master Disk Blunder
+(comments)
+
+
+We're ending our Samsung collaboration
+(comments)
+
+
+Daylight Computer – New 60fps e-paper tablet
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME Publishes Draft Of Five-Year Strategic Plan]]></title>
+        <id>https://www.phoronix.com/news/GNOME-5-Year-Plan-Draft</id>
+        <link href="https://www.phoronix.com/news/GNOME-5-Year-Plan-Draft"/>
+        <updated>2024-05-23T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The GNOME Foundation has published a draft copy of their five-year strategic plan that calls for more around the community, DEI, services, a more streamlined and inclusive annual event, and strengthening the foundation...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coreboot 24.05 Released With 25 More Platforms - Including The Framework 13 AMD]]></title>
+        <id>https://www.phoronix.com/news/Coreboot-24.05-Released</id>
+        <link href="https://www.phoronix.com/news/Coreboot-24.05-Released"/>
+        <updated>2024-05-23T16:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Coreboot 24.05 is available today as the newest stable release of this open-source system firmware solution. With Coreboot 24.05 there is support for 25 more motherboards/platforms and an assortment of other improvements...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 24.04 + Linux 6.9 Intel & AMD Server Performance]]></title>
+        <id>https://www.phoronix.com/review/linux69-ubuntu-2404-servers</id>
+        <link href="https://www.phoronix.com/review/linux69-ubuntu-2404-servers"/>
+        <updated>2024-05-23T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[While earlier this week was looking at the AMD EPYC 4004 vs. Intel Xeon E-2488 performance for entry-level server performance, in today's benchmarking showdown is a fresh look higher up the stack at the current generation server performance out of Intel Xeon Sapphire Rapids / Emerald Rapids and AMD EPYC Genoa(X) / Bergamo / Siena with a leading-edge open-source software stack of using Ubuntu 24.04 LTS while also jumping from Linux 6.8 to Linux 6.9 for the very latest x86_64 Linux server performance.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Delivers AMD & Intel P-State Driver Updates To Refine Power Management]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Power-Management</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Power-Management"/>
+        <updated>2024-05-23T16:16:43.000Z</updated>
+        <summary type="html"><![CDATA[The ACPI and power management / thermal subsystem changes were merged last week for the Linux 6.10 kernel. This cycle there are updates to both the Intel and AMD P-State CPU frequency scaling drivers...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[64-bit ARM With Linux 6.10: Building FIT Images & Optional Disabling 32-bit User-Space]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-ARM64</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-ARM64"/>
+        <updated>2024-05-23T14:28:45.000Z</updated>
+        <summary type="html"><![CDATA[Merged last week for the Linux 6.10 kernel were all of the 64-bit ARM (ARM64 / AArch64) architecture changes. There is ACPI FACS support, the ability to easily construct FIT images, and a new command-line option for disabling 32-bit application support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.10 Staging Drops Broken & Unused Drivers To Remove 19k L.O.C.]]></title>
         <id>https://www.phoronix.com/news/Linux-6.10-Staging</id>

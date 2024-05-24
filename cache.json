@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-23.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 23, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nNumber 16 (spider)\n(comments)\n\n\nWindows 10 wallpaper was physically built and photographed (2015)\n(comments)\n\n\nSal Khan is pioneering innovation in education again\n(comments)\n\n\nShow HN: Route your prompts to the best LLM\n(comments)\n\n\nUS Justice Department to seek breakup of Live Nation-Ticketmaster\n(comments)\n\n\nOpenAI didn’t copy Scarlett Johansson’s voice for ChatGPT, records show\n(comments)\n\n\nWinDirStat – Windows Directory Statistics\n(comments)\n\n\nThe Space Quest II Master Disk Blunder\n(comments)\n\n\nWe're ending our Samsung collaboration\n(comments)\n\n\nDaylight Computer – New 60fps e-paper tablet\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-23.html",
+          "publishedOn": "2024-05-24T00:00:00.000Z",
+          "wordCount": 564,
+          "title": "Daily Hacker News for 2024-05-23",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-22.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 22, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: I built a game to help you learn neural network architectures\n(comments)\n\n\nShow HN: Pls Fix – Hire big tech employees to appeal account suspensions\n(comments)\n\n\nAmber: Programming language compiled to Bash\n(comments)\n\n\nThe curious case of the missing period\n(comments)\n\n\nStoring knowledge in a single long plain text file\n(comments)\n\n\n'Right to roam' movement fights to give the commons back to the public\n(comments)\n\n\nPluckable Strings\n(comments)\n\n\nOne-third of Amazon warehouse workers are on food stamps or Medicaid\n(comments)\n\n\nTry Clojure\n(comments)\n\n\nLeaked OpenAI documents reveal aggressive tactics toward former employees\n(comments)",
@@ -212,6 +222,66 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-NFS-Client",
+          "author": "Michael Larabel",
+          "description": "Following the NFS server changes from a few days ago for Linux 6.10 that brought optimizations and prepping for the new \"nfsdctl\" utility, the Network File System client changes have been submitted and merged for this new kernel...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-NFS-Client",
+          "publishedOn": "2024-05-24T00:06:30.000Z",
+          "wordCount": 1912,
+          "title": "Linux 6.10 Is Disabling NFS v2 Client Support By Default",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GNOME-5-Year-Plan-Draft",
+          "author": "Michael Larabel",
+          "description": "The GNOME Foundation has published a draft copy of their five-year strategic plan that calls for more around the community, DEI, services, a more streamlined and inclusive annual event, and strengthening the foundation...",
+          "link": "https://www.phoronix.com/news/GNOME-5-Year-Plan-Draft",
+          "publishedOn": "2024-05-23T18:10:00.000Z",
+          "wordCount": 1772,
+          "title": "GNOME Publishes Draft Of Five-Year Strategic Plan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Coreboot-24.05-Released",
+          "author": "Michael Larabel",
+          "description": "Coreboot 24.05 is available today as the newest stable release of this open-source system firmware solution. With Coreboot 24.05 there is support for 25 more motherboards/platforms and an assortment of other improvements...",
+          "link": "https://www.phoronix.com/news/Coreboot-24.05-Released",
+          "publishedOn": "2024-05-23T16:52:00.000Z",
+          "wordCount": 1997,
+          "title": "Coreboot 24.05 Released With 25 More Platforms - Including The Framework 13 AMD",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/linux69-ubuntu-2404-servers",
+          "author": "Michael Larabel",
+          "description": "While earlier this week was looking at the AMD EPYC 4004 vs. Intel Xeon E-2488 performance for entry-level server performance, in today's benchmarking showdown is a fresh look higher up the stack at the current generation server performance out of Intel Xeon Sapphire Rapids / Emerald Rapids and AMD EPYC Genoa(X) / Bergamo / Siena with a leading-edge open-source software stack of using Ubuntu 24.04 LTS while also jumping from Linux 6.8 to Linux 6.9 for the very latest x86_64 Linux server performance.",
+          "link": "https://www.phoronix.com/review/linux69-ubuntu-2404-servers",
+          "publishedOn": "2024-05-23T16:30:00.000Z",
+          "wordCount": 2038,
+          "title": "Ubuntu 24.04 + Linux 6.9 Intel & AMD Server Performance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Power-Management",
+          "author": "Michael Larabel",
+          "description": "The ACPI and power management / thermal subsystem changes were merged last week for the Linux 6.10 kernel. This cycle there are updates to both the Intel and AMD P-State CPU frequency scaling drivers...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Power-Management",
+          "publishedOn": "2024-05-23T16:16:43.000Z",
+          "wordCount": 1953,
+          "title": "Linux 6.10 Delivers AMD & Intel P-State Driver Updates To Refine Power Management",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-ARM64",
+          "author": "Michael Larabel",
+          "description": "Merged last week for the Linux 6.10 kernel were all of the 64-bit ARM (ARM64 / AArch64) architecture changes. There is ACPI FACS support, the ability to easily construct FIT images, and a new command-line option for disabling 32-bit application support...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-ARM64",
+          "publishedOn": "2024-05-23T14:28:45.000Z",
+          "wordCount": 1964,
+          "title": "64-bit ARM With Linux 6.10: Building FIT Images & Optional Disabling 32-bit User-Space",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.10-Staging",
           "author": "Michael Larabel",
