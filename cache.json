@@ -223,6 +223,46 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/PipeWire-1.2-RC2",
+          "author": "Michael Larabel",
+          "description": "Following the recent PipeWire 1.2 release candidate, a second release candidate is out today that also includes the ability to stream to Snapcast servers...",
+          "link": "https://www.phoronix.com/news/PipeWire-1.2-RC2",
+          "publishedOn": "2024-05-24T11:11:12.000Z",
+          "wordCount": 1837,
+          "title": "PipeWire 1.2 Can Stream To Snapcast Servers For Multi-Room Audio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-HWMON",
+          "author": "Michael Larabel",
+          "description": "The hardware monitoring \"HWMON\" subsystem changes for the Linux 6.10 kernel include enabling monitoring of more all-in-one liquid coolers for CPUs, a new driver for exposing monitoring on Lenovo ThinkStation workstations, and other new monitoring capabilities...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-HWMON",
+          "publishedOn": "2024-05-24T10:51:51.000Z",
+          "wordCount": 1769,
+          "title": "Linux 6.10 Hardware Monitoring Includes New Lenovo ThinkStation Driver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Framework-CrOS",
+          "author": "Michael Larabel",
+          "description": "The Framework 13 and Framework 16 AMD Ryzen powered laptops make use of an NPCX embedded controller that rely on the ChromeOS open-source embedded controller (EC) firmware. With the Linux 6.10 kernel the Chrome OS \"cros_ec_lpc\" driver is being extended to support these latest Framework upgradeable laptops...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Framework-CrOS",
+          "publishedOn": "2024-05-24T10:43:42.000Z",
+          "wordCount": 1777,
+          "title": "Framework 13 & 16 Added To ChromeOS Platform Driver In Linux 6.10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Input",
+          "author": "Michael Larabel",
+          "description": "Following the HID changes last week that brought Steam Deck IMU and ASUS ROG Ally support along with other Human Interface Device additions, on Thursday the input subsystem updates were submitted for this new kernel. The Machenike G5 Pro gaming controller is now supported along with other input additions...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Input",
+          "publishedOn": "2024-05-24T10:17:58.000Z",
+          "wordCount": 1718,
+          "title": "Linux 6.10 Adds Support For The Machenike G5 Pro Controller",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.10-NFS-Client",
           "author": "Michael Larabel",
           "description": "Following the NFS server changes from a few days ago for Linux 6.10 that brought optimizations and prepping for the new \"nfsdctl\" utility, the Network File System client changes have been submitted and merged for this new kernel...",
