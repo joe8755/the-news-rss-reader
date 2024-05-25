@@ -233,6 +233,46 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Llamafile-0.8.5-Released",
+          "author": "Michael Larabel",
+          "description": "The Mozilla Ocho group has published their newest version of Llamafile, the open-source project that makes it very easy to distribute and run large language models (LLMs) as a single file. Llamafile is an excellent solution for easily sharing and running LLMs and supporting both speedy CPU-based execution as well as GPU acceleration where available...",
+          "link": "https://www.phoronix.com/news/Llamafile-0.8.5-Released",
+          "publishedOn": "2024-05-25T10:50:00.000Z",
+          "wordCount": 1800,
+          "title": "Llamafile 0.8.5 Delivers Greater Performance: Tiny Models 2x Faster On Threadripper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GNOME-Memorial-Week-2024",
+          "author": "Michael Larabel",
+          "description": "This Week In GNOME is out with their newest edition to outline all of the interesting developments as we approach the end of May...",
+          "link": "https://www.phoronix.com/news/GNOME-Memorial-Week-2024",
+          "publishedOn": "2024-05-25T10:33:41.000Z",
+          "wordCount": 1810,
+          "title": "GNOME Continues Working On New Installer, \"Major Issue\" With STF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-NPU-Accel-Lib-1.1",
+          "author": "Michael Larabel",
+          "description": "Intel software engineers did a late Friday night release of the Intel NPU Acceleration Library v1.1, their Python library for tapping into the Intel Neural Processing Unit (NPU) found on the new Core Ultra (Meteor Lake) processors. This Python library makes it easier to interface with the Intel VPU/NPU kernel driver and in turn enjoying accelerated operations for AI...",
+          "link": "https://www.phoronix.com/news/Intel-NPU-Accel-Lib-1.1",
+          "publishedOn": "2024-05-25T10:18:50.000Z",
+          "wordCount": 1842,
+          "title": "Intel NPU Acceleration Library 1.1 Adds New Model Support & Optimizations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Plasma-6.1-Last-Minute-Features",
+          "author": "Michael Larabel",
+          "description": "It was a busy week for KDE developers ahead of yesterday's Plasma 6.1 Beta release. KDE developer Nate Graham in his weekly development summary outlined all of the interesting changes to make it into the Plasma 6.1 desktop ahead of the feature freeze that went into effect with the beta release...",
+          "link": "https://www.phoronix.com/news/Plasma-6.1-Last-Minute-Features",
+          "publishedOn": "2024-05-25T10:11:41.000Z",
+          "wordCount": 1799,
+          "title": "KDE Landed Many Last Minute Features Ahead Of The Plasma 6.1 Beta",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.10-Merges-mseal",
           "author": "Michael Larabel",
           "description": "Merged this Friday evening into the Linux 6.10 kernel is the new mseal() system call for memory sealing...",

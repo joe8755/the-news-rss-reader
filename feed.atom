@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-25T01:14:02.579Z</updated>
+    <updated>2024-05-25T12:31:05.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Llamafile 0.8.5 Delivers Greater Performance: Tiny Models 2x Faster On Threadripper]]></title>
+        <id>https://www.phoronix.com/news/Llamafile-0.8.5-Released</id>
+        <link href="https://www.phoronix.com/news/Llamafile-0.8.5-Released"/>
+        <updated>2024-05-25T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The Mozilla Ocho group has published their newest version of Llamafile, the open-source project that makes it very easy to distribute and run large language models (LLMs) as a single file. Llamafile is an excellent solution for easily sharing and running LLMs and supporting both speedy CPU-based execution as well as GPU acceleration where available...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME Continues Working On New Installer, "Major Issue" With STF]]></title>
+        <id>https://www.phoronix.com/news/GNOME-Memorial-Week-2024</id>
+        <link href="https://www.phoronix.com/news/GNOME-Memorial-Week-2024"/>
+        <updated>2024-05-25T10:33:41.000Z</updated>
+        <summary type="html"><![CDATA[This Week In GNOME is out with their newest edition to outline all of the interesting developments as we approach the end of May...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel NPU Acceleration Library 1.1 Adds New Model Support & Optimizations]]></title>
+        <id>https://www.phoronix.com/news/Intel-NPU-Accel-Lib-1.1</id>
+        <link href="https://www.phoronix.com/news/Intel-NPU-Accel-Lib-1.1"/>
+        <updated>2024-05-25T10:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Intel software engineers did a late Friday night release of the Intel NPU Acceleration Library v1.1, their Python library for tapping into the Intel Neural Processing Unit (NPU) found on the new Core Ultra (Meteor Lake) processors. This Python library makes it easier to interface with the Intel VPU/NPU kernel driver and in turn enjoying accelerated operations for AI...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Landed Many Last Minute Features Ahead Of The Plasma 6.1 Beta]]></title>
+        <id>https://www.phoronix.com/news/Plasma-6.1-Last-Minute-Features</id>
+        <link href="https://www.phoronix.com/news/Plasma-6.1-Last-Minute-Features"/>
+        <updated>2024-05-25T10:11:41.000Z</updated>
+        <summary type="html"><![CDATA[It was a busy week for KDE developers ahead of yesterday's Plasma 6.1 Beta release. KDE developer Nate Graham in his weekly development summary outlined all of the interesting changes to make it into the Plasma 6.1 desktop ahead of the feature freeze that went into effect with the beta release...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Memory Sealing "mseal" System Call Merged For Linux 6.10]]></title>
         <id>https://www.phoronix.com/news/Linux-6.10-Merges-mseal</id>
