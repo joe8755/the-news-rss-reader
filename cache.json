@@ -243,6 +243,46 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.10-MM",
+          "author": "Michael Larabel",
+          "description": "With the memory management \"MM\" updates merged for the Linux 6.10 there is now NUMA balancing support for multi-size transparent hugepages (THPs). This is yielding some nice performance results and there is also other work in this new kernel around multi-size THPs...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-MM",
+          "publishedOn": "2024-05-26T10:59:13.000Z",
+          "wordCount": 1771,
+          "title": "Linux 6.10 Supports NUMA Balancing For Multi-Size THPs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AMD-Fast-CPPC-v4-Linux",
+          "author": "Michael Larabel",
+          "description": "One of the patch series that sadly was not ready in time for the Linux 6.10 merge window and thus will need to wait a few months for at least the next kernel is enabling AMD Fast CPPC support for Zen 4 processors. Fast CPPC aims to allow the processor to deliver higher performance at the same power consumption...",
+          "link": "https://www.phoronix.com/news/AMD-Fast-CPPC-v4-Linux",
+          "publishedOn": "2024-05-26T10:30:29.000Z",
+          "wordCount": 1909,
+          "title": "Updated Patches For AMD \"Fast CPPC\" To Yield Higher Performance At Same Power Level",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Nouveau-DRM-Panic-Patches",
+          "author": "Michael Larabel",
+          "description": "Merged for Linux 6.10 is DRM_Panic as a kernel panic screen for situations akin to Windows' well known \"Blue Screen of Death\". This is a kernel-based panic screen as an  alternative to systemd's recent systemd-bsod. Patches have been posted by Red Hat for allowing the open-source NVIDIA \"Nouveau\" Direct Rendering Manager driver to work with DRM Panic...",
+          "link": "https://www.phoronix.com/news/Nouveau-DRM-Panic-Patches",
+          "publishedOn": "2024-05-26T10:15:17.000Z",
+          "wordCount": 1970,
+          "title": "Nouveau DRM_Panic Being Worked On For Linux \"Blue Screen Of Death\" Type Situations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-NTFS-Fixes",
+          "author": "Michael Larabel",
+          "description": "While not as exciting as XFS expanding its online repair support, Bcachefs prepping for online fsck, Btrfs seeing some performance work, or F2FS improving zoned storage support, the modern NTFS driver \"NTFS3\" saw a set of fixes land for the Linux 6.10 kernel...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-NTFS-Fixes",
+          "publishedOn": "2024-05-26T10:01:39.000Z",
+          "wordCount": 1898,
+          "title": "Modern NTFS Driver Sees Bug Fixes With Linux 6.10",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.10-AMDKFD-Small-APUs",
           "author": "Michael Larabel",
           "description": "Sneaking in as a \"fix\" for the Linux 6.10 kernel is an enhancement to the AMDKFD kernel compute driver used by the ROCm compute stack for better supporting small Ryzen APUs like client and embedded SoCs...",
