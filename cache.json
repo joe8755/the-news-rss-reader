@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-25.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 25, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: We open sourced our entire text-to-SQL product\n(comments)\n\n\nVoxel Displacement Renderer – Modernizing the Retro 3D Aesthetic\n(comments)\n\n\nSharing details on a recent incident impacting one of our customers\n(comments)\n\n\nThermodynamic Natural Gradient Descent\n(comments)\n\n\nSamsung WB850F Firmware Reverse Engineering\n(comments)\n\n\nWriting a Unix clone in about a month\n(comments)\n\n\nMp3tag – Universal Tag Editor\n(comments)\n\n\nShow HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go\n(comments)\n\n\nAbusing Go's Infrastructure\n(comments)\n\n\nGoogle scrambles to manually remove weird AI answers in search\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-25.html",
+          "publishedOn": "2024-05-26T00:00:00.000Z",
+          "wordCount": 568,
+          "title": "Daily Hacker News for 2024-05-25",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-24.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 24, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nTom Waits vs. Frito-Lay, Inc (2003)\n(comments)\n\n\nBB(3, 4) > Ack(14)\n(comments)\n\n\n300k airplanes in five years\n(comments)\n\n\nMaking EC2 boot time faster\n(comments)\n\n\nMatcha.css – Drop-in semantic styling library in pure CSS\n(comments)\n\n\nCement recycling method could help solve one of the big climate challenges\n(comments)\n\n\nPerplexica: Open-source Perplexity alternative\n(comments)\n\n\n2D Rigid Body Collision Resolution\n(comments)\n\n\nICQ will stop working from June 26\n(comments)\n\n\nFinancial Statement Analysis with Large Language Models\n(comments)",
@@ -232,6 +242,26 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-AMDKFD-Small-APUs",
+          "author": "Michael Larabel",
+          "description": "Sneaking in as a \"fix\" for the Linux 6.10 kernel is an enhancement to the AMDKFD kernel compute driver used by the ROCm compute stack for better supporting small Ryzen APUs like client and embedded SoCs...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-AMDKFD-Small-APUs",
+          "publishedOn": "2024-05-25T13:45:00.000Z",
+          "wordCount": 1947,
+          "title": "Linux 6.10 Improves AMD ROCm Compute Support For \"Small\" Ryzen APUs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-RISC-V-Image-Comp",
+          "author": "Michael Larabel",
+          "description": "A few days ago with the main RISC-V architecture pull for Linux 6.10 was enabling Rust support within the kernel for this ISA as well as other additions. A secondary set of RISC-V changes have been merged as well ahead of the Linux 6.10 merge window closing this weekend...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-RISC-V-Image-Comp",
+          "publishedOn": "2024-05-25T13:04:32.000Z",
+          "wordCount": 1784,
+          "title": "Linux 6.10 On RISC-V Allows Configurable Boot Image Compression",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Llamafile-0.8.5-Released",
           "author": "Michael Larabel",
