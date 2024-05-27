@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-26.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 26, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\n&udm=14 – easy access to an AI-free Google search\n(comments)\n\n\nSo good, it works on barbed wire (2001)\n(comments)\n\n\nHelen Keller on her life before self-consciousness (1908)\n(comments)\n\n\nDiffusion Models\n(comments)\n\n\nAsk HN: What is your ChatGPT customization prompt?\n(comments)\n\n\nHow Home Assistant is being used to protect from missile and drone attacks\n(comments)\n\n\nBraid: Synchronization for HTTP\n(comments)\n\n\nHurl, the Exceptional Language\n(comments)\n\n\nCloudflare took down our website\n(comments)\n\n\nGoogle Meet rolls out multi-device adaptive audio merging\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-26.html",
+          "publishedOn": "2024-05-27T00:00:00.000Z",
+          "wordCount": 561,
+          "title": "Daily Hacker News for 2024-05-26",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-25.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 25, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: We open sourced our entire text-to-SQL product\n(comments)\n\n\nVoxel Displacement Renderer – Modernizing the Retro 3D Aesthetic\n(comments)\n\n\nSharing details on a recent incident impacting one of our customers\n(comments)\n\n\nThermodynamic Natural Gradient Descent\n(comments)\n\n\nSamsung WB850F Firmware Reverse Engineering\n(comments)\n\n\nWriting a Unix clone in about a month\n(comments)\n\n\nMp3tag – Universal Tag Editor\n(comments)\n\n\nShow HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go\n(comments)\n\n\nAbusing Go's Infrastructure\n(comments)\n\n\nGoogle scrambles to manually remove weird AI answers in search\n(comments)",
@@ -242,6 +252,26 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-rc1",
+          "author": "Michael Larabel",
+          "description": "The Linux 6.10-rc1 kernel was just released to top off the Linux 6.10 merge window...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-rc1",
+          "publishedOn": "2024-05-26T22:38:15.000Z",
+          "wordCount": 2015,
+          "title": "Linux 6.10-rc1 Kernel Released With Many New Features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-NPU-iVPU-Refactoring",
+          "author": "Michael Larabel",
+          "description": "Intel's open-source NPU \"iVPU\" Linux kernel driver for supporting their Neural Processing Unit beginning with Core Ultra \"Meteor Lake\" processors is already seeing a code refactoring. The refactoring of this Intel accelerator driver is intended for allowing more versatile CPU and NPU combinations moving forward...",
+          "link": "https://www.phoronix.com/news/Intel-NPU-iVPU-Refactoring",
+          "publishedOn": "2024-05-26T13:50:19.000Z",
+          "wordCount": 1980,
+          "title": "Intel NPU Driver Being Refactored For More Versatile CPU+NPU Handling",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.10-MM",
           "author": "Michael Larabel",

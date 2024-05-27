@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-26T12:30:21.606Z</updated>
+    <updated>2024-05-27T01:16:30.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-26]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-26.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-26.html"/>
+        <updated>2024-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 26, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+&udm=14 – easy access to an AI-free Google search
+(comments)
+
+
+So good, it works on barbed wire (2001)
+(comments)
+
+
+Helen Keller on her life before self-consciousness (1908)
+(comments)
+
+
+Diffusion Models
+(comments)
+
+
+Ask HN: What is your ChatGPT customization prompt?
+(comments)
+
+
+How Home Assistant is being used to protect from missile and drone attacks
+(comments)
+
+
+Braid: Synchronization for HTTP
+(comments)
+
+
+Hurl, the Exceptional Language
+(comments)
+
+
+Cloudflare took down our website
+(comments)
+
+
+Google Meet rolls out multi-device adaptive audio merging
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10-rc1 Kernel Released With Many New Features]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-rc1</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-rc1"/>
+        <updated>2024-05-26T22:38:15.000Z</updated>
+        <summary type="html"><![CDATA[The Linux 6.10-rc1 kernel was just released to top off the Linux 6.10 merge window...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel NPU Driver Being Refactored For More Versatile CPU+NPU Handling]]></title>
+        <id>https://www.phoronix.com/news/Intel-NPU-iVPU-Refactoring</id>
+        <link href="https://www.phoronix.com/news/Intel-NPU-iVPU-Refactoring"/>
+        <updated>2024-05-26T13:50:19.000Z</updated>
+        <summary type="html"><![CDATA[Intel's open-source NPU "iVPU" Linux kernel driver for supporting their Neural Processing Unit beginning with Core Ultra "Meteor Lake" processors is already seeing a code refactoring. The refactoring of this Intel accelerator driver is intended for allowing more versatile CPU and NPU combinations moving forward...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.10 Supports NUMA Balancing For Multi-Size THPs]]></title>
         <id>https://www.phoronix.com/news/Linux-6.10-MM</id>
