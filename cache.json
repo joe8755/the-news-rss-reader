@@ -253,6 +253,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/LicheeRV-Nano-Linux-Patches",
+          "author": "Michael Larabel",
+          "description": "Linux kernel patches were posted today for enabling Linux to boot on the LicheeRV Nano, a mini single board computer that comes in at a mere 22.86 x 35.56 mm. As interesting as the size with this SBC is the Sophgo SG2002 SoC that features a mix of RISC-V and ARM cores...",
+          "link": "https://www.phoronix.com/news/LicheeRV-Nano-Linux-Patches",
+          "publishedOn": "2024-05-27T10:55:09.000Z",
+          "wordCount": 1954,
+          "title": "Linux Patches Posted For Enabling A 22 x 35 mm RISC-V / ARM Board",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Making-ROCm-Build-Easier",
+          "author": "Michael Larabel",
+          "description": "An end-user and Phoronix reader has taken up creating his own AMD ROCm SDK build system to make it easier to setup a machine learning software stack from scratch on AMD Radeon GPUs under Linux. This open-source build system pulls in the AMD ROCm source code as well as AMD GPU-accelerated tools like PyTorch and ONNX and makes it easier to deploy and without having to rely on Docker or other solutions...",
+          "link": "https://www.phoronix.com/news/Making-ROCm-Build-Easier",
+          "publishedOn": "2024-05-27T10:26:31.000Z",
+          "wordCount": 2315,
+          "title": "An End-User Has Made It Easier To Build ROCm & AMD GPU Machine Learning Software",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.10-rc1",
           "author": "Michael Larabel",
           "description": "The Linux 6.10-rc1 kernel was just released to top off the Linux 6.10 merge window...",

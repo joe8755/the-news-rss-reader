@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-27T01:16:30.270Z</updated>
+    <updated>2024-05-27T12:33:13.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Patches Posted For Enabling A 22 x 35 mm RISC-V / ARM Board]]></title>
+        <id>https://www.phoronix.com/news/LicheeRV-Nano-Linux-Patches</id>
+        <link href="https://www.phoronix.com/news/LicheeRV-Nano-Linux-Patches"/>
+        <updated>2024-05-27T10:55:09.000Z</updated>
+        <summary type="html"><![CDATA[Linux kernel patches were posted today for enabling Linux to boot on the LicheeRV Nano, a mini single board computer that comes in at a mere 22.86 x 35.56 mm. As interesting as the size with this SBC is the Sophgo SG2002 SoC that features a mix of RISC-V and ARM cores...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An End-User Has Made It Easier To Build ROCm & AMD GPU Machine Learning Software]]></title>
+        <id>https://www.phoronix.com/news/Making-ROCm-Build-Easier</id>
+        <link href="https://www.phoronix.com/news/Making-ROCm-Build-Easier"/>
+        <updated>2024-05-27T10:26:31.000Z</updated>
+        <summary type="html"><![CDATA[An end-user and Phoronix reader has taken up creating his own AMD ROCm SDK build system to make it easier to setup a machine learning software stack from scratch on AMD Radeon GPUs under Linux. This open-source build system pulls in the AMD ROCm source code as well as AMD GPU-accelerated tools like PyTorch and ONNX and makes it easier to deploy and without having to rely on Docker or other solutions...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-05-26]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-05-26.html</id>
