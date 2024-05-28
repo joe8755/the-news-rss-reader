@@ -263,6 +263,36 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/ASUS-Linux-Cores-APU-Mem-TGP",
+          "author": "Michael Larabel",
+          "description": "The ASUS WMI platform driver for Linux that is predominantly used by ASUS laptops for enabling more functionality under Linux has a new patch series available that is enabling yet more features for the latest ASUS hardware on Linux...",
+          "link": "https://www.phoronix.com/news/ASUS-Linux-Cores-APU-Mem-TGP",
+          "publishedOn": "2024-05-28T10:38:32.000Z",
+          "wordCount": 1885,
+          "title": "ASUS Linux Driver Adding Ability To Toggle CPU Cores, APU Memory Settings & dGPU TGP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/openSUSE-Aeon-RC2",
+          "author": "Michael Larabel",
+          "description": "Nearly one year ago to the day the openSUSE project anounced MicroOS Desktop GNOME being renamed to openSUSE Aeon while openSUSE Desktop Plasma was taking the name openSUSE Kalpa...",
+          "link": "https://www.phoronix.com/news/openSUSE-Aeon-RC2",
+          "publishedOn": "2024-05-28T10:13:47.000Z",
+          "wordCount": 1876,
+          "title": "openSUSE Aeon RC2 Released With Btrfs Compression Default, ZRAM & Tik",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Ubuntu-24.04-Milk-V-Mars",
+          "author": "Michael Larabel",
+          "description": "Canonical announced this morning an optimized Ubuntu 24.04 image for the Milk-V Mars, a \"credit card sized\" RISC-V single board computer...",
+          "link": "https://www.phoronix.com/news/Ubuntu-24.04-Milk-V-Mars",
+          "publishedOn": "2024-05-28T09:58:54.000Z",
+          "wordCount": 1780,
+          "title": "Ubuntu 24.04 Now Available For The Milk-V Mars RISC-V Single Board Computer",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/FreeBSD-14.1-RC1-Released",
           "author": "Michael Larabel",
           "description": "FreeBSD 14.1-RC1 is now available for testing as this incremental update to FreeBSD 14 prepares for its stable release in June...",
