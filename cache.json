@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-27.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 27, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nTo the brain, reading computer code is not the same as reading language (2020)\n(comments)\n\n\nMediocre Engineer's Guide to HTTPS\n(comments)\n\n\nWhat the damaged Svalbard cable looked like\n(comments)\n\n\nThe one-year anniversary of my total glossectomy\n(comments)\n\n\nThe t-test was invented at the Guinness brewery\n(comments)\n\n\nBig data is dead (2023)\n(comments)\n\n\nInstead of “auth”, we should say “permissions” and “login”\n(comments)\n\n\nShould I use JWTs for authentication tokens?\n(comments)\n\n\nThe Internet Archive is under a DDoS attack\n(comments)\n\n\nControlling the Taylor Swift Eras Tour wristbands with Flipper Zero\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-27.html",
+          "publishedOn": "2024-05-28T00:00:00.000Z",
+          "wordCount": 572,
+          "title": "Daily Hacker News for 2024-05-27",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-26.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 26, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\n&udm=14 – easy access to an AI-free Google search\n(comments)\n\n\nSo good, it works on barbed wire (2001)\n(comments)\n\n\nHelen Keller on her life before self-consciousness (1908)\n(comments)\n\n\nDiffusion Models\n(comments)\n\n\nAsk HN: What is your ChatGPT customization prompt?\n(comments)\n\n\nHow Home Assistant is being used to protect from missile and drone attacks\n(comments)\n\n\nBraid: Synchronization for HTTP\n(comments)\n\n\nHurl, the Exceptional Language\n(comments)\n\n\nCloudflare took down our website\n(comments)\n\n\nGoogle Meet rolls out multi-device adaptive audio merging\n(comments)",
@@ -252,6 +262,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/FreeBSD-14.1-RC1-Released",
+          "author": "Michael Larabel",
+          "description": "FreeBSD 14.1-RC1 is now available for testing as this incremental update to FreeBSD 14 prepares for its stable release in June...",
+          "link": "https://www.phoronix.com/news/FreeBSD-14.1-RC1-Released",
+          "publishedOn": "2024-05-27T21:27:40.000Z",
+          "wordCount": 1804,
+          "title": "FreeBSD 14.1-RC1 Adds More Packages To The DVD Images - Including The Sway Compositor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-Perf-Limit-Reasons-Linux",
+          "author": "Michael Larabel",
+          "description": "Intel Performance Limit Reasons (PLR) can indicate why your CPU is downclocking / limited to a lower performance limit for a given core or die. With some Windows utilities this information this Intel CPU feature has been available there while now Intel is bringing PLR support to Linux too...",
+          "link": "https://www.phoronix.com/news/Intel-Perf-Limit-Reasons-Linux",
+          "publishedOn": "2024-05-27T17:23:44.000Z",
+          "wordCount": 1795,
+          "title": "Intel Performance Limit Reasons For Linux To Report Why Your CPU Is Downclocking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-ISPC-1.24-Released",
+          "author": "Michael Larabel",
+          "description": "The Intel Implicit SPMD Program Compiler (ISPC) is out with a new version today for this C programming language variant that features SPMD programming extensions. Intel ISPC aims to make it easy to take advantage of SIMD capabilities on their modern processors as well as GPUs...",
+          "link": "https://www.phoronix.com/news/Intel-ISPC-1.24-Released",
+          "publishedOn": "2024-05-27T14:37:08.000Z",
+          "wordCount": 1763,
+          "title": "Intel Releases ISPC 1.24 With New AVX-VNNI & AVX512-VNNI Targets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Vulkan-Memory-Allocator-3.1",
+          "author": "Michael Larabel",
+          "description": "AMD by way of their GPUOpen group have released version 3.1 of the open-source Vulkan Memory Allocator...",
+          "link": "https://www.phoronix.com/news/Vulkan-Memory-Allocator-3.1",
+          "publishedOn": "2024-05-27T13:44:01.000Z",
+          "wordCount": 1827,
+          "title": "AMD's GPUOpen Vulkan Memory Allocator 3.1 Improves Raspberry Pi Support",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/LicheeRV-Nano-Linux-Patches",
           "author": "Michael Larabel",
