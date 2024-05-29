@@ -273,6 +273,56 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Flamenco-dot-NET-Ubuntu",
+          "author": "Michael Larabel",
+          "description": "One of the newest open-source projects in-development by Ubuntu maker Canonical is a new C# written program called Flamenco...",
+          "link": "https://www.phoronix.com/news/Flamenco-dot-NET-Ubuntu",
+          "publishedOn": "2024-05-29T11:06:34.000Z",
+          "wordCount": 1931,
+          "title": "Canonical Developing \"Flamenco\" For Enhancing .NET Developer Experience On Ubuntu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Mesa-ACO-Changes-GFX12",
+          "author": "Michael Larabel",
+          "description": "The AMD shader compiler \"ACO\" alternative to the AMDGPU LLVM back-end has seen another batch of changes merged in preparations for next-generation Radeon RDNA4 GPUs...",
+          "link": "https://www.phoronix.com/news/Mesa-ACO-Changes-GFX12",
+          "publishedOn": "2024-05-29T10:41:24.000Z",
+          "wordCount": 1963,
+          "title": "Valve's AMD Shader Compiler \"ACO\" Makes More Preparations For Radeon RDNA4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-GCC-Loop-Alignment",
+          "author": "Michael Larabel",
+          "description": "Coming up on my radar today is a commit made to the GNU Compiler Collection (GCC) for adjusting the loop alignment with Intel's generic tuning path. In turn this should address \"some random performance penalty in benchmarks\" with coping better around cache lines...",
+          "link": "https://www.phoronix.com/news/Intel-GCC-Loop-Alignment",
+          "publishedOn": "2024-05-29T10:30:08.000Z",
+          "wordCount": 1902,
+          "title": "Intel Makes One Line Tweak To GCC To Fix A \"Random Performance Penalty\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-SNC-With-RDT-Linux-v19",
+          "author": "Michael Larabel",
+          "description": "The past year there's been a big Linux kernel patch series in the work by Intel to improve Sub-NUMA Clustering \"SNC\" support so it behaves well with Intel Resource Director Technology (RDT) on modern Intel hardware. Hopefully that work will soon be ready for mainlining in the Linux kernel while this week brought the 19th revision to those patches...",
+          "link": "https://www.phoronix.com/news/Intel-SNC-With-RDT-Linux-v19",
+          "publishedOn": "2024-05-29T10:22:29.000Z",
+          "wordCount": 1861,
+          "title": "Intel's Sub-NUMA Clustering Support Linux Patches Spun A 19th Time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Flowblade-2.16-Released",
+          "author": "Michael Larabel",
+          "description": "Flowblade 2.16 is out today as the newest version of this open-source non-linear video editor...",
+          "link": "https://www.phoronix.com/news/Flowblade-2.16-Released",
+          "publishedOn": "2024-05-29T10:15:46.000Z",
+          "wordCount": 1799,
+          "title": "Flowblade 2.16 Open-Source Video Editor Released",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/SVT-AV1-2.1-Released",
           "author": "Michael Larabel",
           "description": "SVT-AV1 that started out as an open-source AV1 video encoder at Intel and more recently an an Alliance of Open Media project quietly released SVT-AV1 v2.1 last week. With this new SVT-AV1 release are yet more performance optimizations and tuning...",

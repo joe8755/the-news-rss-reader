@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-29T01:18:54.564Z</updated>
+    <updated>2024-05-29T12:33:35.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canonical Developing "Flamenco" For Enhancing .NET Developer Experience On Ubuntu]]></title>
+        <id>https://www.phoronix.com/news/Flamenco-dot-NET-Ubuntu</id>
+        <link href="https://www.phoronix.com/news/Flamenco-dot-NET-Ubuntu"/>
+        <updated>2024-05-29T11:06:34.000Z</updated>
+        <summary type="html"><![CDATA[One of the newest open-source projects in-development by Ubuntu maker Canonical is a new C# written program called Flamenco...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve's AMD Shader Compiler "ACO" Makes More Preparations For Radeon RDNA4]]></title>
+        <id>https://www.phoronix.com/news/Mesa-ACO-Changes-GFX12</id>
+        <link href="https://www.phoronix.com/news/Mesa-ACO-Changes-GFX12"/>
+        <updated>2024-05-29T10:41:24.000Z</updated>
+        <summary type="html"><![CDATA[The AMD shader compiler "ACO" alternative to the AMDGPU LLVM back-end has seen another batch of changes merged in preparations for next-generation Radeon RDNA4 GPUs...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Makes One Line Tweak To GCC To Fix A "Random Performance Penalty"]]></title>
+        <id>https://www.phoronix.com/news/Intel-GCC-Loop-Alignment</id>
+        <link href="https://www.phoronix.com/news/Intel-GCC-Loop-Alignment"/>
+        <updated>2024-05-29T10:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Coming up on my radar today is a commit made to the GNU Compiler Collection (GCC) for adjusting the loop alignment with Intel's generic tuning path. In turn this should address "some random performance penalty in benchmarks" with coping better around cache lines...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's Sub-NUMA Clustering Support Linux Patches Spun A 19th Time]]></title>
+        <id>https://www.phoronix.com/news/Intel-SNC-With-RDT-Linux-v19</id>
+        <link href="https://www.phoronix.com/news/Intel-SNC-With-RDT-Linux-v19"/>
+        <updated>2024-05-29T10:22:29.000Z</updated>
+        <summary type="html"><![CDATA[The past year there's been a big Linux kernel patch series in the work by Intel to improve Sub-NUMA Clustering "SNC" support so it behaves well with Intel Resource Director Technology (RDT) on modern Intel hardware. Hopefully that work will soon be ready for mainlining in the Linux kernel while this week brought the 19th revision to those patches...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flowblade 2.16 Open-Source Video Editor Released]]></title>
+        <id>https://www.phoronix.com/news/Flowblade-2.16-Released</id>
+        <link href="https://www.phoronix.com/news/Flowblade-2.16-Released"/>
+        <updated>2024-05-29T10:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Flowblade 2.16 is out today as the newest version of this open-source non-linear video editor...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SVT-AV1 2.1 Released With Yet More Performance Improvements]]></title>
         <id>https://www.phoronix.com/news/SVT-AV1-2.1-Released</id>
