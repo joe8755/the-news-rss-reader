@@ -2,10 +2,144 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-28T12:33:05.725Z</updated>
+    <updated>2024-05-29T01:18:54.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SVT-AV1 2.1 Released With Yet More Performance Improvements]]></title>
+        <id>https://www.phoronix.com/news/SVT-AV1-2.1-Released</id>
+        <link href="https://www.phoronix.com/news/SVT-AV1-2.1-Released"/>
+        <updated>2024-05-29T00:34:06.000Z</updated>
+        <summary type="html"><![CDATA[SVT-AV1 that started out as an open-source AV1 video encoder at Intel and more recently an an Alliance of Open Media project quietly released SVT-AV1 v2.1 last week. With this new SVT-AV1 release are yet more performance optimizations and tuning...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-05-28]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-05-28.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-05-28.html"/>
+        <updated>2024-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on May 28, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+A 1.3B-light-year-across ring of galaxies has confounded astronomers
+(comments)
+
+
+Resume Tip: Hacking \"AI\" screening of resumes
+(comments)
+
+
+Priced out of home ownership
+(comments)
+
+
+Surveilling the masses with wi-fi-based positioning systems
+(comments)
+
+
+Tantivy – full-text search engine library inspired by Apache Lucene
+(comments)
+
+
+WP21
+(comments)
+
+
+Show HN: I made a free app to calibrate your turntable by simply playing a song
+(comments)
+
+
+Reproducing GPT-2 in llm.c
+(comments)
+
+
+TTE: Terminal Text Effects
+(comments)
+
+
+API Shouldn't Redirect HTTP to HTTPS
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xe2 Ray-Tracing & More Intel Lunar Lake Enabling Land In Mesa 24.2]]></title>
+        <id>https://www.phoronix.com/news/Mesa-24.2-More-Intel-Lunar-Lake</id>
+        <link href="https://www.phoronix.com/news/Mesa-24.2-More-Intel-Lunar-Lake"/>
+        <updated>2024-05-28T20:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Intel's open-source Linux graphics driver engineers continue to be quite busy preparing their Xe kernel driver and Mesa user-space ANV Vulkan / Iris Gallium3D driver for upcoming Lunar Lake processors. Merged today for Mesa 24.2-devel is more Lunar Lake platform enablement work plus early support for ray-tracing with the integrated Xe2 graphics. However, more work is still needed before this Lunar Lake / Xe2 support will be ready for end-users on the Linux desktop...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Starts Preparing Its Open-Source DirectX Shader Compiler For "HLSL 202x"]]></title>
+        <id>https://www.phoronix.com/news/MS-HLSL-202x-Prep-Compiler</id>
+        <link href="https://www.phoronix.com/news/MS-HLSL-202x-Prep-Compiler"/>
+        <updated>2024-05-28T18:33:46.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft's open-source DirectX Shader Compiler that is open-source and derived from the LLVM/Clang compiler infrastructure is out with a significant new release as it begins preparing for "HLSL 202x" as a big leap for the High-Level Shader Language...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 127 Should Provide PipeWire Camera Capture Support]]></title>
+        <id>https://www.phoronix.com/news/Chrome-127-PipeWire-Capture</id>
+        <link href="https://www.phoronix.com/news/Chrome-127-PipeWire-Capture"/>
+        <updated>2024-05-28T18:18:27.000Z</updated>
+        <summary type="html"><![CDATA[The Google Chrome/Chromium 127 web browser release should finally provide support for PipeWire camera capturing support!..]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crucial Pro DDR5-6000 32GB Memory Kit]]></title>
+        <id>https://www.phoronix.com/review/crucial-pro-ddr5-6000</id>
+        <link href="https://www.phoronix.com/review/crucial-pro-ddr5-6000"/>
+        <updated>2024-05-28T18:05:57.000Z</updated>
+        <summary type="html"><![CDATA[Crucial last week announced the launch of their newest Crucial DDR5 Pro Memory: Overclocking (OC) Edition in white heatspreader form. Crucial recently sent over a pair of these 2 x 16GB Crucial Pro DDR5-6000 UDIMM memory kits that we've been putting through the paces with Intel Core i9 14900K and AMD Ryzen 9 7950X systems. These new Crucial Pro DIMMs have been working out very well and align with the great quality we've long enjoyed from Crucial/Micron.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux cpupower Tool Fix Coming For AMD Zen 5 CPUs]]></title>
+        <id>https://www.phoronix.com/news/Linux-cpupower-Fix-AMD-Zen-5</id>
+        <link href="https://www.phoronix.com/news/Linux-cpupower-Fix-AMD-Zen-5"/>
+        <updated>2024-05-28T16:26:57.000Z</updated>
+        <summary type="html"><![CDATA[Sent out today as a fix for the Linux kernel's in-tree "cpupower" utility is properly handling P-State frequency reporting for upcoming AMD Zen 5 processors...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlmaLinux 8.10 Released With Support Re-Enabled For Some Older Hardware]]></title>
+        <id>https://www.phoronix.com/news/AlmaLinux-8.10-Released</id>
+        <link href="https://www.phoronix.com/news/AlmaLinux-8.10-Released"/>
+        <updated>2024-05-28T14:06:35.000Z</updated>
+        <summary type="html"><![CDATA[For those continuing to rely on the Enterprise Linux 8 series, AlmaLinux 8.10 has made its stable debut this morning as the newest version of this community-oriented operating system derived from Red Hat Enterprise Linux 8.10...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TPM HMAC Encryption Being Pulled Back To x86_64 By Default For Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/TPM-HMAC-Encrypt-x86_64</id>
+        <link href="https://www.phoronix.com/news/TPM-HMAC-Encrypt-x86_64"/>
+        <updated>2024-05-28T12:54:17.000Z</updated>
+        <summary type="html"><![CDATA[One of the new security features coming with Linux 6.10 is TPM bus encryption and integrity protection to fend off a wave of possible attacks against Trusted Platform Module recovery keys, TPM sniffing, etc. This functionality was merged for the Linux 6.10 merge window but is now being pulled back to x86_64-only by default where it's been sufficiently tested...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ASUS Linux Driver Adding Ability To Toggle CPU Cores, APU Memory Settings & dGPU TGP]]></title>
         <id>https://www.phoronix.com/news/ASUS-Linux-Cores-APU-Mem-TGP</id>
