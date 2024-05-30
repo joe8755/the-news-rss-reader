@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-29.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 29, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nMobifree – An open-source mobile ecosystem\n(comments)\n\n\nShow HN: Openkoda – Open–source, private, Salesforce alternative\n(comments)\n\n\nLlama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars\n(comments)\n\n\nEx-OpenAI board member reveals what led to Sam Altman's brief ousting\n(comments)\n\n\nAI headphones let wearer listen to a single person in a crowd by looking at them\n(comments)\n\n\nCodestral: Mistral's Code Model\n(comments)\n\n\nI sold TinyPilot, my first successful business\n(comments)\n\n\nOttawa wants the power to create secret backdoors in networks for surveillance\n(comments)\n\n\nVector indexing all of Wikipedia on a laptop\n(comments)\n\n\nKino: Pro Video Camera\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-29.html",
+          "publishedOn": "2024-05-30T00:00:00.000Z",
+          "wordCount": 580,
+          "title": "Daily Hacker News for 2024-05-29",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-28.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 28, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nA 1.3B-light-year-across ring of galaxies has confounded astronomers\n(comments)\n\n\nResume Tip: Hacking \\\"AI\\\" screening of resumes\n(comments)\n\n\nPriced out of home ownership\n(comments)\n\n\nSurveilling the masses with wi-fi-based positioning systems\n(comments)\n\n\nTantivy – full-text search engine library inspired by Apache Lucene\n(comments)\n\n\nWP21\n(comments)\n\n\nShow HN: I made a free app to calibrate your turntable by simply playing a song\n(comments)\n\n\nReproducing GPT-2 in llm.c\n(comments)\n\n\nTTE: Terminal Text Effects\n(comments)\n\n\nAPI Shouldn't Redirect HTTP to HTTPS\n(comments)",
@@ -273,12 +283,92 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/VKD3D-1.12-Released",
+          "author": "Michael Larabel",
+          "description": "While VKD3D-Proton that is bundled with Valve's Steam Play (Proton) is the most common source for mapping Direct3D 12 over the Vulkan API for Windows games on Linux, Wine's VKD3D upstream continues to be developed. Out today is VKD3D 1.12 as the newest feature release for this open-source D3D12-on-Vulkan implementation...",
+          "link": "https://www.phoronix.com/news/VKD3D-1.12-Released",
+          "publishedOn": "2024-05-30T00:23:28.000Z",
+          "wordCount": 1867,
+          "title": "VKD3D 1.12 Released With Support For Directly Outputting SPIR-V & D3D Shader Assembly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/XZ-5.6.2-Released",
+          "author": "Michael Larabel",
+          "description": "It was two months ago today that an urgent security alert was issued over XZ being hit by malicious code that turned out to be a backdoor within liblzma added by a bad actor that worked his way into XZ co-maintainership. Longtime XZ developer Lasse Collin is back at the helm and has been auditing the prior XZ commits and today released XZ 5.6.2 with the backdoor completely removed...",
+          "link": "https://www.phoronix.com/news/XZ-5.6.2-Released",
+          "publishedOn": "2024-05-29T20:14:32.000Z",
+          "wordCount": 1892,
+          "title": "XZ 5.6.2 Released With The Frightening Backdoor Removed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AWS-Cloud-Breaks-Fedora-Mirrors",
+          "author": "Michael Larabel",
+          "description": "A massive uptick in traffic to Fedora's package mirrors is causing problems for the Linux distribution. Some five million additional systems have started putting additional strain on Fedora's mirror resources since March and appear to be coming from Amazon's cloud...",
+          "link": "https://www.phoronix.com/news/AWS-Cloud-Breaks-Fedora-Mirrors",
+          "publishedOn": "2024-05-29T19:49:21.000Z",
+          "wordCount": 1782,
+          "title": "Amazon Cloud Traffic Is Suffocating Fedora's Mirrors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Framework-Core-Ultra-Laptop",
+          "author": "Michael Larabel",
+          "description": "Framework is out today with some exciting announcements from lowering the price of the existing Framework 13 with AMD Ryzen 7040 series SoC to announcing a new Framework Laptop 13 powered by Intel Core Ultra (Meteor Lake) and having a new 2.8K display option for this modular/upgradeable laptop shipping this summer...",
+          "link": "https://www.phoronix.com/news/Framework-Core-Ultra-Laptop",
+          "publishedOn": "2024-05-29T17:54:51.000Z",
+          "wordCount": 2030,
+          "title": "Framework Announces Intel Core Ultra Powered Laptop With 2.8k Display",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/linux-610-features",
+          "author": "Michael Larabel",
+          "description": "Now that the Linux 6.10 merge window has wrapped up, here's a look at all of the exciting features/changes coming to this summer 2024 kernel. Linux 6.10 brings a lot as usual for the latest/upcoming Intel and AMD platforms, never-ending work on file-systems, a new memory sealing \"mseal\" system call, TPM bus encryption, and dozens of other exciting changes and new hardware support.",
+          "link": "https://www.phoronix.com/review/linux-610-features",
+          "publishedOn": "2024-05-29T16:15:00.000Z",
+          "wordCount": 1971,
+          "title": "Linux 6.10 Features Include TPM Bus Encryption, More AMD Zen 5 & A Prison Letter Merge Request",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Arm-Cortex-X925-Cortex-A725",
+          "author": "Michael Larabel",
+          "description": "Arm today announced the latest products in the Armv9 CPU portfolio: the Cortex-X925 as their \"ultimate performance\" processor and the Cortex-A725 as their processor option for sustained performance...",
+          "link": "https://www.phoronix.com/news/Arm-Cortex-X925-Cortex-A725",
+          "publishedOn": "2024-05-29T16:00:56.000Z",
+          "wordCount": 1701,
+          "title": "Arm Announces The Cortex-X925 & Cortex-A725",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/QuestDB-8.0-Released",
+          "author": "Michael Larabel",
+          "description": "QuestDB 8.0 is out today as the newest feature update to this open-source time-series database. QuestDB continues to cater to high throughput ingestion and fast SQL queries so it can handle use-cases from financial data to IoT sensors. With today's QuestDB 8.0 release, it's even faster...",
+          "link": "https://www.phoronix.com/news/QuestDB-8.0-Released",
+          "publishedOn": "2024-05-29T14:39:02.000Z",
+          "wordCount": 1835,
+          "title": "QuestDB 8.0 Brings Up To 50% Performance Improvement, ZFS Data Compression",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/KDE-Opt-Green",
+          "author": "Michael Larabel",
+          "description": "KDE's Eco group announced today \"Opt Green\" as a new initiative for sustainable software...",
+          "link": "https://www.phoronix.com/news/KDE-Opt-Green",
+          "publishedOn": "2024-05-29T12:58:14.000Z",
+          "wordCount": 2000,
+          "title": "KDE Launches \"Opt Green\" Initiative For Sustainable Software & Hardware",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Flamenco-dot-NET-Ubuntu",
           "author": "Michael Larabel",
           "description": "One of the newest open-source projects in-development by Ubuntu maker Canonical is a new C# written program called Flamenco...",
           "link": "https://www.phoronix.com/news/Flamenco-dot-NET-Ubuntu",
           "publishedOn": "2024-05-29T11:06:34.000Z",
-          "wordCount": 1931,
+          "wordCount": 1800,
           "title": "Canonical Developing \"Flamenco\" For Enhancing .NET Developer Experience On Ubuntu",
           "imageUrl": null
         },
@@ -288,7 +378,7 @@
           "description": "The AMD shader compiler \"ACO\" alternative to the AMDGPU LLVM back-end has seen another batch of changes merged in preparations for next-generation Radeon RDNA4 GPUs...",
           "link": "https://www.phoronix.com/news/Mesa-ACO-Changes-GFX12",
           "publishedOn": "2024-05-29T10:41:24.000Z",
-          "wordCount": 1963,
+          "wordCount": 1830,
           "title": "Valve's AMD Shader Compiler \"ACO\" Makes More Preparations For Radeon RDNA4",
           "imageUrl": null
         },
@@ -298,7 +388,7 @@
           "description": "Coming up on my radar today is a commit made to the GNU Compiler Collection (GCC) for adjusting the loop alignment with Intel's generic tuning path. In turn this should address \"some random performance penalty in benchmarks\" with coping better around cache lines...",
           "link": "https://www.phoronix.com/news/Intel-GCC-Loop-Alignment",
           "publishedOn": "2024-05-29T10:30:08.000Z",
-          "wordCount": 1902,
+          "wordCount": 1890,
           "title": "Intel Makes One Line Tweak To GCC To Fix A \"Random Performance Penalty\"",
           "imageUrl": null
         },
@@ -308,7 +398,7 @@
           "description": "The past year there's been a big Linux kernel patch series in the work by Intel to improve Sub-NUMA Clustering \"SNC\" support so it behaves well with Intel Resource Director Technology (RDT) on modern Intel hardware. Hopefully that work will soon be ready for mainlining in the Linux kernel while this week brought the 19th revision to those patches...",
           "link": "https://www.phoronix.com/news/Intel-SNC-With-RDT-Linux-v19",
           "publishedOn": "2024-05-29T10:22:29.000Z",
-          "wordCount": 1861,
+          "wordCount": 1968,
           "title": "Intel's Sub-NUMA Clustering Support Linux Patches Spun A 19th Time",
           "imageUrl": null
         },
@@ -318,7 +408,7 @@
           "description": "Flowblade 2.16 is out today as the newest version of this open-source non-linear video editor...",
           "link": "https://www.phoronix.com/news/Flowblade-2.16-Released",
           "publishedOn": "2024-05-29T10:15:46.000Z",
-          "wordCount": 1799,
+          "wordCount": 1668,
           "title": "Flowblade 2.16 Open-Source Video Editor Released",
           "imageUrl": null
         },
