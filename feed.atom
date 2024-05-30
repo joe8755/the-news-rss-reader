@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-05-30T01:16:19.638Z</updated>
+    <updated>2024-05-30T12:33:27.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD & Intel Team Up For UALink As Open Alternative To NVIDIA's NVLink]]></title>
+        <id>https://www.phoronix.com/news/Ultra-Accelerator-Link-UALink</id>
+        <link href="https://www.phoronix.com/news/Ultra-Accelerator-Link-UALink"/>
+        <updated>2024-05-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's rare for an advanced media briefing to involve representatives from both AMD and Intel, but that happened yesterday. AMD and Intel along with Broadcom have formed the Ultra Accelerator Link "UALink" as a new open standard they are hoping to use to take on NVIDIA's proprietary NVLink interface...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Battlemage Platform Support Begins Landing In Mesa 24.2]]></title>
+        <id>https://www.phoronix.com/news/Intel-Battlemage-Goes-Mesa-24.2</id>
+        <link href="https://www.phoronix.com/news/Intel-Battlemage-Goes-Mesa-24.2"/>
+        <updated>2024-05-30T10:33:06.000Z</updated>
+        <summary type="html"><![CDATA[The Intel Battlemage discrete graphics support is beginning to come together for the open-source Linux graphics driver stack as the successor to DG2/Alchemist. In addition to all the Xe2 work for what's found with Lunar Lake, more Battlemage Linux kernel and user-space driver work has been appearing recently. The milestone crossed today is the initial Battlemage "BMG" platform support being merged for the Mesa 24.2 OpenGL/Vulkan drivers...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Improving NMI Source Reporting On Linux With FRED]]></title>
+        <id>https://www.phoronix.com/news/Intel-Linux-NMI-Source-Report</id>
+        <link href="https://www.phoronix.com/news/Intel-Linux-NMI-Source-Report"/>
+        <updated>2024-05-30T10:24:23.000Z</updated>
+        <summary type="html"><![CDATA[As part of Intel's Flexible Return Event Delivery (FRED), Intel open-source software engineers are now working on improving Non-Maskable Interrupt (NMI) source reporting for the Linux kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Enabling PowerVR Rogue GX6250 Open-Source Support With The MediaTek MT8173]]></title>
+        <id>https://www.phoronix.com/news/PowerVR-GX6250-MT8173</id>
+        <link href="https://www.phoronix.com/news/PowerVR-GX6250-MT8173"/>
+        <updated>2024-05-30T10:14:11.000Z</updated>
+        <summary type="html"><![CDATA[Building off the PowerVR kernel driver merged in Linux 6.8 and PowerVR Vulkan driver in Mesa 24.0 that are both focused on Imagination's newer PowerVR Rogue architecture, Google engineers are working on enabling open-source driver support for the PowerVR Rogue GX6250 as found within the MediaTek MT8173 SoC...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDGpu v0.5 Vulkan Wrapper Released, KDXr Begins Wrapping OpenXR]]></title>
+        <id>https://www.phoronix.com/news/KDGpu-0.5-Released</id>
+        <link href="https://www.phoronix.com/news/KDGpu-0.5-Released"/>
+        <updated>2024-05-30T09:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Last year the KDAB consulting firm typically associated with Qt work published KDGpu as a thin Vulkan wrapper to make it easier leveraging this graphics API. Out today is KDGpu v0.5 with many improvements to this Vulkan wrapper...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VKD3D 1.12 Released With Support For Directly Outputting SPIR-V & D3D Shader Assembly]]></title>
         <id>https://www.phoronix.com/news/VKD3D-1.12-Released</id>

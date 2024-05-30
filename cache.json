@@ -283,6 +283,56 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Ultra-Accelerator-Link-UALink",
+          "author": "Michael Larabel",
+          "description": "It's rare for an advanced media briefing to involve representatives from both AMD and Intel, but that happened yesterday. AMD and Intel along with Broadcom have formed the Ultra Accelerator Link \"UALink\" as a new open standard they are hoping to use to take on NVIDIA's proprietary NVLink interface...",
+          "link": "https://www.phoronix.com/news/Ultra-Accelerator-Link-UALink",
+          "publishedOn": "2024-05-30T12:00:00.000Z",
+          "wordCount": 2041,
+          "title": "AMD & Intel Team Up For UALink As Open Alternative To NVIDIA's NVLink",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-Battlemage-Goes-Mesa-24.2",
+          "author": "Michael Larabel",
+          "description": "The Intel Battlemage discrete graphics support is beginning to come together for the open-source Linux graphics driver stack as the successor to DG2/Alchemist. In addition to all the Xe2 work for what's found with Lunar Lake, more Battlemage Linux kernel and user-space driver work has been appearing recently. The milestone crossed today is the initial Battlemage \"BMG\" platform support being merged for the Mesa 24.2 OpenGL/Vulkan drivers...",
+          "link": "https://www.phoronix.com/news/Intel-Battlemage-Goes-Mesa-24.2",
+          "publishedOn": "2024-05-30T10:33:06.000Z",
+          "wordCount": 1964,
+          "title": "Intel Battlemage Platform Support Begins Landing In Mesa 24.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-Linux-NMI-Source-Report",
+          "author": "Michael Larabel",
+          "description": "As part of Intel's Flexible Return Event Delivery (FRED), Intel open-source software engineers are now working on improving Non-Maskable Interrupt (NMI) source reporting for the Linux kernel...",
+          "link": "https://www.phoronix.com/news/Intel-Linux-NMI-Source-Report",
+          "publishedOn": "2024-05-30T10:24:23.000Z",
+          "wordCount": 2100,
+          "title": "Intel Improving NMI Source Reporting On Linux With FRED",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/PowerVR-GX6250-MT8173",
+          "author": "Michael Larabel",
+          "description": "Building off the PowerVR kernel driver merged in Linux 6.8 and PowerVR Vulkan driver in Mesa 24.0 that are both focused on Imagination's newer PowerVR Rogue architecture, Google engineers are working on enabling open-source driver support for the PowerVR Rogue GX6250 as found within the MediaTek MT8173 SoC...",
+          "link": "https://www.phoronix.com/news/PowerVR-GX6250-MT8173",
+          "publishedOn": "2024-05-30T10:14:11.000Z",
+          "wordCount": 1869,
+          "title": "Google Enabling PowerVR Rogue GX6250 Open-Source Support With The MediaTek MT8173",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/KDGpu-0.5-Released",
+          "author": "Michael Larabel",
+          "description": "Last year the KDAB consulting firm typically associated with Qt work published KDGpu as a thin Vulkan wrapper to make it easier leveraging this graphics API. Out today is KDGpu v0.5 with many improvements to this Vulkan wrapper...",
+          "link": "https://www.phoronix.com/news/KDGpu-0.5-Released",
+          "publishedOn": "2024-05-30T09:57:38.000Z",
+          "wordCount": 1853,
+          "title": "KDGpu v0.5 Vulkan Wrapper Released, KDXr Begins Wrapping OpenXR",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/VKD3D-1.12-Released",
           "author": "Michael Larabel",
           "description": "While VKD3D-Proton that is bundled with Valve's Steam Play (Proton) is the most common source for mapping Direct3D 12 over the Vulkan API for Windows games on Linux, Wine's VKD3D upstream continues to be developed. Out today is VKD3D 1.12 as the newest feature release for this open-source D3D12-on-Vulkan implementation...",
