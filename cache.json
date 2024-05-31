@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-30.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 30, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nDonating forks to the dining hall\n(comments)\n\n\nDuckDB Doesn't Need Data to Be a Database\n(comments)\n\n\nGov. Polis Signs Bill Mandating That Consumers Have Options to Fix Electronics\n(comments)\n\n\nFrankenPHP: Modern PHP App Server\n(comments)\n\n\nHow actors remember their lines\n(comments)\n\n\nAfter 6 years, I'm over GraphQL\n(comments)\n\n\nI got tired of hearing that YC fired Sam, so here's what actually happened\n(comments)\n\n\nI love my wife. My wife is dead (1946)\n(comments)\n\n\nShow HN: ChatGPT UI for rabbit holes\n(comments)\n\n\nDon't DRY Your Code Prematurely\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-30.html",
+          "publishedOn": "2024-05-31T00:00:00.000Z",
+          "wordCount": 569,
+          "title": "Daily Hacker News for 2024-05-30",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-29.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 29, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nMobifree – An open-source mobile ecosystem\n(comments)\n\n\nShow HN: Openkoda – Open–source, private, Salesforce alternative\n(comments)\n\n\nLlama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars\n(comments)\n\n\nEx-OpenAI board member reveals what led to Sam Altman's brief ousting\n(comments)\n\n\nAI headphones let wearer listen to a single person in a crowd by looking at them\n(comments)\n\n\nCodestral: Mistral's Code Model\n(comments)\n\n\nI sold TinyPilot, my first successful business\n(comments)\n\n\nOttawa wants the power to create secret backdoors in networks for surveillance\n(comments)\n\n\nVector indexing all of Wikipedia on a laptop\n(comments)\n\n\nKino: Pro Video Camera\n(comments)",
@@ -282,6 +292,76 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Wayland-1.23-Released",
+          "author": "Michael Larabel",
+          "description": "Simon Ser today released Wayland 1.23 for this core Wayland code that brings some minor enhancements, bug fixes, and Wayland protocol clarifications...",
+          "link": "https://www.phoronix.com/news/Wayland-1.23-Released",
+          "publishedOn": "2024-05-30T19:46:53.000Z",
+          "wordCount": 1737,
+          "title": "Wayland 1.23 Released With OpenBSD Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Microsoft-WSL2-2024-Features",
+          "author": "Michael Larabel",
+          "description": "Given Microsoft's recent BUILD conference, Microsoft has announced a number of sizable updates to Windows Subsystem for Linux (WSL)...",
+          "link": "https://www.phoronix.com/news/Microsoft-WSL2-2024-Features",
+          "publishedOn": "2024-05-30T18:43:47.000Z",
+          "wordCount": 1801,
+          "title": "Microsoft Rolling Out New Windows Subsystem For Linux \"WSL\" Features For 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/amd-epyc-4124p",
+          "author": "Michael Larabel",
+          "description": "Last week with the AMD EPYC 4004 review and benchmarks I tested nearly the entire product stack for these new AM5-based server processors with the EPYC 4244P (6 cores), EPYC 4344P (8 cores), EPYC 4364P (8 cores), EPYC 4464P (12 cores), EPYC 4484X (12 cores + 3D V-Cache), EPYC 4564P (16 cores), and EPYC 4584PX (16 cores + 3D V-Cache). The only EPYC 4004 class processor I wasn't able to finish testing in time was the entry-level EPYC 4124P as a 4-core processor with $149 retail price. I've now had the time to finish benchmarking that budget-focused Zen 4 server processor as well as seeing how it compares to the 4-core Skylake Xeons that were prolific for years.",
+          "link": "https://www.phoronix.com/review/amd-epyc-4124p",
+          "publishedOn": "2024-05-30T16:55:00.000Z",
+          "wordCount": 1867,
+          "title": "AMD EPYC 4124P Benchmarks: A Quad-Core $149 Server CPU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Anaconda-Web-UI-Fedora-42",
+          "author": "Michael Larabel",
+          "description": "It's been more than two years now talking about the Anaconda installer for Fedora/RHEL shifting to a web-based UI. Going back to Fedora 37 have been previews and plans for getting this modern user interface up to parity but it's been a long road. With repeated delays, there's at least one more delay: the Anaconda web UI was just shifted from Fedora 41 to Fedora 42...",
+          "link": "https://www.phoronix.com/news/Anaconda-Web-UI-Fedora-42",
+          "publishedOn": "2024-05-30T15:10:00.000Z",
+          "wordCount": 1901,
+          "title": "Fedora's New Web-Based Installer UI Delayed Yet Again... Now In 2025 With Fedora 42",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Ubuntu-24.04-LTS-Real-Time",
+          "author": "Michael Larabel",
+          "description": "Similar to the real-time kernel for Ubuntu 22.04 LTS, Canonical announced today the availability of their new real-time \"RT\" kernel for Ubuntu 24.04 LTS. But like with the existing Ubuntu RT kernels, this real-time support is limited to Ubuntu Pro subscriptions...",
+          "link": "https://www.phoronix.com/news/Ubuntu-24.04-LTS-Real-Time",
+          "publishedOn": "2024-05-30T14:37:39.000Z",
+          "wordCount": 1771,
+          "title": "Real-Time Kernel Now Available On Ubuntu 24.04 LTS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Servo-Engine-May-2024",
+          "author": "Michael Larabel",
+          "description": "The Rust-written Servo web engine as a reminder was started as a Mozilla project but then abandoned and now developed by multiple organizations as part of Linux Foundation Europe. The Servo project has put out a new status update that highlights the work accomplished in recent weeks...",
+          "link": "https://www.phoronix.com/news/Servo-Engine-May-2024",
+          "publishedOn": "2024-05-30T14:26:58.000Z",
+          "wordCount": 1794,
+          "title": "Servo Web Engine Continues Advancing But Seeing Just $1.6k In Monthly Donations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Yocto-5.0-Released",
+          "author": "Michael Larabel",
+          "description": "Yocto 5.0 LTS has been released as the newest version from the Yocto Project that is popular for organizations assembling their own embedded/IoT-minded custom Linux distributions. The Linux Foundation also announced today that Boeing has become a Platinum Member with Yocto...",
+          "link": "https://www.phoronix.com/news/Yocto-5.0-Released",
+          "publishedOn": "2024-05-30T14:09:28.000Z",
+          "wordCount": 1858,
+          "title": "Yocto 5.0 LTS Released - Now Powered By Linux 6.6 LTS, Boeing Joins The Project",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Ultra-Accelerator-Link-UALink",
           "author": "Michael Larabel",
