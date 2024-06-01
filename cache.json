@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-05-31.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non May 31, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nThe Pumpkin Eclipse\n(comments)\n\n\nUnexpected anti-patterns for engineering leaders\n(comments)\n\n\nShow HN: Every mountain, building and tree shadow mapped for any date and time\n(comments)\n\n\nJapan's push to make all research open access\n(comments)\n\n\nEngineering for Slow Internet\n(comments)\n\n\nEvery mountain, building and tree shadow in the world simulated for any time\n(comments)\n\n\nA man ordered to hide his boat painted the boat on his fence\n(comments)\n\n\nSnowflake breach: Hacker confirms access through infostealer infection\n(comments)\n\n\nStandard Ebooks' 1,000th title: Ulysses\n(comments)\n\n\nIRS Direct File to open to all 50 states and D.C. for 2025 tax season\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-05-31.html",
+          "publishedOn": "2024-06-01T00:00:00.000Z",
+          "wordCount": 582,
+          "title": "Daily Hacker News for 2024-05-31",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-30.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 30, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nDonating forks to the dining hall\n(comments)\n\n\nDuckDB Doesn't Need Data to Be a Database\n(comments)\n\n\nGov. Polis Signs Bill Mandating That Consumers Have Options to Fix Electronics\n(comments)\n\n\nFrankenPHP: Modern PHP App Server\n(comments)\n\n\nHow actors remember their lines\n(comments)\n\n\nAfter 6 years, I'm over GraphQL\n(comments)\n\n\nI got tired of hearing that YC fired Sam, so here's what actually happened\n(comments)\n\n\nI love my wife. My wife is dead (1946)\n(comments)\n\n\nShow HN: ChatGPT UI for rabbit holes\n(comments)\n\n\nDon't DRY Your Code Prematurely\n(comments)",
@@ -292,6 +302,56 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Vulkan-1.3.286-Released",
+          "author": "Michael Larabel",
+          "description": "Vulkan 1.3.286 was released today with a handful of corrections/clarifications as well as one new extension...",
+          "link": "https://www.phoronix.com/news/Vulkan-1.3.286-Released",
+          "publishedOn": "2024-06-01T00:38:43.000Z",
+          "wordCount": 1789,
+          "title": "Vulkan 1.3.286 Released With One New Extension",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Wine-9.10-Released",
+          "author": "Michael Larabel",
+          "description": "Wine 9.10 is out today as the newest bi-weekly development release for this open-source software to enjoy Windows games/applications on Linux and other operating systems...",
+          "link": "https://www.phoronix.com/news/Wine-9.10-Released",
+          "publishedOn": "2024-05-31T23:14:46.000Z",
+          "wordCount": 1821,
+          "title": "Wine 9.10 Released With Upgrade To VKD3D 1.12, Brings DPI Awareness Improvements",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Godot-4.3-Beta-1",
+          "author": "Michael Larabel",
+          "description": "The open-source Godot game engine has worked its way up to the Godot 4.3 Beta 1 milestone with some exciting achievements...",
+          "link": "https://www.phoronix.com/news/Godot-4.3-Beta-1",
+          "publishedOn": "2024-05-31T14:06:10.000Z",
+          "wordCount": 1736,
+          "title": "Godot 4.3 Beta 1 Released With Native Wayland Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/dav1d-1.4.2-AV1-Decoder",
+          "author": "Michael Larabel",
+          "description": "Jean-Baptiste Kempf released Dav1d 1.4.2 as the newest version of this speedy CPU-based AV1 video decoder. With this new dav1d 1.4.2 update are yet more performance optimizations for modern systems...",
+          "link": "https://www.phoronix.com/news/dav1d-1.4.2-AV1-Decoder",
+          "publishedOn": "2024-05-31T13:57:57.000Z",
+          "wordCount": 1778,
+          "title": "Dav1d 1.4.2 Provides More AVX2 & AVX-512 Performance Optimizations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-Glibc-Memset-Perf",
+          "author": "Michael Larabel",
+          "description": "Intel engineer Noah Goldstein has landed another nice performance optimization in the GNU C Library \"glibc\" for benefiting newer Intel processors...",
+          "link": "https://www.phoronix.com/news/Intel-Glibc-Memset-Perf",
+          "publishedOn": "2024-05-31T12:56:10.000Z",
+          "wordCount": 1998,
+          "title": "Intel Lands A Nice Memset Performance Optimization In Glibc",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.10-Easier-Quirky-Touch",
           "author": "Michael Larabel",
