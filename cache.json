@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-01.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 01, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nDebian KDE: Right Linux distribution for professional digital painting in 2024\n(comments)\n\n\nCarpenter's AirTags help uncover 'massive' case of stolen tools in Maryland\n(comments)\n\n\nThis Message Does Not Exist\n(comments)\n\n\nHow to copy a file from a 30-year-old laptop\n(comments)\n\n\nRecall: Stealing everything you've ever typed or viewed on your own Windows PC\n(comments)\n\n\nUI elements with a hand-drawn, sketchy look\n(comments)\n\n\nTiny number of 'supersharers' spread the majority of fake news\n(comments)\n\n\nROOT: analyzing petabytes of data scientifically\n(comments)\n\n\nArthur Whitney releases an open-source subset of K with MIT license\n(comments)\n\n\nNapster sparked a file-sharing revolution 25 years ago\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-01.html",
+          "publishedOn": "2024-06-02T00:00:00.000Z",
+          "wordCount": 585,
+          "title": "Daily Hacker News for 2024-06-01",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-05-31.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non May 31, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nThe Pumpkin Eclipse\n(comments)\n\n\nUnexpected anti-patterns for engineering leaders\n(comments)\n\n\nShow HN: Every mountain, building and tree shadow mapped for any date and time\n(comments)\n\n\nJapan's push to make all research open access\n(comments)\n\n\nEngineering for Slow Internet\n(comments)\n\n\nEvery mountain, building and tree shadow in the world simulated for any time\n(comments)\n\n\nA man ordered to hide his boat painted the boat on his fence\n(comments)\n\n\nSnowflake breach: Hacker confirms access through infostealer infection\n(comments)\n\n\nStandard Ebooks' 1,000th title: Ulysses\n(comments)\n\n\nIRS Direct File to open to all 50 states and D.C. for 2025 tax season\n(comments)",
@@ -302,6 +312,26 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-Steam-2024-Above-2",
+          "author": "Michael Larabel",
+          "description": "When Steam on Linux debuted a decade ago it maintained around a 2% marketshare before receding and then beginning its long climb back up following the debut of Steam Play for running Windows games on Linux and then with the much anticipated Steam Deck handheld game console and the modern Arch-based SteamOS. Valve just published their May 2024 numbers for the Steam Survey and they indicate the Linux marketshare is finally back above 2%...",
+          "link": "https://www.phoronix.com/news/Linux-Steam-2024-Above-2",
+          "publishedOn": "2024-06-02T00:37:56.000Z",
+          "wordCount": 1964,
+          "title": "Linux Shoots Past The 2% Threshold For The Steam Survey, AMD CPU Use Breaks 75%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AMD-More-GFX12-RDNA4-Mesa-24.2",
+          "author": "Michael Larabel",
+          "description": "It's been another busy week with the open-source AMD Linux graphics driver stack with continued preparations around enabling support for next-generation RDNA4 graphics (as well as continued RDNA3+ / RDNA 3.5 tuning)...",
+          "link": "https://www.phoronix.com/news/AMD-More-GFX12-RDNA4-Mesa-24.2",
+          "publishedOn": "2024-06-01T14:48:57.000Z",
+          "wordCount": 1919,
+          "title": "VCN5 AV1 Encode & More AMD RDNA4 RADV Support Land In Mesa 24.2",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-Xe2-Native-64-bit-Int",
           "author": "Michael Larabel",

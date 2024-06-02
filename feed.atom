@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-01T12:31:17.227Z</updated>
+    <updated>2024-06-02T01:21:01.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Shoots Past The 2% Threshold For The Steam Survey, AMD CPU Use Breaks 75%]]></title>
+        <id>https://www.phoronix.com/news/Linux-Steam-2024-Above-2</id>
+        <link href="https://www.phoronix.com/news/Linux-Steam-2024-Above-2"/>
+        <updated>2024-06-02T00:37:56.000Z</updated>
+        <summary type="html"><![CDATA[When Steam on Linux debuted a decade ago it maintained around a 2% marketshare before receding and then beginning its long climb back up following the debut of Steam Play for running Windows games on Linux and then with the much anticipated Steam Deck handheld game console and the modern Arch-based SteamOS. Valve just published their May 2024 numbers for the Steam Survey and they indicate the Linux marketshare is finally back above 2%...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-01]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-01.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-01.html"/>
+        <updated>2024-06-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 01, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Debian KDE: Right Linux distribution for professional digital painting in 2024
+(comments)
+
+
+Carpenter's AirTags help uncover 'massive' case of stolen tools in Maryland
+(comments)
+
+
+This Message Does Not Exist
+(comments)
+
+
+How to copy a file from a 30-year-old laptop
+(comments)
+
+
+Recall: Stealing everything you've ever typed or viewed on your own Windows PC
+(comments)
+
+
+UI elements with a hand-drawn, sketchy look
+(comments)
+
+
+Tiny number of 'supersharers' spread the majority of fake news
+(comments)
+
+
+ROOT: analyzing petabytes of data scientifically
+(comments)
+
+
+Arthur Whitney releases an open-source subset of K with MIT license
+(comments)
+
+
+Napster sparked a file-sharing revolution 25 years ago
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VCN5 AV1 Encode & More AMD RDNA4 RADV Support Land In Mesa 24.2]]></title>
+        <id>https://www.phoronix.com/news/AMD-More-GFX12-RDNA4-Mesa-24.2</id>
+        <link href="https://www.phoronix.com/news/AMD-More-GFX12-RDNA4-Mesa-24.2"/>
+        <updated>2024-06-01T14:48:57.000Z</updated>
+        <summary type="html"><![CDATA[It's been another busy week with the open-source AMD Linux graphics driver stack with continued preparations around enabling support for next-generation RDNA4 graphics (as well as continued RDNA3+ / RDNA 3.5 tuning)...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Xe2 Brings Native 64-bit Integer Arithmetic]]></title>
         <id>https://www.phoronix.com/news/Intel-Xe2-Native-64-bit-Int</id>
