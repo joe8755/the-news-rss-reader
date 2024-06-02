@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-02T01:21:01.140Z</updated>
+    <updated>2024-06-02T12:30:44.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.11 To Bring Nouveau NVreg_RegistryDwords Support, Intel NPU Enhancements]]></title>
+        <id>https://www.phoronix.com/news/DRM-Misc-6.11-Nouveau-Intel-NPU</id>
+        <link href="https://www.phoronix.com/news/DRM-Misc-6.11-Nouveau-Intel-NPU"/>
+        <updated>2024-06-02T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Now past the Linux 6.10 merge window, this week brought an initial batch of drm-misc-next changes submitted to the Direct Rendering Manager subsystem's DRM-Next for queuing until the Linux 6.11 merge window opens up in July. The changes this week include a notable addition for the open-source NVIDIA (Nouveau) driver and some improvements for the Intel iVPU driver for their Neural Processing Unit (NPU)...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10-rc2 Will Fix Booting Intel Quark CPUs & Problems With Old AMD CPUs]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-rc2-x86-urgent</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-rc2-x86-urgent"/>
+        <updated>2024-06-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of today's Linux 6.10-rc2 kerne weekly test release a few "x86/urgent" patches were submitted for addressing some fallout on Intel and AMD processors...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASUS Announces The ROG Ally X Upgraded Handheld]]></title>
+        <id>https://www.phoronix.com/news/ASUS-ROG-Ally-X</id>
+        <link href="https://www.phoronix.com/news/ASUS-ROG-Ally-X"/>
+        <updated>2024-06-02T10:14:48.000Z</updated>
+        <summary type="html"><![CDATA[ASUS used Computex 2024 for announcing the ROG Ally X, the latest version of their handheld gaming console. The ASUS ROG Ally X continues to be powered by the AMD Ryzen Z1 Extreme SoC but now having more storage, faster RAM, a larger battery, updated controls, and other refinements...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Shoots Past The 2% Threshold For The Steam Survey, AMD CPU Use Breaks 75%]]></title>
         <id>https://www.phoronix.com/news/Linux-Steam-2024-Above-2</id>
@@ -3857,60 +3887,6 @@ Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU
 
 
 I don't want to fill out your contact form
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-03]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-03.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-03.html"/>
-        <updated>2024-05-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 03, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-Every map of China is wrong
-(comments)
-
-
-Building a rocket engine from scratch
-(comments)
-
-
-A Single Div
-(comments)
-
-
-I’m writing a new vector search SQLite Extension
-(comments)
-
-
-Cardio fitness is a strong, consistent predictor of morbidity and mortality
-(comments)
-
-
-Woodworking as an escape from the absurdity of software
-(comments)
-
-
-Unique volumes of Brothers Grimm fairy tales discovered in Poland
-(comments)
-
-
-DNS traffic can leak outside the VPN tunnel on Android
-(comments)
-
-
-Lithium-free sodium batteries exit the lab and enter US production
-(comments)
-
-
-As private equity dominates wheelchair market, users wait months for repairs
 (comments)]]></summary>
         <author>
             <name>Hacker News Daily</name>
