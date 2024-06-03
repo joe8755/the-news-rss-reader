@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-03T01:17:54.602Z</updated>
+    <updated>2024-06-03T12:34:25.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Up To 162% Faster AES-GCM Encryption/Decryption For Intel & AMD CPUs On Linux]]></title>
+        <id>https://www.phoronix.com/news/AES-GCM-Faster-AVX-VAES</id>
+        <link href="https://www.phoronix.com/news/AES-GCM-Faster-AVX-VAES"/>
+        <updated>2024-06-03T10:38:22.000Z</updated>
+        <summary type="html"><![CDATA[With the in-development Linux 6.10 kernel Eric Biggers of Google landed new AES-XTS implementations for much faster performance for Intel/AMD processors via new AES-NI + AVX, VAES + AVX2, VAES + AVX10/256, and VAES + AVX10/512 code paths. Biggers has since begun tackling even better AES-GCM encryption/decryption performance by leveraging a new code path to utilize AVX-512/AVX10 and/or VAES...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC 15 Merges Support For Intel APX NF]]></title>
+        <id>https://www.phoronix.com/news/GCC-15-APX-NF</id>
+        <link href="https://www.phoronix.com/news/GCC-15-APX-NF"/>
+        <updated>2024-06-03T10:22:43.000Z</updated>
+        <summary type="html"><![CDATA[The latest feature work around Intel's Advanced Performance Extensions (APX) that is merged for the in-development GCC 15 compiler is supporting APX NF functionality for suppressing the update of status flags on arithmetic operations...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCV 4.10 Released With Many DNN Improvements, Wayland Backend For Linux]]></title>
+        <id>https://www.phoronix.com/news/OpenCV-4.10-Released</id>
+        <link href="https://www.phoronix.com/news/OpenCV-4.10-Released"/>
+        <updated>2024-06-03T09:54:23.000Z</updated>
+        <summary type="html"><![CDATA[OpenCV 4.10 is out today as the newest version of the Open Computer Vision Library for this widely-used library with machine learning support, object detection, segmentation and recognition, motion video tracking, gesture recognition, and a variety of other features important for today's diverse workloads...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phoronix Turns 20 Years Old This Week - Celebrate With A Premium Special]]></title>
+        <id>https://www.phoronix.com/news/Phoronix-20th-Birthday-Special</id>
+        <link href="https://www.phoronix.com/news/Phoronix-20th-Birthday-Special"/>
+        <updated>2024-06-03T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On Wednesday, 5 June, marks 20 years since I started Phoronix.com for covering the Linux hardware ecosystem! It's sure been a long and tough journey with more remarks I'll reserve for Wednesday, but given the two decade mark, there's a Phoronix Premium special for those wishing to mark the special occasion and help ensure the site's healthy continuance into the next decade...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 9000 Series Announced - Zen 5 Showing Big Generational Uplift]]></title>
+        <id>https://www.phoronix.com/news/AMD-Ryzen-9000-Series-Zen-5</id>
+        <link href="https://www.phoronix.com/news/AMD-Ryzen-9000-Series-Zen-5"/>
+        <updated>2024-06-03T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Arguably most exciting out of AMD's slew of Computex 2024 announcements is finally making official the Ryzen 9000 "Granite Ridge" processors built atop the new Zen 5 cores...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Previews 5th Gen EPYC With Up To 192 Cores Per Socket]]></title>
+        <id>https://www.phoronix.com/news/AMD-5th-Gen-EPYC-Turin-192-Core</id>
+        <link href="https://www.phoronix.com/news/AMD-5th-Gen-EPYC-Turin-192-Core"/>
+        <updated>2024-06-03T03:00:01.000Z</updated>
+        <summary type="html"><![CDATA[In addition to all of the AMD client-side news during Lisa Su's keynote at Computex 2024 (see AMD Ryzen 9000 Series and AMD's Ryzen AI 300 Series Mobile APUs), the AMD CEO also teased the upcoming 5th Gen EPYC processors. AMD 5th Gen EPYC "Turin" processors are still on the way for releasing in H2'2024...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD's Ryzen AI 300 Series Mobile APUs Should Be Interesting For Next-Gen Laptops]]></title>
+        <id>https://www.phoronix.com/news/AMD-Ryzen-AI-300-Series-Zen-5</id>
+        <link href="https://www.phoronix.com/news/AMD-Ryzen-AI-300-Series-Zen-5"/>
+        <updated>2024-06-03T03:00:01.000Z</updated>
+        <summary type="html"><![CDATA[In addition to announcing the AMD Ryzen 9000 series desktop processors powered by Zen 5, Lisa Su at Computex 2024 also announced the AMD Ryzen AI 300 series as the next-generation mobile processors powered by Zen 5 CPU cores while sporting RDNA 3.5 (also referred to as RDNA 3+ and RDNA3 refresh) integrated graphics and an XDNA 2 NPU...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Roadmaps Instinct MI325X Accelerator For Q4, Instinct MI350 In 2025]]></title>
+        <id>https://www.phoronix.com/news/AMD-Instinct-MI325X-MI350-MI400</id>
+        <link href="https://www.phoronix.com/news/AMD-Instinct-MI325X-MI350-MI400"/>
+        <updated>2024-06-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At Computex 2024, AMD confirmed the Instinct MI325X will be released in Q4'2024 as the successor to the MI300X accelerator. Next year will be the AMD Instinct MI350 series based on the new CFNA 4 architecture. AMD is committing to an annual Instinct accelerator roadmap moving forward as they further up their AI game...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Announces Radeon PRO W7900 Dual Slot For Workstations & Gen AI]]></title>
+        <id>https://www.phoronix.com/news/AMD-Radeon-PRO-W7900-Dual-Slot</id>
+        <link href="https://www.phoronix.com/news/AMD-Radeon-PRO-W7900-Dual-Slot"/>
+        <updated>2024-06-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While the AMD Ryzen 9000 series (Zen 5) details are arguably the most exciting aspect of Lisa Su's keynote at Computex 2024, over on the Radeon side is the announcement of the AMD Radeon PRO W7900 Dual Slot graphics card intended for compact workstations and Gen AI...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-06-02]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-06-02.html</id>
@@ -3907,60 +3997,6 @@ Israel shuts down local Al Jazeera offices
 
 
 Bollards: Why and What
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-04]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-04.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-04.html"/>
-        <updated>2024-05-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 04, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-A Mathematical Theory of Communication [pdf]
-(comments)
-
-
-The Nature of Code (2nd Edition)
-(comments)
-
-
-Stirling PDF: Self-hosted, web-based PDF manipulation tool
-(comments)
-
-
-Ontario family doctor says new AI notetaking saved her job
-(comments)
-
-
-Figma’s Journey to TypeScript
-(comments)
-
-
-AI copilots are changing how coding is taught
-(comments)
-
-
-How hard can generating 1024-bit primes be?
-(comments)
-
-
-Show HN: BandMatch – “Tinder” but for finding musicians to create bands/collab
-(comments)
-
-
-Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU
-(comments)
-
-
-I don't want to fill out your contact form
 (comments)]]></summary>
         <author>
             <name>Hacker News Daily</name>
