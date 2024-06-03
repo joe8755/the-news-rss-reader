@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-02.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 02, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nRepairing my mug with Kintsugi\n(comments)\n\n\nWhat we've learned from a year of building with LLMs\n(comments)\n\n\nIn Colorado, an ambitious new highway policy is not building them\n(comments)\n\n\nWhat I think about Lua after shipping a project with 60k lines of code\n(comments)\n\n\nEinstein went to his office just so he could walk home with Gödel\n(comments)\n\n\nLisp: Icing or Cake?\n(comments)\n\n\nPython notebooks for fundamentals of music processing\n(comments)\n\n\nHow do our brains adapt to control an extra body part?\n(comments)\n\n\nSignal: Will leave the EU market rather than undermine our privacy guarantees\n(comments)\n\n\nParable of the Sofa\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-02.html",
+          "publishedOn": "2024-06-03T00:00:00.000Z",
+          "wordCount": 585,
+          "title": "Daily Hacker News for 2024-06-02",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-01.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 01, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nDebian KDE: Right Linux distribution for professional digital painting in 2024\n(comments)\n\n\nCarpenter's AirTags help uncover 'massive' case of stolen tools in Maryland\n(comments)\n\n\nThis Message Does Not Exist\n(comments)\n\n\nHow to copy a file from a 30-year-old laptop\n(comments)\n\n\nRecall: Stealing everything you've ever typed or viewed on your own Windows PC\n(comments)\n\n\nUI elements with a hand-drawn, sketchy look\n(comments)\n\n\nTiny number of 'supersharers' spread the majority of fake news\n(comments)\n\n\nROOT: analyzing petabytes of data scientifically\n(comments)\n\n\nArthur Whitney releases an open-source subset of K with MIT license\n(comments)\n\n\nNapster sparked a file-sharing revolution 25 years ago\n(comments)",
@@ -302,6 +312,26 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-rc2-Released",
+          "author": "Michael Larabel",
+          "description": "Linus Torvalds just released Linux 6.0-rc2 with a busy week's worth of fixes...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-rc2-Released",
+          "publishedOn": "2024-06-02T23:00:00.000Z",
+          "wordCount": 1865,
+          "title": "Linux 6.10-rc2 Released With An Initial Batch Of Fixes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Autodafe-1.0-Released",
+          "author": "Michael Larabel",
+          "description": "Controversial free software developer Eric S Raymond has been spending a lot of time recently on the new Autodafe project as a means of free software projects from relying on Autotools. This \"De-Autoconfiscation\" has now led to the release of Autodafe 1.0 with the tool now being considered production-ready...",
+          "link": "https://www.phoronix.com/news/Autodafe-1.0-Released",
+          "publishedOn": "2024-06-02T13:00:00.000Z",
+          "wordCount": 1957,
+          "title": "Autodafe 1.0 Released For Freeing Projects Of Autotools",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/DRM-Misc-6.11-Nouveau-Intel-NPU",
           "author": "Michael Larabel",
