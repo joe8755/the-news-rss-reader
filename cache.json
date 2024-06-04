@@ -294,16 +294,6 @@
           "wordCount": 574,
           "title": "Daily Hacker News for 2024-05-06",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-05.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 05, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nIn Praise of Idleness (1932)\n(comments)\n\n\nHow to build a $20B semiconductor fab\n(comments)\n\n\nVerified Rust for low-level systems code\n(comments)\n\n\nShow HN: Dillo 3.1.0 released after 9 years\n(comments)\n\n\nAtari's Mike Jang\n(comments)\n\n\nShow HN: gpudeploy.com – \\\"Airbnb\\\" for GPUs\n(comments)\n\n\nAutomated integer hash function discovery\n(comments)\n\n\nMIT abandons requirement of DEI statements for hiring and promotions\n(comments)\n\n\nIsrael shuts down local Al Jazeera offices\n(comments)\n\n\nBollards: Why and What\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-05.html",
-          "publishedOn": "2024-05-06T00:00:00.000Z",
-          "wordCount": 554,
-          "title": "Daily Hacker News for 2024-05-05",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,66 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Printk-Rework-v2-Linux",
+          "author": "Michael Larabel",
+          "description": "John Ogness of Linutronix today sent out the second iteration of his patches working on threaded printing support for printk() and related rework of that code that is a necessary step before the real-time (RT) kernel patches can be finally mainlined...",
+          "link": "https://www.phoronix.com/news/Printk-Rework-v2-Linux",
+          "publishedOn": "2024-06-04T10:43:28.000Z",
+          "wordCount": 1966,
+          "title": "Updated Printk Rework Patches - Necessary Step For Mainlining Linux Real-Time \"RT\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Raspberry-Pi-AI-Kit",
+          "author": "Michael Larabel",
+          "description": "Raspberry Pi teamed up with Hailo to develop the Raspberry Pi AI Kit as a $70 add-on for the Raspberry Pi 5 that offers a 13 TOPS AI accelerator module...",
+          "link": "https://www.phoronix.com/news/Raspberry-Pi-AI-Kit",
+          "publishedOn": "2024-06-04T10:04:13.000Z",
+          "wordCount": 1678,
+          "title": "Raspberry Pi AI Kit Launches For $70 For 13 TOPS AI Inference",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/FreeBSD-14.1-Released",
+          "author": "Michael Larabel",
+          "description": "FreeBSD 14.1-RELEASE is now available as the newest stable release to this leading BSD operating system. There are a number of package updates, new features, and expanded hardware support to find with FreeBSD 14.1...",
+          "link": "https://www.phoronix.com/news/FreeBSD-14.1-Released",
+          "publishedOn": "2024-06-04T09:52:20.000Z",
+          "wordCount": 1802,
+          "title": "FreeBSD 14.1 Released With Performance Improvements, OpenZFS Upgrade & Better Sound",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/intel-xeon-6780e-6766e",
+          "author": "Michael Larabel",
+          "description": "With Intel's launch today of the Xeon 6700E series processors formerly codenamed Sierra Forest I am now able to share benchmarks of these new E-core server processors. Here is an initial look at the Intel Sierra Forest Linux performance using the Xeon 6766E and Xeon 6780E 144-core server processors in both single and dual socket configurations compared to prior Intel Xeon processors and the AMD EPYC competition.",
+          "link": "https://www.phoronix.com/review/intel-xeon-6780e-6766e",
+          "publishedOn": "2024-06-04T03:00:02.000Z",
+          "wordCount": 2446,
+          "title": "Intel Xeon 6780E / Xeon 6766E 144-Core Performance Benchmarks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/intel-xeon-6700e-sierra-forest",
+          "author": "Michael Larabel",
+          "description": "Intel is using Computex 2024 for announcing the first Xeon 6 processors, which are the E-Core Sierra Forest models that initially are available in up to 144 cores per socket. Intel is also using Computex to shed more light on the Gaudi 3 AI accelerator and the upcoming P core Xeon 6 Granite Rapids processors and the later launch of the Xeon 6900E models with up to 288 cores per socket.",
+          "link": "https://www.phoronix.com/review/intel-xeon-6700e-sierra-forest",
+          "publishedOn": "2024-06-04T03:00:01.000Z",
+          "wordCount": 2447,
+          "title": "Intel Launches Xeon 6700E Sierra Forest CPUs - Initially Up To 144 Cores",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-Lunar-Lake-Xe2-Details",
+          "author": "Michael Larabel",
+          "description": "24 hours ago AMD was in the limelight in announcing the Ryzen 9000 series, the Ryzen AI 300 series, teasing AMD 5th Gen EPYC, etc. Now the tables have turned to Intel with the embargo lifting concerning new details on the Gaudi 3 AI accelerator and upcoming Lunar Lake mobile processors and the launch of the Intel Xeon 6700E (Sierra Forest) E-core server processors. In this article is a look at some of the new disclosures around Lunar Lake...",
+          "link": "https://www.phoronix.com/news/Intel-Lunar-Lake-Xe2-Details",
+          "publishedOn": "2024-06-04T03:00:00.000Z",
+          "wordCount": 2158,
+          "title": "Intel Reveals New Lunar Lake Details At Computex",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AMD-Unified-Linux-Jobs",
           "author": "Michael Larabel",

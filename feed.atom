@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-04T01:17:06.672Z</updated>
+    <updated>2024-06-04T12:33:30.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Updated Printk Rework Patches - Necessary Step For Mainlining Linux Real-Time "RT"]]></title>
+        <id>https://www.phoronix.com/news/Printk-Rework-v2-Linux</id>
+        <link href="https://www.phoronix.com/news/Printk-Rework-v2-Linux"/>
+        <updated>2024-06-04T10:43:28.000Z</updated>
+        <summary type="html"><![CDATA[John Ogness of Linutronix today sent out the second iteration of his patches working on threaded printing support for printk() and related rework of that code that is a necessary step before the real-time (RT) kernel patches can be finally mainlined...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi AI Kit Launches For $70 For 13 TOPS AI Inference]]></title>
+        <id>https://www.phoronix.com/news/Raspberry-Pi-AI-Kit</id>
+        <link href="https://www.phoronix.com/news/Raspberry-Pi-AI-Kit"/>
+        <updated>2024-06-04T10:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Raspberry Pi teamed up with Hailo to develop the Raspberry Pi AI Kit as a $70 add-on for the Raspberry Pi 5 that offers a 13 TOPS AI accelerator module...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD 14.1 Released With Performance Improvements, OpenZFS Upgrade & Better Sound]]></title>
+        <id>https://www.phoronix.com/news/FreeBSD-14.1-Released</id>
+        <link href="https://www.phoronix.com/news/FreeBSD-14.1-Released"/>
+        <updated>2024-06-04T09:52:20.000Z</updated>
+        <summary type="html"><![CDATA[FreeBSD 14.1-RELEASE is now available as the newest stable release to this leading BSD operating system. There are a number of package updates, new features, and expanded hardware support to find with FreeBSD 14.1...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Xeon 6780E / Xeon 6766E 144-Core Performance Benchmarks]]></title>
+        <id>https://www.phoronix.com/review/intel-xeon-6780e-6766e</id>
+        <link href="https://www.phoronix.com/review/intel-xeon-6780e-6766e"/>
+        <updated>2024-06-04T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[With Intel's launch today of the Xeon 6700E series processors formerly codenamed Sierra Forest I am now able to share benchmarks of these new E-core server processors. Here is an initial look at the Intel Sierra Forest Linux performance using the Xeon 6766E and Xeon 6780E 144-core server processors in both single and dual socket configurations compared to prior Intel Xeon processors and the AMD EPYC competition.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Launches Xeon 6700E Sierra Forest CPUs - Initially Up To 144 Cores]]></title>
+        <id>https://www.phoronix.com/review/intel-xeon-6700e-sierra-forest</id>
+        <link href="https://www.phoronix.com/review/intel-xeon-6700e-sierra-forest"/>
+        <updated>2024-06-04T03:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Intel is using Computex 2024 for announcing the first Xeon 6 processors, which are the E-Core Sierra Forest models that initially are available in up to 144 cores per socket. Intel is also using Computex to shed more light on the Gaudi 3 AI accelerator and the upcoming P core Xeon 6 Granite Rapids processors and the later launch of the Xeon 6900E models with up to 288 cores per socket.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Reveals New Lunar Lake Details At Computex]]></title>
+        <id>https://www.phoronix.com/news/Intel-Lunar-Lake-Xe2-Details</id>
+        <link href="https://www.phoronix.com/news/Intel-Lunar-Lake-Xe2-Details"/>
+        <updated>2024-06-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[24 hours ago AMD was in the limelight in announcing the Ryzen 9000 series, the Ryzen AI 300 series, teasing AMD 5th Gen EPYC, etc. Now the tables have turned to Intel with the embargo lifting concerning new details on the Gaudi 3 AI accelerator and upcoming Lunar Lake mobile processors and the launch of the Intel Xeon 6700E (Sierra Forest) E-core server processors. In this article is a look at some of the new disclosures around Lunar Lake...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-06-03]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-06-03.html</id>
@@ -4037,60 +4097,6 @@ Show HN: A free site to explore and discover 6k plants
 
 
 A fourteen-day free trial ain’t gonna cut it
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-05]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-05.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-05.html"/>
-        <updated>2024-05-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 05, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-In Praise of Idleness (1932)
-(comments)
-
-
-How to build a $20B semiconductor fab
-(comments)
-
-
-Verified Rust for low-level systems code
-(comments)
-
-
-Show HN: Dillo 3.1.0 released after 9 years
-(comments)
-
-
-Atari's Mike Jang
-(comments)
-
-
-Show HN: gpudeploy.com – \"Airbnb\" for GPUs
-(comments)
-
-
-Automated integer hash function discovery
-(comments)
-
-
-MIT abandons requirement of DEI statements for hiring and promotions
-(comments)
-
-
-Israel shuts down local Al Jazeera offices
-(comments)
-
-
-Bollards: Why and What
 (comments)]]></summary>
         <author>
             <name>Hacker News Daily</name>
