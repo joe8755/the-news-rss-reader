@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-03.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 03, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nL(O*62).ONG: Make your URL longer\n(comments)\n\n\nEverything I know about the fast inverse square root algorithm\n(comments)\n\n\nAsk HN: What was your most humbling learning moment?\n(comments)\n\n\nAn intuitive guide to Maxwell's equations (2020)\n(comments)\n\n\nLearn CSS Grid with a virtual garden game\n(comments)\n\n\nAMD Unveils Ryzen 9000 CPUs for Desktop, Zen 5\n(comments)\n\n\nMaking USB devices – end to end guide to your first gadget\n(comments)\n\n\nI'm forking Ladybird and stepping down as SerenityOS BDFL\n(comments)\n\n\nHow many photons are received per bit transmitted from Voyager 1?\n(comments)\n\n\nAsk HN: Who is hiring? (June 2024)\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-03.html",
+          "publishedOn": "2024-06-04T00:00:00.000Z",
+          "wordCount": 581,
+          "title": "Daily Hacker News for 2024-06-03",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-02.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 02, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nRepairing my mug with Kintsugi\n(comments)\n\n\nWhat we've learned from a year of building with LLMs\n(comments)\n\n\nIn Colorado, an ambitious new highway policy is not building them\n(comments)\n\n\nWhat I think about Lua after shipping a project with 60k lines of code\n(comments)\n\n\nEinstein went to his office just so he could walk home with Gödel\n(comments)\n\n\nLisp: Icing or Cake?\n(comments)\n\n\nPython notebooks for fundamentals of music processing\n(comments)\n\n\nHow do our brains adapt to control an extra body part?\n(comments)\n\n\nSignal: Will leave the EU market rather than undermine our privacy guarantees\n(comments)\n\n\nParable of the Sofa\n(comments)",
@@ -302,6 +312,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMD-Unified-Linux-Jobs",
+          "author": "Michael Larabel",
+          "description": "AMD is hiring engineers to work on build and packaging of their \"AMD Unified Linux Driver\" to enhance the experience of deploying their packaged graphics driver stack -- including ROCm -- across different Linux distributions...",
+          "link": "https://www.phoronix.com/news/AMD-Unified-Linux-Jobs",
+          "publishedOn": "2024-06-03T21:05:43.000Z",
+          "wordCount": 2143,
+          "title": "AMD Hiring To Improve Their Linux Driver/ROCm Installation Process Across Distributions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Redox-OS-May-2024",
+          "author": "Michael Larabel",
+          "description": "The Rust-written Redox OS operating system issued their May monthly status report to highlight the various improvements made to this original open-source OS...",
+          "link": "https://www.phoronix.com/news/Redox-OS-May-2024",
+          "publishedOn": "2024-06-03T16:53:57.000Z",
+          "wordCount": 1784,
+          "title": "Rust-Written Redox OS Continues Gravitating Toward The COSMIC Desktop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Debian-Expert-systemd-boot",
+          "author": "Michael Larabel",
+          "description": "Debian developer Luca Boccassi has begun working on systemd-boot support for using it as an alternative to the GRUB bootloader...",
+          "link": "https://www.phoronix.com/news/Debian-Expert-systemd-boot",
+          "publishedOn": "2024-06-03T15:10:31.000Z",
+          "wordCount": 1730,
+          "title": "Debian Seeing Work To Support systemd-boot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-Mint-Unverified-Flatpaks",
+          "author": "Michael Larabel",
+          "description": "The Linux Mint project is out with its monthly newsletter that highlights recent progress made on this Ubuntu (and Debian) derived, desktop-focused Linux distribution. In May they worked out enhancements to Linux Mint's software manager and also continued working on optimizing their package archive hosting...",
+          "link": "https://www.phoronix.com/news/Linux-Mint-Unverified-Flatpaks",
+          "publishedOn": "2024-06-03T12:43:12.000Z",
+          "wordCount": 1726,
+          "title": "Linux Mint Disabling Unverified Flatpaks By Default",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AES-GCM-Faster-AVX-VAES",
           "author": "Michael Larabel",
