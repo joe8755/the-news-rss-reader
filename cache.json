@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-04.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 04, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nHacking millions of modems and investigating who hacked my modem\n(comments)\n\n\nShow HN: 10 Years to Build a Free SQL Editor\n(comments)\n\n\nShow HN: I made a tiny camera with super long battery life\n(comments)\n\n\nIf English was written like Chinese (1999)\n(comments)\n\n\nDiffusion on syntax trees for program synthesis\n(comments)\n\n\nHacking millions of modems and investigating who hacked my modem\n(comments)\n\n\nI am sick of LeetCode-style interviews\n(comments)\n\n\nA breakthrough towards the Riemann hypothesis\n(comments)\n\n\nWhy do electronic components have such odd values? (2021)\n(comments)\n\n\nThings the guys who stole my phone have texted me to try to get me to unlock it\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-04.html",
+          "publishedOn": "2024-06-05T00:00:00.000Z",
+          "wordCount": 589,
+          "title": "Daily Hacker News for 2024-06-04",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-03.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 03, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nL(O*62).ONG: Make your URL longer\n(comments)\n\n\nEverything I know about the fast inverse square root algorithm\n(comments)\n\n\nAsk HN: What was your most humbling learning moment?\n(comments)\n\n\nAn intuitive guide to Maxwell's equations (2020)\n(comments)\n\n\nLearn CSS Grid with a virtual garden game\n(comments)\n\n\nAMD Unveils Ryzen 9000 CPUs for Desktop, Zen 5\n(comments)\n\n\nMaking USB devices – end to end guide to your first gadget\n(comments)\n\n\nI'm forking Ladybird and stepping down as SerenityOS BDFL\n(comments)\n\n\nHow many photons are received per bit transmitted from Voyager 1?\n(comments)\n\n\nAsk HN: Who is hiring? (June 2024)\n(comments)",
@@ -302,6 +312,56 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMD-ROCm-6.1.2-Released",
+          "author": "Michael Larabel",
+          "description": "ROCm 6.1.2 is out today as the newest update to AMD's open-source GPU compute stack for Linux systems and with growing support for Windows Subsystem for Linux...",
+          "link": "https://www.phoronix.com/news/AMD-ROCm-6.1.2-Released",
+          "publishedOn": "2024-06-05T00:17:24.000Z",
+          "wordCount": 1743,
+          "title": "AMD ROCm 6.1.2 Released With Fixes & Optimizations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Dell-PC-Driver-For-Linux-6.11",
+          "author": "Michael Larabel",
+          "description": "Queued into the x86 platform drivers' \"for-next\" branch ahead of the Linux 6.11 kernel cycle is the \"Dell PC Extras\" driver. Initially this new dell-pc driver is used for controlling fan modes via the Platform Profile setting on capable systems...",
+          "link": "https://www.phoronix.com/news/Dell-PC-Driver-For-Linux-6.11",
+          "publishedOn": "2024-06-04T19:00:00.000Z",
+          "wordCount": 1750,
+          "title": "Dell \"PC Extras\" Driver Slated For Linux 6.11 - Initially To Control Fan Modes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-ANV-Mesh-Shader-Queries",
+          "author": "Michael Larabel",
+          "description": "Building atop the Intel \"ANV\" Vulkan driver's mesh shader support that's been enabled by default since last year, the newest Mesa 24.2-devel code as of today now adds support for mesh shader queries...",
+          "link": "https://www.phoronix.com/news/Intel-ANV-Mesh-Shader-Queries",
+          "publishedOn": "2024-06-04T18:22:16.000Z",
+          "wordCount": 1674,
+          "title": "Intel's Open-Source Vulkan Driver Wires Up Mesh Shader Queries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Fedora-Replacing-Redis-Valkey",
+          "author": "Michael Larabel",
+          "description": "Back in April I noted that Fedora was considering replacing Redis with Valkey given the upstream Redis software licensing changes. At yesterday's Fedora Engineering and Steering Committee (FESCo) they have now signed off on replacing Redis with Valkey...",
+          "link": "https://www.phoronix.com/news/Fedora-Replacing-Redis-Valkey",
+          "publishedOn": "2024-06-04T15:00:00.000Z",
+          "wordCount": 1741,
+          "title": "Fedora Moves Ahead In Replacing Redis With Valkey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/IBM-GCC-mcpu-power11-Ready",
+          "author": "Michael Larabel",
+          "description": "IBM compiler engineers are ready to flip-on their POWER11 support within the GNU Compiler Collection (GCC) in wiring up the \"-mcpu=power11\" option...",
+          "link": "https://www.phoronix.com/news/IBM-GCC-mcpu-power11-Ready",
+          "publishedOn": "2024-06-04T14:45:14.000Z",
+          "wordCount": 1781,
+          "title": "IBM Ready With POWER11 Support \"-mcpu=power11\" For GCC",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Printk-Rework-v2-Linux",
           "author": "Michael Larabel",
