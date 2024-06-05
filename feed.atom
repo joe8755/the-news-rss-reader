@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-05T01:16:39.346Z</updated>
+    <updated>2024-06-05T12:33:41.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.11 Device Mapper Will Optimize Flushing]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.11-DM-Optimize-Flushing</id>
+        <link href="https://www.phoronix.com/news/Linux-6.11-DM-Optimize-Flushing"/>
+        <updated>2024-06-05T10:32:59.000Z</updated>
+        <summary type="html"><![CDATA[The latest performance optimization work for the Linux kernel's Device Mapper (DM) comes thanks to Red Hat's Mikulas Patocka...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel NPU Library v1.2 Adds Int4 Support & Performance Optimizations]]></title>
+        <id>https://www.phoronix.com/news/Intel-NPU-Library-v1.2</id>
+        <link href="https://www.phoronix.com/news/Intel-NPU-Library-v1.2"/>
+        <updated>2024-06-05T10:20:31.000Z</updated>
+        <summary type="html"><![CDATA[Intel released a new version of its NPU Acceleration Library, the user-space Python library for leveraging the Neural Processing Unit (NPU) found within their Core Ultra "Meteor Lake" laptops and upcoming Lunar Lake and Arrow Lake hardware as well...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMDVLK 2024.Q2.2 Driver Brings Bug Fixes]]></title>
+        <id>https://www.phoronix.com/news/AMDVLK-2024.Q2.2</id>
+        <link href="https://www.phoronix.com/news/AMDVLK-2024.Q2.2"/>
+        <updated>2024-06-05T10:02:27.000Z</updated>
+        <summary type="html"><![CDATA[Building off last month's AMDVLK 2024.Q2.1 driver adding Phoenix 2 support, AMD today released AMDVLK 2024.Q2.2 as the newest update to their official open-source Vulkan Linux driver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today Marks 20 Years Since Starting Phoronix For Linux Hardware Reviews & News]]></title>
+        <id>https://www.phoronix.com/news/Phoronix-20th-Birthday</id>
+        <link href="https://www.phoronix.com/news/Phoronix-20th-Birthday"/>
+        <updated>2024-06-05T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Well, it's been a wild ride to say the least... Today marks twenty years since I started Phoronix.com devoted to reviewing Linux hardware and ultimately enriching the Linux hardware experience with more benchmarks, open-source/Linux hardware news, and more over the years...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD ROCm 6.1.2 Released With Fixes & Optimizations]]></title>
         <id>https://www.phoronix.com/news/AMD-ROCm-6.1.2-Released</id>
@@ -4147,60 +4187,6 @@ Apple introduces M4 chip
 
 
 Road resurfacing during the daytime without stopping traffic [video]
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-06]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-06.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-06.html"/>
-        <updated>2024-05-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 06, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-Take a look at Traefik, even if you don't use containers
-(comments)
-
-
-Machine Unlearning in 2024
-(comments)
-
-
-Simplicity is an advantage but sadly complexity sells better (2022)
-(comments)
-
-
-Monitoring energy usage with smart plugs, Prometheus and Grafana
-(comments)
-
-
-Social engineering takeovers of open source projects
-(comments)
-
-
-Deep Reinforcement Learning: Zero to Hero
-(comments)
-
-
-BlackHole: macOS Audio Loopback Driver
-(comments)
-
-
-Remnants of a legendary typeface have been rescued from the Thames
-(comments)
-
-
-Show HN: A free site to explore and discover 6k plants
-(comments)
-
-
-A fourteen-day free trial ain’t gonna cut it
 (comments)]]></summary>
         <author>
             <name>Hacker News Daily</name>

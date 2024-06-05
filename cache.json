@@ -294,16 +294,6 @@
           "wordCount": 560,
           "title": "Daily Hacker News for 2024-05-07",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-06.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 06, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nTake a look at Traefik, even if you don't use containers\n(comments)\n\n\nMachine Unlearning in 2024\n(comments)\n\n\nSimplicity is an advantage but sadly complexity sells better (2022)\n(comments)\n\n\nMonitoring energy usage with smart plugs, Prometheus and Grafana\n(comments)\n\n\nSocial engineering takeovers of open source projects\n(comments)\n\n\nDeep Reinforcement Learning: Zero to Hero\n(comments)\n\n\nBlackHole: macOS Audio Loopback Driver\n(comments)\n\n\nRemnants of a legendary typeface have been rescued from the Thames\n(comments)\n\n\nShow HN: A free site to explore and discover 6k plants\n(comments)\n\n\nA fourteen-day free trial ain’t gonna cut it\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-06.html",
-          "publishedOn": "2024-05-07T00:00:00.000Z",
-          "wordCount": 574,
-          "title": "Daily Hacker News for 2024-05-06",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.11-DM-Optimize-Flushing",
+          "author": "Michael Larabel",
+          "description": "The latest performance optimization work for the Linux kernel's Device Mapper (DM) comes thanks to Red Hat's Mikulas Patocka...",
+          "link": "https://www.phoronix.com/news/Linux-6.11-DM-Optimize-Flushing",
+          "publishedOn": "2024-06-05T10:32:59.000Z",
+          "wordCount": 1783,
+          "title": "Linux 6.11 Device Mapper Will Optimize Flushing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-NPU-Library-v1.2",
+          "author": "Michael Larabel",
+          "description": "Intel released a new version of its NPU Acceleration Library, the user-space Python library for leveraging the Neural Processing Unit (NPU) found within their Core Ultra \"Meteor Lake\" laptops and upcoming Lunar Lake and Arrow Lake hardware as well...",
+          "link": "https://www.phoronix.com/news/Intel-NPU-Library-v1.2",
+          "publishedOn": "2024-06-05T10:20:31.000Z",
+          "wordCount": 1820,
+          "title": "Intel NPU Library v1.2 Adds Int4 Support & Performance Optimizations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AMDVLK-2024.Q2.2",
+          "author": "Michael Larabel",
+          "description": "Building off last month's AMDVLK 2024.Q2.1 driver adding Phoenix 2 support, AMD today released AMDVLK 2024.Q2.2 as the newest update to their official open-source Vulkan Linux driver...",
+          "link": "https://www.phoronix.com/news/AMDVLK-2024.Q2.2",
+          "publishedOn": "2024-06-05T10:02:27.000Z",
+          "wordCount": 1799,
+          "title": "AMDVLK 2024.Q2.2 Driver Brings Bug Fixes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Phoronix-20th-Birthday",
+          "author": "Michael Larabel",
+          "description": "Well, it's been a wild ride to say the least... Today marks twenty years since I started Phoronix.com devoted to reviewing Linux hardware and ultimately enriching the Linux hardware experience with more benchmarks, open-source/Linux hardware news, and more over the years...",
+          "link": "https://www.phoronix.com/news/Phoronix-20th-Birthday",
+          "publishedOn": "2024-06-05T04:00:00.000Z",
+          "wordCount": 2300,
+          "title": "Today Marks 20 Years Since Starting Phoronix For Linux Hardware Reviews & News",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AMD-ROCm-6.1.2-Released",
           "author": "Michael Larabel",
