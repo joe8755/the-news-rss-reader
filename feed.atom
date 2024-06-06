@@ -2,10 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-05T12:33:41.725Z</updated>
+    <updated>2024-06-06T01:16:36.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mesa 24.1.1 Released With Many Graphics Driver Bug Fixes]]></title>
+        <id>https://www.phoronix.com/news/Mesa-24.1.1-Released</id>
+        <link href="https://www.phoronix.com/news/Mesa-24.1.1-Released"/>
+        <updated>2024-06-06T00:22:53.000Z</updated>
+        <summary type="html"><![CDATA[For those typically waiting until the first point release of a new Mesa3D driver series before upgrading, today it's your chance to upgrade! Mesa 24.1.1 is now available with the first round of Mesa 24.1 fixes to the prominent OpenGL and Vulkan drivers. Coincidentally the bi-weekly release times nicely for the Phoronix 20th birthday today as a nice present with our love for the open-source Linux graphics stack...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-05]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-05.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-05.html"/>
+        <updated>2024-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 05, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Sphere Rendering: Flat Planets
+(comments)
+
+
+Some notes on influenceering
+(comments)
+
+
+An animated introduction to Fourier series
+(comments)
+
+
+You'll regret using natural keys
+(comments)
+
+
+Israel reportedly used fake social accounts to garner support from US lawmakers
+(comments)
+
+
+Simple tasks showing reasoning breakdown in state-of-the-art LLMs
+(comments)
+
+
+Boeing Starliner launches first crewed mission
+(comments)
+
+
+Vulkan1.3 on the M1 in one month
+(comments)
+
+
+Managing my motivation as a solo dev
+(comments)
+
+
+Employees who stay in companies longer than two years get paid 50% less (2014)
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 4.2 LTS Beta Brings Open Image Denoise On AMD GPUs, GPU Compositing]]></title>
+        <id>https://www.phoronix.com/news/Blender-4.2-Beta</id>
+        <link href="https://www.phoronix.com/news/Blender-4.2-Beta"/>
+        <updated>2024-06-05T18:24:07.000Z</updated>
+        <summary type="html"><![CDATA[The beta process has begun for the Blender 4.2 open-source 3D modeling software. Making Blender 4.2 all the more significant is that it's a Long Term Support (LTS) release for this widely-used program by 3D artists across platforms...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Honeykrisp" Is A New Vulkan Driver For Apple M1 On Linux - Derived From The NVK Driver]]></title>
+        <id>https://www.phoronix.com/news/Honeykrisp-Apple-Vulkan-Driver</id>
+        <link href="https://www.phoronix.com/news/Honeykrisp-Apple-Vulkan-Driver"/>
+        <updated>2024-06-05T16:09:16.000Z</updated>
+        <summary type="html"><![CDATA[While the Asahi AGX Gallium3D driver for OpenGL support with Apple Silicon on Linux has been maturing nicely and is quite capable these days, the Vulkan support hasn't been coming together as quick or for as long. But a new Apple Silicon Vulkan driver was recently started by Asahi Linux / Mesa developers and is looking positive for being able to become a compliant Vulkan 1.3 driver for the Apple M1 on Linux...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Xeon 6766E/6780E Sierra Forest vs. Ampere Altra Performance & Power Efficiency]]></title>
+        <id>https://www.phoronix.com/review/intel-xeon-6700e-ampere-altra</id>
+        <link href="https://www.phoronix.com/review/intel-xeon-6700e-ampere-altra"/>
+        <updated>2024-06-05T15:22:00.000Z</updated>
+        <summary type="html"><![CDATA[With the launch day review of the Intel Xeon 6766E and Xeon 6780E "Sierra Forest" processors the focus was on looking at the performance and power efficiency compared to prior Intel Xeon generations as well as the AMD EPYC competition. For those wondering how Intel's new Xeon 6 Sierra Forest processors compete against Amere Computing's "cloud native" Altra Max processors, here are those benchmarks looking at the performance and power efficiency.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA 555.52.04 Beta Linux Driver Brings Fixes]]></title>
+        <id>https://www.phoronix.com/news/NVIDIA-555.52.04-Linux-Beta</id>
+        <link href="https://www.phoronix.com/news/NVIDIA-555.52.04-Linux-Beta"/>
+        <updated>2024-06-05T13:51:02.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago NVIDIA introduced their much anticipated R555 beta driver with NVIDIA 555.42.02 for Linux bringing Wayland explicit sync support, the GPU System Processor (GSP) firmware being used by default, and a variety of Wayland improvements. Today the NVIDIA 555.52.04 beta driver is out that offers additional fixes for the R555 series...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Is Soliciting Ideas For Their Goals To Pursue Over The Next 2~3 Years]]></title>
+        <id>https://www.phoronix.com/news/KDE-Goals-2024-Request</id>
+        <link href="https://www.phoronix.com/news/KDE-Goals-2024-Request"/>
+        <updated>2024-06-05T13:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2022 the KDE project laid out new goals to improve accessibility, develop more environmentally sustainable software, and automate more processes for easing the development of KDE. These overarching KDE Goals are refined every 2~3 years and they are now soliciting ideas from the community for what they should focus on ahead...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.11 Device Mapper Will Optimize Flushing]]></title>
         <id>https://www.phoronix.com/news/Linux-6.11-DM-Optimize-Flushing</id>
