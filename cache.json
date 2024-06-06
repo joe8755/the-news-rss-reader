@@ -294,16 +294,6 @@
           "wordCount": 570,
           "title": "Daily Hacker News for 2024-05-08",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-07.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 07, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nA 100x speedup with unsafe Python\n(comments)\n\n\nDesign docs at Google (2020)\n(comments)\n\n\nSecure Randomness in Go 1.22\n(comments)\n\n\nThe best way to have complex discussions?\n(comments)\n\n\nAttackers can decloak routing-based VPNs\n(comments)\n\n\nCaniemail.com – like caniuse but for email content\n(comments)\n\n\nProton Mail discloses user data leading to arrest in Spain\n(comments)\n\n\nCold brew coffee in 3 minutes using acoustic cavitation\n(comments)\n\n\nApple introduces M4 chip\n(comments)\n\n\nRoad resurfacing during the daytime without stopping traffic [video]\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-07.html",
-          "publishedOn": "2024-05-08T00:00:00.000Z",
-          "wordCount": 560,
-          "title": "Daily Hacker News for 2024-05-07",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,66 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Microsoft-Azure-Linux-3.0-Pre",
+          "author": "Michael Larabel",
+          "description": "Microsoft has published its first tagged preview of the upcoming Azure Linux 3.0 operating system...",
+          "link": "https://www.phoronix.com/news/Microsoft-Azure-Linux-3.0-Pre",
+          "publishedOn": "2024-06-06T12:00:00.000Z",
+          "wordCount": 1875,
+          "title": "Microsoft Releases Azure Linux 3.0 Preview",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AMDGPU-More-Robust-Steam-Deck",
+          "author": "Michael Larabel",
+          "description": "AMD has published a new set of AMDGPU firmware binaries for Linux users. In particular, this should benefit AMD APUs the most and these firmware improvements were focused on Valve's Steam Deck to make the device more robust against buggy applications...",
+          "link": "https://www.phoronix.com/news/AMDGPU-More-Robust-Steam-Deck",
+          "publishedOn": "2024-06-06T10:52:00.000Z",
+          "wordCount": 1826,
+          "title": "Updated AMD GPU Firmware Makes Valve's Steam Deck More Robust Against Buggy Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-cpupower-Zen-5-Freq",
+          "author": "Michael Larabel",
+          "description": "This week's pull request of power management fixes for the Linux 6.10 kernel has an important change for the in-tree cpupower utility to fix P-State frequency reporting on upcoming Zen 5 (Family 1Ah) processors...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-cpupower-Zen-5-Freq",
+          "publishedOn": "2024-06-06T10:39:06.000Z",
+          "wordCount": 1929,
+          "title": "Linux 6.10 Fixes AMD Zen 5 CPU Frequency Reporting With cpupower",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/20-Year-Popular-News",
+          "author": "Michael Larabel",
+          "description": "With yesterday marking the 20th birthday of Phoronix, I was curious what the most popular news articles were over these past two decades. There's a lot of compiler fodder, news from the early days of AMD Ryzen, Linus Torvalds commentary, and more...",
+          "link": "https://www.phoronix.com/news/20-Year-Popular-News",
+          "publishedOn": "2024-06-06T10:20:44.000Z",
+          "wordCount": 2690,
+          "title": "The Most Popular Linux News Over The Past 20 Years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/STF-GNU-libmicrohttpd",
+          "author": "Michael Larabel",
+          "description": "The latest funding for open-source from Germany's Sovereign Tech Fund is providing €300,000 over the course of the next year for improving GNU libmicrohttpd for building high performance HTTP web servers...",
+          "link": "https://www.phoronix.com/news/STF-GNU-libmicrohttpd",
+          "publishedOn": "2024-06-06T10:13:07.000Z",
+          "wordCount": 1739,
+          "title": "Sovereign Tech Fund Providing €300k For GNU libmicrohttpd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/libinput-1.26-Released",
+          "author": "Michael Larabel",
+          "description": "Red Hat's Peter Hutterer is out with two important updates to the Linux input stack: libinput 1.26 has released for this input handling library used both by X.Org and Wayland systems and then secondly he has announced the \"gsetwacom\" CLI program as a replacement to the \"xsetwacom\" program...",
+          "link": "https://www.phoronix.com/news/libinput-1.26-Released",
+          "publishedOn": "2024-06-06T10:01:47.000Z",
+          "wordCount": 1901,
+          "title": "Libinput 1.26 Rolls Out New Features, gsetwacom Introduced To Replace xsetwacom",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Mesa-24.1.1-Released",
           "author": "Michael Larabel",
