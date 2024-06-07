@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-06.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 06, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nMathematical Optimization for Cargo Ships\n(comments)\n\n\nShow HN: Foosbar – My autonomous foosball-playing robot\n(comments)\n\n\nResearchers to retract landmark Alzheimer's paper containing doctored images\n(comments)\n\n\nMost life on Earth is dormant, after pulling an 'emergency brake'\n(comments)\n\n\nMicrosoft AI spying scandal: time to rethink privacy standards\n(comments)\n\n\nSaint Michael Sword: Are the cathedrals really on a straight line?\n(comments)\n\n\nI learned Vulkan and wrote a small game engine with it\n(comments)\n\n\nAeroSpace is an i3-like tiling window manager for macOS\n(comments)\n\n\nSuper Heavy has splashed down in The Gulf of Mexico\n(comments)\n\n\nRoman Roads (2017)\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-06.html",
+          "publishedOn": "2024-06-07T00:00:00.000Z",
+          "wordCount": 580,
+          "title": "Daily Hacker News for 2024-06-06",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-05.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 05, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nSphere Rendering: Flat Planets\n(comments)\n\n\nSome notes on influenceering\n(comments)\n\n\nAn animated introduction to Fourier series\n(comments)\n\n\nYou'll regret using natural keys\n(comments)\n\n\nIsrael reportedly used fake social accounts to garner support from US lawmakers\n(comments)\n\n\nSimple tasks showing reasoning breakdown in state-of-the-art LLMs\n(comments)\n\n\nBoeing Starliner launches first crewed mission\n(comments)\n\n\nVulkan1.3 on the M1 in one month\n(comments)\n\n\nManaging my motivation as a solo dev\n(comments)\n\n\nEmployees who stay in companies longer than two years get paid 50% less (2014)\n(comments)",
@@ -302,6 +312,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Intel-MTL-EPP-Tuning-64",
+          "author": "Michael Larabel",
+          "description": "It's like magic with one line of code changed in the Linux kernel that Intel is reporting up to 19% performance improvement for Intel Core Ultra \"Meteor Lake\" and up to an 11% improvement in performance per Watt. Or in another EPP mode, the power consumption during video playback can be reduced by 52%!..",
+          "link": "https://www.phoronix.com/news/Intel-MTL-EPP-Tuning-64",
+          "publishedOn": "2024-06-06T20:00:53.000Z",
+          "wordCount": 1949,
+          "title": "Updated Intel Meteor Lake Tuning For Linux Shows Huge Performance/Power Improvements",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AMD-GFX1152-Appears",
+          "author": "Michael Larabel",
+          "description": "When it comes to the RDNA 3.5 / RDNA 3+ integrated graphics found with upcoming AMD products, the graphics driver IP has been referred to as \"GFX1150\" and \"GFX1151\" of the AMD GFX 11.5 graphics IP. But now appearing today within the AMDGPU LLVM shader compiler is a new GFX1152 variant...",
+          "link": "https://www.phoronix.com/news/AMD-GFX1152-Appears",
+          "publishedOn": "2024-06-06T17:02:34.000Z",
+          "wordCount": 1969,
+          "title": "New AMD RDNA 3.5 GPU Target \"GFX1152\" Appears In Open-Source Linux Driver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/amd-epyc-4004-ddr5-xeon",
+          "author": "Michael Larabel",
+          "description": "With the AMD EPYC 4004 series that was announced in May and we have delivered benchmarks of the entire EPYC 4004 stack from the 4-core SKU up through the 16-core model with 3D V-Cache, there are many advantages over Intel's Xeon E-2400 series competition. In addition to going up to 16 cores versus 8 with the Xeon E-2400 series, the more competitive pricing, the 3D V-Cache SKUs, and 28 PCIe lanes rather than 20, the AMD EPYC 4004 models also support DDR5-5200 memory where as the Intel Raptor Lake E-2400 models are bound to DDR5-4800. In this follow-up testing is a look at the AMD EPYC 4004 performance both at DDR5-4800 and DDR5-5200 speeds for showing the performance difference.",
+          "link": "https://www.phoronix.com/review/amd-epyc-4004-ddr5-xeon",
+          "publishedOn": "2024-06-06T16:15:11.000Z",
+          "wordCount": 1991,
+          "title": "AMD EPYC 4364P & 4564P @ DDR5-4800 / DDR5-5200 vs. Intel Xeon E-2488",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Ryzen-AI-300-Laptop-Shopping",
+          "author": "Michael Larabel",
+          "description": "With this week's Computex announcement by AMD of the Ryzen AI 300 series laptop processors built atop Zen 5, one of the pleasant aspects has been several laptop models being announced already to be powered by either the Ryzen AI 9 365 or Ryzen AI 9 HX 370 flagship models. Some models are also already available for pre-order ahead of launch day. This is quite nice compared to in the past there was often at times quite a delay between the initial AMD Ryzen mobile announcements and being able to (pre)order any hardware. And thus I've already been looking around to coordinate near launch day Linux testing of the new AMD Zen 5 powered Ryzen AI 300 series hardware...",
+          "link": "https://www.phoronix.com/news/Ryzen-AI-300-Laptop-Shopping",
+          "publishedOn": "2024-06-06T14:40:17.000Z",
+          "wordCount": 2500,
+          "title": "Shopping For A Launch-Day AMD Ryzen AI 300 Series Laptop For Linux Testing",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Microsoft-Azure-Linux-3.0-Pre",
           "author": "Michael Larabel",
