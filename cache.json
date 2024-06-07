@@ -294,16 +294,6 @@
           "wordCount": 587,
           "title": "Daily Hacker News for 2024-05-09",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-08.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 08, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nPyspread – Pythonic Spreadsheet\n(comments)\n\n\nHackers discover how to reprogram NES Tetris from within the game\n(comments)\n\n\nCan turning office towers into apartments save downtowns?\n(comments)\n\n\nLPCAMM2 is a modular, repairable, upgradeable memory standard for laptops\n(comments)\n\n\nDecker: A reincarnation of HyperCard with 1-bit graphics\n(comments)\n\n\nU.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers\n(comments)\n\n\n'Underwater bicycle' propels swimmers forward at superhuman speed\n(comments)\n\n\nAlphaFold 3 predicts the structure and interactions of life's molecules\n(comments)\n\n\nSteve Albini has died\n(comments)\n\n\nDevelopment Notes from xkcd's \\\"Machine\\\"\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-08.html",
-          "publishedOn": "2024-05-09T00:00:00.000Z",
-          "wordCount": 570,
-          "title": "Daily Hacker News for 2024-05-08",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.11-DRM-Intel-Xe-Next",
+          "author": "Michael Larabel",
+          "description": "On Thursday the first set of Intel Xe driver feature updates were submitted to DRM-Next of material intended for merging with the Linux 6.11 kernel in July...",
+          "link": "https://www.phoronix.com/news/Linux-6.11-DRM-Intel-Xe-Next",
+          "publishedOn": "2024-06-07T10:56:33.000Z",
+          "wordCount": 1882,
+          "title": "Intel's Xe Driver Preps For SR-IOV Support & More Lunar Lake With Linux 6.11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Python-3.13-Beta-2",
+          "author": "Michael Larabel",
+          "description": "The second beta is now available for testing of the upcoming Python 3.13 release that is bringing an experimental JIT, a new interactive interpreter, and other big features for this annual Python feature release...",
+          "link": "https://www.phoronix.com/news/Python-3.13-Beta-2",
+          "publishedOn": "2024-06-07T10:49:20.000Z",
+          "wordCount": 1828,
+          "title": "Python 3.13 Beta 2 Released For Testing The Experimental JIT & Other New Features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/LG-Gram-2024-Laptops-LInux",
+          "author": "Michael Larabel",
+          "description": "Merged to the Linux kernel back in 2018 was an LG Gram laptop driver for supporting various hotkeys and extra functionality of these LG laptops. That driver is now being extended to support the latest LG Gram laptop models...",
+          "link": "https://www.phoronix.com/news/LG-Gram-2024-Laptops-LInux",
+          "publishedOn": "2024-06-07T10:37:42.000Z",
+          "wordCount": 1961,
+          "title": "Improved Linux Driver Support Coming For LG Gram 2024 Laptop Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-Hardware-Reviews-20",
+          "author": "Michael Larabel",
+          "description": "With this week marking the 20th birthday of Phoronix, as part of the commemorative articles this week has been looking at the most popular Linux/open-source news over 20 years. In the piece today is looking back at the most popular Linux hardware reviews and other featured articles on Phoronix since 2004...",
+          "link": "https://www.phoronix.com/news/Linux-Hardware-Reviews-20",
+          "publishedOn": "2024-06-07T10:21:54.000Z",
+          "wordCount": 4078,
+          "title": "The Most Popular Linux Hardware Reviews & Featured Articles Over 20 Years",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-MTL-EPP-Tuning-64",
           "author": "Michael Larabel",
@@ -3080,16 +3110,6 @@
           "publishedOn": "2024-05-09T12:56:11.000Z",
           "wordCount": 1771,
           "title": "ChromeOS EC Hardware Monitoring Driver Being Revived For Framework Laptops",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/review/ubuntu-2404-riscv",
-          "author": "Michael Larabel",
-          "description": "Recently I've been testing out the Scaleway's Elastic Metal RV1 (EM-RV1) RISC-V cloud servers. Initially they were using Ubuntu 23.10 for providing an up-to-date Ubuntu Linux RISC-V experience while quickly upgraded to Ubuntu 24.04 LTS. For those curious how Ubuntu 24.04 is performing on RISC-V hardware, here are some comparison benchmarks.",
-          "link": "https://www.phoronix.com/review/ubuntu-2404-riscv",
-          "publishedOn": "2024-05-08T14:45:00.000Z",
-          "wordCount": 1850,
-          "title": "RISC-V Performance On Ubuntu 24.04 LTS With Scaleway's EM-RV1",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-07T01:19:11.992Z</updated>
+    <updated>2024-06-07T12:34:59.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel's Xe Driver Preps For SR-IOV Support & More Lunar Lake With Linux 6.11]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.11-DRM-Intel-Xe-Next</id>
+        <link href="https://www.phoronix.com/news/Linux-6.11-DRM-Intel-Xe-Next"/>
+        <updated>2024-06-07T10:56:33.000Z</updated>
+        <summary type="html"><![CDATA[On Thursday the first set of Intel Xe driver feature updates were submitted to DRM-Next of material intended for merging with the Linux 6.11 kernel in July...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 3.13 Beta 2 Released For Testing The Experimental JIT & Other New Features]]></title>
+        <id>https://www.phoronix.com/news/Python-3.13-Beta-2</id>
+        <link href="https://www.phoronix.com/news/Python-3.13-Beta-2"/>
+        <updated>2024-06-07T10:49:20.000Z</updated>
+        <summary type="html"><![CDATA[The second beta is now available for testing of the upcoming Python 3.13 release that is bringing an experimental JIT, a new interactive interpreter, and other big features for this annual Python feature release...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved Linux Driver Support Coming For LG Gram 2024 Laptop Models]]></title>
+        <id>https://www.phoronix.com/news/LG-Gram-2024-Laptops-LInux</id>
+        <link href="https://www.phoronix.com/news/LG-Gram-2024-Laptops-LInux"/>
+        <updated>2024-06-07T10:37:42.000Z</updated>
+        <summary type="html"><![CDATA[Merged to the Linux kernel back in 2018 was an LG Gram laptop driver for supporting various hotkeys and extra functionality of these LG laptops. That driver is now being extended to support the latest LG Gram laptop models...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Popular Linux Hardware Reviews & Featured Articles Over 20 Years]]></title>
+        <id>https://www.phoronix.com/news/Linux-Hardware-Reviews-20</id>
+        <link href="https://www.phoronix.com/news/Linux-Hardware-Reviews-20"/>
+        <updated>2024-06-07T10:21:54.000Z</updated>
+        <summary type="html"><![CDATA[With this week marking the 20th birthday of Phoronix, as part of the commemorative articles this week has been looking at the most popular Linux/open-source news over 20 years. In the piece today is looking back at the most popular Linux hardware reviews and other featured articles on Phoronix since 2004...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-06-06]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-06-06.html</id>
@@ -4338,70 +4378,6 @@ It's always TCP_NODELAY
         <link href="https://www.phoronix.com/news/ChromeOS-EC-HWMON-Driver"/>
         <updated>2024-05-09T12:56:11.000Z</updated>
         <summary type="html"><![CDATA[In addition to a Framework Laptop EC driver being prepared for Linux that extends the Chrome OS embedded controller (EC) used by recent Framework Laptops, a ChromeOS EC hardware monitoring (HWMON subsystem) driver has also been revived as a further support extension for Framework laptops on Linux...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-08]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-08.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-08.html"/>
-        <updated>2024-05-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 08, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-Pyspread – Pythonic Spreadsheet
-(comments)
-
-
-Hackers discover how to reprogram NES Tetris from within the game
-(comments)
-
-
-Can turning office towers into apartments save downtowns?
-(comments)
-
-
-LPCAMM2 is a modular, repairable, upgradeable memory standard for laptops
-(comments)
-
-
-Decker: A reincarnation of HyperCard with 1-bit graphics
-(comments)
-
-
-U.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers
-(comments)
-
-
-'Underwater bicycle' propels swimmers forward at superhuman speed
-(comments)
-
-
-AlphaFold 3 predicts the structure and interactions of life's molecules
-(comments)
-
-
-Steve Albini has died
-(comments)
-
-
-Development Notes from xkcd's \"Machine\"
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RISC-V Performance On Ubuntu 24.04 LTS With Scaleway's EM-RV1]]></title>
-        <id>https://www.phoronix.com/review/ubuntu-2404-riscv</id>
-        <link href="https://www.phoronix.com/review/ubuntu-2404-riscv"/>
-        <updated>2024-05-08T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently I've been testing out the Scaleway's Elastic Metal RV1 (EM-RV1) RISC-V cloud servers. Initially they were using Ubuntu 23.10 for providing an up-to-date Ubuntu Linux RISC-V experience while quickly upgraded to Ubuntu 24.04 LTS. For those curious how Ubuntu 24.04 is performing on RISC-V hardware, here are some comparison benchmarks.]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
