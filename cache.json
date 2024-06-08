@@ -294,16 +294,6 @@
           "wordCount": 578,
           "title": "Daily Hacker News for 2024-05-10",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-09.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 09, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: AI climbing coach – visualize how to climb any route based on your body\n(comments)\n\n\nTimesFM: Time Series Foundation Model for time-series forecasting\n(comments)\n\n\nShow HN: I built a non-linear UI for ChatGPT\n(comments)\n\n\nConsistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x\n(comments)\n\n\nThe Time I Lied to the CTO and Saved the Day\n(comments)\n\n\nAlgebraic Data Types for C99\n(comments)\n\n\nDeaf girl is cured in world first gene therapy trial\n(comments)\n\n\nShow HN: Exploring HN by mapping and analyzing 40M posts and comments for fun\n(comments)\n\n\nLeaked deck reveals how OpenAI is pitching publisher partnerships\n(comments)\n\n\nIt's always TCP_NODELAY\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-09.html",
-          "publishedOn": "2024-05-10T00:00:00.000Z",
-          "wordCount": 587,
-          "title": "Daily Hacker News for 2024-05-09",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,56 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMD-Peano-LLVM-Ryzen-AI",
+          "author": "Michael Larabel",
+          "description": "There was a very exciting Friday evening code drop out of AMD... They announced a new project called Peano that serves as an open-source LLVM compiler back-end for AMD/Xilinx AI engine processors with a particular focus on the Ryzen AI SOCs with existing Phoenix and Hawk Point hardware as well as the upcoming XDNA2 found with the forthcoming Ryzen AI 300 series...",
+          "link": "https://www.phoronix.com/news/AMD-Peano-LLVM-Ryzen-AI",
+          "publishedOn": "2024-06-08T11:56:00.000Z",
+          "wordCount": 2382,
+          "title": "AMD's Newest Open-Source Surprise: \"Peano\" - An LLVM Compiler For Ryzen AI NPUs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GNOME-CAD-Exhibit-OS",
+          "author": "Michael Larabel",
+          "description": "GNOME developers continue to be quite busy this summer from enhancing their desktop with more security and accessibility features to further crafting GNOME OS...",
+          "link": "https://www.phoronix.com/news/GNOME-CAD-Exhibit-OS",
+          "publishedOn": "2024-06-08T10:38:00.000Z",
+          "wordCount": 1775,
+          "title": "GNOME OS Continues Seeing New Features, New GNOME App for Viewing 3D Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Redox-OS-COSMIC-Look",
+          "author": "Michael Larabel",
+          "description": "Jeremy Soller who is an engineer at System76 and manages a side hustle of leading development on the open-source, Rust-written Redox OS has shared the latest look at this open-source operating system with the System76 COSMIC desktop applications...",
+          "link": "https://www.phoronix.com/news/Redox-OS-COSMIC-Look",
+          "publishedOn": "2024-06-08T10:26:20.000Z",
+          "wordCount": 1756,
+          "title": "Redox OS With COSMIC Apps Is Looking Quite Nice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/OBS-Studio-30.2-Beta-1",
+          "author": "Michael Larabel",
+          "description": "Out for testing this weekend is the OBS Studio 30.2 beta software for those into live-streaming their desktop and other screen recording purposes. With the OBS Studio 30.2 release there are video encode improvements for Linux, support for multi-track video streaming, hybrid MP4 output, and other new features...",
+          "link": "https://www.phoronix.com/news/OBS-Studio-30.2-Beta-1",
+          "publishedOn": "2024-06-08T10:17:47.000Z",
+          "wordCount": 1738,
+          "title": "OBS Studio 30.2 Beta Brings Native NVENC Encoder Support On Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/KDE-Plasma-6.1-Good-One",
+          "author": "Michael Larabel",
+          "description": "The KDE Plasma 6.1 desktop is due for release in a little more than one week. Prominent KDE developer Nate Graham thinks this is going to be a \"good one\" with a lot of new features, better performance, and more...",
+          "link": "https://www.phoronix.com/news/KDE-Plasma-6.1-Good-One",
+          "publishedOn": "2024-06-08T10:07:52.000Z",
+          "wordCount": 1809,
+          "title": "KDE Plasma 6.1 Is Looking To Be A \"Good One\"",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Fuchsia-OS-Simple-Mesa-Support",
           "author": "Michael Larabel",
@@ -3090,66 +3130,6 @@
           "publishedOn": "2024-05-10T01:51:51.000Z",
           "wordCount": 1849,
           "title": "SteamOS 3.6 Preview Released With Linux 6.5, Updated Arch Linux & Mesa 24.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Llamafile-0.8.2-More-AVX2",
-          "author": "Michael Larabel",
-          "description": "One of the interesting innovations out of Mozilla Ocho as the browser company's innovation and experiments group is Llamafile, a easy way to distribute and run AI large language models (LLMs) from a single file. Out this evening is Llamafile 0.8.2 is the newest release with an updated Llama.cpp and most excitingly are some AVX2 performance optimizations...",
-          "link": "https://www.phoronix.com/news/Llamafile-0.8.2-More-AVX2",
-          "publishedOn": "2024-05-10T00:15:09.000Z",
-          "wordCount": 2051,
-          "title": "Mozilla's Llamafile 0.8.2 Scores Big With New AVX2 Performance Optimizations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/LLVM-Slower-With-AMD-Opts",
-          "author": "Michael Larabel",
-          "description": "Recently there was an LLVM bug report of \"Worse runtime performance on Zen CPU when optimizing for Zen.\" Well, that's not good... Fortunately, that bug is now fixed with the latest LLVM Clang compiler code but other deficiencies in the AMD CPU optimization targeting remain...",
-          "link": "https://www.phoronix.com/news/LLVM-Slower-With-AMD-Opts",
-          "publishedOn": "2024-05-09T20:23:00.000Z",
-          "wordCount": 2236,
-          "title": "LLVM Dealing With Slower Performance On AMD CPUs When Targeting AMD Zen Optimizations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-SLAB-SLUB-Changes",
-          "author": "Michael Larabel",
-          "description": "If all goes well the Linux 6.9 stable kernel will be released on Sunday and in turn mark the opening of the Linux 6.10 merge window. In hoping for an on-time release, some Linux kernel subsystem maintainers have been already submitting early pull requests of their feature material for v6.10. Among those early pulls are the SLAB (SLUB) updates...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-SLAB-SLUB-Changes",
-          "publishedOn": "2024-05-09T19:46:03.000Z",
-          "wordCount": 1770,
-          "title": "SLUB Updates Submitted Ahead Of Linux 6.10 Merge Window",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMD-PCIe-TPH-Linux-Patches",
-          "author": "Michael Larabel",
-          "description": "A new patch series sent out today by AMD Linux engineers confirm that PCIe TPH will be supported with \"upcoming AMD hardware\" as a nice performance optimization feature for PCI Express...",
-          "link": "https://www.phoronix.com/news/AMD-PCIe-TPH-Linux-Patches",
-          "publishedOn": "2024-05-09T18:30:00.000Z",
-          "wordCount": 1991,
-          "title": "AMD Preparing PCIe TPH Support For Upcoming CPUs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/review/intel-ubuntu2404-fedora40",
-          "author": "Michael Larabel",
-          "description": "While Canonical has been investing more into the performance of Ubuntu Linux and engaged some new performance improvements in Ubuntu 24.04 LTS, it's still not the fastest Linux distribution out there on x86_64 hardware. Similarly, the recently released Fedora Workstation 40 features the brand new GCC 14 compiler and other leading-edge open-source software packages, but there's still more performance left on the table as shown by Intel. Here are some fresh benchmarks looking at how Ubuntu 24.04 LTS and Fedora Workstation 40 are competing with Intel's in-house Clear Linux distribution that offers aggressive x86_64 Linux performance defaults and the best possible out-of-the-box Linux performance on modern x86_64 hardware.",
-          "link": "https://www.phoronix.com/review/intel-ubuntu2404-fedora40",
-          "publishedOn": "2024-05-09T16:26:56.000Z",
-          "wordCount": 1998,
-          "title": "Ubuntu 24.04 LTS & Fedora 40 Continue To Trail Intel's Linux Performance Optimizations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMD-MES-Firmware-Docs",
-          "author": "Michael Larabel",
-          "description": "As expected, AMD today published the Micro Engine Scheduler \"MES\" firmware documentation for RDNA3 graphics processors as part of better engaging with the open-source community and aiming to address some gaps in their open-source GPU compute stack...",
-          "link": "https://www.phoronix.com/news/AMD-MES-Firmware-Docs",
-          "publishedOn": "2024-05-09T14:00:53.000Z",
-          "wordCount": 1963,
-          "title": "AMD Publishes Micro Engine Scheduler \"MES\" Firmware Documentation",
           "imageUrl": null
         }
       ]

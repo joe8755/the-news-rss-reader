@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-08T01:16:46.998Z</updated>
+    <updated>2024-06-08T12:30:47.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD's Newest Open-Source Surprise: "Peano" - An LLVM Compiler For Ryzen AI NPUs]]></title>
+        <id>https://www.phoronix.com/news/AMD-Peano-LLVM-Ryzen-AI</id>
+        <link href="https://www.phoronix.com/news/AMD-Peano-LLVM-Ryzen-AI"/>
+        <updated>2024-06-08T11:56:00.000Z</updated>
+        <summary type="html"><![CDATA[There was a very exciting Friday evening code drop out of AMD... They announced a new project called Peano that serves as an open-source LLVM compiler back-end for AMD/Xilinx AI engine processors with a particular focus on the Ryzen AI SOCs with existing Phoenix and Hawk Point hardware as well as the upcoming XDNA2 found with the forthcoming Ryzen AI 300 series...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME OS Continues Seeing New Features, New GNOME App for Viewing 3D Models]]></title>
+        <id>https://www.phoronix.com/news/GNOME-CAD-Exhibit-OS</id>
+        <link href="https://www.phoronix.com/news/GNOME-CAD-Exhibit-OS"/>
+        <updated>2024-06-08T10:38:00.000Z</updated>
+        <summary type="html"><![CDATA[GNOME developers continue to be quite busy this summer from enhancing their desktop with more security and accessibility features to further crafting GNOME OS...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redox OS With COSMIC Apps Is Looking Quite Nice]]></title>
+        <id>https://www.phoronix.com/news/Redox-OS-COSMIC-Look</id>
+        <link href="https://www.phoronix.com/news/Redox-OS-COSMIC-Look"/>
+        <updated>2024-06-08T10:26:20.000Z</updated>
+        <summary type="html"><![CDATA[Jeremy Soller who is an engineer at System76 and manages a side hustle of leading development on the open-source, Rust-written Redox OS has shared the latest look at this open-source operating system with the System76 COSMIC desktop applications...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OBS Studio 30.2 Beta Brings Native NVENC Encoder Support On Linux]]></title>
+        <id>https://www.phoronix.com/news/OBS-Studio-30.2-Beta-1</id>
+        <link href="https://www.phoronix.com/news/OBS-Studio-30.2-Beta-1"/>
+        <updated>2024-06-08T10:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Out for testing this weekend is the OBS Studio 30.2 beta software for those into live-streaming their desktop and other screen recording purposes. With the OBS Studio 30.2 release there are video encode improvements for Linux, support for multi-track video streaming, hybrid MP4 output, and other new features...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6.1 Is Looking To Be A "Good One"]]></title>
+        <id>https://www.phoronix.com/news/KDE-Plasma-6.1-Good-One</id>
+        <link href="https://www.phoronix.com/news/KDE-Plasma-6.1-Good-One"/>
+        <updated>2024-06-08T10:07:52.000Z</updated>
+        <summary type="html"><![CDATA[The KDE Plasma 6.1 desktop is due for release in a little more than one week. Prominent KDE developer Nate Graham thinks this is going to be a "good one" with a lot of new features, better performance, and more...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-06-07]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-06-07.html</id>
@@ -4348,120 +4398,6 @@ Most of Europe is glowing pink under the aurora
         <link href="https://www.phoronix.com/news/SteamOS-3.6-Preview"/>
         <updated>2024-05-10T01:51:51.000Z</updated>
         <summary type="html"><![CDATA[Valve tonight released a SteamOS 3.6 Preview as the latest version of their Arch Linux derived operating system that powers the Steam Deck and can be installed on other devices as well...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla's Llamafile 0.8.2 Scores Big With New AVX2 Performance Optimizations]]></title>
-        <id>https://www.phoronix.com/news/Llamafile-0.8.2-More-AVX2</id>
-        <link href="https://www.phoronix.com/news/Llamafile-0.8.2-More-AVX2"/>
-        <updated>2024-05-10T00:15:09.000Z</updated>
-        <summary type="html"><![CDATA[One of the interesting innovations out of Mozilla Ocho as the browser company's innovation and experiments group is Llamafile, a easy way to distribute and run AI large language models (LLMs) from a single file. Out this evening is Llamafile 0.8.2 is the newest release with an updated Llama.cpp and most excitingly are some AVX2 performance optimizations...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-09]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-09.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-09.html"/>
-        <updated>2024-05-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 09, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-Show HN: AI climbing coach – visualize how to climb any route based on your body
-(comments)
-
-
-TimesFM: Time Series Foundation Model for time-series forecasting
-(comments)
-
-
-Show HN: I built a non-linear UI for ChatGPT
-(comments)
-
-
-Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x
-(comments)
-
-
-The Time I Lied to the CTO and Saved the Day
-(comments)
-
-
-Algebraic Data Types for C99
-(comments)
-
-
-Deaf girl is cured in world first gene therapy trial
-(comments)
-
-
-Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun
-(comments)
-
-
-Leaked deck reveals how OpenAI is pitching publisher partnerships
-(comments)
-
-
-It's always TCP_NODELAY
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLVM Dealing With Slower Performance On AMD CPUs When Targeting AMD Zen Optimizations]]></title>
-        <id>https://www.phoronix.com/news/LLVM-Slower-With-AMD-Opts</id>
-        <link href="https://www.phoronix.com/news/LLVM-Slower-With-AMD-Opts"/>
-        <updated>2024-05-09T20:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently there was an LLVM bug report of "Worse runtime performance on Zen CPU when optimizing for Zen." Well, that's not good... Fortunately, that bug is now fixed with the latest LLVM Clang compiler code but other deficiencies in the AMD CPU optimization targeting remain...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLUB Updates Submitted Ahead Of Linux 6.10 Merge Window]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-SLAB-SLUB-Changes</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-SLAB-SLUB-Changes"/>
-        <updated>2024-05-09T19:46:03.000Z</updated>
-        <summary type="html"><![CDATA[If all goes well the Linux 6.9 stable kernel will be released on Sunday and in turn mark the opening of the Linux 6.10 merge window. In hoping for an on-time release, some Linux kernel subsystem maintainers have been already submitting early pull requests of their feature material for v6.10. Among those early pulls are the SLAB (SLUB) updates...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Preparing PCIe TPH Support For Upcoming CPUs]]></title>
-        <id>https://www.phoronix.com/news/AMD-PCIe-TPH-Linux-Patches</id>
-        <link href="https://www.phoronix.com/news/AMD-PCIe-TPH-Linux-Patches"/>
-        <updated>2024-05-09T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A new patch series sent out today by AMD Linux engineers confirm that PCIe TPH will be supported with "upcoming AMD hardware" as a nice performance optimization feature for PCI Express...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 24.04 LTS & Fedora 40 Continue To Trail Intel's Linux Performance Optimizations]]></title>
-        <id>https://www.phoronix.com/review/intel-ubuntu2404-fedora40</id>
-        <link href="https://www.phoronix.com/review/intel-ubuntu2404-fedora40"/>
-        <updated>2024-05-09T16:26:56.000Z</updated>
-        <summary type="html"><![CDATA[While Canonical has been investing more into the performance of Ubuntu Linux and engaged some new performance improvements in Ubuntu 24.04 LTS, it's still not the fastest Linux distribution out there on x86_64 hardware. Similarly, the recently released Fedora Workstation 40 features the brand new GCC 14 compiler and other leading-edge open-source software packages, but there's still more performance left on the table as shown by Intel. Here are some fresh benchmarks looking at how Ubuntu 24.04 LTS and Fedora Workstation 40 are competing with Intel's in-house Clear Linux distribution that offers aggressive x86_64 Linux performance defaults and the best possible out-of-the-box Linux performance on modern x86_64 hardware.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Publishes Micro Engine Scheduler "MES" Firmware Documentation]]></title>
-        <id>https://www.phoronix.com/news/AMD-MES-Firmware-Docs</id>
-        <link href="https://www.phoronix.com/news/AMD-MES-Firmware-Docs"/>
-        <updated>2024-05-09T14:00:53.000Z</updated>
-        <summary type="html"><![CDATA[As expected, AMD today published the Micro Engine Scheduler "MES" firmware documentation for RDNA3 graphics processors as part of better engaging with the open-source community and aiming to address some gaps in their open-source GPU compute stack...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
