@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-07.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 07, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: 2d web paddle game\n(comments)\n\n\nThe right not to be subjected to AI profiling based on publicly available data\n(comments)\n\n\nlsix: Like \\\"ls\\\", but for images\n(comments)\n\n\nExtracting concepts from GPT-4\n(comments)\n\n\nIce – open source menu bar manager for macOS\n(comments)\n\n\nCancel Adobe if you are a creative under NDA with your clients\n(comments)\n\n\nHow Does GPT-4o Encode Images?\n(comments)\n\n\nMicrosoft will switch off Recall by default after security backlash\n(comments)\n\n\nOpenSSH introduces options to penalize undesirable behavior\n(comments)\n\n\nASCII Silhouettify\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-07.html",
+          "publishedOn": "2024-06-08T00:00:00.000Z",
+          "wordCount": 569,
+          "title": "Daily Hacker News for 2024-06-07",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-06.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 06, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nMathematical Optimization for Cargo Ships\n(comments)\n\n\nShow HN: Foosbar – My autonomous foosball-playing robot\n(comments)\n\n\nResearchers to retract landmark Alzheimer's paper containing doctored images\n(comments)\n\n\nMost life on Earth is dormant, after pulling an 'emergency brake'\n(comments)\n\n\nMicrosoft AI spying scandal: time to rethink privacy standards\n(comments)\n\n\nSaint Michael Sword: Are the cathedrals really on a straight line?\n(comments)\n\n\nI learned Vulkan and wrote a small game engine with it\n(comments)\n\n\nAeroSpace is an i3-like tiling window manager for macOS\n(comments)\n\n\nSuper Heavy has splashed down in The Gulf of Mexico\n(comments)\n\n\nRoman Roads (2017)\n(comments)",
@@ -302,6 +312,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Fuchsia-OS-Simple-Mesa-Support",
+          "author": "Michael Larabel",
+          "description": "With not hearing much about Fuchsia OS in a while and the Fuchsia OS team being hit hard by layoffs last year, coming as a surprise today is seeing Google beginning to upstream Fuchsia OS support into the Mesa 3D graphics driver stack...",
+          "link": "https://www.phoronix.com/news/Fuchsia-OS-Simple-Mesa-Support",
+          "publishedOn": "2024-06-07T20:45:55.000Z",
+          "wordCount": 1804,
+          "title": "Google Begins Upstreaming Fuchsia OS Support Into Mesa 3D",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-611-AMD-SEV-SNP-KVM-Guest",
+          "author": "Michael Larabel",
+          "description": "The patches have been years in the making around AMD SEV-SNP encrypted virtualization and various elements have been upstreamed in prior kernel versions while for the upcoming Linux 6.11 cycle are finally the Kernel-based Virtual Machine (KVM) bits for launching SEV-SNP protected guest virtual machines...",
+          "link": "https://www.phoronix.com/news/Linux-611-AMD-SEV-SNP-KVM-Guest",
+          "publishedOn": "2024-06-07T17:35:33.000Z",
+          "wordCount": 2013,
+          "title": "Linux 6.11 To Merge Support For Running AMD SEV-SNP KVM Guests",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AES-GCM-Intel-AMD-Linux-6.11",
+          "author": "Michael Larabel",
+          "description": "The patches recently covered on Phoronix for up to 162% faster AES-GCM encryption/decryption with modern Intel and AMD processors is now queued for introduction in the upcoming Linux 6.11 cycle!..",
+          "link": "https://www.phoronix.com/news/AES-GCM-Intel-AMD-Linux-6.11",
+          "publishedOn": "2024-06-07T16:39:26.000Z",
+          "wordCount": 1754,
+          "title": "Big Speed Boost For AES-GCM Performance On Intel & AMD CPUs Queued Ahead Of Linux 6.11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/LLVM-AMDGCN-Flavored-SPIR-V",
+          "author": "Michael Larabel",
+          "description": "SPIR-V used by the likes of OpenGL, OpenCL, and Vulkan is a common intermediate representation (IR) / intermediate language for consumption by device drivers. With code now merged into LLVM, AMD has introduced the notion of vendor \"flavored\" SPIR-V for containing extra information pertinent to the GPU device/driver being targeted...",
+          "link": "https://www.phoronix.com/news/LLVM-AMDGCN-Flavored-SPIR-V",
+          "publishedOn": "2024-06-07T14:12:53.000Z",
+          "wordCount": 1946,
+          "title": "AMD Lands Support For Vendor Flavored SPIR-V Within LLVM",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.11-DRM-Intel-Xe-Next",
           "author": "Michael Larabel",
@@ -3100,16 +3150,6 @@
           "publishedOn": "2024-05-09T14:00:53.000Z",
           "wordCount": 1963,
           "title": "AMD Publishes Micro Engine Scheduler \"MES\" Firmware Documentation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/ChromeOS-EC-HWMON-Driver",
-          "author": "Michael Larabel",
-          "description": "In addition to a Framework Laptop EC driver being prepared for Linux that extends the Chrome OS embedded controller (EC) used by recent Framework Laptops, a ChromeOS EC hardware monitoring (HWMON subsystem) driver has also been revived as a further support extension for Framework laptops on Linux...",
-          "link": "https://www.phoronix.com/news/ChromeOS-EC-HWMON-Driver",
-          "publishedOn": "2024-05-09T12:56:11.000Z",
-          "wordCount": 1771,
-          "title": "ChromeOS EC Hardware Monitoring Driver Being Revived For Framework Laptops",
           "imageUrl": null
         }
       ]
