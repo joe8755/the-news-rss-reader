@@ -294,16 +294,6 @@
           "wordCount": 573,
           "title": "Daily Hacker News for 2024-05-11",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-10.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 10, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nSound-suppressing silk can create quiet spaces\n(comments)\n\n\nLaunch HN: Muddy (YC S19) – Multiplayer browser for getting work done\n(comments)\n\n\nSioyek is a PDF viewer with a focus on textbooks and research papers\n(comments)\n\n\nThe world has probably passed peak pollution\n(comments)\n\n\nApple apologizes for iPad 'Crush' ad that 'missed the mark'\n(comments)\n\n\nPopover API\n(comments)\n\n\nShow HN: A web debugger an ex-Cloudflare team has been working on for 4 years\n(comments)\n\n\nSuperfile – A fancy, pretty terminal file manager\n(comments)\n\n\nJim Simons has died\n(comments)\n\n\nMost of Europe is glowing pink under the aurora\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-10.html",
-          "publishedOn": "2024-05-11T00:00:00.000Z",
-          "wordCount": 578,
-          "title": "Daily Hacker News for 2024-05-10",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,36 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMDKFD-GFX12-Support",
+          "author": "Michael Larabel",
+          "description": "In addition to debuting their \"Peano\" LLVM compiler back-end for Ryzen AI NPUs on Friday, AMD also submitted a new batch of feature code for their AMDGPU kernel graphics driver and AMDKFD kernel compute driver of new feature code aiming for the upcoming Linux 6.11 merge window...",
+          "link": "https://www.phoronix.com/news/AMDKFD-GFX12-Support",
+          "publishedOn": "2024-06-09T10:52:20.000Z",
+          "wordCount": 1859,
+          "title": "AMD's Linux Kernel Compute Driver For ROCm Begins Preparing For RDNA4 GPUs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-IGB-IXGBE-Firmware-Update",
+          "author": "Michael Larabel",
+          "description": "Intel's IGB and IXGBE network drivers within the mainline Linux kernel are being adapted to support firmware updates for the underlying driver. To date such functionality was limited to Intel's out-of-tree versions of these drivers for their higher-end network hardware...",
+          "link": "https://www.phoronix.com/news/Intel-IGB-IXGBE-Firmware-Update",
+          "publishedOn": "2024-06-09T10:36:35.000Z",
+          "wordCount": 1883,
+          "title": "Intel In-Tree Linux Network Drivers Being Adapted To Support Firmware Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Mold-2.32-Released",
+          "author": "Michael Larabel",
+          "description": "Mold 2.32 is out as the newest feature release for this high speed code linker that rivals LLVM LLD and GNU Gold...",
+          "link": "https://www.phoronix.com/news/Mold-2.32-Released",
+          "publishedOn": "2024-06-09T10:07:47.000Z",
+          "wordCount": 1813,
+          "title": "Mold 2.32 Released With Increased LLVM LLD Compatibility, Faster Identical Code Folding",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AMD-Peano-LLVM-Ryzen-AI",
           "author": "Michael Larabel",
@@ -3050,36 +3070,6 @@
           "publishedOn": "2024-05-11T01:46:55.000Z",
           "wordCount": 2154,
           "title": "NVIDIA's Open GPU Linux Kernel Driver Will Soon Be The Default For Turing & Newer GPUs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMD-AMF-FFmpeg-Better-2024",
-          "author": "Michael Larabel",
-          "description": "AMD last week sent out a set of patches to enhance the open-source FFmpeg multimedia library with integration around the AMD Advanced Media Framework (AMF). The AMF SDK allows for \"optimal\" access to AMD GPUs for multimedia processing but this patch series questioned the need in an era of Vulkan Video APIs beginning to see adoption...",
-          "link": "https://www.phoronix.com/news/AMD-AMF-FFmpeg-Better-2024",
-          "publishedOn": "2024-05-10T16:52:52.000Z",
-          "wordCount": 2210,
-          "title": "AMD Aims For AMF Decode In FFmpeg, Questioned Over Vulkan Video Commitment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-610-TPM-Encrypt-Integrity",
-          "author": "Michael Larabel",
-          "description": "Linux 6.10 is introducing support for Trusted Platform Module (TPM2) encryption and integrity protections to prevent active/passive interposers from compromising them. This follows a recent security demonstration of TPM key recovery from Microsoft Windows BitLocker being demonstrated. TPM sniffing attacks have also been demonstrated against Linux systems too, thus the additional protections be made with Linux 6.10 to better secure TPM2 modules...",
-          "link": "https://www.phoronix.com/news/Linux-610-TPM-Encrypt-Integrity",
-          "publishedOn": "2024-05-10T14:34:30.000Z",
-          "wordCount": 1870,
-          "title": "Linux 6.10 Adding TPM Bus Encryption & Integrity Protection",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Hyperscan-Now-Proprietary",
-          "author": "Michael Larabel",
-          "description": "While Intel can be praised for their dozens (or likely by now, hundreds) of open-source projects they maintain and countless other existing open-source software projects they actively contribute to and are covered by Phoronix on a near-daily basis, not everything there is open-source. Intel is a wonderful and leading open-source promoter but occasionally there are closed-source blobs or questionable moves such as today: Intel is taking their Hyperscan library development from BSD-licensed open-source software to now the Intel Proprietary License moving forward...",
-          "link": "https://www.phoronix.com/news/Intel-Hyperscan-Now-Proprietary",
-          "publishedOn": "2024-05-10T14:07:26.000Z",
-          "wordCount": 2231,
-          "title": "Intel Takes Open-Source Hyperscan Development To Proprietary Licensed Software",
           "imageUrl": null
         }
       ]

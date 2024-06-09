@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-09T01:23:34.173Z</updated>
+    <updated>2024-06-09T12:32:04.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD's Linux Kernel Compute Driver For ROCm Begins Preparing For RDNA4 GPUs]]></title>
+        <id>https://www.phoronix.com/news/AMDKFD-GFX12-Support</id>
+        <link href="https://www.phoronix.com/news/AMDKFD-GFX12-Support"/>
+        <updated>2024-06-09T10:52:20.000Z</updated>
+        <summary type="html"><![CDATA[In addition to debuting their "Peano" LLVM compiler back-end for Ryzen AI NPUs on Friday, AMD also submitted a new batch of feature code for their AMDGPU kernel graphics driver and AMDKFD kernel compute driver of new feature code aiming for the upcoming Linux 6.11 merge window...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel In-Tree Linux Network Drivers Being Adapted To Support Firmware Updates]]></title>
+        <id>https://www.phoronix.com/news/Intel-IGB-IXGBE-Firmware-Update</id>
+        <link href="https://www.phoronix.com/news/Intel-IGB-IXGBE-Firmware-Update"/>
+        <updated>2024-06-09T10:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Intel's IGB and IXGBE network drivers within the mainline Linux kernel are being adapted to support firmware updates for the underlying driver. To date such functionality was limited to Intel's out-of-tree versions of these drivers for their higher-end network hardware...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mold 2.32 Released With Increased LLVM LLD Compatibility, Faster Identical Code Folding]]></title>
+        <id>https://www.phoronix.com/news/Mold-2.32-Released</id>
+        <link href="https://www.phoronix.com/news/Mold-2.32-Released"/>
+        <updated>2024-06-09T10:07:47.000Z</updated>
+        <summary type="html"><![CDATA[Mold 2.32 is out as the newest feature release for this high speed code linker that rivals LLVM LLD and GNU Gold...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-06-08]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-06-08.html</id>
@@ -4308,90 +4338,6 @@ Immersive Math
         <link href="https://www.phoronix.com/news/NVIDIA-R560-Open-Default"/>
         <updated>2024-05-11T01:46:55.000Z</updated>
         <summary type="html"><![CDATA[While we are all waiting for the NVIDIA R555 series Linux driver beta that is expected to debut as soon as next week based on prior information with Wayland improvements (explicit sync) and more, with the NVIDIA R560 series Linux driver successor is a very interesting change: NVIDIA is planning on defaulting to using their open-source GPU kernel driver by default for GeForce RTX 2000 "Turing" GPUs and newer...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-10]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-10.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-10.html"/>
-        <updated>2024-05-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 10, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-Sound-suppressing silk can create quiet spaces
-(comments)
-
-
-Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done
-(comments)
-
-
-Sioyek is a PDF viewer with a focus on textbooks and research papers
-(comments)
-
-
-The world has probably passed peak pollution
-(comments)
-
-
-Apple apologizes for iPad 'Crush' ad that 'missed the mark'
-(comments)
-
-
-Popover API
-(comments)
-
-
-Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years
-(comments)
-
-
-Superfile – A fancy, pretty terminal file manager
-(comments)
-
-
-Jim Simons has died
-(comments)
-
-
-Most of Europe is glowing pink under the aurora
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Aims For AMF Decode In FFmpeg, Questioned Over Vulkan Video Commitment]]></title>
-        <id>https://www.phoronix.com/news/AMD-AMF-FFmpeg-Better-2024</id>
-        <link href="https://www.phoronix.com/news/AMD-AMF-FFmpeg-Better-2024"/>
-        <updated>2024-05-10T16:52:52.000Z</updated>
-        <summary type="html"><![CDATA[AMD last week sent out a set of patches to enhance the open-source FFmpeg multimedia library with integration around the AMD Advanced Media Framework (AMF). The AMF SDK allows for "optimal" access to AMD GPUs for multimedia processing but this patch series questioned the need in an era of Vulkan Video APIs beginning to see adoption...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Adding TPM Bus Encryption & Integrity Protection]]></title>
-        <id>https://www.phoronix.com/news/Linux-610-TPM-Encrypt-Integrity</id>
-        <link href="https://www.phoronix.com/news/Linux-610-TPM-Encrypt-Integrity"/>
-        <updated>2024-05-10T14:34:30.000Z</updated>
-        <summary type="html"><![CDATA[Linux 6.10 is introducing support for Trusted Platform Module (TPM2) encryption and integrity protections to prevent active/passive interposers from compromising them. This follows a recent security demonstration of TPM key recovery from Microsoft Windows BitLocker being demonstrated. TPM sniffing attacks have also been demonstrated against Linux systems too, thus the additional protections be made with Linux 6.10 to better secure TPM2 modules...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Takes Open-Source Hyperscan Development To Proprietary Licensed Software]]></title>
-        <id>https://www.phoronix.com/news/Intel-Hyperscan-Now-Proprietary</id>
-        <link href="https://www.phoronix.com/news/Intel-Hyperscan-Now-Proprietary"/>
-        <updated>2024-05-10T14:07:26.000Z</updated>
-        <summary type="html"><![CDATA[While Intel can be praised for their dozens (or likely by now, hundreds) of open-source projects they maintain and countless other existing open-source software projects they actively contribute to and are covered by Phoronix on a near-daily basis, not everything there is open-source. Intel is a wonderful and leading open-source promoter but occasionally there are closed-source blobs or questionable moves such as today: Intel is taking their Hyperscan library development from BSD-licensed open-source software to now the Intel Proprietary License moving forward...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
