@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-08T12:30:47.009Z</updated>
+    <updated>2024-06-09T01:23:34.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-08]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-08.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-08.html"/>
+        <updated>2024-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 08, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Own a weather station? We want your data
+(comments)
+
+
+Tom 7: Badness 0 (Three ways)
+(comments)
+
+
+σ-GPTs: A new approach to autoregressive models
+(comments)
+
+
+Ask HN: Machine learning engineers, what do you do at work?
+(comments)
+
+
+Feynman’s Razor
+(comments)
+
+
+Xv6, a simple Unix-like teaching operating system
+(comments)
+
+
+What Is PID 0?
+(comments)
+
+
+Apollo 8 astronaut William Anders ID'd in WA plane crash
+(comments)
+
+
+South Pole Water Infrastructure
+(comments)
+
+
+The Backrooms of the Internet Archive
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD's Newest Open-Source Surprise: "Peano" - An LLVM Compiler For Ryzen AI NPUs]]></title>
         <id>https://www.phoronix.com/news/AMD-Peano-LLVM-Ryzen-AI</id>
@@ -4338,66 +4392,6 @@ Most of Europe is glowing pink under the aurora
         <link href="https://www.phoronix.com/news/Intel-Hyperscan-Now-Proprietary"/>
         <updated>2024-05-10T14:07:26.000Z</updated>
         <summary type="html"><![CDATA[While Intel can be praised for their dozens (or likely by now, hundreds) of open-source projects they maintain and countless other existing open-source software projects they actively contribute to and are covered by Phoronix on a near-daily basis, not everything there is open-source. Intel is a wonderful and leading open-source promoter but occasionally there are closed-source blobs or questionable moves such as today: Intel is taking their Hyperscan library development from BSD-licensed open-source software to now the Intel Proprietary License moving forward...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.9 Features Many Great Improvements For Both Intel & AMD]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.9-Features-Intel-AMD</id>
-        <link href="https://www.phoronix.com/news/Linux-6.9-Features-Intel-AMD"/>
-        <updated>2024-05-10T10:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Barring any last minute reservations by Linus Torvalds, the Linux 6.9 kernel should be released as stable on Sunday. It's been a fairly quiet week so Linux 6.9 stable will likely happen as opposed to going through an extra week with a 6.9-rc8 candidate. With this spring 2024 kernel there are many great features and improvements, especially for modern Intel and AMD platforms...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulkan 1.3.285 Released With New Extension From Valve VKD3D-Proton Developer]]></title>
-        <id>https://www.phoronix.com/news/Vulkan-1.3.285-Released</id>
-        <link href="https://www.phoronix.com/news/Vulkan-1.3.285-Released"/>
-        <updated>2024-05-10T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[The Vulkan API 1.3.285 spec revision is out today with a handful of fixes/clarifications and another new extension developed by Valve engineering...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocky Linux 9.4 Released For RHEL 9.4 Derived Distribution]]></title>
-        <id>https://www.phoronix.com/news/Rocky-Linux-9.4-Released</id>
-        <link href="https://www.phoronix.com/news/Rocky-Linux-9.4-Released"/>
-        <updated>2024-05-10T10:33:17.000Z</updated>
-        <summary type="html"><![CDATA[Building off last week's release of Red Hat Enterprise Linux 9.4 (RHEL 9.4) has been AlmaLinux 9.4 and now the other notable community-focused downstream: Rocky Linux 9.4...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SDL3 Adds PipeWire Camera Support]]></title>
-        <id>https://www.phoronix.com/news/SDL3-PipeWire-Camera-Capture</id>
-        <link href="https://www.phoronix.com/news/SDL3-PipeWire-Camera-Capture"/>
-        <updated>2024-05-10T10:26:44.000Z</updated>
-        <summary type="html"><![CDATA[Adding to the growing list of features coming with the SDL3 release for this hardware/software abstraction layer commonly used by cross-platform games and other software is PipeWire camera capturing support...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Updates Its PyTorch Build With More Large Language Model Optimizations]]></title>
-        <id>https://www.phoronix.com/news/Intel-Extension-PyTorch-2.3</id>
-        <link href="https://www.phoronix.com/news/Intel-Extension-PyTorch-2.3"/>
-        <updated>2024-05-10T10:19:12.000Z</updated>
-        <summary type="html"><![CDATA[Intel has released their Intel Extension for PyTorch v2.3 to succeed their earlier v2.1 derived extension. With this updated extension targeting PyTorch 2.3, Intel is rolling out more optimizations around Large Language Models (LLMs)...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteamOS 3.6 Preview Released With Linux 6.5, Updated Arch Linux & Mesa 24.1]]></title>
-        <id>https://www.phoronix.com/news/SteamOS-3.6-Preview</id>
-        <link href="https://www.phoronix.com/news/SteamOS-3.6-Preview"/>
-        <updated>2024-05-10T01:51:51.000Z</updated>
-        <summary type="html"><![CDATA[Valve tonight released a SteamOS 3.6 Preview as the latest version of their Arch Linux derived operating system that powers the Steam Deck and can be installed on other devices as well...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
