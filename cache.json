@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-09.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 09, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nLSP-AI: open-source language server serving as back end for AI code assistance\n(comments)\n\n\nDetecting a PS2 Emulator: When 1*X does not equal X\n(comments)\n\n\nMy favorite 1980's Canadian TV show: Bits and Bytes\n(comments)\n\n\nGene therapy restores hearing to children with inherited deafness\n(comments)\n\n\nDraw an iceberg and see how it will float\n(comments)\n\n\nViagra improves brain blood flow and could help to prevent dementia\n(comments)\n\n\nPiku: Allows git push deployments to your own servers\n(comments)\n\n\nEconomic Termites: Monopolies not noticeable enough for most of us\n(comments)\n\n\nThe Weird Nerd comes with trade-offs\n(comments)\n\n\nKeylogger discovered in image generator extension\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-09.html",
+          "publishedOn": "2024-06-10T00:00:00.000Z",
+          "wordCount": 585,
+          "title": "Daily Hacker News for 2024-06-09",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-08.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 08, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nOwn a weather station? We want your data\n(comments)\n\n\nTom 7: Badness 0 (Three ways)\n(comments)\n\n\nσ-GPTs: A new approach to autoregressive models\n(comments)\n\n\nAsk HN: Machine learning engineers, what do you do at work?\n(comments)\n\n\nFeynman’s Razor\n(comments)\n\n\nXv6, a simple Unix-like teaching operating system\n(comments)\n\n\nWhat Is PID 0?\n(comments)\n\n\nApollo 8 astronaut William Anders ID'd in WA plane crash\n(comments)\n\n\nSouth Pole Water Infrastructure\n(comments)\n\n\nThe Backrooms of the Internet Archive\n(comments)",
@@ -302,6 +312,26 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-rc3-Released",
+          "author": "Michael Larabel",
+          "description": "Linus Torvalds just announced the release of Linux 6.10-rc3 as a rather pleasant week for this stage of the kernel cycle...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-rc3-Released",
+          "publishedOn": "2024-06-09T21:37:41.000Z",
+          "wordCount": 1781,
+          "title": "Linux 6.10-rc3 Released For A Boring But Good Week",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/CachyOS-Btrfs-Default",
+          "author": "Michael Larabel",
+          "description": "Arch Linux derivative CachyOS that is optimized for a nice desktop experience and shipping a nice set of performance optimizations/tuning by default is out with its June 2024 refresh...",
+          "link": "https://www.phoronix.com/news/CachyOS-Btrfs-Default",
+          "publishedOn": "2024-06-09T16:25:19.000Z",
+          "wordCount": 1735,
+          "title": "Arch Linux Powered CachyOS Now Defaults To Btrfs Rather Than XFS",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AMDKFD-GFX12-Support",
           "author": "Michael Larabel",
@@ -3000,76 +3030,6 @@
           "publishedOn": "2024-05-12T00:16:50.000Z",
           "wordCount": 1961,
           "title": "ReactOS \"Open-Source Windows\" Making Good Strides On SMP CPU Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Torvalds-Arithmetic-Overflows",
-          "author": "Michael Larabel",
-          "description": "For those interested in some insightful Linux kernel mailing list reading this weekend, there's been a vibrant discussion on the ability for the Linux kernel to mitigate unexpected arithmetic overflows/underflows/wraparounds...",
-          "link": "https://www.phoronix.com/news/Torvalds-Arithmetic-Overflows",
-          "publishedOn": "2024-05-11T13:19:26.000Z",
-          "wordCount": 2508,
-          "title": "Torvalds Voices Thoughts On Linux Mitigating Unexpected Arithmetic Overflows/Underflows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/KDE-HDR-Colors-Part-3",
-          "author": "Michael Larabel",
-          "description": "KDE developer Xaver Hugl has written a third blog post outlining some of the latest HDR and color management improvements that have been readied for KDE's KWin compositor as well as ongoing improvements to Valve's Gamescope compositor...",
-          "link": "https://www.phoronix.com/news/KDE-HDR-Colors-Part-3",
-          "publishedOn": "2024-05-11T11:00:22.000Z",
-          "wordCount": 1925,
-          "title": "KDE Making Good Progress On HDR, Better Gamescope Integration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Cloudflare-Pingora-0.2",
-          "author": "Michael Larabel",
-          "description": "Two years ago Cloudflare outlined how they began replacing Nginx with their own in-house creation, Pingora. Back in February of this year Cloudflare open-sourced Pingora and in April issued the maiden release of Pingora. Out today is Pingora 0.2 as the second release of this Rust framework that is already used in production by Cloudflare...",
-          "link": "https://www.phoronix.com/news/Cloudflare-Pingora-0.2",
-          "publishedOn": "2024-05-11T10:34:21.000Z",
-          "wordCount": 1763,
-          "title": "Cloudflare Releases Pingora 0.2 For Building Fast & Reliable Networked Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Rustls-With-Nginx",
-          "author": "Michael Larabel",
-          "description": "Rustls is the modern TLS library written in the Rust programming language with a large emphasis on memory safety and security. Rustls is backed by Google, AWS, and others as well as being a recipient of Germany's Sovereign Tech Fund. The latest exciting milestone for the open-source project is that Rustls can now work with Nginx...",
-          "link": "https://www.phoronix.com/news/Rustls-With-Nginx",
-          "publishedOn": "2024-05-11T10:27:02.000Z",
-          "wordCount": 1786,
-          "title": "Rustls Can Now Work With Nginx Via New OpenSSL Compatibility Layer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Wasmer-4.3-Released",
-          "author": "Michael Larabel",
-          "description": "Wasmer 4.3 is out as the newest version of this WebAssembly (WASM) runtime that supports WASIX, WASI, and EmScript execution. This cross-platform WASM runtime continues to be focused on driving lightweight containers that can run anywhere in a very secure manner...",
-          "link": "https://www.phoronix.com/news/Wasmer-4.3-Released",
-          "publishedOn": "2024-05-11T09:59:14.000Z",
-          "wordCount": 1831,
-          "title": "Wasmer 4.3 Released: WebAssembly Runtime 25% Faster On Cold Startups",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/KDE-Smooth-Dolphin-And-More",
-          "author": "Michael Larabel",
-          "description": "KDE developers had another busy week as more features were merged ahead of next month's Plasma 6.1 release...",
-          "link": "https://www.phoronix.com/news/KDE-Smooth-Dolphin-And-More",
-          "publishedOn": "2024-05-11T09:45:26.000Z",
-          "wordCount": 1761,
-          "title": "KDE Plasma 6 Sees More Features Merged Ahead Of Plasma 6.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/NVIDIA-R560-Open-Default",
-          "author": "Michael Larabel",
-          "description": "While we are all waiting for the NVIDIA R555 series Linux driver beta that is expected to debut as soon as next week based on prior information with Wayland improvements (explicit sync) and more, with the NVIDIA R560 series Linux driver successor is a very interesting change: NVIDIA is planning on defaulting to using their open-source GPU kernel driver by default for GeForce RTX 2000 \"Turing\" GPUs and newer...",
-          "link": "https://www.phoronix.com/news/NVIDIA-R560-Open-Default",
-          "publishedOn": "2024-05-11T01:46:55.000Z",
-          "wordCount": 2154,
-          "title": "NVIDIA's Open GPU Linux Kernel Driver Will Soon Be The Default For Turing & Newer GPUs",
           "imageUrl": null
         }
       ]

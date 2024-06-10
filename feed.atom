@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-09T12:32:04.958Z</updated>
+    <updated>2024-06-10T01:19:37.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-09]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-09.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-09.html"/>
+        <updated>2024-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 09, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+LSP-AI: open-source language server serving as back end for AI code assistance
+(comments)
+
+
+Detecting a PS2 Emulator: When 1*X does not equal X
+(comments)
+
+
+My favorite 1980's Canadian TV show: Bits and Bytes
+(comments)
+
+
+Gene therapy restores hearing to children with inherited deafness
+(comments)
+
+
+Draw an iceberg and see how it will float
+(comments)
+
+
+Viagra improves brain blood flow and could help to prevent dementia
+(comments)
+
+
+Piku: Allows git push deployments to your own servers
+(comments)
+
+
+Economic Termites: Monopolies not noticeable enough for most of us
+(comments)
+
+
+The Weird Nerd comes with trade-offs
+(comments)
+
+
+Keylogger discovered in image generator extension
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10-rc3 Released For A Boring But Good Week]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-rc3-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-rc3-Released"/>
+        <updated>2024-06-09T21:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds just announced the release of Linux 6.10-rc3 as a rather pleasant week for this stage of the kernel cycle...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arch Linux Powered CachyOS Now Defaults To Btrfs Rather Than XFS]]></title>
+        <id>https://www.phoronix.com/news/CachyOS-Btrfs-Default</id>
+        <link href="https://www.phoronix.com/news/CachyOS-Btrfs-Default"/>
+        <updated>2024-06-09T16:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Arch Linux derivative CachyOS that is optimized for a nice desktop experience and shipping a nice set of performance optimizations/tuning by default is out with its June 2024 refresh...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD's Linux Kernel Compute Driver For ROCm Begins Preparing For RDNA4 GPUs]]></title>
         <id>https://www.phoronix.com/news/AMDKFD-GFX12-Support</id>
@@ -4270,76 +4344,6 @@ Immersive Math
 (comments)]]></summary>
         <author>
             <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torvalds Voices Thoughts On Linux Mitigating Unexpected Arithmetic Overflows/Underflows]]></title>
-        <id>https://www.phoronix.com/news/Torvalds-Arithmetic-Overflows</id>
-        <link href="https://www.phoronix.com/news/Torvalds-Arithmetic-Overflows"/>
-        <updated>2024-05-11T13:19:26.000Z</updated>
-        <summary type="html"><![CDATA[For those interested in some insightful Linux kernel mailing list reading this weekend, there's been a vibrant discussion on the ability for the Linux kernel to mitigate unexpected arithmetic overflows/underflows/wraparounds...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Making Good Progress On HDR, Better Gamescope Integration]]></title>
-        <id>https://www.phoronix.com/news/KDE-HDR-Colors-Part-3</id>
-        <link href="https://www.phoronix.com/news/KDE-HDR-Colors-Part-3"/>
-        <updated>2024-05-11T11:00:22.000Z</updated>
-        <summary type="html"><![CDATA[KDE developer Xaver Hugl has written a third blog post outlining some of the latest HDR and color management improvements that have been readied for KDE's KWin compositor as well as ongoing improvements to Valve's Gamescope compositor...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare Releases Pingora 0.2 For Building Fast & Reliable Networked Systems]]></title>
-        <id>https://www.phoronix.com/news/Cloudflare-Pingora-0.2</id>
-        <link href="https://www.phoronix.com/news/Cloudflare-Pingora-0.2"/>
-        <updated>2024-05-11T10:34:21.000Z</updated>
-        <summary type="html"><![CDATA[Two years ago Cloudflare outlined how they began replacing Nginx with their own in-house creation, Pingora. Back in February of this year Cloudflare open-sourced Pingora and in April issued the maiden release of Pingora. Out today is Pingora 0.2 as the second release of this Rust framework that is already used in production by Cloudflare...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rustls Can Now Work With Nginx Via New OpenSSL Compatibility Layer]]></title>
-        <id>https://www.phoronix.com/news/Rustls-With-Nginx</id>
-        <link href="https://www.phoronix.com/news/Rustls-With-Nginx"/>
-        <updated>2024-05-11T10:27:02.000Z</updated>
-        <summary type="html"><![CDATA[Rustls is the modern TLS library written in the Rust programming language with a large emphasis on memory safety and security. Rustls is backed by Google, AWS, and others as well as being a recipient of Germany's Sovereign Tech Fund. The latest exciting milestone for the open-source project is that Rustls can now work with Nginx...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wasmer 4.3 Released: WebAssembly Runtime 25% Faster On Cold Startups]]></title>
-        <id>https://www.phoronix.com/news/Wasmer-4.3-Released</id>
-        <link href="https://www.phoronix.com/news/Wasmer-4.3-Released"/>
-        <updated>2024-05-11T09:59:14.000Z</updated>
-        <summary type="html"><![CDATA[Wasmer 4.3 is out as the newest version of this WebAssembly (WASM) runtime that supports WASIX, WASI, and EmScript execution. This cross-platform WASM runtime continues to be focused on driving lightweight containers that can run anywhere in a very secure manner...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Plasma 6 Sees More Features Merged Ahead Of Plasma 6.1]]></title>
-        <id>https://www.phoronix.com/news/KDE-Smooth-Dolphin-And-More</id>
-        <link href="https://www.phoronix.com/news/KDE-Smooth-Dolphin-And-More"/>
-        <updated>2024-05-11T09:45:26.000Z</updated>
-        <summary type="html"><![CDATA[KDE developers had another busy week as more features were merged ahead of next month's Plasma 6.1 release...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA's Open GPU Linux Kernel Driver Will Soon Be The Default For Turing & Newer GPUs]]></title>
-        <id>https://www.phoronix.com/news/NVIDIA-R560-Open-Default</id>
-        <link href="https://www.phoronix.com/news/NVIDIA-R560-Open-Default"/>
-        <updated>2024-05-11T01:46:55.000Z</updated>
-        <summary type="html"><![CDATA[While we are all waiting for the NVIDIA R555 series Linux driver beta that is expected to debut as soon as next week based on prior information with Wayland improvements (explicit sync) and more, with the NVIDIA R560 series Linux driver successor is a very interesting change: NVIDIA is planning on defaulting to using their open-source GPU kernel driver by default for GeForce RTX 2000 "Turing" GPUs and newer...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
 </feed>
