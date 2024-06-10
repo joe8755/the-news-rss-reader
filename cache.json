@@ -294,16 +294,6 @@
           "wordCount": 555,
           "title": "Daily Hacker News for 2024-05-12",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-11.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 11, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nDeno KV internals: building a database for the modern web\n(comments)\n\n\nCubic millimetre of brain mapped at nanoscale resolution\n(comments)\n\n\nLife-like particle system\n(comments)\n\n\nRoman Tyrian purple snail dye found in UK for first time\n(comments)\n\n\nIs the largest root of a random real polynomial more likely real than complex?\n(comments)\n\n\nKeePassXC Debian maintainer has removed all network features\n(comments)\n\n\nCoronal mass ejection impact imminent, two more earth-directed CMEs\n(comments)\n\n\nThread: Tech we can’t use or teach?\n(comments)\n\n\nWhy the CORDIC algorithm lives rent-free in my head\n(comments)\n\n\nImmersive Math\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-11.html",
-          "publishedOn": "2024-05-12T00:00:00.000Z",
-          "wordCount": 573,
-          "title": "Daily Hacker News for 2024-05-11",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,36 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMD-Linux-PMU-Power-Per-Core",
+          "author": "Michael Larabel",
+          "description": "After an attempt in early 2023 didn't pan out, today an AMD Linux engineer posted a new kernel patch series for enabling per-core RAPL energy counter support for AMD processors. With this patch series when using Linux's venerable perf utility it's now possible for reading the power use on a per CPU core basis using a new \"power_per_core\" PMU...",
+          "link": "https://www.phoronix.com/news/AMD-Linux-PMU-Power-Per-Core",
+          "publishedOn": "2024-06-10T10:48:38.000Z",
+          "wordCount": 1823,
+          "title": "AMD Posts New Linux Patches For Per-Core CPU Energy Counters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-Random-vDSO-2024",
+          "author": "Michael Larabel",
+          "description": "Going back just under two years was the propsal for adding getrandom() to the vDSO in the quest to achieve faster performance for obtaining random numbers in user-space. That effort while seemingly simple remains an ongoing and contentious matter...",
+          "link": "https://www.phoronix.com/news/Linux-Random-vDSO-2024",
+          "publishedOn": "2024-06-10T10:15:59.000Z",
+          "wordCount": 2091,
+          "title": "The Quest For Faster getrandom() Performance Continues Two Years Later",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Busy-RDNA4-Mesa-24.2-Week",
+          "author": "Michael Larabel",
+          "description": "A lot of AMD GFX12 IP enablement landed in Mesa 24.2-devel over the past week for bringing up the RadeonSI Gallium3D driver and RADV Vulkan driver for the upcoming RDNA4 graphics...",
+          "link": "https://www.phoronix.com/news/Busy-RDNA4-Mesa-24.2-Week",
+          "publishedOn": "2024-06-10T09:57:52.000Z",
+          "wordCount": 1870,
+          "title": "A Lot More AMD RDNA4/GFX12 Graphics Driver Code Has Landed In Mesa 24.2",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.10-rc3-Released",
           "author": "Michael Larabel",
@@ -3020,16 +3040,6 @@
           "publishedOn": "2024-05-12T09:56:32.000Z",
           "wordCount": 2012,
           "title": "Another AMD Zen 5 PCI ID Squeezing Into Linux 6.9",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/ReactOS-May-2024-Update",
-          "author": "Michael Larabel",
-          "description": "The ReactOS project has posted their latest newsletter that outlines progress made during the past two months. ReactOS continues working to be an open-source operating system that offers application and driver binary compatibility with Microsoft Windows to in effect serve as a \"open-source Windows\" albeit the hardware support and application support are still an ongoing affair...",
-          "link": "https://www.phoronix.com/news/ReactOS-May-2024-Update",
-          "publishedOn": "2024-05-12T00:16:50.000Z",
-          "wordCount": 1961,
-          "title": "ReactOS \"Open-Source Windows\" Making Good Strides On SMP CPU Support",
           "imageUrl": null
         }
       ]
