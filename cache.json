@@ -294,16 +294,6 @@
           "wordCount": 557,
           "title": "Daily Hacker News for 2024-05-13",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-12.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 12, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nSelling 'Ghost in the Shell'\n(comments)\n\n\nSo We've Got a Memory Leak\n(comments)\n\n\n100k Stars\n(comments)\n\n\nWhy you can hear the temperature of water\n(comments)\n\n\nScientists Find an 'Alphabet' in Whale Songs\n(comments)\n\n\nAdam Curtis on the dangers of self-expression (2017)\n(comments)\n\n\nThe Emacs Window Management Almanac\n(comments)\n\n\nPeaZip: Open-source file compression and encryption software\n(comments)\n\n\nVirtualizing the 6502 on a 6502 with 6o6\n(comments)\n\n\nShow HN: Open-Source Video Editor Web App\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-12.html",
-          "publishedOn": "2024-05-13T00:00:00.000Z",
-          "wordCount": 555,
-          "title": "Daily Hacker News for 2024-05-12",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,36 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMD-P-State-Hetero-v3",
+          "author": "Michael Larabel",
+          "description": "Last month AMD Linux engineers posted ap atch series for better handling heterogeneous core type CPUs. This is for enhancing the P-State CPU frequency scaling on CPUs featuring a mix of conventional cores and efficiency cores, e.g. Zen 4 and Zen 4C. A third iteration of these patches were posted today...",
+          "link": "https://www.phoronix.com/news/AMD-P-State-Hetero-v3",
+          "publishedOn": "2024-06-11T10:44:02.000Z",
+          "wordCount": 1980,
+          "title": "AMD P-State Linux Patches Updated For Heterogeneous CPUs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Google-GWPSan",
+          "author": "Michael Larabel",
+          "description": "Google is known for their many contributions to open-source compilers and particular many different sanitizer efforts over the years. Their newest project they have made open-source in this area is GWPSan as a sampling-based sanitizer framework...",
+          "link": "https://www.phoronix.com/news/Google-GWPSan",
+          "publishedOn": "2024-06-11T10:25:45.000Z",
+          "wordCount": 1856,
+          "title": "Google Open-Sources GWPSan As A New Sanitizer Framework",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Raspberry-Pi-IPO",
+          "author": "Michael Larabel",
+          "description": "Raspberry Pi carried out a successful IPO today on the London Stock Exchange...",
+          "link": "https://www.phoronix.com/news/Raspberry-Pi-IPO",
+          "publishedOn": "2024-06-11T10:04:59.000Z",
+          "wordCount": 1798,
+          "title": "Raspberry Pi Serves Up A Tasty IPO On The London Stock Exchange",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/UXL-Foundation-Khronos-Collab",
           "author": "Michael Larabel",
@@ -3020,36 +3040,6 @@
           "publishedOn": "2024-05-13T04:00:00.000Z",
           "wordCount": 1857,
           "title": "FreeBSD 14.1 Bringing Reproducibly Built Kernels, OpenZFS 2.2.4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.9-Released",
-          "author": "Michael Larabel",
-          "description": "Linux 6.9 is out! Linux 6.9 has been released on time as the newest stable kernel version for rolling-release Linux distributions and other summer releases/updates. Linux 6.9 has a number of exciting features and improvements for those habitually updating to the newest version...",
-          "link": "https://www.phoronix.com/news/Linux-6.9-Released",
-          "publishedOn": "2024-05-12T21:29:05.000Z",
-          "wordCount": 1736,
-          "title": "Linux 6.9 Released With Faster Intel Core Ultra Performance, Larger Console Fonts Option",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Feature-Preview",
-          "author": "Michael Larabel",
-          "description": "Barring any last minute reservations by Linus Torvalds, Linux 6.9 stable should release later today. In turn the Linux 6.10 merge window will then open for the next two weeks and already some early pull requests have been submitted for this next kernel version. Here is a look at some of what to expect with the Linux 6.10 kernel...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Feature-Preview",
-          "publishedOn": "2024-05-12T15:40:54.000Z",
-          "wordCount": 2257,
-          "title": "Linux 6.10 Features Expected From The NTSYNC Driver To Performance Optimizations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-AMD-P-State",
-          "author": "Michael Larabel",
-          "description": "The recent AMD P-State Linux driver patches for heterogeneous core CPU topology, Fast CPPC, and Core Performance Boost haven't made it to the Linux power management's \"-next\" branch ahead of the imminent Linux 6.10 cycle. Thus it looks like those features won't be ready to make it for v6.10 unless by chance being deemed ready in the coming days and then sent in as part of a secondary set of merge window changes. However, some other AMD P-State fixes/improvements are queued up...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-AMD-P-State",
-          "publishedOn": "2024-05-12T14:30:06.000Z",
-          "wordCount": 2014,
-          "title": "Linux 6.10 AMD P-State To Deliver Fixes, Better Support On Older Zen CPUs",
           "imageUrl": null
         }
       ]
