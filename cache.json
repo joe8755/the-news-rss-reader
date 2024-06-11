@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-10.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 10, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nAn Introduction to ARM64 Assembly on Apple Silicon Macs\n(comments)\n\n\nUltrasonic investigations in shopping centres\n(comments)\n\n\nA Revolution in Biology?\n(comments)\n\n\nDesigning a Lego orrery\n(comments)\n\n\nLibtree: Ldd as a tree saying why a library is found or not\n(comments)\n\n\nA ChatGPT mistake cost us $10k\n(comments)\n\n\nShow HN: Markdown HN profiles at {user}.at.hn\n(comments)\n\n\nApple blocks PC emulator in iOS App Store and third-party app stores\n(comments)\n\n\nApple Intelligence for iPhone, iPad, and Mac\n(comments)\n\n\nOpenAI and Apple Announce Partnership\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-10.html",
+          "publishedOn": "2024-06-11T00:00:00.000Z",
+          "wordCount": 566,
+          "title": "Daily Hacker News for 2024-06-10",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-09.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 09, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nLSP-AI: open-source language server serving as back end for AI code assistance\n(comments)\n\n\nDetecting a PS2 Emulator: When 1*X does not equal X\n(comments)\n\n\nMy favorite 1980's Canadian TV show: Bits and Bytes\n(comments)\n\n\nGene therapy restores hearing to children with inherited deafness\n(comments)\n\n\nDraw an iceberg and see how it will float\n(comments)\n\n\nViagra improves brain blood flow and could help to prevent dementia\n(comments)\n\n\nPiku: Allows git push deployments to your own servers\n(comments)\n\n\nEconomic Termites: Monopolies not noticeable enough for most of us\n(comments)\n\n\nThe Weird Nerd comes with trade-offs\n(comments)\n\n\nKeylogger discovered in image generator extension\n(comments)",
@@ -302,6 +312,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/UXL-Foundation-Khronos-Collab",
+          "author": "Michael Larabel",
+          "description": "Last year it was announced that Intel's oneAPI software initiative evolved into the UXL Foundation for making compute accelerators more open as well as opening things up to more cross-vendor collaboration and adoption. Intel started the Unified Acceleration Foundation with the Linux Foundation, Google, Arm, Qualcomm, Samsung, and others. Announced today is that the UXL Foundation has begun collaborating with The Khronos Group...",
+          "link": "https://www.phoronix.com/news/UXL-Foundation-Khronos-Collab",
+          "publishedOn": "2024-06-11T00:20:00.000Z",
+          "wordCount": 1925,
+          "title": "oneAPI-Focused UXL Foundation Now Collaborating With The Khronos Group",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/intel-meteorlake-epp-perf",
+          "author": "Michael Larabel",
+          "description": "Covered last week on Phoronix was a new patch from Intel that with tuning to the P-State CPU frequency scaling driver was showing big wins for Intel Core Ultra \"Meteor Lake\" performance and power efficiency. I was curious with the Intel claims posted for a couple benchmarks and thus over the weekend set out to run many Intel Meteor Lake benchmarks on this one-line kernel patch... The results are great for boosting the Linux performance of Intel Core ultra laptops with as much as 72% better performance.",
+          "link": "https://www.phoronix.com/review/intel-meteorlake-epp-perf",
+          "publishedOn": "2024-06-10T15:00:00.000Z",
+          "wordCount": 1941,
+          "title": "One-Line Patch For Intel Meteor Lake Yields Up To 72% Better Performance, +7% Geo Mean",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/TUXEDO-Snapdragon-X-Elite",
+          "author": "Michael Larabel",
+          "description": "Bavarian Linux PC vendor TUXEDO Computers is working on bringing a Snapdragon X Elite powered laptop to market...",
+          "link": "https://www.phoronix.com/news/TUXEDO-Snapdragon-X-Elite",
+          "publishedOn": "2024-06-10T14:23:03.000Z",
+          "wordCount": 1988,
+          "title": "TUXEDO Developing A Snapdragon X Elite Linux Laptop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Mozilla-Firefox-127",
+          "author": "Michael Larabel",
+          "description": "Mozilla Firefox 127.0 binaries are available for download today ahead of tomorrow's official announcement. Firefox 127 brings a few nice changes for this month's feature update...",
+          "link": "https://www.phoronix.com/news/Mozilla-Firefox-127",
+          "publishedOn": "2024-06-10T14:14:15.000Z",
+          "wordCount": 1783,
+          "title": "Firefox 127 With 32-bit x86 Linux Pretending To Be \"x86_64\" To Reduce Fingerprinting",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AMD-Linux-PMU-Power-Per-Core",
           "author": "Michael Larabel",
@@ -3000,46 +3050,6 @@
           "publishedOn": "2024-05-12T14:30:06.000Z",
           "wordCount": 2014,
           "title": "Linux 6.10 AMD P-State To Deliver Fixes, Better Support On Older Zen CPUs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Arc-Graphics-On-ARM",
-          "author": "Michael Larabel",
-          "description": "With the new Intel \"Xe\" Direct Rendering Manager kernel driver that's been in development one of the touted benefits of the clean sheet driver design is that it would enable using Intel discrete GPUs on non-x86 CPU architectures. The long-used \"i915\" DRM kernel graphics driver has many x86'isms in the code-base built up over the many years of Intel integrated graphics that were only ever found within their x86/x86_64 processors. But now in the era of Intel discrete graphics, there's been issues in trying to run Intel Arc Graphics on say ARM, POWER9, and RISC-V, among others. The experimental Intel Xe driver was recently successfully demonstrated in running on ARM using an Ampere Altra workstation...",
-          "link": "https://www.phoronix.com/news/Intel-Arc-Graphics-On-ARM",
-          "publishedOn": "2024-05-12T10:47:37.000Z",
-          "wordCount": 2055,
-          "title": "Intel Arc Graphics Demonstrated Running On ARM With Ampere Altra",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMD-RDNA4-Merged-Mesa-RadeonSI",
-          "author": "Michael Larabel",
-          "description": "Following all of the GFX12 code and related IP landing within the AMDGPU Linux kernel driver as well as the LLVM AMDGPU shader compiler back-end and other code in enabling the next-generation of AMD Radeon graphics, the RadeonSI OpenGL driver support for RDNA4 (GFX12) was merged this Sunday into Mesa...",
-          "link": "https://www.phoronix.com/news/AMD-RDNA4-Merged-Mesa-RadeonSI",
-          "publishedOn": "2024-05-12T10:31:41.000Z",
-          "wordCount": 1902,
-          "title": "AMD RDNA4 \"GFX12\" Support Merged For Mesa's RadeonSI Driver",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-IO_uring",
-          "author": "Michael Larabel",
-          "description": "Linux I/O expert and subsystem maintainer Jens Axboe has submitted all of the IO_uring feature updates ahead of the imminent Linux 6.10 merge window...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-IO_uring",
-          "publishedOn": "2024-05-12T10:11:17.000Z",
-          "wordCount": 1849,
-          "title": "IO_uring Bringing Better Send Zero-Copy Performance With Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.9-One-More-Zen-5-PCI-ID",
-          "author": "Michael Larabel",
-          "description": "The Linux 6.9 kernel should debut as stable later today unless Linus Torvalds has second thoughts and decides to delay it by issuing a v6.9-rc8 kernel instead that would then push out the official release by an extra week. In any event, as a last-minute \"x86/urgent\" pull request is another Zen 5 PCI ID being added...",
-          "link": "https://www.phoronix.com/news/Linux-6.9-One-More-Zen-5-PCI-ID",
-          "publishedOn": "2024-05-12T09:56:32.000Z",
-          "wordCount": 2012,
-          "title": "Another AMD Zen 5 PCI ID Squeezing Into Linux 6.9",
           "imageUrl": null
         }
       ]

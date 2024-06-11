@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-10T12:34:35.163Z</updated>
+    <updated>2024-06-11T01:18:21.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[oneAPI-Focused UXL Foundation Now Collaborating With The Khronos Group]]></title>
+        <id>https://www.phoronix.com/news/UXL-Foundation-Khronos-Collab</id>
+        <link href="https://www.phoronix.com/news/UXL-Foundation-Khronos-Collab"/>
+        <updated>2024-06-11T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Last year it was announced that Intel's oneAPI software initiative evolved into the UXL Foundation for making compute accelerators more open as well as opening things up to more cross-vendor collaboration and adoption. Intel started the Unified Acceleration Foundation with the Linux Foundation, Google, Arm, Qualcomm, Samsung, and others. Announced today is that the UXL Foundation has begun collaborating with The Khronos Group...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-10]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-10.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-10.html"/>
+        <updated>2024-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 10, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+An Introduction to ARM64 Assembly on Apple Silicon Macs
+(comments)
+
+
+Ultrasonic investigations in shopping centres
+(comments)
+
+
+A Revolution in Biology?
+(comments)
+
+
+Designing a Lego orrery
+(comments)
+
+
+Libtree: Ldd as a tree saying why a library is found or not
+(comments)
+
+
+A ChatGPT mistake cost us $10k
+(comments)
+
+
+Show HN: Markdown HN profiles at {user}.at.hn
+(comments)
+
+
+Apple blocks PC emulator in iOS App Store and third-party app stores
+(comments)
+
+
+Apple Intelligence for iPhone, iPad, and Mac
+(comments)
+
+
+OpenAI and Apple Announce Partnership
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-Line Patch For Intel Meteor Lake Yields Up To 72% Better Performance, +7% Geo Mean]]></title>
+        <id>https://www.phoronix.com/review/intel-meteorlake-epp-perf</id>
+        <link href="https://www.phoronix.com/review/intel-meteorlake-epp-perf"/>
+        <updated>2024-06-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Covered last week on Phoronix was a new patch from Intel that with tuning to the P-State CPU frequency scaling driver was showing big wins for Intel Core Ultra "Meteor Lake" performance and power efficiency. I was curious with the Intel claims posted for a couple benchmarks and thus over the weekend set out to run many Intel Meteor Lake benchmarks on this one-line kernel patch... The results are great for boosting the Linux performance of Intel Core ultra laptops with as much as 72% better performance.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TUXEDO Developing A Snapdragon X Elite Linux Laptop]]></title>
+        <id>https://www.phoronix.com/news/TUXEDO-Snapdragon-X-Elite</id>
+        <link href="https://www.phoronix.com/news/TUXEDO-Snapdragon-X-Elite"/>
+        <updated>2024-06-10T14:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Bavarian Linux PC vendor TUXEDO Computers is working on bringing a Snapdragon X Elite powered laptop to market...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 127 With 32-bit x86 Linux Pretending To Be "x86_64" To Reduce Fingerprinting]]></title>
+        <id>https://www.phoronix.com/news/Mozilla-Firefox-127</id>
+        <link href="https://www.phoronix.com/news/Mozilla-Firefox-127"/>
+        <updated>2024-06-10T14:14:15.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla Firefox 127.0 binaries are available for download today ahead of tomorrow's official announcement. Firefox 127 brings a few nice changes for this month's feature update...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD Posts New Linux Patches For Per-Core CPU Energy Counters]]></title>
         <id>https://www.phoronix.com/news/AMD-Linux-PMU-Power-Per-Core</id>
@@ -4268,46 +4362,6 @@ Show HN: Open-Source Video Editor Web App
         <link href="https://www.phoronix.com/news/Linux-6.10-AMD-P-State"/>
         <updated>2024-05-12T14:30:06.000Z</updated>
         <summary type="html"><![CDATA[The recent AMD P-State Linux driver patches for heterogeneous core CPU topology, Fast CPPC, and Core Performance Boost haven't made it to the Linux power management's "-next" branch ahead of the imminent Linux 6.10 cycle. Thus it looks like those features won't be ready to make it for v6.10 unless by chance being deemed ready in the coming days and then sent in as part of a secondary set of merge window changes. However, some other AMD P-State fixes/improvements are queued up...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Arc Graphics Demonstrated Running On ARM With Ampere Altra]]></title>
-        <id>https://www.phoronix.com/news/Intel-Arc-Graphics-On-ARM</id>
-        <link href="https://www.phoronix.com/news/Intel-Arc-Graphics-On-ARM"/>
-        <updated>2024-05-12T10:47:37.000Z</updated>
-        <summary type="html"><![CDATA[With the new Intel "Xe" Direct Rendering Manager kernel driver that's been in development one of the touted benefits of the clean sheet driver design is that it would enable using Intel discrete GPUs on non-x86 CPU architectures. The long-used "i915" DRM kernel graphics driver has many x86'isms in the code-base built up over the many years of Intel integrated graphics that were only ever found within their x86/x86_64 processors. But now in the era of Intel discrete graphics, there's been issues in trying to run Intel Arc Graphics on say ARM, POWER9, and RISC-V, among others. The experimental Intel Xe driver was recently successfully demonstrated in running on ARM using an Ampere Altra workstation...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD RDNA4 "GFX12" Support Merged For Mesa's RadeonSI Driver]]></title>
-        <id>https://www.phoronix.com/news/AMD-RDNA4-Merged-Mesa-RadeonSI</id>
-        <link href="https://www.phoronix.com/news/AMD-RDNA4-Merged-Mesa-RadeonSI"/>
-        <updated>2024-05-12T10:31:41.000Z</updated>
-        <summary type="html"><![CDATA[Following all of the GFX12 code and related IP landing within the AMDGPU Linux kernel driver as well as the LLVM AMDGPU shader compiler back-end and other code in enabling the next-generation of AMD Radeon graphics, the RadeonSI OpenGL driver support for RDNA4 (GFX12) was merged this Sunday into Mesa...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IO_uring Bringing Better Send Zero-Copy Performance With Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-IO_uring</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-IO_uring"/>
-        <updated>2024-05-12T10:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Linux I/O expert and subsystem maintainer Jens Axboe has submitted all of the IO_uring feature updates ahead of the imminent Linux 6.10 merge window...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another AMD Zen 5 PCI ID Squeezing Into Linux 6.9]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.9-One-More-Zen-5-PCI-ID</id>
-        <link href="https://www.phoronix.com/news/Linux-6.9-One-More-Zen-5-PCI-ID"/>
-        <updated>2024-05-12T09:56:32.000Z</updated>
-        <summary type="html"><![CDATA[The Linux 6.9 kernel should debut as stable later today unless Linus Torvalds has second thoughts and decides to delay it by issuing a v6.9-rc8 kernel instead that would then push out the official release by an extra week. In any event, as a last-minute "x86/urgent" pull request is another Zen 5 PCI ID being added...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
