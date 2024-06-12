@@ -294,16 +294,6 @@
           "wordCount": 575,
           "title": "Daily Hacker News for 2024-05-14",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-13.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 13, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nThe Alternative Implementation Problem\n(comments)\n\n\nGPUs Go Brrr\n(comments)\n\n\nShow HN: I made an open-source Loom alternative\n(comments)\n\n\nProtecting your email address via SVG instead of JavaScript\n(comments)\n\n\nTelegram has launched a pretty intense campaign to malign Signal as insecure\n(comments)\n\n\nIt’s an age of marvels\n(comments)\n\n\nThe USDA's gardening zones shifted, this map shows you what's changed\n(comments)\n\n\nStatic Chess\n(comments)\n\n\nSquarespace to Go Private in $6.9B All-Cash Transaction with Permira\n(comments)\n\n\nGPT-4o\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-13.html",
-          "publishedOn": "2024-05-14T00:00:00.000Z",
-          "wordCount": 557,
-          "title": "Daily Hacker News for 2024-05-13",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Intel-LPMD-Low-Power-0.0.4",
+          "author": "Michael Larabel",
+          "description": "Intel Low Power Mode Daemon v0.0.4 has been released with \"LPMD\" being the open-source daemon for optimize active idle power for modern Core hybrid CPUs under Linux that sport a combination of the E and P cores...",
+          "link": "https://www.phoronix.com/news/Intel-LPMD-Low-Power-0.0.4",
+          "publishedOn": "2024-06-12T10:54:00.000Z",
+          "wordCount": 1831,
+          "title": "Intel Low Power Mode Daemon v0.0.4 Released To Optimize Hybrid CPUs On Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/LLVM-Clang-19-C23-Embed",
+          "author": "Michael Larabel",
+          "description": "Merged today to LLVM Clang 19 Git is support for the #embed resource inclusion mechanism that is an approved C23 feature. This also makes Clang the first for supporting this pre-processor embed feature...",
+          "link": "https://www.phoronix.com/news/LLVM-Clang-19-C23-Embed",
+          "publishedOn": "2024-06-12T10:27:16.000Z",
+          "wordCount": 1992,
+          "title": "LLVM Clang 19 Lands Support For C23's #embed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Marek-Universal-Optimized-Comp",
+          "author": "Michael Larabel",
+          "description": "Well known open-source AMD OpenGL/Gallium3D driver developer Marek Olšák has landed a big patch series into Mesa 24.2 for a universal optimized compute image clear/blit shader and MSAA-resolving pixel shader...",
+          "link": "https://www.phoronix.com/news/Marek-Universal-Optimized-Comp",
+          "publishedOn": "2024-06-12T10:14:07.000Z",
+          "wordCount": 1989,
+          "title": "Marek Lands 40 Patch Series To Further Enhance The Open-Source AMD Graphics Driver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-oneDNN-3.5",
+          "author": "Michael Larabel",
+          "description": "Intel's oneDNN 3.5 has been released as this Deep Neural Network Library for the oneAPI specification and now part of the UXL Foundation. With oneDNN 3.5 comes more performance optimizations for existing and upcoming Intel hardware...",
+          "link": "https://www.phoronix.com/news/Intel-oneDNN-3.5",
+          "publishedOn": "2024-06-12T10:00:00.000Z",
+          "wordCount": 1776,
+          "title": "Intel's oneDNN 3.5 Begins Optimizing For Xe2, More Xeon 6 Tuning",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.11-Extensible-Scheduler",
           "author": "Michael Larabel",
@@ -3000,56 +3030,6 @@
           "publishedOn": "2024-05-14T10:14:06.000Z",
           "wordCount": 1675,
           "title": "Manjaro 24.0 Released: Powered By Linux 6.9 & The Latest Desktops",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Rust-For-Linux-6.10",
-          "author": "Michael Larabel",
-          "description": "There's another Rust upgrade coming for the Linux 6.10 kernel to bump the Rust version baseline required for building the Rust in-tree kernel components. This raising of the baseline will continue until a suitable minimum version is achieved where official Rust compiler \"just works\" well with the Rust'ed kernel bits. The Rust upgrade in Linux 6.10 also does away with its in-tree \"alloc\" fork for big code savings and simplifying maintenance...",
-          "link": "https://www.phoronix.com/news/Rust-For-Linux-6.10",
-          "publishedOn": "2024-05-13T18:55:46.000Z",
-          "wordCount": 1867,
-          "title": "Rust 1.78 Upgrade For Linux 6.10, Dropping In-Tree \"alloc\" Fork To Save ~10k Lines",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-ARM-Hardware",
-          "author": "Michael Larabel",
-          "description": "The various ARM SoC/platform pull requests were already merged today by Linus Torvalds for the in-development Linux 6.10 kernel...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-ARM-Hardware",
-          "publishedOn": "2024-05-13T16:56:46.000Z",
-          "wordCount": 1826,
-          "title": "More ARM-Based Handheld Game Consoles Supported By Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Crypto",
-          "author": "Michael Larabel",
-          "description": "The work written about one month ago on Phoronix for much faster AES-XTS on modern Intel/AMD CPUs for speeding up disk and file encryption by as much as 155% with AMD Zen 4 CPUs has been submitted for Linux 6.10! As expected, this work providing new AES-XTS implementations for modern x86_64 processors is going into Linux 6.10 as part of the crypto subsystem updates...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Crypto",
-          "publishedOn": "2024-05-13T15:15:09.000Z",
-          "wordCount": 1906,
-          "title": "Linux 6.10 Makes AES-XTS Disk/File Encryption Much Faster For Modern Intel/AMD CPUs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/SUSE-Upstream-Linux-RPi-5",
-          "author": "Michael Larabel",
-          "description": "While the Raspberry Pi 5 debuted last September already, sadly the mainline Linux kernel still lacks support for booting this popular single board computer... The support on Raspberry Pi OS and other downstream distributions/kernels is good, but the mainline kernel support for the Raspberry Pi SBCs remains a sore spot for this popular ARM single board computer. SUSE engineers have been working on implementing minimal boot support for the Raspberry Pi 5 that will hopefully make it to the mainline kernel...",
-          "link": "https://www.phoronix.com/news/SUSE-Upstream-Linux-RPi-5",
-          "publishedOn": "2024-05-13T15:03:57.000Z",
-          "wordCount": 1955,
-          "title": "SUSE Working On Upstream Linux Kernel Support For Booting The Raspberry Pi 5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Firefox-126-Download",
-          "author": "Michael Larabel",
-          "description": "Mozilla has pushed out its release images of the Firefox 126 web browser ahead of its official debut on Tuesday...",
-          "link": "https://www.phoronix.com/news/Firefox-126-Download",
-          "publishedOn": "2024-05-13T14:56:52.000Z",
-          "wordCount": 1866,
-          "title": "Firefox 126 Available - Adds \"Linux\" To The Android User Agent String",
           "imageUrl": null
         }
       ]
