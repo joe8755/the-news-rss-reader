@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-11.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 11, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nI built an ROV to solve missing person cases\n(comments)\n\n\nApple unveils 'Passwords' manager app at WWDC 2024\n(comments)\n\n\nmacOS Sequoia Preview\n(comments)\n\n\nDeterioration of local community a major driver of loss of play-based childhood\n(comments)\n\n\nApple's On-Device and Server Foundation Models\n(comments)\n\n\nPrivate Cloud Compute: A new frontier for AI privacy in the cloud\n(comments)\n\n\nNoam Chomsky 'no longer able to talk' after 'medical event'\n(comments)\n\n\nPOV-Ray – The Persistence of Vision Raytracer (2021)\n(comments)\n\n\nI like the RP2040\n(comments)\n\n\nLynn Conway has died\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-11.html",
+          "publishedOn": "2024-06-12T00:00:00.000Z",
+          "wordCount": 570,
+          "title": "Daily Hacker News for 2024-06-11",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-10.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 10, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nAn Introduction to ARM64 Assembly on Apple Silicon Macs\n(comments)\n\n\nUltrasonic investigations in shopping centres\n(comments)\n\n\nA Revolution in Biology?\n(comments)\n\n\nDesigning a Lego orrery\n(comments)\n\n\nLibtree: Ldd as a tree saying why a library is found or not\n(comments)\n\n\nA ChatGPT mistake cost us $10k\n(comments)\n\n\nShow HN: Markdown HN profiles at {user}.at.hn\n(comments)\n\n\nApple blocks PC emulator in iOS App Store and third-party app stores\n(comments)\n\n\nApple Intelligence for iPhone, iPad, and Mac\n(comments)\n\n\nOpenAI and Apple Announce Partnership\n(comments)",
@@ -302,6 +312,66 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.11-Extensible-Scheduler",
+          "author": "Michael Larabel",
+          "description": "The extensible scheduler \"sched_ext\" code has proven quite versatile for opening up better Linux gaming performance, more quickly prototyping new scheduler changes, Ubuntu/Canonical has been evaluating it for pursuing a more micro-kernel like design, and many other interesting approaches with it. Yet it's remained out of tree but that is now changing with the upcoming Linux 6.11 cycle...",
+          "link": "https://www.phoronix.com/news/Linux-6.11-Extensible-Scheduler",
+          "publishedOn": "2024-06-12T00:40:12.000Z",
+          "wordCount": 2007,
+          "title": "Linus Torvalds Throws Down The Hammer: Extensible Scheduler \"sched_ext\" In Linux 6.11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/systemd-256",
+          "author": "Michael Larabel",
+          "description": "Systemd 256 is out today as the latest major feature update to this integral component to modern Linux distributions...",
+          "link": "https://www.phoronix.com/news/systemd-256",
+          "publishedOn": "2024-06-11T23:20:48.000Z",
+          "wordCount": 2169,
+          "title": "systemd 256 Released With run0, systemd-vpick, importctl & Other New Features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Raspberry-Pi-5-RP1-Linux-RFC",
+          "author": "Michael Larabel",
+          "description": "The Raspberry Pi 5 features the \"RP1\" as the in-house silicon design for the southbridge to this single board computer. The RP1 driver maintained by Raspberry Pi is just found in their downstream kernel while a SUSE engineer is working to rework that driver so that it can be eventually mainlined in the upstream Linux kernel...",
+          "link": "https://www.phoronix.com/news/Raspberry-Pi-5-RP1-Linux-RFC",
+          "publishedOn": "2024-06-11T20:51:00.000Z",
+          "wordCount": 1825,
+          "title": "SUSE Working To Upstream RP1 Southbridge Linux Driver For The Raspberry Pi 5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Glibc-Non-Temp-Stores-AMD",
+          "author": "Michael Larabel",
+          "description": "Merged last month to the GNU C Library (glibc) Git code was a new tunable for non-temporal stores for memset. This optimization for glibc's memset performance was limited to Intel processors given at the time it was only tested/benchmarked on Intel CPUs but now it's proven to be useful too for AMD processors...",
+          "link": "https://www.phoronix.com/news/Glibc-Non-Temp-Stores-AMD",
+          "publishedOn": "2024-06-11T14:57:58.000Z",
+          "wordCount": 1828,
+          "title": "Intel's Glibc Non-Temporal Stores Memset Optimization Extended To AMD CPUs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AlmaLinux-Raspberry-Pi-5",
+          "author": "Michael Larabel",
+          "description": "Coincidentally coming out on the day of Raspberry Pi's IPO is AlmaLinux providing official support for the Raspberry Pi 5...",
+          "link": "https://www.phoronix.com/news/AlmaLinux-Raspberry-Pi-5",
+          "publishedOn": "2024-06-11T14:12:21.000Z",
+          "wordCount": 1703,
+          "title": "AlmaLinux Now Available For The Raspberry Pi 5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Red-Hat-eu-stacktrace",
+          "author": "Michael Larabel",
+          "description": "While last year we saw Fedora to no longer omit the frame pointer to help in debugging/profiling Fedora packages and Ubuntu 24.04 LTS also enabled frame pointers for better debugging/profiling, among other distributions, there is the known performance implications of no longer omitting the frame pointer. But now in aiming to make the best of both worlds, it turns out Red Hat has been developing eu-stracktrace as a new means of profiling without relying on frame pointers...",
+          "link": "https://www.phoronix.com/news/Red-Hat-eu-stacktrace",
+          "publishedOn": "2024-06-11T13:45:16.000Z",
+          "wordCount": 2153,
+          "title": "Red Hat Developing \"eu-stacktrace\" For Profiling Without Frame Pointers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AMD-P-State-Hetero-v3",
           "author": "Michael Larabel",
@@ -2980,66 +3050,6 @@
           "publishedOn": "2024-05-13T14:56:52.000Z",
           "wordCount": 1866,
           "title": "Firefox 126 Available - Adds \"Linux\" To The Android User Agent String",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/High-Perf-Software-Foundation",
-          "author": "Michael Larabel",
-          "description": "Back at Supercomputing 23, the Linux Foundation announced their intent on forming the High Performance Software Foundation for helping to advance open-source software for high performance computing (HPC). The Linux Foundation is now using ISC 24 this week in Hamburg, Germany for announcing that the High Performance Software Foundation has launched...",
-          "link": "https://www.phoronix.com/news/High-Perf-Software-Foundation",
-          "publishedOn": "2024-05-13T10:40:55.000Z",
-          "wordCount": 1836,
-          "title": "Linux Foundation Launches The High Performance Software Foundation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-x86-Changes",
-          "author": "Michael Larabel",
-          "description": "Today marks the first official day of the Linux 6.10 merge window. Among the horde of pull requests sent out today were the numerous x86 pull requests of material that's been queuing up in TIP.git of which there are many changes benefiting both Intel and AMD...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-x86-Changes",
-          "publishedOn": "2024-05-13T10:33:50.000Z",
-          "wordCount": 1900,
-          "title": "x32 Shadow Stacks, Locking Optimizations, Intel VFM & Other x86 Changes For Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GNU-Linux-libre-6.9",
-          "author": "Michael Larabel",
-          "description": "Building off last night's release of Linux 6.9 stable, GNU Linux-libre 6.9-gnu has debuted as this kernel downstream that works on stripping out support for any drivers/hardware depending upon closed-source firmware/microcode and other alterations in the name of software freedom...",
-          "link": "https://www.phoronix.com/news/GNU-Linux-libre-6.9",
-          "publishedOn": "2024-05-13T09:58:06.000Z",
-          "wordCount": 2162,
-          "title": "GNU Linux-libre 6.9 Released: More Deblobbing, Fixes Intel Graphics On GuC-Less Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Aurora-Supercomputer-2024",
-          "author": "Michael Larabel",
-          "description": "Intel, HPE, and Argonne National Laboratory have announced at ISC High Performance 2024 that the Aurora Supercomputer has broken the Excascale barrier and is now the fastest AI supercomputer currently in existence...",
-          "link": "https://www.phoronix.com/news/Aurora-Supercomputer-2024",
-          "publishedOn": "2024-05-13T09:00:00.000Z",
-          "wordCount": 1910,
-          "title": "Intel-Powered Aurora Supercomputer Breaks The Exascale Barrier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/CachyOS-Bcachefs-Installer",
-          "author": "Michael Larabel",
-          "description": "Arch Linux derived CachyOS is known for its aggressive performance optimizations and running well on modern hardware. It's also leading when it comes to adopting other new Linux/open-source features. With this weekend's May 2024 ISO update, CachyOS has rolled out initial support for installing to a root file-system based on Bcachefs...",
-          "link": "https://www.phoronix.com/news/CachyOS-Bcachefs-Installer",
-          "publishedOn": "2024-05-13T05:00:00.000Z",
-          "wordCount": 1771,
-          "title": "Arch Linux Powered CachyOS Adds Bcachefs Installer Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/FreeBSD-14.1-Beta-2-Released",
-          "author": "Michael Larabel",
-          "description": "Following last week's release of FreeBSD 14.1 Beta 1, this weekend brought the second beta candidate right on time...",
-          "link": "https://www.phoronix.com/news/FreeBSD-14.1-Beta-2-Released",
-          "publishedOn": "2024-05-13T04:00:00.000Z",
-          "wordCount": 1857,
-          "title": "FreeBSD 14.1 Bringing Reproducibly Built Kernels, OpenZFS 2.2.4",
           "imageUrl": null
         }
       ]
