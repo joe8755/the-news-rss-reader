@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-12.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 12, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nHome-Cooked Software and Barefoot Developers\n(comments)\n\n\nWhen Water Flows Uphill [video]\n(comments)\n\n\nShow HN: Unforget, the note-taking app I always wanted: offline first, encrypted\n(comments)\n\n\nSelf-Serve Dashboards\n(comments)\n\n\nShow HN: Revideo – Create Videos with Code\n(comments)\n\n\nARC Prize – a $1M+ competition towards open AGI progress\n(comments)\n\n\nFlameshot – Open-source screenshot software\n(comments)\n\n\nSwift Static Linux SDK\n(comments)\n\n\nSilicon Valley's best kept secret: Founder liquidity\n(comments)\n\n\nElixir 1.17 released: set-theoretic types in patterns, durations, OTP 27\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-12.html",
+          "publishedOn": "2024-06-13T00:00:00.000Z",
+          "wordCount": 562,
+          "title": "Daily Hacker News for 2024-06-12",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-11.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 11, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nI built an ROV to solve missing person cases\n(comments)\n\n\nApple unveils 'Passwords' manager app at WWDC 2024\n(comments)\n\n\nmacOS Sequoia Preview\n(comments)\n\n\nDeterioration of local community a major driver of loss of play-based childhood\n(comments)\n\n\nApple's On-Device and Server Foundation Models\n(comments)\n\n\nPrivate Cloud Compute: A new frontier for AI privacy in the cloud\n(comments)\n\n\nNoam Chomsky 'no longer able to talk' after 'medical event'\n(comments)\n\n\nPOV-Ray – The Persistence of Vision Raytracer (2021)\n(comments)\n\n\nI like the RP2040\n(comments)\n\n\nLynn Conway has died\n(comments)",
@@ -302,6 +312,66 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/FreeBSD-Community-Survey-2024",
+          "author": "Michael Larabel",
+          "description": "The FreeBSD Foundation has published the results of the FreeBSD Community Survey that reveal interesting insights about FreeBSD usage and its users...",
+          "link": "https://www.phoronix.com/news/FreeBSD-Community-Survey-2024",
+          "publishedOn": "2024-06-12T21:11:30.000Z",
+          "wordCount": 1779,
+          "title": "FreeBSD Community Survey Confirms ZFS Is Their Most Valued Server Feature",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Valve-Proton-9.0-2",
+          "author": "Michael Larabel",
+          "description": "Proton 9.0-2 is out this afternoon as the Valve/CodeWeavers downstream of Wine that powers Steam Play for running Windows games under Linux within the Steam client...",
+          "link": "https://www.phoronix.com/news/Valve-Proton-9.0-2",
+          "publishedOn": "2024-06-12T19:24:24.000Z",
+          "wordCount": 1884,
+          "title": "Valve Rolls Out Proton 9.0-2 With Many Fixes For Running More Games On Steam Play",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Safety-Critical-Rust-Consortium",
+          "author": "Michael Larabel",
+          "description": "In aiming to make the Rust programming language more suitable for safety-critical software like within automobiles, aviation, and other industries, the Safety-Critical Rust Consortium was announced today...",
+          "link": "https://www.phoronix.com/news/Safety-Critical-Rust-Consortium",
+          "publishedOn": "2024-06-12T16:34:11.000Z",
+          "wordCount": 1914,
+          "title": "Safety-Critical Rust Consortium Announced",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/freebsd-141-benchmarks",
+          "author": "Michael Larabel",
+          "description": "Debuting last week was FreeBSD 14.1 with performance improvements and more. Given there being some performance optimizations and other upgrades like a more recent LLVM Clang compiler by default, I've begun running some benchmarks of this newest FreeBSD stable release. In today's article is a quick comparison of FreeBSD 14.1 vs. FreeBSD 14.0 performance using an AMD Ryzen Threadripper 7980X 64-core processor within the System76 Thelio Major workstation.",
+          "link": "https://www.phoronix.com/review/freebsd-141-benchmarks",
+          "publishedOn": "2024-06-12T14:36:57.000Z",
+          "wordCount": 1685,
+          "title": "FreeBSD 14.1 vs. FreeBSD 14.0 Benchmarks On AMD Ryzen Threadripper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AMD-Fast-CPPC-For-Linux-6.11",
+          "author": "Michael Larabel",
+          "description": "The AMD Fast CPPC feature enablement for the \"amd_pstate\" driver has been submitted to the power management subsystem ahead of next month's Linux 6.11 merge window...",
+          "link": "https://www.phoronix.com/news/AMD-Fast-CPPC-For-Linux-6.11",
+          "publishedOn": "2024-06-12T13:50:25.000Z",
+          "wordCount": 1942,
+          "title": "AMD Fast CPPC To Be Merged For Linux 6.11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/openSUSE-Leap-15.6-Released",
+          "author": "Michael Larabel",
+          "description": "OpenSUSE Leap 15.6 is now officially available for this community Linux distribution release aligned with SUSE Linux Enterprise 15 Service Pack 6. With Leap 15.6 comes the inclusion of the Cockpit web administration software and many software updates...",
+          "link": "https://www.phoronix.com/news/openSUSE-Leap-15.6-Released",
+          "publishedOn": "2024-06-12T13:21:43.000Z",
+          "wordCount": 1704,
+          "title": "openSUSE Leap 15.6 Release - Adds Cockpit, Linux 6.4 & Other Updates",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-LPMD-Low-Power-0.0.4",
           "author": "Michael Larabel",
@@ -2980,56 +3050,6 @@
           "publishedOn": "2024-05-14T13:36:34.000Z",
           "wordCount": 2011,
           "title": "Steam Deck IMU Support Submitted For Linux 6.10 Plus ASUS ROG Ally HID",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/NVK-DRM-Modifiers-Land",
-          "author": "Michael Larabel",
-          "description": "After the 22 patches were under review for the past eight months, merged today is the NVK Vulkan driver support for the VK_EXT_image_drm_format_modifier extension for handling DRM format modifiers...",
-          "link": "https://www.phoronix.com/news/NVK-DRM-Modifiers-Land",
-          "publishedOn": "2024-05-14T12:18:42.000Z",
-          "wordCount": 1726,
-          "title": "NVK Vulkan Driver Lands DRM Format Modifiers Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Block-Changes",
-          "author": "Michael Larabel",
-          "description": "Along with the IO_uring improvements for Linux 6.10, the block subsystem changes have also been merged for this new kernel version...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Block-Changes",
-          "publishedOn": "2024-05-14T10:45:37.000Z",
-          "wordCount": 1813,
-          "title": "Zone Write Plugging Comes To Linux 6.10 For Better Performance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Qualcomm-Snapdragon-X-Elite",
-          "author": "Michael Larabel",
-          "description": "While much of the emphasis for Qualcomm's Snapdragon X Elite laptop SoC has been around Windows on Arm PCs, Qualcomm has also been working to have upstream Linux support for this high-end SoC and everything is coming together for said support...",
-          "link": "https://www.phoronix.com/news/Qualcomm-Snapdragon-X-Elite",
-          "publishedOn": "2024-05-14T10:34:16.000Z",
-          "wordCount": 1903,
-          "title": "Qualcomm Talks Up Their Linux Support For The Snapdragon X Elite",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Raspberry-Pi-M2-HAT",
-          "author": "Michael Larabel",
-          "description": "The Raspberry Pi M.2 HAT+ has finally launched for allowing M.2 devices like NVMe drives, WiFi adapters, accelerators, and more to be connected to the Raspberry Pi 5...",
-          "link": "https://www.phoronix.com/news/Raspberry-Pi-M2-HAT",
-          "publishedOn": "2024-05-14T10:27:08.000Z",
-          "wordCount": 1821,
-          "title": "Raspberry Pi M.2 HAT+ Now Available For $12 To Connect NVMe Drives & More",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Manjaro-24.0-Released",
-          "author": "Michael Larabel",
-          "description": "Manjaro 24.0 has been released today as the newest version of this Arch Linux derived desktop OS. Manjaro 24.0 ships with the latest the newly-released Linux 6.9 kernel and a slew of other updated packages...",
-          "link": "https://www.phoronix.com/news/Manjaro-24.0-Released",
-          "publishedOn": "2024-05-14T10:14:06.000Z",
-          "wordCount": 1675,
-          "title": "Manjaro 24.0 Released: Powered By Linux 6.9 & The Latest Desktops",
           "imageUrl": null
         }
       ]

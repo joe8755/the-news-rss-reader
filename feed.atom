@@ -2,10 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-12T12:34:19.710Z</updated>
+    <updated>2024-06-13T01:17:37.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-12]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-12.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-12.html"/>
+        <updated>2024-06-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 12, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Home-Cooked Software and Barefoot Developers
+(comments)
+
+
+When Water Flows Uphill [video]
+(comments)
+
+
+Show HN: Unforget, the note-taking app I always wanted: offline first, encrypted
+(comments)
+
+
+Self-Serve Dashboards
+(comments)
+
+
+Show HN: Revideo – Create Videos with Code
+(comments)
+
+
+ARC Prize – a $1M+ competition towards open AGI progress
+(comments)
+
+
+Flameshot – Open-source screenshot software
+(comments)
+
+
+Swift Static Linux SDK
+(comments)
+
+
+Silicon Valley's best kept secret: Founder liquidity
+(comments)
+
+
+Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD Community Survey Confirms ZFS Is Their Most Valued Server Feature]]></title>
+        <id>https://www.phoronix.com/news/FreeBSD-Community-Survey-2024</id>
+        <link href="https://www.phoronix.com/news/FreeBSD-Community-Survey-2024"/>
+        <updated>2024-06-12T21:11:30.000Z</updated>
+        <summary type="html"><![CDATA[The FreeBSD Foundation has published the results of the FreeBSD Community Survey that reveal interesting insights about FreeBSD usage and its users...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve Rolls Out Proton 9.0-2 With Many Fixes For Running More Games On Steam Play]]></title>
+        <id>https://www.phoronix.com/news/Valve-Proton-9.0-2</id>
+        <link href="https://www.phoronix.com/news/Valve-Proton-9.0-2"/>
+        <updated>2024-06-12T19:24:24.000Z</updated>
+        <summary type="html"><![CDATA[Proton 9.0-2 is out this afternoon as the Valve/CodeWeavers downstream of Wine that powers Steam Play for running Windows games under Linux within the Steam client...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safety-Critical Rust Consortium Announced]]></title>
+        <id>https://www.phoronix.com/news/Safety-Critical-Rust-Consortium</id>
+        <link href="https://www.phoronix.com/news/Safety-Critical-Rust-Consortium"/>
+        <updated>2024-06-12T16:34:11.000Z</updated>
+        <summary type="html"><![CDATA[In aiming to make the Rust programming language more suitable for safety-critical software like within automobiles, aviation, and other industries, the Safety-Critical Rust Consortium was announced today...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD 14.1 vs. FreeBSD 14.0 Benchmarks On AMD Ryzen Threadripper]]></title>
+        <id>https://www.phoronix.com/review/freebsd-141-benchmarks</id>
+        <link href="https://www.phoronix.com/review/freebsd-141-benchmarks"/>
+        <updated>2024-06-12T14:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Debuting last week was FreeBSD 14.1 with performance improvements and more. Given there being some performance optimizations and other upgrades like a more recent LLVM Clang compiler by default, I've begun running some benchmarks of this newest FreeBSD stable release. In today's article is a quick comparison of FreeBSD 14.1 vs. FreeBSD 14.0 performance using an AMD Ryzen Threadripper 7980X 64-core processor within the System76 Thelio Major workstation.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Fast CPPC To Be Merged For Linux 6.11]]></title>
+        <id>https://www.phoronix.com/news/AMD-Fast-CPPC-For-Linux-6.11</id>
+        <link href="https://www.phoronix.com/news/AMD-Fast-CPPC-For-Linux-6.11"/>
+        <updated>2024-06-12T13:50:25.000Z</updated>
+        <summary type="html"><![CDATA[The AMD Fast CPPC feature enablement for the "amd_pstate" driver has been submitted to the power management subsystem ahead of next month's Linux 6.11 merge window...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[openSUSE Leap 15.6 Release - Adds Cockpit, Linux 6.4 & Other Updates]]></title>
+        <id>https://www.phoronix.com/news/openSUSE-Leap-15.6-Released</id>
+        <link href="https://www.phoronix.com/news/openSUSE-Leap-15.6-Released"/>
+        <updated>2024-06-12T13:21:43.000Z</updated>
+        <summary type="html"><![CDATA[OpenSUSE Leap 15.6 is now officially available for this community Linux distribution release aligned with SUSE Linux Enterprise 15 Service Pack 6. With Leap 15.6 comes the inclusion of the Cockpit web administration software and many software updates...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Low Power Mode Daemon v0.0.4 Released To Optimize Hybrid CPUs On Linux]]></title>
         <id>https://www.phoronix.com/news/Intel-LPMD-Low-Power-0.0.4</id>
@@ -4248,56 +4362,6 @@ Glider – open-source eInk monitor with an emphasis on low latency
         <link href="https://www.phoronix.com/news/Linux-6.10-HID-Changes"/>
         <updated>2024-05-14T13:36:34.000Z</updated>
         <summary type="html"><![CDATA[The Human Interface Devices (HID) subsystem updates have been submitted for the newly-opened Linux 6.10 kernel merge window. Among the HID driver updates coming with Linux 6.10 are supporting the Steam Deck IMU motion sensors as well as HID coverage for the ASUS ROG Ally and ASUS ROG Z13 devices...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVK Vulkan Driver Lands DRM Format Modifiers Support]]></title>
-        <id>https://www.phoronix.com/news/NVK-DRM-Modifiers-Land</id>
-        <link href="https://www.phoronix.com/news/NVK-DRM-Modifiers-Land"/>
-        <updated>2024-05-14T12:18:42.000Z</updated>
-        <summary type="html"><![CDATA[After the 22 patches were under review for the past eight months, merged today is the NVK Vulkan driver support for the VK_EXT_image_drm_format_modifier extension for handling DRM format modifiers...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zone Write Plugging Comes To Linux 6.10 For Better Performance]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Block-Changes</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Block-Changes"/>
-        <updated>2024-05-14T10:45:37.000Z</updated>
-        <summary type="html"><![CDATA[Along with the IO_uring improvements for Linux 6.10, the block subsystem changes have also been merged for this new kernel version...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qualcomm Talks Up Their Linux Support For The Snapdragon X Elite]]></title>
-        <id>https://www.phoronix.com/news/Qualcomm-Snapdragon-X-Elite</id>
-        <link href="https://www.phoronix.com/news/Qualcomm-Snapdragon-X-Elite"/>
-        <updated>2024-05-14T10:34:16.000Z</updated>
-        <summary type="html"><![CDATA[While much of the emphasis for Qualcomm's Snapdragon X Elite laptop SoC has been around Windows on Arm PCs, Qualcomm has also been working to have upstream Linux support for this high-end SoC and everything is coming together for said support...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi M.2 HAT+ Now Available For $12 To Connect NVMe Drives & More]]></title>
-        <id>https://www.phoronix.com/news/Raspberry-Pi-M2-HAT</id>
-        <link href="https://www.phoronix.com/news/Raspberry-Pi-M2-HAT"/>
-        <updated>2024-05-14T10:27:08.000Z</updated>
-        <summary type="html"><![CDATA[The Raspberry Pi M.2 HAT+ has finally launched for allowing M.2 devices like NVMe drives, WiFi adapters, accelerators, and more to be connected to the Raspberry Pi 5...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjaro 24.0 Released: Powered By Linux 6.9 & The Latest Desktops]]></title>
-        <id>https://www.phoronix.com/news/Manjaro-24.0-Released</id>
-        <link href="https://www.phoronix.com/news/Manjaro-24.0-Released"/>
-        <updated>2024-05-14T10:14:06.000Z</updated>
-        <summary type="html"><![CDATA[Manjaro 24.0 has been released today as the newest version of this Arch Linux derived desktop OS. Manjaro 24.0 ships with the latest the newly-released Linux 6.9 kernel and a slew of other updated packages...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
