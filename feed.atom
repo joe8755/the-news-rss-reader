@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-14T01:17:40.357Z</updated>
+    <updated>2024-06-14T12:34:02.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Vulkan Driver Halves The Time Required For Startup]]></title>
+        <id>https://www.phoronix.com/news/Intel-Vulkan-Faster-vkCreateDev</id>
+        <link href="https://www.phoronix.com/news/Intel-Vulkan-Faster-vkCreateDev"/>
+        <updated>2024-06-14T12:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Intel's open-source Vulkan Linux driver "ANV" has reduced the driver start-up time by about half...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Two Year Journey Funded By Arm/Qualcomm For Improving ARM Linux Laptop Support]]></title>
+        <id>https://www.phoronix.com/news/Two-Years-Improving-ARM-Laptops</id>
+        <link href="https://www.phoronix.com/news/Two-Years-Improving-ARM-Laptops"/>
+        <updated>2024-06-14T11:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Kernel developer and consultant Johan Hovold spent the last two years working on improving ARM Linux laptop support with a particular focus on the Lenovo ThinkPad X13s powered Qualcomm SoC. Arm funded this Linaro effort and as a result the ThinkPad X13s enjoys pleasant upstream kernel support now. This Arm Linux laptop project has now concluded but sets a nice base for further ARM Linux laptop improvements moving forward...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel To Upstream Habana Labs Network Drivers Into The Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/HabanaLabs-Network-Driver-Linux</id>
+        <link href="https://www.phoronix.com/news/HabanaLabs-Network-Driver-Linux"/>
+        <updated>2024-06-14T10:44:29.000Z</updated>
+        <summary type="html"><![CDATA[While for years there has been the Habana Labs AI accelerator driver within the mainline Linux kernel, this "accel" driver has been focused on just supporting training/inference across their products. Now being worked on for the mainline Linux kernel are upstreaming the Habana Labs network drivers that can be used for scaling out the AI workloads across multiple systems...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa 24.2 Adds Support For Fixed-Rate Compression Extensions For OpenGL & EGL]]></title>
+        <id>https://www.phoronix.com/news/Mesa-24.2-Fixed-Rate-Compress</id>
+        <link href="https://www.phoronix.com/news/Mesa-24.2-Fixed-Rate-Compress"/>
+        <updated>2024-06-14T10:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Being merged to Mesa 24.2 this week is a set of 12 patches that have been four months in the making for supporting the OpenGL/EGL fixed-rate compression extensions...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qt 6.8 Beta Released With Multi-View Rendering, Better GNOME Wayland Experience]]></title>
+        <id>https://www.phoronix.com/news/Qt-6.8-Beta-1</id>
+        <link href="https://www.phoronix.com/news/Qt-6.8-Beta-1"/>
+        <updated>2024-06-14T10:08:18.000Z</updated>
+        <summary type="html"><![CDATA[The first beta release of the Qt 6.8 toolkit is now available for testing with many new features...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10-rc4 To Fix Display For The Ayaneo Kun Gaming Handheld]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Display-Ayaneo-Kun</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Display-Ayaneo-Kun"/>
+        <updated>2024-06-14T09:38:55.000Z</updated>
+        <summary type="html"><![CDATA[For those interested in running Linux on the Ayaneo Kun handheld gaming console alternative to Valve's Steam Deck and the ASUS ROG Ally, among others, a display quirk has been submitted ahead of the Linux 6.10-rc4 release this weekend to fix the display handling...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-06-13]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-06-13.html</id>
@@ -4218,100 +4278,6 @@ Llama 3 implemented in pure NumPy
         <link href="https://www.phoronix.com/news/Linus-Torvalds-Linux-Dogfooding"/>
         <updated>2024-05-16T10:02:56.000Z</updated>
         <summary type="html"><![CDATA[Besides Linus Torvalds examining various elements of code he's merging and build testing it on his AMD Ryzen Threadripper workstation and now also testing more on ARM64 with Ampere Altra, he does these days still believe in "dogfooding" and is in fact running the leading-edge Linux kernel code even during the merge window...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-15]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-15.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-15.html"/>
-        <updated>2024-05-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 15, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-GPT-4o's Memory Breakthrough – Needle in a Needlestack
-(comments)
-
-
-Ilya Sutskever to leave OpenAI
-(comments)
-
-
-Department of Justice says Boeing may be criminally liable in 737 MAX crashes
-(comments)
-
-
-A low budget consumer hardware espionage implant (2018)
-(comments)
-
-
-Translation of Rust's core and alloc crates to Coq for formal verification
-(comments)
-
-
-Raspberry Pi Ltd is considering an IPO
-(comments)
-
-
-Nearly all Nintendo 64 games can now be recompiled into native PC ports
-(comments)
-
-
-Proteins in blood could provide early cancer warning 'by more than seven years'
-(comments)
-
-
-The Worst Website in the Entire World
-(comments)
-
-
-Adobe Photoshop Source Code (2013)
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa 24.1-rc4 Backports NVK DRM Format Modifiers Support]]></title>
-        <id>https://www.phoronix.com/news/Mesa-24.1-rc4-Released</id>
-        <link href="https://www.phoronix.com/news/Mesa-24.1-rc4-Released"/>
-        <updated>2024-05-15T20:35:51.000Z</updated>
-        <summary type="html"><![CDATA[The Mesa 24.1 stable release is nearing while out today is the fourth weekly release candidate. While the Intel and AMD Radeon graphics driver changes typically dominate new Mesa releases, Mesa 24.1-rc4 is headlined by a big change for the NVK open-source NVIDIA Vulkan driver...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel TDX For Confidential VMs Causing Concern Among Fedora & Open-Source Advocates]]></title>
-        <id>https://www.phoronix.com/news/Intel-TDX-Fedora-OSS-Concerns</id>
-        <link href="https://www.phoronix.com/news/Intel-TDX-Fedora-OSS-Concerns"/>
-        <updated>2024-05-15T16:58:41.000Z</updated>
-        <summary type="html"><![CDATA[One of the capabilities of newer Intel Xeon Scalable processors is support for Trust Domain Extensions (TDX) as a way of providing for confidential virtual machines. Intel TDX allows for "isolation, confidentiality, and integrity at the VM level" which is good from the security perspective but the dependence on signed binaries is causing mixed feelings within the Fedora camp at the broader open-source community...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The NTSYNC Driver For Wine/Proton Is "Broken" For Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-NTSYNC-Broken</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-NTSYNC-Broken"/>
-        <updated>2024-05-15T16:18:10.000Z</updated>
-        <summary type="html"><![CDATA[While Linux 6.10 is poised to merge the initial NTSYNC driver for a Windows NT Synchronization Primitive driver that can help with faster Windows gaming performance under Wine/Proton (Steam Play), the driver isn't complete. The initial patches have been in Greg Kroah-Hartman's char-misc-next branch for several weeks to expose the NTSYNC character device, it isn't the entire patch series. Greg has now marked the driver as "broken" for Linux 6.10...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZLUDA Has Been Seeing New Activity For CUDA On AMD GPUs]]></title>
-        <id>https://www.phoronix.com/news/ZLUDA-New-Activity-AMD-CUDA</id>
-        <link href="https://www.phoronix.com/news/ZLUDA-New-Activity-AMD-CUDA"/>
-        <updated>2024-05-15T14:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Back in February I wrote about AMD having quietly funded the effort for a drop-in CUDA implementation for AMD GPUs built atop the ROCm library. This was an incarnation of ZLUDA that originally began as a CUDA implementation for Intel GPUs using oneAPI Level Zero. While AMD discontinued funding ZLUDA development earlier this year, this CUDA implementation for AMD GPUs is continuing to see some new code activity...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>

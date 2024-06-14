@@ -294,16 +294,6 @@
           "wordCount": 577,
           "title": "Daily Hacker News for 2024-05-16",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-15.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 15, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nGPT-4o's Memory Breakthrough – Needle in a Needlestack\n(comments)\n\n\nIlya Sutskever to leave OpenAI\n(comments)\n\n\nDepartment of Justice says Boeing may be criminally liable in 737 MAX crashes\n(comments)\n\n\nA low budget consumer hardware espionage implant (2018)\n(comments)\n\n\nTranslation of Rust's core and alloc crates to Coq for formal verification\n(comments)\n\n\nRaspberry Pi Ltd is considering an IPO\n(comments)\n\n\nNearly all Nintendo 64 games can now be recompiled into native PC ports\n(comments)\n\n\nProteins in blood could provide early cancer warning 'by more than seven years'\n(comments)\n\n\nThe Worst Website in the Entire World\n(comments)\n\n\nAdobe Photoshop Source Code (2013)\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-15.html",
-          "publishedOn": "2024-05-16T00:00:00.000Z",
-          "wordCount": 583,
-          "title": "Daily Hacker News for 2024-05-15",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,66 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Intel-Vulkan-Faster-vkCreateDev",
+          "author": "Michael Larabel",
+          "description": "Intel's open-source Vulkan Linux driver \"ANV\" has reduced the driver start-up time by about half...",
+          "link": "https://www.phoronix.com/news/Intel-Vulkan-Faster-vkCreateDev",
+          "publishedOn": "2024-06-14T12:31:07.000Z",
+          "wordCount": 1828,
+          "title": "Intel Vulkan Driver Halves The Time Required For Startup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Two-Years-Improving-ARM-Laptops",
+          "author": "Michael Larabel",
+          "description": "Kernel developer and consultant Johan Hovold spent the last two years working on improving ARM Linux laptop support with a particular focus on the Lenovo ThinkPad X13s powered Qualcomm SoC. Arm funded this Linaro effort and as a result the ThinkPad X13s enjoys pleasant upstream kernel support now. This Arm Linux laptop project has now concluded but sets a nice base for further ARM Linux laptop improvements moving forward...",
+          "link": "https://www.phoronix.com/news/Two-Years-Improving-ARM-Laptops",
+          "publishedOn": "2024-06-14T11:06:15.000Z",
+          "wordCount": 1883,
+          "title": "The Two Year Journey Funded By Arm/Qualcomm For Improving ARM Linux Laptop Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/HabanaLabs-Network-Driver-Linux",
+          "author": "Michael Larabel",
+          "description": "While for years there has been the Habana Labs AI accelerator driver within the mainline Linux kernel, this \"accel\" driver has been focused on just supporting training/inference across their products. Now being worked on for the mainline Linux kernel are upstreaming the Habana Labs network drivers that can be used for scaling out the AI workloads across multiple systems...",
+          "link": "https://www.phoronix.com/news/HabanaLabs-Network-Driver-Linux",
+          "publishedOn": "2024-06-14T10:44:29.000Z",
+          "wordCount": 2110,
+          "title": "Intel To Upstream Habana Labs Network Drivers Into The Linux Kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Mesa-24.2-Fixed-Rate-Compress",
+          "author": "Michael Larabel",
+          "description": "Being merged to Mesa 24.2 this week is a set of 12 patches that have been four months in the making for supporting the OpenGL/EGL fixed-rate compression extensions...",
+          "link": "https://www.phoronix.com/news/Mesa-24.2-Fixed-Rate-Compress",
+          "publishedOn": "2024-06-14T10:26:46.000Z",
+          "wordCount": 1855,
+          "title": "Mesa 24.2 Adds Support For Fixed-Rate Compression Extensions For OpenGL & EGL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Qt-6.8-Beta-1",
+          "author": "Michael Larabel",
+          "description": "The first beta release of the Qt 6.8 toolkit is now available for testing with many new features...",
+          "link": "https://www.phoronix.com/news/Qt-6.8-Beta-1",
+          "publishedOn": "2024-06-14T10:08:18.000Z",
+          "wordCount": 1877,
+          "title": "Qt 6.8 Beta Released With Multi-View Rendering, Better GNOME Wayland Experience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-Display-Ayaneo-Kun",
+          "author": "Michael Larabel",
+          "description": "For those interested in running Linux on the Ayaneo Kun handheld gaming console alternative to Valve's Steam Deck and the ASUS ROG Ally, among others, a display quirk has been submitted ahead of the Linux 6.10-rc4 release this weekend to fix the display handling...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-Display-Ayaneo-Kun",
+          "publishedOn": "2024-06-14T09:38:55.000Z",
+          "wordCount": 1931,
+          "title": "Linux 6.10-rc4 To Fix Display For The Ayaneo Kun Gaming Handheld",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/NVIDIA-Exploring-Upstream-KMD",
           "author": "Michael Larabel",
@@ -2960,46 +3010,6 @@
           "publishedOn": "2024-05-16T10:02:56.000Z",
           "wordCount": 1841,
           "title": "Linus Torvalds On Dogfooding The Linux Kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Mesa-24.1-rc4-Released",
-          "author": "Michael Larabel",
-          "description": "The Mesa 24.1 stable release is nearing while out today is the fourth weekly release candidate. While the Intel and AMD Radeon graphics driver changes typically dominate new Mesa releases, Mesa 24.1-rc4 is headlined by a big change for the NVK open-source NVIDIA Vulkan driver...",
-          "link": "https://www.phoronix.com/news/Mesa-24.1-rc4-Released",
-          "publishedOn": "2024-05-15T20:35:51.000Z",
-          "wordCount": 1909,
-          "title": "Mesa 24.1-rc4 Backports NVK DRM Format Modifiers Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-TDX-Fedora-OSS-Concerns",
-          "author": "Michael Larabel",
-          "description": "One of the capabilities of newer Intel Xeon Scalable processors is support for Trust Domain Extensions (TDX) as a way of providing for confidential virtual machines. Intel TDX allows for \"isolation, confidentiality, and integrity at the VM level\" which is good from the security perspective but the dependence on signed binaries is causing mixed feelings within the Fedora camp at the broader open-source community...",
-          "link": "https://www.phoronix.com/news/Intel-TDX-Fedora-OSS-Concerns",
-          "publishedOn": "2024-05-15T16:58:41.000Z",
-          "wordCount": 2319,
-          "title": "Intel TDX For Confidential VMs Causing Concern Among Fedora & Open-Source Advocates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-NTSYNC-Broken",
-          "author": "Michael Larabel",
-          "description": "While Linux 6.10 is poised to merge the initial NTSYNC driver for a Windows NT Synchronization Primitive driver that can help with faster Windows gaming performance under Wine/Proton (Steam Play), the driver isn't complete. The initial patches have been in Greg Kroah-Hartman's char-misc-next branch for several weeks to expose the NTSYNC character device, it isn't the entire patch series. Greg has now marked the driver as \"broken\" for Linux 6.10...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-NTSYNC-Broken",
-          "publishedOn": "2024-05-15T16:18:10.000Z",
-          "wordCount": 2018,
-          "title": "The NTSYNC Driver For Wine/Proton Is \"Broken\" For Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/ZLUDA-New-Activity-AMD-CUDA",
-          "author": "Michael Larabel",
-          "description": "Back in February I wrote about AMD having quietly funded the effort for a drop-in CUDA implementation for AMD GPUs built atop the ROCm library. This was an incarnation of ZLUDA that originally began as a CUDA implementation for Intel GPUs using oneAPI Level Zero. While AMD discontinued funding ZLUDA development earlier this year, this CUDA implementation for AMD GPUs is continuing to see some new code activity...",
-          "link": "https://www.phoronix.com/news/ZLUDA-New-Activity-AMD-CUDA",
-          "publishedOn": "2024-05-15T14:28:46.000Z",
-          "wordCount": 1777,
-          "title": "ZLUDA Has Been Seeing New Activity For CUDA On AMD GPUs",
           "imageUrl": null
         }
       ]
