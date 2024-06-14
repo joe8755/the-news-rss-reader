@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-13T12:34:00.756Z</updated>
+    <updated>2024-06-14T01:17:40.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-13]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-13.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-13.html"/>
+        <updated>2024-06-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 13, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Banana giant Chiquita held liable by US court for funding paramilitaries
+(comments)
+
+
+Twenty, a modern CRM alternative to Salesforce
+(comments)
+
+
+Serious Sam handled massive amounts of enemies on 56k modem connections
+(comments)
+
+
+The GJK Algorithm: A weird and beautiful way to do a simple thing
+(comments)
+
+
+Japan enacts law to promote competition in smartphone app stores
+(comments)
+
+
+How Meta trains large language models at scale
+(comments)
+
+
+Uncensor any LLM with abliteration
+(comments)
+
+
+Microsoft Chose Profit over Security, Whistleblower Says
+(comments)
+
+
+Indian startup 3D prints rocket engine in 72 hours
+(comments)
+
+
+MLow: Meta's low bitrate audio codec
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Exploring Ways To Better Support An Upstream Kernel Driver]]></title>
+        <id>https://www.phoronix.com/news/NVIDIA-Exploring-Upstream-KMD</id>
+        <link href="https://www.phoronix.com/news/NVIDIA-Exploring-Upstream-KMD"/>
+        <updated>2024-06-13T17:44:52.000Z</updated>
+        <summary type="html"><![CDATA[Here's how an exciting message from a NVIDIA engineer that just hit the mailing list begins: "NVIDIA has been exploring ways to better support the effort for an upstream kernel mode driver for GPUs that are capable of running GSP-RM firmware, since the introduction to Nova."..]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fwupd 1.9.21 Released With Synaptics Carrera & Wacom Movink Support]]></title>
+        <id>https://www.phoronix.com/news/Fwupd-1.9.21-Released</id>
+        <link href="https://www.phoronix.com/news/Fwupd-1.9.21-Released"/>
+        <updated>2024-06-13T16:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Fwupd 1.9.21 is now available for this open-source software for facilitating system firmware and device/peripheral firmware updates under Linux and other platforms...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Rocket" Accelerator Open-Source Linux Kernel Driver Posted For Rockchip NPU]]></title>
+        <id>https://www.phoronix.com/news/Rocket-Rockchip-NPU-Driver</id>
+        <link href="https://www.phoronix.com/news/Rocket-Rockchip-NPU-Driver"/>
+        <updated>2024-06-13T14:35:08.000Z</updated>
+        <summary type="html"><![CDATA[The past few months open-source developer Tomeu Vizoso has been developing an open-source accelerator driver for Rockchip's NPU. The experimental driver has shown the open-source code can compete with Rockchip's proprietary driver and Vizoso has been working to develop an upstream-minded driver for a kernel driver living within the "accel" subsystem and then leveraging Mesa's Teflon for the user-space component. Yesterday the "Rocket" accel kernel driver was posted for the Rockchip NPU...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X.Org Testing Ground Toolkit: Making It Less Difficult To Compile The X Server In 2024]]></title>
+        <id>https://www.phoronix.com/news/Xorg-Testing-Ground-Toolkit</id>
+        <link href="https://www.phoronix.com/news/Xorg-Testing-Ground-Toolkit"/>
+        <updated>2024-06-13T13:51:52.000Z</updated>
+        <summary type="html"><![CDATA[While the upstream X.Org Server development remains slow with most of the large vendors treating it in maintenance mode and not investing in new features, open-source developer Enrico Weigelt has been one of the few still working to improve the X.Org Server. As part of his work besides pushing new patches and testing of the latest X.Org Server Git state, today he announced the release of the X.Org Testing Ground Toolkit v0.0.1 as a means to help in facilitate testing of the latest X.Org Server Git by making it easier to build it...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ubuntu Talks Up A RISC-V Octa-Core Laptop]]></title>
         <id>https://www.phoronix.com/news/DC-ROMA-RISC-V-Laptop-II</id>
@@ -4218,66 +4312,6 @@ Adobe Photoshop Source Code (2013)
         <link href="https://www.phoronix.com/news/ZLUDA-New-Activity-AMD-CUDA"/>
         <updated>2024-05-15T14:28:46.000Z</updated>
         <summary type="html"><![CDATA[Back in February I wrote about AMD having quietly funded the effort for a drop-in CUDA implementation for AMD GPUs built atop the ROCm library. This was an incarnation of ZLUDA that originally began as a CUDA implementation for Intel GPUs using oneAPI Level Zero. While AMD discontinued funding ZLUDA development earlier this year, this CUDA implementation for AMD GPUs is continuing to see some new code activity...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XWayland 24.1 Released With Explicit Sync, Better Rootful Experience]]></title>
-        <id>https://www.phoronix.com/news/XWayland-24.1-Released</id>
-        <link href="https://www.phoronix.com/news/XWayland-24.1-Released"/>
-        <updated>2024-05-15T12:41:09.000Z</updated>
-        <summary type="html"><![CDATA[Red Hat's Olivier Fourdan just announced the stable release of XWayland 24.1 as the newest feature release for this X.Org Server code allowing X11 clients to work within the confines of Wayland compositors...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Networking Adds New Intel Hardware Support, More WiFi 7 Enablement]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Networking</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Networking"/>
-        <updated>2024-05-15T12:34:26.000Z</updated>
-        <summary type="html"><![CDATA[The networking subsystem updates have been submitted for the Linux 6.10 kernel. As usual it's a big update with some 90,083 new lines of code and 37,889 lines removed...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMDVLK 2024.Q2.1 Driver Adds Phoenix 2 APU Support]]></title>
-        <id>https://www.phoronix.com/news/AMDVLK-2024.Q2.1</id>
-        <link href="https://www.phoronix.com/news/AMDVLK-2024.Q2.1"/>
-        <updated>2024-05-15T12:04:25.000Z</updated>
-        <summary type="html"><![CDATA[It's been the better part of two months since the last AMDVLK driver update while today the AMDVLK 2024.Q2.1 driver has been christened...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arm Mali/Immortalis GPU Driver, New AMD Graphics IP & Lunar Lake Display In Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-DRM-Graphics</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-DRM-Graphics"/>
-        <updated>2024-05-15T10:37:44.000Z</updated>
-        <summary type="html"><![CDATA[The big batch of Direct Rendering Manager (DRM) kernel graphics/display driver updates for the Linux 6.10 merge window were sent out today that includes the new "Panthor" driver for newer ARM Mali/Immortalis graphics processors and the usual hearty assortment of Intel and AMD graphics driver changes...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mir 2.17 Better Supports Hybrid Graphics & Other Wayland Enhancements]]></title>
-        <id>https://www.phoronix.com/news/Mir-2.17-Released</id>
-        <link href="https://www.phoronix.com/news/Mir-2.17-Released"/>
-        <updated>2024-05-15T10:24:19.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/canonical/mirCanonical engineer Matthew Kosarek just released Mir 2.17 as the newest version of this open-source Wayland compositor that can be used for building Wayland-based shells and has shown some interesting potential with the likes of Miracle-WM and Miriway...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sound Support For Intel Battlemage In Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Intel-Battlemage-Sound-Linux</id>
-        <link href="https://www.phoronix.com/news/Intel-Battlemage-Sound-Linux"/>
-        <updated>2024-05-15T10:08:20.000Z</updated>
-        <summary type="html"><![CDATA[Along with the various Intel Xe2 driver changes that are ongoing for the Intel Linux graphics driver stack, over in the sound subsystem the in-development Linux 6.10 kernel is bringing HDMI audio support for upcoming Intel Battlemage graphics cards...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>

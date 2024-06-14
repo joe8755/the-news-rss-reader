@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-13.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 13, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nBanana giant Chiquita held liable by US court for funding paramilitaries\n(comments)\n\n\nTwenty, a modern CRM alternative to Salesforce\n(comments)\n\n\nSerious Sam handled massive amounts of enemies on 56k modem connections\n(comments)\n\n\nThe GJK Algorithm: A weird and beautiful way to do a simple thing\n(comments)\n\n\nJapan enacts law to promote competition in smartphone app stores\n(comments)\n\n\nHow Meta trains large language models at scale\n(comments)\n\n\nUncensor any LLM with abliteration\n(comments)\n\n\nMicrosoft Chose Profit over Security, Whistleblower Says\n(comments)\n\n\nIndian startup 3D prints rocket engine in 72 hours\n(comments)\n\n\nMLow: Meta's low bitrate audio codec\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-13.html",
+          "publishedOn": "2024-06-14T00:00:00.000Z",
+          "wordCount": 581,
+          "title": "Daily Hacker News for 2024-06-13",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-12.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 12, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nHome-Cooked Software and Barefoot Developers\n(comments)\n\n\nWhen Water Flows Uphill [video]\n(comments)\n\n\nShow HN: Unforget, the note-taking app I always wanted: offline first, encrypted\n(comments)\n\n\nSelf-Serve Dashboards\n(comments)\n\n\nShow HN: Revideo – Create Videos with Code\n(comments)\n\n\nARC Prize – a $1M+ competition towards open AGI progress\n(comments)\n\n\nFlameshot – Open-source screenshot software\n(comments)\n\n\nSwift Static Linux SDK\n(comments)\n\n\nSilicon Valley's best kept secret: Founder liquidity\n(comments)\n\n\nElixir 1.17 released: set-theoretic types in patterns, durations, OTP 27\n(comments)",
@@ -302,6 +312,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/NVIDIA-Exploring-Upstream-KMD",
+          "author": "Michael Larabel",
+          "description": "Here's how an exciting message from a NVIDIA engineer that just hit the mailing list begins: \"NVIDIA has been exploring ways to better support the effort for an upstream kernel mode driver for GPUs that are capable of running GSP-RM firmware, since the introduction to Nova.\"..",
+          "link": "https://www.phoronix.com/news/NVIDIA-Exploring-Upstream-KMD",
+          "publishedOn": "2024-06-13T17:44:52.000Z",
+          "wordCount": 2161,
+          "title": "NVIDIA Exploring Ways To Better Support An Upstream Kernel Driver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Fwupd-1.9.21-Released",
+          "author": "Michael Larabel",
+          "description": "Fwupd 1.9.21 is now available for this open-source software for facilitating system firmware and device/peripheral firmware updates under Linux and other platforms...",
+          "link": "https://www.phoronix.com/news/Fwupd-1.9.21-Released",
+          "publishedOn": "2024-06-13T16:51:31.000Z",
+          "wordCount": 1680,
+          "title": "Fwupd 1.9.21 Released With Synaptics Carrera & Wacom Movink Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Rocket-Rockchip-NPU-Driver",
+          "author": "Michael Larabel",
+          "description": "The past few months open-source developer Tomeu Vizoso has been developing an open-source accelerator driver for Rockchip's NPU. The experimental driver has shown the open-source code can compete with Rockchip's proprietary driver and Vizoso has been working to develop an upstream-minded driver for a kernel driver living within the \"accel\" subsystem and then leveraging Mesa's Teflon for the user-space component. Yesterday the \"Rocket\" accel kernel driver was posted for the Rockchip NPU...",
+          "link": "https://www.phoronix.com/news/Rocket-Rockchip-NPU-Driver",
+          "publishedOn": "2024-06-13T14:35:08.000Z",
+          "wordCount": 1850,
+          "title": "\"Rocket\" Accelerator Open-Source Linux Kernel Driver Posted For Rockchip NPU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Xorg-Testing-Ground-Toolkit",
+          "author": "Michael Larabel",
+          "description": "While the upstream X.Org Server development remains slow with most of the large vendors treating it in maintenance mode and not investing in new features, open-source developer Enrico Weigelt has been one of the few still working to improve the X.Org Server. As part of his work besides pushing new patches and testing of the latest X.Org Server Git state, today he announced the release of the X.Org Testing Ground Toolkit v0.0.1 as a means to help in facilitate testing of the latest X.Org Server Git by making it easier to build it...",
+          "link": "https://www.phoronix.com/news/Xorg-Testing-Ground-Toolkit",
+          "publishedOn": "2024-06-13T13:51:52.000Z",
+          "wordCount": 1864,
+          "title": "X.Org Testing Ground Toolkit: Making It Less Difficult To Compile The X Server In 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/DC-ROMA-RISC-V-Laptop-II",
           "author": "Michael Larabel",
@@ -2950,66 +3000,6 @@
           "publishedOn": "2024-05-15T14:28:46.000Z",
           "wordCount": 1777,
           "title": "ZLUDA Has Been Seeing New Activity For CUDA On AMD GPUs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/XWayland-24.1-Released",
-          "author": "Michael Larabel",
-          "description": "Red Hat's Olivier Fourdan just announced the stable release of XWayland 24.1 as the newest feature release for this X.Org Server code allowing X11 clients to work within the confines of Wayland compositors...",
-          "link": "https://www.phoronix.com/news/XWayland-24.1-Released",
-          "publishedOn": "2024-05-15T12:41:09.000Z",
-          "wordCount": 1714,
-          "title": "XWayland 24.1 Released With Explicit Sync, Better Rootful Experience",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Networking",
-          "author": "Michael Larabel",
-          "description": "The networking subsystem updates have been submitted for the Linux 6.10 kernel. As usual it's a big update with some 90,083 new lines of code and 37,889 lines removed...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Networking",
-          "publishedOn": "2024-05-15T12:34:26.000Z",
-          "wordCount": 2078,
-          "title": "Linux 6.10 Networking Adds New Intel Hardware Support, More WiFi 7 Enablement",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMDVLK-2024.Q2.1",
-          "author": "Michael Larabel",
-          "description": "It's been the better part of two months since the last AMDVLK driver update while today the AMDVLK 2024.Q2.1 driver has been christened...",
-          "link": "https://www.phoronix.com/news/AMDVLK-2024.Q2.1",
-          "publishedOn": "2024-05-15T12:04:25.000Z",
-          "wordCount": 1734,
-          "title": "AMDVLK 2024.Q2.1 Driver Adds Phoenix 2 APU Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-DRM-Graphics",
-          "author": "Michael Larabel",
-          "description": "The big batch of Direct Rendering Manager (DRM) kernel graphics/display driver updates for the Linux 6.10 merge window were sent out today that includes the new \"Panthor\" driver for newer ARM Mali/Immortalis graphics processors and the usual hearty assortment of Intel and AMD graphics driver changes...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-DRM-Graphics",
-          "publishedOn": "2024-05-15T10:37:44.000Z",
-          "wordCount": 1968,
-          "title": "Arm Mali/Immortalis GPU Driver, New AMD Graphics IP & Lunar Lake Display In Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Mir-2.17-Released",
-          "author": "Michael Larabel",
-          "description": "https://github.com/canonical/mirCanonical engineer Matthew Kosarek just released Mir 2.17 as the newest version of this open-source Wayland compositor that can be used for building Wayland-based shells and has shown some interesting potential with the likes of Miracle-WM and Miriway...",
-          "link": "https://www.phoronix.com/news/Mir-2.17-Released",
-          "publishedOn": "2024-05-15T10:24:19.000Z",
-          "wordCount": 1805,
-          "title": "Mir 2.17 Better Supports Hybrid Graphics & Other Wayland Enhancements",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Battlemage-Sound-Linux",
-          "author": "Michael Larabel",
-          "description": "Along with the various Intel Xe2 driver changes that are ongoing for the Intel Linux graphics driver stack, over in the sound subsystem the in-development Linux 6.10 kernel is bringing HDMI audio support for upcoming Intel Battlemage graphics cards...",
-          "link": "https://www.phoronix.com/news/Intel-Battlemage-Sound-Linux",
-          "publishedOn": "2024-05-15T10:08:20.000Z",
-          "wordCount": 1839,
-          "title": "Sound Support For Intel Battlemage In Linux 6.10",
           "imageUrl": null
         }
       ]
