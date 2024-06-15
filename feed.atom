@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-14T12:34:02.303Z</updated>
+    <updated>2024-06-15T01:17:40.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-14]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-14.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-14.html"/>
+        <updated>2024-06-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 14, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+My thoughts on Python in Excel
+(comments)
+
+
+Show HN: Shpool, a Lightweight Tmux Alternative
+(comments)
+
+
+AMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor
+(comments)
+
+
+Mouth-based touchpad enables people living with paralysis to use computers
+(comments)
+
+
+Fungus breaks down ocean plastic
+(comments)
+
+
+Land value tax in online games and virtual worlds (2022)
+(comments)
+
+
+I found a 55 year old bug in the first Lunar Lander game
+(comments)
+
+
+Start presentations on the second slide
+(comments)
+
+
+Nvidia Warp: A Python framework for high performance GPU simulation and graphics
+(comments)
+
+
+Microsoft's Recall AI feature is now indefinitely delayed
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Receives New Human Interface Guidelines For 2024]]></title>
+        <id>https://www.phoronix.com/news/KDE-New-HIG-2024</id>
+        <link href="https://www.phoronix.com/news/KDE-New-HIG-2024"/>
+        <updated>2024-06-14T21:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Prominent KDE developer Nate Graham has been working with various KDE designers and developers to establish a new set of Human Interface Guidelines (HIG)...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice 24.8 Beta Now Available For Testing This Free Software Office Suite]]></title>
+        <id>https://www.phoronix.com/news/LibreOffice-24.8-Beta-1</id>
+        <link href="https://www.phoronix.com/news/LibreOffice-24.8-Beta-1"/>
+        <updated>2024-06-14T21:12:22.000Z</updated>
+        <summary type="html"><![CDATA[LibreOffice 24.8 is now available in beta form for those wanting to test this open-source, cross-platform office suite alternative to the likes of Microsoft Office...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.11 Bringing "Hardware Replay" Feature For Intel Graphics Debugging]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.11-Intel-HW-Hang-Replay</id>
+        <link href="https://www.phoronix.com/news/Linux-6.11-Intel-HW-Hang-Replay"/>
+        <updated>2024-06-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The main set of drm-intel-gt-next patches aiming for the Linux 6.11 kernel were submitted this week to DRM-Next. Most notable with this feature update for the next kernel version is enabling a new hardware replay feature for better reproducing GPU hangs...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 24.10 Seeing More Desktop Installer Improvements, Improving The Steam Snap]]></title>
+        <id>https://www.phoronix.com/news/Ubuntu-24.10-Desktop-June</id>
+        <link href="https://www.phoronix.com/news/Ubuntu-24.10-Desktop-June"/>
+        <updated>2024-06-14T13:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Last month some of the Ubuntu 24.10 desktop plans were laid out such as NVIDIA Wayland by default, a new welcome wizard, and more. Canonical's Oliver Smith has posted an update today around some of the ongoing Ubuntu 24.10 desktop enhancements...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Vulkan Driver Halves The Time Required For Startup]]></title>
         <id>https://www.phoronix.com/news/Intel-Vulkan-Faster-vkCreateDev</id>
@@ -4218,66 +4312,6 @@ Llama 3 implemented in pure NumPy
         <link href="https://www.phoronix.com/review/ampere-256-core-2025"/>
         <updated>2024-05-16T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ampere Computing today made public their roadmap update concerning current and future AArch64 server processors. AmpereOne availability remains tough but the company is hoping next year to introduce a 3nm CPU with up to 256 cores and supporting 12 channel DDR5 memory.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PipeWire 1.2 Preps For Async Processing, Snap Support & Explicit Sync]]></title>
-        <id>https://www.phoronix.com/news/PipeWire-1.2-RC</id>
-        <link href="https://www.phoronix.com/news/PipeWire-1.2-RC"/>
-        <updated>2024-05-16T12:49:28.000Z</updated>
-        <summary type="html"><![CDATA[Following last year's release of PipeWire 1.0 for managing audio and video streams on the Linux desktop and proving itself a capable replacement to PulseAudio and JACK, among other uses, PipeWire 1.2 is nearing release. Out today is the first release candidate of the upcoming PipeWire 1.2...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Habana Labs & Xe Linux Driver Maintainer Steps Down]]></title>
-        <id>https://www.phoronix.com/news/Habana-Labs-Maintainer-Down</id>
-        <link href="https://www.phoronix.com/news/Habana-Labs-Maintainer-Down"/>
-        <updated>2024-05-16T10:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Coming as a surprise, longtime Linux developer Oded Gabbay announced he's left Intel / Habana Labs and is therefore stepping down from the maintainer role of the Linux kernel drivers for the Intel Xe DRM driver and more notably the Habana Labs accelerator driver that he's maintained from the start...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve's Linux Graphics Engineers Begin Prepping RADV Driver For AMD RDNA4 "GFX12"]]></title>
-        <id>https://www.phoronix.com/news/Valve-RADV-GFX12-Mesa-Prep</id>
-        <link href="https://www.phoronix.com/news/Valve-RADV-GFX12-Mesa-Prep"/>
-        <updated>2024-05-16T10:32:55.000Z</updated>
-        <summary type="html"><![CDATA[The open-source Mesa driver developers employed by Valve for working on the Linux graphics stack have begun preparing the RADV Vulkan driver and the ACO compiler back-end for the upcoming "GFX12" graphics IP for next-generation RDNA4...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel IPU6 Driver Being Upstreamed In Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Intel-IPU6-Media-In-Linux-6.10</id>
-        <link href="https://www.phoronix.com/news/Intel-IPU6-Media-In-Linux-6.10"/>
-        <updated>2024-05-16T10:23:27.000Z</updated>
-        <summary type="html"><![CDATA[Intel's Image Processing Unit (IPU) IP has been a cause for concern in recent years as the lack of proper upstream open-source driver support has led Linux users running into troubles making use of MIPI camera sensors on modern laptops. Finally with Linux 6.10 the Intel IPU6 driver is being upstreamed into the media subsystem...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firewire IEEE-1394 Support Continues To Be Improved With The Linux 6.10 Kernel]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Firewire</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Firewire"/>
-        <updated>2024-05-16T10:16:24.000Z</updated>
-        <summary type="html"><![CDATA[While most of you have not thought about or used Firewire (IEEE-1394) in years, there still are some legacy digital video cameras and some professional audio devices relying on the interface. Last year saw a new Firewire maintainer step-up for the Linux kernel after the code had fallen dormant. The plans by that new maintainer, Takashi Sakamoto, are to maintain Linux's Firewire support through 2029. He's continuing to do a good job with the upcoming Linux 6.10 kernel bringing the latest batch of Firewire enhancements...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus Torvalds On Dogfooding The Linux Kernel]]></title>
-        <id>https://www.phoronix.com/news/Linus-Torvalds-Linux-Dogfooding</id>
-        <link href="https://www.phoronix.com/news/Linus-Torvalds-Linux-Dogfooding"/>
-        <updated>2024-05-16T10:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Besides Linus Torvalds examining various elements of code he's merging and build testing it on his AMD Ryzen Threadripper workstation and now also testing more on ARM64 with Ampere Altra, he does these days still believe in "dogfooding" and is in fact running the leading-edge Linux kernel code even during the merge window...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>

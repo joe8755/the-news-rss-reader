@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-14.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 14, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nMy thoughts on Python in Excel\n(comments)\n\n\nShow HN: Shpool, a Lightweight Tmux Alternative\n(comments)\n\n\nAMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor\n(comments)\n\n\nMouth-based touchpad enables people living with paralysis to use computers\n(comments)\n\n\nFungus breaks down ocean plastic\n(comments)\n\n\nLand value tax in online games and virtual worlds (2022)\n(comments)\n\n\nI found a 55 year old bug in the first Lunar Lander game\n(comments)\n\n\nStart presentations on the second slide\n(comments)\n\n\nNvidia Warp: A Python framework for high performance GPU simulation and graphics\n(comments)\n\n\nMicrosoft's Recall AI feature is now indefinitely delayed\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-14.html",
+          "publishedOn": "2024-06-15T00:00:00.000Z",
+          "wordCount": 583,
+          "title": "Daily Hacker News for 2024-06-14",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-13.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 13, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nBanana giant Chiquita held liable by US court for funding paramilitaries\n(comments)\n\n\nTwenty, a modern CRM alternative to Salesforce\n(comments)\n\n\nSerious Sam handled massive amounts of enemies on 56k modem connections\n(comments)\n\n\nThe GJK Algorithm: A weird and beautiful way to do a simple thing\n(comments)\n\n\nJapan enacts law to promote competition in smartphone app stores\n(comments)\n\n\nHow Meta trains large language models at scale\n(comments)\n\n\nUncensor any LLM with abliteration\n(comments)\n\n\nMicrosoft Chose Profit over Security, Whistleblower Says\n(comments)\n\n\nIndian startup 3D prints rocket engine in 72 hours\n(comments)\n\n\nMLow: Meta's low bitrate audio codec\n(comments)",
@@ -302,6 +312,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/KDE-New-HIG-2024",
+          "author": "Michael Larabel",
+          "description": "Prominent KDE developer Nate Graham has been working with various KDE designers and developers to establish a new set of Human Interface Guidelines (HIG)...",
+          "link": "https://www.phoronix.com/news/KDE-New-HIG-2024",
+          "publishedOn": "2024-06-14T21:16:19.000Z",
+          "wordCount": 1817,
+          "title": "KDE Receives New Human Interface Guidelines For 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/LibreOffice-24.8-Beta-1",
+          "author": "Michael Larabel",
+          "description": "LibreOffice 24.8 is now available in beta form for those wanting to test this open-source, cross-platform office suite alternative to the likes of Microsoft Office...",
+          "link": "https://www.phoronix.com/news/LibreOffice-24.8-Beta-1",
+          "publishedOn": "2024-06-14T21:12:22.000Z",
+          "wordCount": 1881,
+          "title": "LibreOffice 24.8 Beta Now Available For Testing This Free Software Office Suite",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.11-Intel-HW-Hang-Replay",
+          "author": "Michael Larabel",
+          "description": "The main set of drm-intel-gt-next patches aiming for the Linux 6.11 kernel were submitted this week to DRM-Next. Most notable with this feature update for the next kernel version is enabling a new hardware replay feature for better reproducing GPU hangs...",
+          "link": "https://www.phoronix.com/news/Linux-6.11-Intel-HW-Hang-Replay",
+          "publishedOn": "2024-06-14T16:00:00.000Z",
+          "wordCount": 1982,
+          "title": "Linux 6.11 Bringing \"Hardware Replay\" Feature For Intel Graphics Debugging",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Ubuntu-24.10-Desktop-June",
+          "author": "Michael Larabel",
+          "description": "Last month some of the Ubuntu 24.10 desktop plans were laid out such as NVIDIA Wayland by default, a new welcome wizard, and more. Canonical's Oliver Smith has posted an update today around some of the ongoing Ubuntu 24.10 desktop enhancements...",
+          "link": "https://www.phoronix.com/news/Ubuntu-24.10-Desktop-June",
+          "publishedOn": "2024-06-14T13:04:56.000Z",
+          "wordCount": 1896,
+          "title": "Ubuntu 24.10 Seeing More Desktop Installer Improvements, Improving The Steam Snap",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-Vulkan-Faster-vkCreateDev",
           "author": "Michael Larabel",
@@ -2950,66 +3000,6 @@
           "publishedOn": "2024-05-16T15:00:00.000Z",
           "wordCount": 2493,
           "title": "Ampere Computing 2024 Roadmap Update: 256 Core 3nm CPU In 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/PipeWire-1.2-RC",
-          "author": "Michael Larabel",
-          "description": "Following last year's release of PipeWire 1.0 for managing audio and video streams on the Linux desktop and proving itself a capable replacement to PulseAudio and JACK, among other uses, PipeWire 1.2 is nearing release. Out today is the first release candidate of the upcoming PipeWire 1.2...",
-          "link": "https://www.phoronix.com/news/PipeWire-1.2-RC",
-          "publishedOn": "2024-05-16T12:49:28.000Z",
-          "wordCount": 1863,
-          "title": "PipeWire 1.2 Preps For Async Processing, Snap Support & Explicit Sync",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Habana-Labs-Maintainer-Down",
-          "author": "Michael Larabel",
-          "description": "Coming as a surprise, longtime Linux developer Oded Gabbay announced he's left Intel / Habana Labs and is therefore stepping down from the maintainer role of the Linux kernel drivers for the Intel Xe DRM driver and more notably the Habana Labs accelerator driver that he's maintained from the start...",
-          "link": "https://www.phoronix.com/news/Habana-Labs-Maintainer-Down",
-          "publishedOn": "2024-05-16T10:54:00.000Z",
-          "wordCount": 2040,
-          "title": "Intel Habana Labs & Xe Linux Driver Maintainer Steps Down",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Valve-RADV-GFX12-Mesa-Prep",
-          "author": "Michael Larabel",
-          "description": "The open-source Mesa driver developers employed by Valve for working on the Linux graphics stack have begun preparing the RADV Vulkan driver and the ACO compiler back-end for the upcoming \"GFX12\" graphics IP for next-generation RDNA4...",
-          "link": "https://www.phoronix.com/news/Valve-RADV-GFX12-Mesa-Prep",
-          "publishedOn": "2024-05-16T10:32:55.000Z",
-          "wordCount": 1823,
-          "title": "Valve's Linux Graphics Engineers Begin Prepping RADV Driver For AMD RDNA4 \"GFX12\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-IPU6-Media-In-Linux-6.10",
-          "author": "Michael Larabel",
-          "description": "Intel's Image Processing Unit (IPU) IP has been a cause for concern in recent years as the lack of proper upstream open-source driver support has led Linux users running into troubles making use of MIPI camera sensors on modern laptops. Finally with Linux 6.10 the Intel IPU6 driver is being upstreamed into the media subsystem...",
-          "link": "https://www.phoronix.com/news/Intel-IPU6-Media-In-Linux-6.10",
-          "publishedOn": "2024-05-16T10:23:27.000Z",
-          "wordCount": 1893,
-          "title": "Intel IPU6 Driver Being Upstreamed In Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Firewire",
-          "author": "Michael Larabel",
-          "description": "While most of you have not thought about or used Firewire (IEEE-1394) in years, there still are some legacy digital video cameras and some professional audio devices relying on the interface. Last year saw a new Firewire maintainer step-up for the Linux kernel after the code had fallen dormant. The plans by that new maintainer, Takashi Sakamoto, are to maintain Linux's Firewire support through 2029. He's continuing to do a good job with the upcoming Linux 6.10 kernel bringing the latest batch of Firewire enhancements...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Firewire",
-          "publishedOn": "2024-05-16T10:16:24.000Z",
-          "wordCount": 1964,
-          "title": "Firewire IEEE-1394 Support Continues To Be Improved With The Linux 6.10 Kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linus-Torvalds-Linux-Dogfooding",
-          "author": "Michael Larabel",
-          "description": "Besides Linus Torvalds examining various elements of code he's merging and build testing it on his AMD Ryzen Threadripper workstation and now also testing more on ARM64 with Ampere Altra, he does these days still believe in \"dogfooding\" and is in fact running the leading-edge Linux kernel code even during the merge window...",
-          "link": "https://www.phoronix.com/news/Linus-Torvalds-Linux-Dogfooding",
-          "publishedOn": "2024-05-16T10:02:56.000Z",
-          "wordCount": 1841,
-          "title": "Linus Torvalds On Dogfooding The Linux Kernel",
           "imageUrl": null
         }
       ]
