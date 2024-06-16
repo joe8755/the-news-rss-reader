@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-15T12:32:12.006Z</updated>
+    <updated>2024-06-16T01:23:37.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-15]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-15.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-15.html"/>
+        <updated>2024-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 15, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Eden Abhez: The strangest hit songwriter
+(comments)
+
+
+Chaos in the medium: Watercolour plotting
+(comments)
+
+
+Microsoft to delay release of Recall AI feature on security concerns
+(comments)
+
+
+H.264 Is Magic (2016)
+(comments)
+
+
+The sun's magnetic field is about to flip
+(comments)
+
+
+AI Search: The Bitter-Er Lesson
+(comments)
+
+
+Exponentially Better Rotations (2022)
+(comments)
+
+
+Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments
+(comments)
+
+
+Perplexity AI is lying about their user agent
+(comments)
+
+
+ESASky
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine Staging 9.11 Released With A Patch For A 17 Year Old Bug Report]]></title>
+        <id>https://www.phoronix.com/news/Wine-Staging-9.11-Released</id>
+        <link href="https://www.phoronix.com/news/Wine-Staging-9.11-Released"/>
+        <updated>2024-06-15T23:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Building off Friday's release of Wine 9.11 as that newest bi-weekly development release, Wine Staging 9.11 has been released with some 428 patches re-based atop this latest upstream Wine code...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Linux Change Helps Ensure AMD Ryzen With NVMe Works After Resuming From Suspend]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-rc4-PM-Ryzen-NVMe</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-rc4-PM-Ryzen-NVMe"/>
+        <updated>2024-06-15T13:50:07.000Z</updated>
+        <summary type="html"><![CDATA[A Linux power management change merged on Friday aims to help ensure AMD Ryzen systems with NVMe solid-state drive storage will work properly when resuming from suspend...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNOME Papers Document Viewer Making Progress As GTK4-Based Evince Fork]]></title>
         <id>https://www.phoronix.com/news/GNOME-Papers-GTK4-Evince-Fork</id>
@@ -4188,66 +4262,6 @@ Bend: a high-level language that runs on GPUs (via HVM2)
         <link href="https://www.phoronix.com/news/openSUSE-Shipping-OpenVINO"/>
         <updated>2024-05-17T13:48:33.000Z</updated>
         <summary type="html"><![CDATA[OpenSUSE is the first major Linux distribution to package up and offer Intel's OpenVINO open-source AI toolkit within its package repository...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Improves Performance For Opening Unencrypted Files]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-FSCRYPT</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-FSCRYPT"/>
-        <updated>2024-05-17T12:37:56.000Z</updated>
-        <summary type="html"><![CDATA[FSCRYPT is the file-system encryption framework within the Linux kernel for supporting optional encryption  on file-systems like EXT4, F2FS, and others. With Linux 6.10 an optimization is coming for enhancing the performance of opening files on file-systems supporting FSCRYPT-based encryption but when the files are unencrypted...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Wires Up More Compute Express Link "CXL" Functionality]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-CXL</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-CXL"/>
-        <updated>2024-05-17T10:49:12.000Z</updated>
-        <summary type="html"><![CDATA[The Compute Express Link (CXL) subsystem development continues to be led by Intel engineers and with the in-development Linux 6.10 kernel there are yet more features in tow...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Readies Xeon Phi Removal For GCC 15]]></title>
-        <id>https://www.phoronix.com/news/GCC-15-Patch-Drops-Xeon-Phi</id>
-        <link href="https://www.phoronix.com/news/GCC-15-Patch-Drops-Xeon-Phi"/>
-        <updated>2024-05-17T10:32:59.000Z</updated>
-        <summary type="html"><![CDATA[For the GCC 14 compiler release is the deprecation of the Xeon Phi targets. With Intel Knights Landing and Knights Mill being end-of-life at Intel, they are working to do away with the GNU Compiler Collection support. A patch has been posted to drop the Xeon Phi ISAs with GCC 15...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EROFS Adds Zstd & Btrfs Gets Minor Performance Work In Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-EROFS-Btrfs</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-EROFS-Btrfs"/>
-        <updated>2024-05-17T10:21:24.000Z</updated>
-        <summary type="html"><![CDATA[The EROFS and Btrfs file-systems saw their feature patches merged as part of the ongoing Linux 6.10 merge window...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sysctl Sentinel Bloat Removal Wrapping Up In Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Sysctl-Finish-Line-Linux-6.10</id>
-        <link href="https://www.phoronix.com/news/Sysctl-Finish-Line-Linux-6.10"/>
-        <updated>2024-05-17T10:12:01.000Z</updated>
-        <summary type="html"><![CDATA[The year-long effort to removal the sysctl sentinel for clearing bloat from the kernel and allowing faster build times should be crossing the finish line in Linux 6.10...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME 47 Aims For Release On 18 September]]></title>
-        <id>https://www.phoronix.com/news/GNOME-47-Release-Schedule</id>
-        <link href="https://www.phoronix.com/news/GNOME-47-Release-Schedule"/>
-        <updated>2024-05-17T00:43:33.000Z</updated>
-        <summary type="html"><![CDATA[The GNOME project has now solidified their release schedule for the current GNOME 47 development cycle: GNOME 47.0 should be out on 18 September...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
