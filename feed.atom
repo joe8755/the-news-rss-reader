@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-16T01:23:37.803Z</updated>
+    <updated>2024-06-16T12:32:18.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux's New DRM Panic "Blue Screen of Death" In Action]]></title>
+        <id>https://www.phoronix.com/news/Linux-DRM-Panic-BSoD-Picture</id>
+        <link href="https://www.phoronix.com/news/Linux-DRM-Panic-BSoD-Picture"/>
+        <updated>2024-06-16T10:48:26.000Z</updated>
+        <summary type="html"><![CDATA[After being talked about for years of DRM panic handling and coming with a "Blue Screen of Death" solution for DRM/KMS drivers, Linux 6.10 is introducing a new DRM panic handler infrastructure for being able to display a message when a panic occurs.  This is especially important for those building a kernel without VT/FBCON support where otherwise viewing the kernel panic message isn't otherwise easily available...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Hypercall API To Likely Land In Linux 6.11]]></title>
+        <id>https://www.phoronix.com/news/VMware-Hypercall-API-Linux-6.11</id>
+        <link href="https://www.phoronix.com/news/VMware-Hypercall-API-Linux-6.11"/>
+        <updated>2024-06-16T10:36:39.000Z</updated>
+        <summary type="html"><![CDATA[For months Broadcom has been working on the VMware Hypercall API for the Linux kernel. This "vmware_hyperscall" is a new family of functions for use by the VMware guest code and virtual device drivers in an architecture-independent manner...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora Making Strides On Enabling Greater AI Use, Easier AMD ROCm PyTorch Acceleration]]></title>
+        <id>https://www.phoronix.com/news/Fedora-Seeing-More-AI-Work</id>
+        <link href="https://www.phoronix.com/news/Fedora-Seeing-More-AI-Work"/>
+        <updated>2024-06-16T10:23:33.000Z</updated>
+        <summary type="html"><![CDATA[Christian Schaller of Red Hat shared an update on Friday around the ongoing enhancements to Fedora Workstation. Given the current industry trends, ongoing Fedora Workstation development is seeing a lot of attention around... AI, AI, AI...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RKVDEC2 Driver Posted For Accelerated Video Decoding On Newer Rockchip SoCs]]></title>
+        <id>https://www.phoronix.com/news/RKVDEC2-Rockchip-Video-Decode</id>
+        <link href="https://www.phoronix.com/news/RKVDEC2-Rockchip-Video-Decode"/>
+        <updated>2024-06-16T10:11:50.000Z</updated>
+        <summary type="html"><![CDATA[For years there has been the RKVDEC Linux media driver to provide accelerated video decoding on Rockchip SoCs. Being worked on now is RKVDEC2 for providing video decoding on the newer Rockchip SoCs...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-06-15]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-06-15.html</id>
@@ -4178,90 +4218,6 @@ If you’re seeing this, I’m in jail [video]
         <link href="https://www.phoronix.com/news/Wine-9.9-Released"/>
         <updated>2024-05-18T00:37:31.000Z</updated>
         <summary type="html"><![CDATA[Wine 9.9 is out as the newest bi-weekly development release for running Windows games/applications on Linux and other platforms...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-17]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-17.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-17.html"/>
-        <updated>2024-05-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 17, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-D3 in Depth
-(comments)
-
-
-Computer scientists invent an efficient new way to count
-(comments)
-
-
-Egypt's pyramids may have been built on a long-lost branch of the Nile
-(comments)
-
-
-Slack AI Training with Customer Data
-(comments)
-
-
-A forged Apple employee badge
-(comments)
-
-
-Visualizing algorithms for rate limiting
-(comments)
-
-
-Exercises to Learn Rust
-(comments)
-
-
-Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]
-(comments)
-
-
-Toon3D: Seeing cartoons from a new perspective
-(comments)
-
-
-Bend: a high-level language that runs on GPUs (via HVM2)
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Adds Support For Posted Interrupts On Bare Metal Hardware]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Posted-Interrupts</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Posted-Interrupts"/>
-        <updated>2024-05-17T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Merged as part of the IRQ changes for the in-development Linux 6.10 kernel is support for posted interrupts on bare metal hardware...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 24.10 To See More Polishing, NVIDIA Wayland By Default & New Welcome Wizard]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-24.10-Roadmap</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-24.10-Roadmap"/>
-        <updated>2024-05-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Oliver Smith who is serving as the Interim Engineering Director for the Ubuntu Desktop team at Canonical has shared some roadmap plans around Ubuntu 24.10. With this being the first post-LTS release following last month's Ubuntu 24.04 Long Term Support, they are more free to innovate this cycle and they have a lot of great plans for enhancing the Linux desktop experience...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel's OpenVINO Now Available In openSUSE]]></title>
-        <id>https://www.phoronix.com/news/openSUSE-Shipping-OpenVINO</id>
-        <link href="https://www.phoronix.com/news/openSUSE-Shipping-OpenVINO"/>
-        <updated>2024-05-17T13:48:33.000Z</updated>
-        <summary type="html"><![CDATA[OpenSUSE is the first major Linux distribution to package up and offer Intel's OpenVINO open-source AI toolkit within its package repository...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>

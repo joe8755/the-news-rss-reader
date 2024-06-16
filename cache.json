@@ -294,16 +294,6 @@
           "wordCount": 567,
           "title": "Daily Hacker News for 2024-05-18",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-17.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 17, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nD3 in Depth\n(comments)\n\n\nComputer scientists invent an efficient new way to count\n(comments)\n\n\nEgypt's pyramids may have been built on a long-lost branch of the Nile\n(comments)\n\n\nSlack AI Training with Customer Data\n(comments)\n\n\nA forged Apple employee badge\n(comments)\n\n\nVisualizing algorithms for rate limiting\n(comments)\n\n\nExercises to Learn Rust\n(comments)\n\n\nNon-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]\n(comments)\n\n\nToon3D: Seeing cartoons from a new perspective\n(comments)\n\n\nBend: a high-level language that runs on GPUs (via HVM2)\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-17.html",
-          "publishedOn": "2024-05-18T00:00:00.000Z",
-          "wordCount": 568,
-          "title": "Daily Hacker News for 2024-05-17",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-DRM-Panic-BSoD-Picture",
+          "author": "Michael Larabel",
+          "description": "After being talked about for years of DRM panic handling and coming with a \"Blue Screen of Death\" solution for DRM/KMS drivers, Linux 6.10 is introducing a new DRM panic handler infrastructure for being able to display a message when a panic occurs.  This is especially important for those building a kernel without VT/FBCON support where otherwise viewing the kernel panic message isn't otherwise easily available...",
+          "link": "https://www.phoronix.com/news/Linux-DRM-Panic-BSoD-Picture",
+          "publishedOn": "2024-06-16T10:48:26.000Z",
+          "wordCount": 1819,
+          "title": "Linux's New DRM Panic \"Blue Screen of Death\" In Action",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/VMware-Hypercall-API-Linux-6.11",
+          "author": "Michael Larabel",
+          "description": "For months Broadcom has been working on the VMware Hypercall API for the Linux kernel. This \"vmware_hyperscall\" is a new family of functions for use by the VMware guest code and virtual device drivers in an architecture-independent manner...",
+          "link": "https://www.phoronix.com/news/VMware-Hypercall-API-Linux-6.11",
+          "publishedOn": "2024-06-16T10:36:39.000Z",
+          "wordCount": 1838,
+          "title": "VMware Hypercall API To Likely Land In Linux 6.11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Fedora-Seeing-More-AI-Work",
+          "author": "Michael Larabel",
+          "description": "Christian Schaller of Red Hat shared an update on Friday around the ongoing enhancements to Fedora Workstation. Given the current industry trends, ongoing Fedora Workstation development is seeing a lot of attention around... AI, AI, AI...",
+          "link": "https://www.phoronix.com/news/Fedora-Seeing-More-AI-Work",
+          "publishedOn": "2024-06-16T10:23:33.000Z",
+          "wordCount": 2023,
+          "title": "Fedora Making Strides On Enabling Greater AI Use, Easier AMD ROCm PyTorch Acceleration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/RKVDEC2-Rockchip-Video-Decode",
+          "author": "Michael Larabel",
+          "description": "For years there has been the RKVDEC Linux media driver to provide accelerated video decoding on Rockchip SoCs. Being worked on now is RKVDEC2 for providing video decoding on the newer Rockchip SoCs...",
+          "link": "https://www.phoronix.com/news/RKVDEC2-Rockchip-Video-Decode",
+          "publishedOn": "2024-06-16T10:11:50.000Z",
+          "wordCount": 1786,
+          "title": "RKVDEC2 Driver Posted For Accelerated Video Decoding On Newer Rockchip SoCs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Wine-Staging-9.11-Released",
           "author": "Michael Larabel",
@@ -2920,36 +2950,6 @@
           "publishedOn": "2024-05-18T00:37:31.000Z",
           "wordCount": 1706,
           "title": "Wine 9.9 Brings ARM Improvements, Drops Obsolete WineD3D Features",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Posted-Interrupts",
-          "author": "Michael Larabel",
-          "description": "Merged as part of the IRQ changes for the in-development Linux 6.10 kernel is support for posted interrupts on bare metal hardware...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Posted-Interrupts",
-          "publishedOn": "2024-05-17T16:10:00.000Z",
-          "wordCount": 1870,
-          "title": "Linux 6.10 Adds Support For Posted Interrupts On Bare Metal Hardware",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Ubuntu-24.10-Roadmap",
-          "author": "Michael Larabel",
-          "description": "Oliver Smith who is serving as the Interim Engineering Director for the Ubuntu Desktop team at Canonical has shared some roadmap plans around Ubuntu 24.10. With this being the first post-LTS release following last month's Ubuntu 24.04 Long Term Support, they are more free to innovate this cycle and they have a lot of great plans for enhancing the Linux desktop experience...",
-          "link": "https://www.phoronix.com/news/Ubuntu-24.10-Roadmap",
-          "publishedOn": "2024-05-17T14:00:00.000Z",
-          "wordCount": 1948,
-          "title": "Ubuntu 24.10 To See More Polishing, NVIDIA Wayland By Default & New Welcome Wizard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/openSUSE-Shipping-OpenVINO",
-          "author": "Michael Larabel",
-          "description": "OpenSUSE is the first major Linux distribution to package up and offer Intel's OpenVINO open-source AI toolkit within its package repository...",
-          "link": "https://www.phoronix.com/news/openSUSE-Shipping-OpenVINO",
-          "publishedOn": "2024-05-17T13:48:33.000Z",
-          "wordCount": 1857,
-          "title": "Intel's OpenVINO Now Available In openSUSE",
           "imageUrl": null
         }
       ]
