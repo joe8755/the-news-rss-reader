@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-16T12:32:18.132Z</updated>
+    <updated>2024-06-17T01:20:22.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-16]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-16.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-16.html"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 16, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Just Enough Software Architecture (2010)
+(comments)
+
+
+Google, Cloudflare and Cisco will poison DNS to stop piracy block circumvention
+(comments)
+
+
+SimCity in the web browser using WebAssembly and OpenGL
+(comments)
+
+
+Show HN: We Made The World's Smallest and Cheapest Network Switch
+(comments)
+
+
+What You Get After Running an SSH Honeypot for 30 Days
+(comments)
+
+
+Simple sabotage for software (2023)
+(comments)
+
+
+Do not try to be the smartest in the room; try to be the kindest
+(comments)
+
+
+NLRB judge declares non-compete clause is an unfair labor practice
+(comments)
+
+
+The Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC
+(comments)
+
+
+MicroMac, a Macintosh for under £5
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10-rc4 Released With Another Week Worth Of Driver Fixes]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-rc4-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-rc4-Released"/>
+        <updated>2024-06-16T20:56:31.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds as the father of the Linux kernel set aside some time this Father's Day to release Linux 6.10-rc4...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IceWM 3.6 Released With A Few New Features & Fixes]]></title>
+        <id>https://www.phoronix.com/news/IceWM-3.6-Released</id>
+        <link href="https://www.phoronix.com/news/IceWM-3.6-Released"/>
+        <updated>2024-06-16T13:15:14.000Z</updated>
+        <summary type="html"><![CDATA[IceWM 3.6 is out today as the newest version of this lightweight X11 window manager...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux's New DRM Panic "Blue Screen of Death" In Action]]></title>
         <id>https://www.phoronix.com/news/Linux-DRM-Panic-BSoD-Picture</id>
@@ -4158,66 +4232,6 @@ If you’re seeing this, I’m in jail [video]
         <link href="https://www.phoronix.com/news/Linux-6.10-NFSD"/>
         <updated>2024-05-18T13:53:31.000Z</updated>
         <summary type="html"><![CDATA[The Linux Network File System (NFS) server code (NFSD) is seeing a new Netlink protocol introduced in Linux 6.10 as part of laying the groundwork for the new "nfsdctl" utility...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niri 0.1.6 Wayland Compositor Adds Interactive Window Resizing & Mouse View Scrolling]]></title>
-        <id>https://www.phoronix.com/news/Niri-0.1.6-Wayland-Compositor</id>
-        <link href="https://www.phoronix.com/news/Niri-0.1.6-Wayland-Compositor"/>
-        <updated>2024-05-18T13:08:45.000Z</updated>
-        <summary type="html"><![CDATA[Niri is a scrollable-tiling Wayland compositor inspired by PaperWM and heavy on the animations/effects. Out this morning is Niri 0.1.6 as the newest feature release for this Wayland compositor...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME OS Working On A New Installer & Other Enhancements To Make It More Practical]]></title>
-        <id>https://www.phoronix.com/news/GNOME-OS-New-Installer</id>
-        <link href="https://www.phoronix.com/news/GNOME-OS-New-Installer"/>
-        <updated>2024-05-18T10:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Germany's Sovereign Tech Fund continues providing the resources for various new GNOME desktop development initiatives. There are various efforts underway for new features and refinements with GNOME 47 in September and a renewed emphasis around GNOME OS...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 x86 Instruction Decoder Prepares For APX & Other New Intel Instructions]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-x86-APX-Decode</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-x86-APX-Decode"/>
-        <updated>2024-05-18T10:46:54.000Z</updated>
-        <summary type="html"><![CDATA[The performance events updates were submitted today for the ongoing Linux 6.10 kernel merge window. This pull adds support for Advanced Performance Extensions (APX) and other new Intel CPU instructions to the x86 instruction decoder...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Preps For "When Things Go Seriously Wrong" On Bigger Servers]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Larger-CPUs-MCE</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Larger-CPUs-MCE"/>
-        <updated>2024-05-18T10:34:07.000Z</updated>
-        <summary type="html"><![CDATA[While machine check exception (MCE) events tend to be uncommon, a change made by Intel engineers is accommodating the ability in the Linux kernel to store more machine check records for "when things go seriously wrong" on increasingly high core count servers...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Apps Improving Experience When Running Outside Of Plasma]]></title>
-        <id>https://www.phoronix.com/news/KDE-Go-Non-Plasma-Experience</id>
-        <link href="https://www.phoronix.com/news/KDE-Go-Non-Plasma-Experience"/>
-        <updated>2024-05-18T10:23:36.000Z</updated>
-        <summary type="html"><![CDATA[KDE development remains very busy ahead of next month's Plasma 6.1 desktop release...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine 9.9 Brings ARM Improvements, Drops Obsolete WineD3D Features]]></title>
-        <id>https://www.phoronix.com/news/Wine-9.9-Released</id>
-        <link href="https://www.phoronix.com/news/Wine-9.9-Released"/>
-        <updated>2024-05-18T00:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Wine 9.9 is out as the newest bi-weekly development release for running Windows games/applications on Linux and other platforms...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>

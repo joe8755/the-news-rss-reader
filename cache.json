@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-16.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 16, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nJust Enough Software Architecture (2010)\n(comments)\n\n\nGoogle, Cloudflare and Cisco will poison DNS to stop piracy block circumvention\n(comments)\n\n\nSimCity in the web browser using WebAssembly and OpenGL\n(comments)\n\n\nShow HN: We Made The World's Smallest and Cheapest Network Switch\n(comments)\n\n\nWhat You Get After Running an SSH Honeypot for 30 Days\n(comments)\n\n\nSimple sabotage for software (2023)\n(comments)\n\n\nDo not try to be the smartest in the room; try to be the kindest\n(comments)\n\n\nNLRB judge declares non-compete clause is an unfair labor practice\n(comments)\n\n\nThe Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC\n(comments)\n\n\nMicroMac, a Macintosh for under £5\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-16.html",
+          "publishedOn": "2024-06-17T00:00:00.000Z",
+          "wordCount": 589,
+          "title": "Daily Hacker News for 2024-06-16",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-15.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 15, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nEden Abhez: The strangest hit songwriter\n(comments)\n\n\nChaos in the medium: Watercolour plotting\n(comments)\n\n\nMicrosoft to delay release of Recall AI feature on security concerns\n(comments)\n\n\nH.264 Is Magic (2016)\n(comments)\n\n\nThe sun's magnetic field is about to flip\n(comments)\n\n\nAI Search: The Bitter-Er Lesson\n(comments)\n\n\nExponentially Better Rotations (2022)\n(comments)\n\n\nVoyager 1 is back online! NASA spacecraft returns data from all 4 instruments\n(comments)\n\n\nPerplexity AI is lying about their user agent\n(comments)\n\n\nESASky\n(comments)",
@@ -302,6 +312,26 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-rc4-Released",
+          "author": "Michael Larabel",
+          "description": "Linus Torvalds as the father of the Linux kernel set aside some time this Father's Day to release Linux 6.10-rc4...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-rc4-Released",
+          "publishedOn": "2024-06-16T20:56:31.000Z",
+          "wordCount": 1912,
+          "title": "Linux 6.10-rc4 Released With Another Week Worth Of Driver Fixes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/IceWM-3.6-Released",
+          "author": "Michael Larabel",
+          "description": "IceWM 3.6 is out today as the newest version of this lightweight X11 window manager...",
+          "link": "https://www.phoronix.com/news/IceWM-3.6-Released",
+          "publishedOn": "2024-06-16T13:15:14.000Z",
+          "wordCount": 1811,
+          "title": "IceWM 3.6 Released With A Few New Features & Fixes",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-DRM-Panic-BSoD-Picture",
           "author": "Michael Larabel",
@@ -2890,66 +2920,6 @@
           "publishedOn": "2024-05-18T13:53:31.000Z",
           "wordCount": 1778,
           "title": "Linux 6.10 NFSD Brings Optimizations & Preps For New nfsdctl Utility",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Niri-0.1.6-Wayland-Compositor",
-          "author": "Michael Larabel",
-          "description": "Niri is a scrollable-tiling Wayland compositor inspired by PaperWM and heavy on the animations/effects. Out this morning is Niri 0.1.6 as the newest feature release for this Wayland compositor...",
-          "link": "https://www.phoronix.com/news/Niri-0.1.6-Wayland-Compositor",
-          "publishedOn": "2024-05-18T13:08:45.000Z",
-          "wordCount": 1680,
-          "title": "Niri 0.1.6 Wayland Compositor Adds Interactive Window Resizing & Mouse View Scrolling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GNOME-OS-New-Installer",
-          "author": "Michael Larabel",
-          "description": "Germany's Sovereign Tech Fund continues providing the resources for various new GNOME desktop development initiatives. There are various efforts underway for new features and refinements with GNOME 47 in September and a renewed emphasis around GNOME OS...",
-          "link": "https://www.phoronix.com/news/GNOME-OS-New-Installer",
-          "publishedOn": "2024-05-18T10:56:56.000Z",
-          "wordCount": 1908,
-          "title": "GNOME OS Working On A New Installer & Other Enhancements To Make It More Practical",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-x86-APX-Decode",
-          "author": "Michael Larabel",
-          "description": "The performance events updates were submitted today for the ongoing Linux 6.10 kernel merge window. This pull adds support for Advanced Performance Extensions (APX) and other new Intel CPU instructions to the x86 instruction decoder...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-x86-APX-Decode",
-          "publishedOn": "2024-05-18T10:46:54.000Z",
-          "wordCount": 1691,
-          "title": "Linux 6.10 x86 Instruction Decoder Prepares For APX & Other New Intel Instructions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Larger-CPUs-MCE",
-          "author": "Michael Larabel",
-          "description": "While machine check exception (MCE) events tend to be uncommon, a change made by Intel engineers is accommodating the ability in the Linux kernel to store more machine check records for \"when things go seriously wrong\" on increasingly high core count servers...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Larger-CPUs-MCE",
-          "publishedOn": "2024-05-18T10:34:07.000Z",
-          "wordCount": 1912,
-          "title": "Linux 6.10 Preps For \"When Things Go Seriously Wrong\" On Bigger Servers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/KDE-Go-Non-Plasma-Experience",
-          "author": "Michael Larabel",
-          "description": "KDE development remains very busy ahead of next month's Plasma 6.1 desktop release...",
-          "link": "https://www.phoronix.com/news/KDE-Go-Non-Plasma-Experience",
-          "publishedOn": "2024-05-18T10:23:36.000Z",
-          "wordCount": 1759,
-          "title": "KDE Apps Improving Experience When Running Outside Of Plasma",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Wine-9.9-Released",
-          "author": "Michael Larabel",
-          "description": "Wine 9.9 is out as the newest bi-weekly development release for running Windows games/applications on Linux and other platforms...",
-          "link": "https://www.phoronix.com/news/Wine-9.9-Released",
-          "publishedOn": "2024-05-18T00:37:31.000Z",
-          "wordCount": 1706,
-          "title": "Wine 9.9 Brings ARM Improvements, Drops Obsolete WineD3D Features",
           "imageUrl": null
         }
       ]
