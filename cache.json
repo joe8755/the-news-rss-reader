@@ -294,16 +294,6 @@
           "wordCount": 547,
           "title": "Daily Hacker News for 2024-05-19",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-18.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 18, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nWuffs: Wrangling Untrusted File Formats Safely\n(comments)\n\n\nThe Downfall of DeviantArt\n(comments)\n\n\nADSL works over wet string (2017)\n(comments)\n\n\nShow HN: I built a website to create financial models for any stock online\n(comments)\n\n\nThinking out loud about 2nd-gen email\n(comments)\n\n\nOpenAI departures: Why can’t former employees talk?\n(comments)\n\n\nEx-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity\n(comments)\n\n\nGio UI – Cross-platform GUI for Go\n(comments)\n\n\nCyber Security: A pre-war reality check\n(comments)\n\n\nIf you’re seeing this, I’m in jail [video]\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-18.html",
-          "publishedOn": "2024-05-19T00:00:00.000Z",
-          "wordCount": 567,
-          "title": "Daily Hacker News for 2024-05-18",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Intel-Hybrid-Topology-Mitigate",
+          "author": "Michael Larabel",
+          "description": "Within the every increasingly complex world of CPU security mitigations, Intel engineers have submitted Linux kernel patches to begin taking into account the CPU core \"hybrid\" topology when determining relevant CPU security vulnerabilities and in turn the mitigations to apply...",
+          "link": "https://www.phoronix.com/news/Intel-Hybrid-Topology-Mitigate",
+          "publishedOn": "2024-06-17T10:55:10.000Z",
+          "wordCount": 1975,
+          "title": "Linux To Incorporate Intel CPU Hybrid Topology For Determining Vulnerabilities/Mitigations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Fedora-41-KDE-Mobile-Proposal",
+          "author": "Michael Larabel",
+          "description": "Two new change proposals have been filed for enhancing the KDE offerings with this autumn's Fedora 41 release...",
+          "link": "https://www.phoronix.com/news/Fedora-41-KDE-Mobile-Proposal",
+          "publishedOn": "2024-06-17T10:18:46.000Z",
+          "wordCount": 1952,
+          "title": "Fedora 41 Looks To Offer A KDE Plasma Mobile Spin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/NumPy-2.0-Released",
+          "author": "Michael Larabel",
+          "description": "NumPy 2.0 was released on Sunday that's been in the making for the past year and their first major release since 2006. While it comes with API/ABI breakage, NumPy 2.0 delivers new features and performance improvements...",
+          "link": "https://www.phoronix.com/news/NumPy-2.0-Released",
+          "publishedOn": "2024-06-17T10:09:22.000Z",
+          "wordCount": 1777,
+          "title": "NumPy 2.0 Brings Faster Performance Thanks To Intel's x86-simd-sort & Google's Highway",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/JFS-Not-Yet-Orphaned-2024",
+          "author": "Michael Larabel",
+          "description": "While at the start of 2023 was talk among kernel developers for orphaning the JFS file-system at a time that developers began the processes toward removing the ReiserFS file-system driver, the Journaled File-System so far remains within the mainline kernel and not yet officially orphaned...",
+          "link": "https://www.phoronix.com/news/JFS-Not-Yet-Orphaned-2024",
+          "publishedOn": "2024-06-17T09:31:51.000Z",
+          "wordCount": 1958,
+          "title": "The JFS File-System Remains In Sad Shape With The Upstream Linux Kernel",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.10-rc4-Released",
           "author": "Michael Larabel",
@@ -2900,26 +2930,6 @@
           "publishedOn": "2024-05-19T09:48:31.000Z",
           "wordCount": 1863,
           "title": "Turbostat Gains New Features & New Hardware Support With Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/SUSE-Agama-Ditches-Cockpit",
-          "author": "Michael Larabel",
-          "description": "SUSE/openSUSE has been busy crafting a next-gen Linux installer that is a web-based installer and originally known as D-Installer but now going by the name Agama...",
-          "link": "https://www.phoronix.com/news/SUSE-Agama-Ditches-Cockpit",
-          "publishedOn": "2024-05-18T19:50:31.000Z",
-          "wordCount": 1719,
-          "title": "SUSE's YaST Team Drops Cockpit With New Installer Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-NFSD",
-          "author": "Michael Larabel",
-          "description": "The Linux Network File System (NFS) server code (NFSD) is seeing a new Netlink protocol introduced in Linux 6.10 as part of laying the groundwork for the new \"nfsdctl\" utility...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-NFSD",
-          "publishedOn": "2024-05-18T13:53:31.000Z",
-          "wordCount": 1778,
-          "title": "Linux 6.10 NFSD Brings Optimizations & Preps For New nfsdctl Utility",
           "imageUrl": null
         }
       ]
