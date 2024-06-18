@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-18T01:18:30.289Z</updated>
+    <updated>2024-06-18T12:34:06.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marek Olšák Lands Support In Mesa 24.2 To Vectorize IO In The GLSL Linker]]></title>
+        <id>https://www.phoronix.com/news/Mesa-24.2-Vectorize-IO-Linker</id>
+        <link href="https://www.phoronix.com/news/Mesa-24.2-Vectorize-IO-Linker"/>
+        <updated>2024-06-18T12:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Well known AMD Mesa developer Marek Olšák has shown no signs of hitting the end of the road for optimizing OpenGL support within the Mesa/Gallium3D driver stack. More than one decade since joining AMD and more than a decade and a half of being involved with Mesa since beginning as a student developer, Marek still isn't slowing down with his performance optimizations and new features to benefit the open-source Radeon Linux graphics drivers...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Linux Patches To Help Ensure Intel Xeon Servers Can Achieve Highest Frequencies]]></title>
+        <id>https://www.phoronix.com/news/Linux-Xeon-Top-Frequencies</id>
+        <link href="https://www.phoronix.com/news/Linux-Xeon-Top-Frequencies"/>
+        <updated>2024-06-18T11:04:41.000Z</updated>
+        <summary type="html"><![CDATA[A set of patches for the Linux kernel's Intel P-State driver aim to ensure Intel Xeon servers can hit their highest clock frequencies following changes in the server's performance profile. It turns out some special handling is needed to update the highest frequencies of a CPU after boot to ensure the performance profile is properly reflected...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 41 Hopes The GIMP 3.0 Photoshop Alternative Will Be Ready To Shine]]></title>
+        <id>https://www.phoronix.com/news/Fedora-41-GIMP-3.0-Plans</id>
+        <link href="https://www.phoronix.com/news/Fedora-41-GIMP-3.0-Plans"/>
+        <updated>2024-06-18T10:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Fedora developers are hoping that the long-awaited GIMP 3.0 will ship before October and be all ready for serving as the default GIMP package with the in-development Fedora 41...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patches For AMD GPUs On Loongson Point To "Massive Platform Bug" For These Chinese CPUs]]></title>
+        <id>https://www.phoronix.com/news/AMDGPU-Patches-Loongson-Bug</id>
+        <link href="https://www.phoronix.com/news/AMDGPU-Patches-Loongson-Bug"/>
+        <updated>2024-06-18T10:30:06.000Z</updated>
+        <summary type="html"><![CDATA[A set of patches were posted on Monday in aiming to get aging AMD Radeon GFX7/GFX8 era graphics processors working on Loongson LoongArch platforms. These patches for handling old Radeon Hawaii~Polaris GPUs on Loongson point to a "massive platform bug" with these domestic Chinese systems...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X.Org Testing Ground Toolkit v0.0.2 Adds NetBSD & FreeBSD Support]]></title>
+        <id>https://www.phoronix.com/news/X.Org-Testing-Ground-0.0.2</id>
+        <link href="https://www.phoronix.com/news/X.Org-Testing-Ground-0.0.2"/>
+        <updated>2024-06-18T09:56:23.000Z</updated>
+        <summary type="html"><![CDATA[Last week marked the inaugural release of the X.Org Testing Ground Toolkit to make it easier to compile the X.Org Server. That v0.0.1 release was limited to supporting Debian/Apt-based Linux distributions while now this helper toolkit has been extended to support FreeBSD and NetBSD too...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-06-17]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-06-17.html</id>
@@ -4198,70 +4248,6 @@ Statement from Scarlett Johansson on the OpenAI \"Sky\" voice
         <link href="https://www.phoronix.com/news/Fwpupd-1.9.20-Released"/>
         <updated>2024-05-20T09:51:18.000Z</updated>
         <summary type="html"><![CDATA[While Fwupd developers are working toward the Fwupd 2.0 release, out this morning is Fwupd 1.9.20 as the newest point release for this open-source solution for firmware updating on Linux that pairs with the Linux Vendor Firmware Service (LVFS)...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-19]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-19.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-19.html"/>
-        <updated>2024-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 19, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-A trustworthy, free (libre), Linux capable, self-hosting 64bit RISC-V computer
-(comments)
-
-
-I organized a 20-acre game of Capture the Flag
-(comments)
-
-
-Floor796
-(comments)
-
-
-Calculus with Julia
-(comments)
-
-
-Riven
-(comments)
-
-
-Big Tech to EU: \"Drop Dead\"
-(comments)
-
-
-Classic Usenet posts on computer architecture, operating systems and languages
-(comments)
-
-
-Transforming a QLC SSD into an SLC SSD
-(comments)
-
-
-Coding My Handwriting
-(comments)
-
-
-Llama3 implemented from scratch
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bcachefs Brings Safety Improvements To Linux 6.10, Preps For Online Fsck]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Bcachefs</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Bcachefs"/>
-        <updated>2024-05-19T18:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Bcachefs lead developer Kent Overstreet today sent out his feature pull request of all the new file-system code that is ready in time for the Linux 6.10 merge window...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>

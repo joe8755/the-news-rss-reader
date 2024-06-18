@@ -294,16 +294,6 @@
           "wordCount": 572,
           "title": "Daily Hacker News for 2024-05-20",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-19.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 19, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nA trustworthy, free (libre), Linux capable, self-hosting 64bit RISC-V computer\n(comments)\n\n\nI organized a 20-acre game of Capture the Flag\n(comments)\n\n\nFloor796\n(comments)\n\n\nCalculus with Julia\n(comments)\n\n\nRiven\n(comments)\n\n\nBig Tech to EU: \\\"Drop Dead\\\"\n(comments)\n\n\nClassic Usenet posts on computer architecture, operating systems and languages\n(comments)\n\n\nTransforming a QLC SSD into an SLC SSD\n(comments)\n\n\nCoding My Handwriting\n(comments)\n\n\nLlama3 implemented from scratch\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-19.html",
-          "publishedOn": "2024-05-20T00:00:00.000Z",
-          "wordCount": 547,
-          "title": "Daily Hacker News for 2024-05-19",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,56 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Mesa-24.2-Vectorize-IO-Linker",
+          "author": "Michael Larabel",
+          "description": "Well known AMD Mesa developer Marek Olšák has shown no signs of hitting the end of the road for optimizing OpenGL support within the Mesa/Gallium3D driver stack. More than one decade since joining AMD and more than a decade and a half of being involved with Mesa since beginning as a student developer, Marek still isn't slowing down with his performance optimizations and new features to benefit the open-source Radeon Linux graphics drivers...",
+          "link": "https://www.phoronix.com/news/Mesa-24.2-Vectorize-IO-Linker",
+          "publishedOn": "2024-06-18T12:23:03.000Z",
+          "wordCount": 2007,
+          "title": "Marek Olšák Lands Support In Mesa 24.2 To Vectorize IO In The GLSL Linker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-Xeon-Top-Frequencies",
+          "author": "Michael Larabel",
+          "description": "A set of patches for the Linux kernel's Intel P-State driver aim to ensure Intel Xeon servers can hit their highest clock frequencies following changes in the server's performance profile. It turns out some special handling is needed to update the highest frequencies of a CPU after boot to ensure the performance profile is properly reflected...",
+          "link": "https://www.phoronix.com/news/Linux-Xeon-Top-Frequencies",
+          "publishedOn": "2024-06-18T11:04:41.000Z",
+          "wordCount": 2077,
+          "title": "New Linux Patches To Help Ensure Intel Xeon Servers Can Achieve Highest Frequencies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Fedora-41-GIMP-3.0-Plans",
+          "author": "Michael Larabel",
+          "description": "Fedora developers are hoping that the long-awaited GIMP 3.0 will ship before October and be all ready for serving as the default GIMP package with the in-development Fedora 41...",
+          "link": "https://www.phoronix.com/news/Fedora-41-GIMP-3.0-Plans",
+          "publishedOn": "2024-06-18T10:44:21.000Z",
+          "wordCount": 2099,
+          "title": "Fedora 41 Hopes The GIMP 3.0 Photoshop Alternative Will Be Ready To Shine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AMDGPU-Patches-Loongson-Bug",
+          "author": "Michael Larabel",
+          "description": "A set of patches were posted on Monday in aiming to get aging AMD Radeon GFX7/GFX8 era graphics processors working on Loongson LoongArch platforms. These patches for handling old Radeon Hawaii~Polaris GPUs on Loongson point to a \"massive platform bug\" with these domestic Chinese systems...",
+          "link": "https://www.phoronix.com/news/AMDGPU-Patches-Loongson-Bug",
+          "publishedOn": "2024-06-18T10:30:06.000Z",
+          "wordCount": 1961,
+          "title": "Patches For AMD GPUs On Loongson Point To \"Massive Platform Bug\" For These Chinese CPUs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/X.Org-Testing-Ground-0.0.2",
+          "author": "Michael Larabel",
+          "description": "Last week marked the inaugural release of the X.Org Testing Ground Toolkit to make it easier to compile the X.Org Server. That v0.0.1 release was limited to supporting Debian/Apt-based Linux distributions while now this helper toolkit has been extended to support FreeBSD and NetBSD too...",
+          "link": "https://www.phoronix.com/news/X.Org-Testing-Ground-0.0.2",
+          "publishedOn": "2024-06-18T09:56:23.000Z",
+          "wordCount": 1852,
+          "title": "X.Org Testing Ground Toolkit v0.0.2 Adds NetBSD & FreeBSD Support",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AMD-SEV-SNP-Fedora-41-Plan",
           "author": "Michael Larabel",
@@ -2940,16 +2980,6 @@
           "publishedOn": "2024-05-20T09:51:18.000Z",
           "wordCount": 1782,
           "title": "Fwupd 1.9.20 Released With Updated FPC Fingerprint Reader Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Bcachefs",
-          "author": "Michael Larabel",
-          "description": "Bcachefs lead developer Kent Overstreet today sent out his feature pull request of all the new file-system code that is ready in time for the Linux 6.10 merge window...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Bcachefs",
-          "publishedOn": "2024-05-19T18:15:05.000Z",
-          "wordCount": 1681,
-          "title": "Bcachefs Brings Safety Improvements To Linux 6.10, Preps For Online Fsck",
           "imageUrl": null
         }
       ]
