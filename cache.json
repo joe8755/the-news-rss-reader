@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-17.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 17, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nBuilding SimCity: How to put the world in a machine\n(comments)\n\n\nWhy \\\"Structure and Interpretation of Computer Programs\\\" matters (2011)\n(comments)\n\n\nNumPy 2.0\n(comments)\n\n\nHow to get stuff repaired when the manufacturer don't wanna: take 'em to court\n(comments)\n\n\nBeing laid off and unplanned entrepreneurship\n(comments)\n\n\nDJI ban passes the House and moves on to the Senate\n(comments)\n\n\nTrading cards with e-ink displays (2023)\n(comments)\n\n\nFTC sues Adobe for hiding fees and inhibiting cancellations\n(comments)\n\n\nHtmx 2.0.0 has been released\n(comments)\n\n\nEU to greenlight Chat Control tomorrow\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-17.html",
+          "publishedOn": "2024-06-18T00:00:00.000Z",
+          "wordCount": 572,
+          "title": "Daily Hacker News for 2024-06-17",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-16.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 16, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nJust Enough Software Architecture (2010)\n(comments)\n\n\nGoogle, Cloudflare and Cisco will poison DNS to stop piracy block circumvention\n(comments)\n\n\nSimCity in the web browser using WebAssembly and OpenGL\n(comments)\n\n\nShow HN: We Made The World's Smallest and Cheapest Network Switch\n(comments)\n\n\nWhat You Get After Running an SSH Honeypot for 30 Days\n(comments)\n\n\nSimple sabotage for software (2023)\n(comments)\n\n\nDo not try to be the smartest in the room; try to be the kindest\n(comments)\n\n\nNLRB judge declares non-compete clause is an unfair labor practice\n(comments)\n\n\nThe Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC\n(comments)\n\n\nMicroMac, a Macintosh for under £5\n(comments)",
@@ -302,6 +312,66 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMD-SEV-SNP-Fedora-41-Plan",
+          "author": "Michael Larabel",
+          "description": "With the release of Fedora 41 in October, this Red Hat sponsored Linux distribution is hoping to have all the software bits aligned that its AMD SEV-SNP virtualization stack will be all squared away for this latest iteration of Secure Encrypted Virtualization...",
+          "link": "https://www.phoronix.com/news/AMD-SEV-SNP-Fedora-41-Plan",
+          "publishedOn": "2024-06-17T20:49:39.000Z",
+          "wordCount": 2074,
+          "title": "Fedora 41 Aims To Ship AMD SEV-SNP Confidential Virtualization Host Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/OpenVINO-2024.2-Released",
+          "author": "Michael Larabel",
+          "description": "Intel today released OpenVINO 2024.2, the newest version of its open-source AI toolkit for optimizing and deploying deep learning (A) inference models across a range of AI frameworks and broad hardware types...",
+          "link": "https://www.phoronix.com/news/OpenVINO-2024.2-Released",
+          "publishedOn": "2024-06-17T18:28:50.000Z",
+          "wordCount": 1738,
+          "title": "Intel Releases OpenVINO 2024.2 With Llama 3 Optimizations, More AVX2 & AVX-512 Optimizations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GNOME-Software-Better-NVIDIA",
+          "author": "Michael Larabel",
+          "description": "As a planned change for Fedora 41, Red Hat engineers are working on upstream GNOME Software better supporting the NVIDIA proprietary driver installation by allowing the installation to work gracefully with UEFI Secure Boot enabled systems...",
+          "link": "https://www.phoronix.com/news/GNOME-Software-Better-NVIDIA",
+          "publishedOn": "2024-06-17T16:00:00.000Z",
+          "wordCount": 1943,
+          "title": "GNOME Software To Better Support NVIDIA's Proprietary Linux Driver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/bsd-linux-threadripper-7980x",
+          "author": "Michael Larabel",
+          "description": "After last week looking at how FreeBSD 14.1 has improved performance over FreeBSD 14.0, here is an expanded cross-OS comparison now looking at how the new FreeBSD 14.1 stable release compares to the recently released NetBSD 10.0, the current DragonFlyBSD 6.4 release, and then CentOS Stream 9 and Ubuntu 24.04 LTS for some Linux comparison data points.",
+          "link": "https://www.phoronix.com/review/bsd-linux-threadripper-7980x",
+          "publishedOn": "2024-06-17T15:30:02.000Z",
+          "wordCount": 1723,
+          "title": "FreeBSD 14.1 vs. DragonFlyBSD 6.4 vs. NetBSD 10 vs. Linux Benchmarks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Sovereign-Tech-Fund-Lower-Limit",
+          "author": "Michael Larabel",
+          "description": "Germany's Sovereign Tech Fund has been making sizable investments into various Linux desktop projects, the Rust-based Coreutils implementation, libmicrohttpd, PHP, a systemd bug bounty, and other prominent open-source software that could benefit from greater financial resources. Today they have announced they have opened up for a new round of applications for those open-source projects seeking funding from this German government initiative...",
+          "link": "https://www.phoronix.com/news/Sovereign-Tech-Fund-Lower-Limit",
+          "publishedOn": "2024-06-17T13:32:43.000Z",
+          "wordCount": 1783,
+          "title": "Sovereign Tech Fund Opens Up To Smaller Investments & Updated Criteria",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Open-Image-Denoise-2.3",
+          "author": "Michael Larabel",
+          "description": "Intel's Open Image Denoise open-source software that is a denoising library used by Blender and other applications is out with a new feature release as it prepares for the integrated graphics of upcoming Arrow Lake and Lunar Lake processors as well as nearing the launch of Xe2 / Battlemage discrete graphics...",
+          "link": "https://www.phoronix.com/news/Open-Image-Denoise-2.3",
+          "publishedOn": "2024-06-17T13:15:25.000Z",
+          "wordCount": 1833,
+          "title": "Open Image Denoise 2.3 Prepares For Arrow Lake, Lunar Lake & Battlemage",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-Hybrid-Topology-Mitigate",
           "author": "Michael Larabel",
@@ -2880,56 +2950,6 @@
           "publishedOn": "2024-05-19T18:15:05.000Z",
           "wordCount": 1681,
           "title": "Bcachefs Brings Safety Improvements To Linux 6.10, Preps For Online Fsck",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Cloudflare-Golang-PGO",
-          "author": "Michael Larabel",
-          "description": "Released over a year ago was Golang 1.20 with support for Profile Guided Optimizations (PGO) and has since been improved with Go 1.21 for 2~7% faster Go binaries thanks to this optimization approach also found with other compilers. The engineers at Cloudflare have put out a blog post this week praising Go's PGO support and the CPU savings they are seeing as a result...",
-          "link": "https://www.phoronix.com/news/Cloudflare-Golang-PGO",
-          "publishedOn": "2024-05-19T10:47:59.000Z",
-          "wordCount": 2034,
-          "title": "Cloudflare Praises Golang PGO For Significant CPU Savings",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-EXT4",
-          "author": "Michael Larabel",
-          "description": "While EROFS is seeing Zstd support and Bcachefs is seeing performance optimizations with the in-development Linux 6.10 kernel, over on the mature EXT4 file-system side the changes are mostly small. There are some minor changes, more folio conversion work, and also adding support for the FS_IOC_GETFSSYSFSPATH ioctl that has been seeing some standardization and adoption by the common Linux file-systems...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-EXT4",
-          "publishedOn": "2024-05-19T10:36:43.000Z",
-          "wordCount": 1870,
-          "title": "EXT4 In Linux 6.10 Adds FS_IOC_GETFSSYSFSPATH Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-Bigscreen-Beyond-VR",
-          "author": "Michael Larabel",
-          "description": "A Linux patch has been posted for delivering a quirk so that the Bigscreen Beyond VR Headset can properly behave under Linux and in turn also jives with the likes of SteamVR...",
-          "link": "https://www.phoronix.com/news/Linux-Bigscreen-Beyond-VR",
-          "publishedOn": "2024-05-19T10:14:51.000Z",
-          "wordCount": 1910,
-          "title": "Linux Patch Posted For The Bigscreen Beyond VR Headset",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Scheduler",
-          "author": "Michael Larabel",
-          "description": "Alongside all of the other pull requests by Ingo Molnar submitted at the start of the week during the opening of the Linux 6.10 merge window were the scheduler updates. As usual, the kernel scheduler work continues to see various tweaks and refinements to enhance its behavior...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Scheduler",
-          "publishedOn": "2024-05-19T10:04:36.000Z",
-          "wordCount": 1954,
-          "title": "Linux 6.10 Scheduler Changes Bring More Refinements",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Turbostat",
-          "author": "Michael Larabel",
-          "description": "Linux's Turbostat utility that is developed by Intel for reporting idle/power state statistics, temperatures, and other useful data on modern Intel/AMD processors has seen its changes submitted for the in-development Linux 6.10 kernel...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Turbostat",
-          "publishedOn": "2024-05-19T09:48:31.000Z",
-          "wordCount": 1863,
-          "title": "Turbostat Gains New Features & New Hardware Support With Linux 6.10",
           "imageUrl": null
         }
       ]
