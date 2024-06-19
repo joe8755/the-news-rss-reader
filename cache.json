@@ -294,16 +294,6 @@
           "wordCount": 560,
           "title": "Daily Hacker News for 2024-05-21",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-20.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 20, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nSwarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances\n(comments)\n\n\nMake timelapses easily using FFmpeg\n(comments)\n\n\nAsk HN: Video streaming is expensive yet YouTube \\\"seems\\\" to do it for free. How?\n(comments)\n\n\nMeteor seen in Portugal\n(comments)\n\n\nThe Lunacy of Artemis\n(comments)\n\n\nMigrating Uber's ledger data from DynamoDB to LedgerStore\n(comments)\n\n\n3M executives convinced a scientist forever chemicals in human blood were safe\n(comments)\n\n\nICC prosecutor seeks arrest warrants against Sinwar and Netanyahu for war crimes\n(comments)\n\n\nIntroducing Copilot+ PCs\n(comments)\n\n\nStatement from Scarlett Johansson on the OpenAI \\\"Sky\\\" voice\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-20.html",
-          "publishedOn": "2024-05-21T00:00:00.000Z",
-          "wordCount": 572,
-          "title": "Daily Hacker News for 2024-05-20",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,16 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/systemd-tmpfiles-purge-drama",
+          "author": "Michael Larabel",
+          "description": "For those running the command \"systemd-tmpfiles --purge\" and think that this command just deletes your temporary files, think again and watch out. In reality it will delete all files and directories created by a tmpfiles.d entry... Including the /home that is created by systemd-tmpfiles' home.conf. With users being bitten in recent days by this behavior when they were just expecting tmp files to be removed, systemd 256.1 is now available and does have a change to avoid inadvertently deleting your all-important home directory...",
+          "link": "https://www.phoronix.com/news/systemd-tmpfiles-purge-drama",
+          "publishedOn": "2024-06-19T10:03:57.000Z",
+          "wordCount": 1851,
+          "title": "Systemd 256.1 Fixes \"systemd-tmpfiles\" Unexpectedly Deleting Your /home Directory",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-Demote-FORCE_NR_CPUS",
           "author": "Michael Larabel",
@@ -2950,66 +2950,6 @@
           "publishedOn": "2024-05-21T00:40:25.000Z",
           "wordCount": 1783,
           "title": "XFS Expanding Its Online Repair Capabilities In Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/ReiserFS-README-Linux-6.10",
-          "author": "Michael Larabel",
-          "description": "While ReiserFS is obsolete and will eventually be dropped from the upstream Linux kernel in Linux 6.10 is one last ReiserFS change that was requested by former lead developer Hans Reiser...",
-          "link": "https://www.phoronix.com/news/ReiserFS-README-Linux-6.10",
-          "publishedOn": "2024-05-20T20:55:30.000Z",
-          "wordCount": 1890,
-          "title": "Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/RFC-Rust-Nova-NVIDIA-Driver",
-          "author": "Michael Larabel",
-          "description": "Red Hat engineers have been developing Nova as a new, Rust-written open-source NVIDIA kernel graphics driver as the eventual successor to the Nouveau kernel driver and is designed around NVIDIA's GPU System Processor (GSP) thus making the driver relevant for RTX 20 / Turing GPUs and newer. Today they posted a request for comments (RFC) patch series of the Nova driver and Rust DRM abstractions...",
-          "link": "https://www.phoronix.com/news/RFC-Rust-Nova-NVIDIA-Driver",
-          "publishedOn": "2024-05-20T19:37:20.000Z",
-          "wordCount": 1769,
-          "title": "RFC Patches Posted For Rust-Written NVIDIA \"Nova\" GPU Driver",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Lunar-Lake-Q3-2024",
-          "author": "Michael Larabel",
-          "description": "Intel previously indicated that Lunar Lake processors would launch by the end of 2024 and leading to anticipation of a Q4 launch... Intel today announced that Lunar Lake will actually launch in Q3...",
-          "link": "https://www.phoronix.com/news/Intel-Lunar-Lake-Q3-2024",
-          "publishedOn": "2024-05-20T18:18:16.000Z",
-          "wordCount": 1943,
-          "title": "Intel Announces Q3'2024 Arrival For Lunar Lake",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-x86-Platform-Drivers",
-          "author": "Michael Larabel",
-          "description": "The x86 platform driver updates have been merged for the ongoing Linux 6.10 merge window. The platform-drivers-x86 changes continue to primarily revolve around x86 Intel/AMD laptops but also some other desktop/platform drivers. Now in Linux 6.10 there is also a new \"ARM64\" sub-section of the platform drivers...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-x86-Platform-Drivers",
-          "publishedOn": "2024-05-20T17:58:26.000Z",
-          "wordCount": 2075,
-          "title": "Many x86 Laptop Improvements In Linux 6.10 Plus Acer ARM Laptop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Fedora-Miracle-Spin-Approved",
-          "author": "Michael Larabel",
-          "description": "The Fedora Engineering and Steering Committee (FESCo) has approved of the newest Fedora desktop ISO spin: Fedora Miracle...",
-          "link": "https://www.phoronix.com/news/Fedora-Miracle-Spin-Approved",
-          "publishedOn": "2024-05-20T14:33:57.000Z",
-          "wordCount": 1790,
-          "title": "Fedora Miracle Spin Approved To Ship As Part Of Fedora Linux 41",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GCC-15-Drops-Intel-Xeon-Phi",
-          "author": "Michael Larabel",
-          "description": "Last week I wrote about Intel aiming to remove Xeon Phi support in GCC 15 with the products being end-of-life and deprecated in GCC 14. While some openly wondered whether the open-source community would allow it given the Xeon Phi accelerators were available to buy just a few years ago and at some very low prices going back years so some potentially finding use still out of them especially during this AI boom (and still readily available to buy used for around ~$50 USD), today the Intel Xeon Phi support was indeed removed...",
-          "link": "https://www.phoronix.com/news/GCC-15-Drops-Intel-Xeon-Phi",
-          "publishedOn": "2024-05-20T13:40:14.000Z",
-          "wordCount": 1879,
-          "title": "Farewell Intel Xeon Phi: Support Removed In The GCC 15 Compiler",
           "imageUrl": null
         }
       ]
