@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-18.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 18, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nLindroid\n(comments)\n\n\nUnderstanding SPF, DKIM, and DMARC: A Simple Guide\n(comments)\n\n\nShow HN: Token price calculator for 400+ LLMs\n(comments)\n\n\nSam Altman is not on YC's board. So why claim to be its chair?\n(comments)\n\n\n“Attention assault” on Fandom\n(comments)\n\n\nGetting 50% (SoTA) on Arc-AGI with GPT-4o\n(comments)\n\n\nCyber Scarecrow\n(comments)\n\n\nChat Control Must Be Stopped – Now\n(comments)\n\n\nChat Control: Incompatible with Fundamental Rights (2022)\n(comments)\n\n\nA new RISC-V Mainboard from DeepComputing\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-18.html",
+          "publishedOn": "2024-06-19T00:00:00.000Z",
+          "wordCount": 558,
+          "title": "Daily Hacker News for 2024-06-18",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-17.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 17, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nBuilding SimCity: How to put the world in a machine\n(comments)\n\n\nWhy \\\"Structure and Interpretation of Computer Programs\\\" matters (2011)\n(comments)\n\n\nNumPy 2.0\n(comments)\n\n\nHow to get stuff repaired when the manufacturer don't wanna: take 'em to court\n(comments)\n\n\nBeing laid off and unplanned entrepreneurship\n(comments)\n\n\nDJI ban passes the House and moves on to the Senate\n(comments)\n\n\nTrading cards with e-ink displays (2023)\n(comments)\n\n\nFTC sues Adobe for hiding fees and inhibiting cancellations\n(comments)\n\n\nHtmx 2.0.0 has been released\n(comments)\n\n\nEU to greenlight Chat Control tomorrow\n(comments)",
@@ -302,6 +312,76 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-Demote-FORCE_NR_CPUS",
+          "author": "Michael Larabel",
+          "description": "The Linux kernel \"FORCE_NR_CPUS\" Kconfig option has been around a few years to force the number of CPU cores the kernel expects in order to allow for better compiler optimizations. When building a kernel targeted for a specific device/platform with a given number of CPU cores, the compiler can optimize CPU mask routines and shrink the size of the resulting kernel image rather than having to accommodate up to a dynamic upper-limit for the number of CPU cores to be found at boot time. Linus Torvalds himself has turned to demoting this CONFIG_FORCE_NR_CPUS option further to avoid confusion...",
+          "link": "https://www.phoronix.com/news/Linux-Demote-FORCE_NR_CPUS",
+          "publishedOn": "2024-06-19T00:26:01.000Z",
+          "wordCount": 2146,
+          "title": "Linus Torvalds Demotes \"FORCE_NR_CPUS\" Embedded Linux Option To Avoid Confusion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-Panther-Lake-Audio-Linux",
+          "author": "Michael Larabel",
+          "description": "While Intel Panther Lake processors aren't expected until at least mid-2025, with Intel open-source Linux engineers already having much of the Arrow Lake and Lunar Lake support in order (the main Lunar Lake area still being ironed out is the Xe2 graphics), work is slowly beginning on upstreaming Panther Lake support...",
+          "link": "https://www.phoronix.com/news/Intel-Panther-Lake-Audio-Linux",
+          "publishedOn": "2024-06-18T20:00:00.000Z",
+          "wordCount": 1870,
+          "title": "Intel Panther Lake Audio Support Coming With Linux 6.11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Fedora-41-Goes-Tuned-PPD",
+          "author": "Michael Larabel",
+          "description": "The Fedora Engineering and Steering Committee has approved of Fedora 41 switching from power-profiles-daemon to \"Tuned\" as the default power profile management daemon on Fedora Workstation as well as the KDE Plasma and Budgie desktop spins...",
+          "link": "https://www.phoronix.com/news/Fedora-41-Goes-Tuned-PPD",
+          "publishedOn": "2024-06-18T16:36:26.000Z",
+          "wordCount": 2047,
+          "title": "Fedora 41 To Replace Power-Profiles-Daemon With \"Tuned\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Framework-Laptop-RISC-V-Board",
+          "author": "Michael Larabel",
+          "description": "Framework Computer Inc announced today that they have been working with DeepComputing on a partner-developed RISC-V motherboard for the Framework Laptop 13...",
+          "link": "https://www.phoronix.com/news/Framework-Laptop-RISC-V-Board",
+          "publishedOn": "2024-06-18T15:00:15.000Z",
+          "wordCount": 2075,
+          "title": "Framework Laptop 13 To See A RISC-V Motherboard Option",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/KDE-Plasma-6.1-Released",
+          "author": "Michael Larabel",
+          "description": "Right on schedule today KDE released Plasma 6.1 as the first feature update to the Plasma 6 desktop stack that debuted back in February...",
+          "link": "https://www.phoronix.com/news/KDE-Plasma-6.1-Released",
+          "publishedOn": "2024-06-18T14:43:28.000Z",
+          "wordCount": 1814,
+          "title": "KDE Plasma 6.1 Released With Easier Remote Desktop Support, Wayland Explicit Sync",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Valkey-Redis-Fork-More-Backers",
+          "author": "Michael Larabel",
+          "description": "Announced back in March by the Linux Foundation was Valkey as a Redis fork following upstream licensing changes. In the few months since the Valkey in-memory NoSQL data store has put out its first release and has continued attracting more interest from Linux/open-source communities. Today the Linux Foundation announced another handful of organizations now throwing their weight behind Valkey...",
+          "link": "https://www.phoronix.com/news/Valkey-Redis-Fork-More-Backers",
+          "publishedOn": "2024-06-18T14:35:51.000Z",
+          "wordCount": 1837,
+          "title": "More Companies Now Backing Valkey As Leading Redis Fork",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/PoCL-6.0-Released-OpenCL",
+          "author": "Michael Larabel",
+          "description": "The Portable Computing Language \"PoCL\" that started off as a CPU-based OpenCL implementation has grown to support multiple hardware targets from NVIDIA PTX to Intel Level Zero to AMD ROCm and other innovations like a recent remote driver for transparent OpenCL across networked systems. PoCL 6.0 was released today for delivering the latest enhancements to this independent OpenCL compute implementation and continuing to enhance support for its different hardware targets...",
+          "link": "https://www.phoronix.com/news/PoCL-6.0-Released-OpenCL",
+          "publishedOn": "2024-06-18T12:48:06.000Z",
+          "wordCount": 1791,
+          "title": "PoCL 6.0 OpenCL Implementation Brings OpenMP For CPU Driver, More Remote Driver Features",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Mesa-24.2-Vectorize-IO-Linker",
           "author": "Michael Larabel",
@@ -2930,56 +3010,6 @@
           "publishedOn": "2024-05-20T13:40:14.000Z",
           "wordCount": 1879,
           "title": "Farewell Intel Xeon Phi: Support Removed In The GCC 15 Compiler",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMDGPU-ISP-Firmware",
-          "author": "Michael Larabel",
-          "description": "It was just earlier this month that AMD Linux kernel graphics driver patches appeared for introducing a new ISP hardware block for Image Signal Processing with new AMD APUs. Already the AMDGPU ISP firmware has appeared in linux-firmware.git indicating that this \"ISP\" block may be coming in hardware quite soon if not already quietly found within some products...",
-          "link": "https://www.phoronix.com/news/AMDGPU-ISP-Firmware",
-          "publishedOn": "2024-05-20T12:36:01.000Z",
-          "wordCount": 1928,
-          "title": "AMDGPU ISP Firmware Upstreamed In linux-firmware.git",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Faster-OCFS2",
-          "author": "Michael Larabel",
-          "description": "It's not often having anything to write about on the Oracle Cluster File-System v2 (OCFS2), but with Linux 6.10 it's seeing a rather significant performance optimization...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Faster-OCFS2",
-          "publishedOn": "2024-05-20T10:42:41.000Z",
-          "wordCount": 1757,
-          "title": "OCFS2 File-System Seeing Improved Write Performance On Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots",
-          "author": "Michael Larabel",
-          "description": "As a small information heads up, the Linux 6.10 kernel will print the number of populated memory slots at boot time to the kernel log as a little helper...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots",
-          "publishedOn": "2024-05-20T10:24:49.000Z",
-          "wordCount": 1851,
-          "title": "Linux 6.10 Will Print The Number Of Populated Memory Slots At Boot Time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-CR-24.17.29377.6",
-          "author": "Michael Larabel",
-          "description": "Intel Compute Runtime 24.17.29377.6 is now available as the latest routine update to this open-source GPU compute stack used by the company's integrated and discrete graphics products for providing OpenCL and oneAPI Level Zero compute capabilities...",
-          "link": "https://www.phoronix.com/news/Intel-CR-24.17.29377.6",
-          "publishedOn": "2024-05-20T10:04:53.000Z",
-          "wordCount": 1773,
-          "title": "Intel CR 24.17.29377.6 Offers Latest OpenCL & oneAPI Level Zero Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Fwpupd-1.9.20-Released",
-          "author": "Michael Larabel",
-          "description": "While Fwupd developers are working toward the Fwupd 2.0 release, out this morning is Fwupd 1.9.20 as the newest point release for this open-source solution for firmware updating on Linux that pairs with the Linux Vendor Firmware Service (LVFS)...",
-          "link": "https://www.phoronix.com/news/Fwpupd-1.9.20-Released",
-          "publishedOn": "2024-05-20T09:51:18.000Z",
-          "wordCount": 1782,
-          "title": "Fwupd 1.9.20 Released With Updated FPC Fingerprint Reader Support",
           "imageUrl": null
         }
       ]

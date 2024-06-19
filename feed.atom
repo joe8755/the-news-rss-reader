@@ -2,10 +2,134 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-18T12:34:06.348Z</updated>
+    <updated>2024-06-19T01:18:32.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds Demotes "FORCE_NR_CPUS" Embedded Linux Option To Avoid Confusion]]></title>
+        <id>https://www.phoronix.com/news/Linux-Demote-FORCE_NR_CPUS</id>
+        <link href="https://www.phoronix.com/news/Linux-Demote-FORCE_NR_CPUS"/>
+        <updated>2024-06-19T00:26:01.000Z</updated>
+        <summary type="html"><![CDATA[The Linux kernel "FORCE_NR_CPUS" Kconfig option has been around a few years to force the number of CPU cores the kernel expects in order to allow for better compiler optimizations. When building a kernel targeted for a specific device/platform with a given number of CPU cores, the compiler can optimize CPU mask routines and shrink the size of the resulting kernel image rather than having to accommodate up to a dynamic upper-limit for the number of CPU cores to be found at boot time. Linus Torvalds himself has turned to demoting this CONFIG_FORCE_NR_CPUS option further to avoid confusion...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-18]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-18.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-18.html"/>
+        <updated>2024-06-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 18, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Lindroid
+(comments)
+
+
+Understanding SPF, DKIM, and DMARC: A Simple Guide
+(comments)
+
+
+Show HN: Token price calculator for 400+ LLMs
+(comments)
+
+
+Sam Altman is not on YC's board. So why claim to be its chair?
+(comments)
+
+
+“Attention assault” on Fandom
+(comments)
+
+
+Getting 50% (SoTA) on Arc-AGI with GPT-4o
+(comments)
+
+
+Cyber Scarecrow
+(comments)
+
+
+Chat Control Must Be Stopped – Now
+(comments)
+
+
+Chat Control: Incompatible with Fundamental Rights (2022)
+(comments)
+
+
+A new RISC-V Mainboard from DeepComputing
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Panther Lake Audio Support Coming With Linux 6.11]]></title>
+        <id>https://www.phoronix.com/news/Intel-Panther-Lake-Audio-Linux</id>
+        <link href="https://www.phoronix.com/news/Intel-Panther-Lake-Audio-Linux"/>
+        <updated>2024-06-18T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While Intel Panther Lake processors aren't expected until at least mid-2025, with Intel open-source Linux engineers already having much of the Arrow Lake and Lunar Lake support in order (the main Lunar Lake area still being ironed out is the Xe2 graphics), work is slowly beginning on upstreaming Panther Lake support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 41 To Replace Power-Profiles-Daemon With "Tuned"]]></title>
+        <id>https://www.phoronix.com/news/Fedora-41-Goes-Tuned-PPD</id>
+        <link href="https://www.phoronix.com/news/Fedora-41-Goes-Tuned-PPD"/>
+        <updated>2024-06-18T16:36:26.000Z</updated>
+        <summary type="html"><![CDATA[The Fedora Engineering and Steering Committee has approved of Fedora 41 switching from power-profiles-daemon to "Tuned" as the default power profile management daemon on Fedora Workstation as well as the KDE Plasma and Budgie desktop spins...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Framework Laptop 13 To See A RISC-V Motherboard Option]]></title>
+        <id>https://www.phoronix.com/news/Framework-Laptop-RISC-V-Board</id>
+        <link href="https://www.phoronix.com/news/Framework-Laptop-RISC-V-Board"/>
+        <updated>2024-06-18T15:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Framework Computer Inc announced today that they have been working with DeepComputing on a partner-developed RISC-V motherboard for the Framework Laptop 13...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6.1 Released With Easier Remote Desktop Support, Wayland Explicit Sync]]></title>
+        <id>https://www.phoronix.com/news/KDE-Plasma-6.1-Released</id>
+        <link href="https://www.phoronix.com/news/KDE-Plasma-6.1-Released"/>
+        <updated>2024-06-18T14:43:28.000Z</updated>
+        <summary type="html"><![CDATA[Right on schedule today KDE released Plasma 6.1 as the first feature update to the Plasma 6 desktop stack that debuted back in February...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Companies Now Backing Valkey As Leading Redis Fork]]></title>
+        <id>https://www.phoronix.com/news/Valkey-Redis-Fork-More-Backers</id>
+        <link href="https://www.phoronix.com/news/Valkey-Redis-Fork-More-Backers"/>
+        <updated>2024-06-18T14:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Announced back in March by the Linux Foundation was Valkey as a Redis fork following upstream licensing changes. In the few months since the Valkey in-memory NoSQL data store has put out its first release and has continued attracting more interest from Linux/open-source communities. Today the Linux Foundation announced another handful of organizations now throwing their weight behind Valkey...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PoCL 6.0 OpenCL Implementation Brings OpenMP For CPU Driver, More Remote Driver Features]]></title>
+        <id>https://www.phoronix.com/news/PoCL-6.0-Released-OpenCL</id>
+        <link href="https://www.phoronix.com/news/PoCL-6.0-Released-OpenCL"/>
+        <updated>2024-06-18T12:48:06.000Z</updated>
+        <summary type="html"><![CDATA[The Portable Computing Language "PoCL" that started off as a CPU-based OpenCL implementation has grown to support multiple hardware targets from NVIDIA PTX to Intel Level Zero to AMD ROCm and other innovations like a recent remote driver for transparent OpenCL across networked systems. PoCL 6.0 was released today for delivering the latest enhancements to this independent OpenCL compute implementation and continuing to enhance support for its different hardware targets...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marek Olšák Lands Support In Mesa 24.2 To Vectorize IO In The GLSL Linker]]></title>
         <id>https://www.phoronix.com/news/Mesa-24.2-Vectorize-IO-Linker</id>
@@ -4198,56 +4322,6 @@ Statement from Scarlett Johansson on the OpenAI \"Sky\" voice
         <link href="https://www.phoronix.com/news/GCC-15-Drops-Intel-Xeon-Phi"/>
         <updated>2024-05-20T13:40:14.000Z</updated>
         <summary type="html"><![CDATA[Last week I wrote about Intel aiming to remove Xeon Phi support in GCC 15 with the products being end-of-life and deprecated in GCC 14. While some openly wondered whether the open-source community would allow it given the Xeon Phi accelerators were available to buy just a few years ago and at some very low prices going back years so some potentially finding use still out of them especially during this AI boom (and still readily available to buy used for around ~$50 USD), today the Intel Xeon Phi support was indeed removed...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMDGPU ISP Firmware Upstreamed In linux-firmware.git]]></title>
-        <id>https://www.phoronix.com/news/AMDGPU-ISP-Firmware</id>
-        <link href="https://www.phoronix.com/news/AMDGPU-ISP-Firmware"/>
-        <updated>2024-05-20T12:36:01.000Z</updated>
-        <summary type="html"><![CDATA[It was just earlier this month that AMD Linux kernel graphics driver patches appeared for introducing a new ISP hardware block for Image Signal Processing with new AMD APUs. Already the AMDGPU ISP firmware has appeared in linux-firmware.git indicating that this "ISP" block may be coming in hardware quite soon if not already quietly found within some products...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OCFS2 File-System Seeing Improved Write Performance On Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Faster-OCFS2</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Faster-OCFS2"/>
-        <updated>2024-05-20T10:42:41.000Z</updated>
-        <summary type="html"><![CDATA[It's not often having anything to write about on the Oracle Cluster File-System v2 (OCFS2), but with Linux 6.10 it's seeing a rather significant performance optimization...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Will Print The Number Of Populated Memory Slots At Boot Time]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots"/>
-        <updated>2024-05-20T10:24:49.000Z</updated>
-        <summary type="html"><![CDATA[As a small information heads up, the Linux 6.10 kernel will print the number of populated memory slots at boot time to the kernel log as a little helper...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel CR 24.17.29377.6 Offers Latest OpenCL & oneAPI Level Zero Support]]></title>
-        <id>https://www.phoronix.com/news/Intel-CR-24.17.29377.6</id>
-        <link href="https://www.phoronix.com/news/Intel-CR-24.17.29377.6"/>
-        <updated>2024-05-20T10:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Intel Compute Runtime 24.17.29377.6 is now available as the latest routine update to this open-source GPU compute stack used by the company's integrated and discrete graphics products for providing OpenCL and oneAPI Level Zero compute capabilities...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fwupd 1.9.20 Released With Updated FPC Fingerprint Reader Support]]></title>
-        <id>https://www.phoronix.com/news/Fwpupd-1.9.20-Released</id>
-        <link href="https://www.phoronix.com/news/Fwpupd-1.9.20-Released"/>
-        <updated>2024-05-20T09:51:18.000Z</updated>
-        <summary type="html"><![CDATA[While Fwupd developers are working toward the Fwupd 2.0 release, out this morning is Fwupd 1.9.20 as the newest point release for this open-source solution for firmware updating on Linux that pairs with the Linux Vendor Firmware Service (LVFS)...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
