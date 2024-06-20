@@ -2,10 +2,144 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-19T12:34:29.899Z</updated>
+    <updated>2024-06-20T01:16:45.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zhaoxin "Shijidadao" x86_64 CPU Support Merged Into The GCC 15 Compiler]]></title>
+        <id>https://www.phoronix.com/news/Zhaxoin-Shijidadao-GCC-15</id>
+        <link href="https://www.phoronix.com/news/Zhaxoin-Shijidadao-GCC-15"/>
+        <updated>2024-06-20T00:25:41.000Z</updated>
+        <summary type="html"><![CDATA[Zhaoxin Shijidadao CPU support was upstreamed today into the GCC 15 compiler codebase. Zhaoxin as a reminder is the joint venture between VIA and the Shanghai Municipal Government for creating x86/x86_64-compatible processors for the Chinese market...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-19]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-19.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-19.html"/>
+        <updated>2024-06-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 19, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Show HN: Billard – Generate music from ball collisions in 2D space
+(comments)
+
+
+Nature retracts paper that claimed adult stem cell could become any type of cell
+(comments)
+
+
+KidPix
+(comments)
+
+
+Ask HN: Why do message queue-based architectures seem less popular now?
+(comments)
+
+
+Fern Hollow Bridge should have been closed years before it collapsed
+(comments)
+
+
+EU Council to Vote on Chat Scanning Proposal on Thursday
+(comments)
+
+
+Neofetch developer archives all his repositories: \"Have taken up farming\"
+(comments)
+
+
+Fast Crimes at Lambda School
+(comments)
+
+
+1/25-scale Cray C90 wristwatch
+(comments)
+
+
+Safe Superintelligence Inc.
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radeon Software For Linux 24.10.3 With ROCm 6.1.3]]></title>
+        <id>https://www.phoronix.com/news/Radeon-Software-ROCm-24.10.3</id>
+        <link href="https://www.phoronix.com/news/Radeon-Software-ROCm-24.10.3"/>
+        <updated>2024-06-19T20:23:14.000Z</updated>
+        <summary type="html"><![CDATA[As written about this morning, AMD announced ROCm 6.1.3 with multi-GPU support, beta support for Windows Subsystem for Linux (WSL2), Radeon PRO W7900 Dual Slot compatibility, and TensorFlow framework qualification support. The upstream ROCm code on GitHub as of writing continues pointing only to the prior ROCm 6.1.2 software but there is now a Radeon Software for Linux packaged driver offering up ROCm 6.1.3...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.11 To Enable Intel Battlemage GPU Display Support]]></title>
+        <id>https://www.phoronix.com/news/Intel-Battlemage-Linux-6.11</id>
+        <link href="https://www.phoronix.com/news/Intel-Battlemage-Linux-6.11"/>
+        <updated>2024-06-19T18:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Building off the Xe2 foundation in place for the Lunar Lake integrated graphics, more recently Intel's open-source Linux graphics driver engineers have begun pushing out code focused on enabling the Xe2-based Battlemage discrete GPUs as the successor to the DG2/Alchemist hardware. That enablement work remains ongoing and with the upcoming Linux 6.11 kernel cycle the important fundamental milestone is being crossed of actually being able to drive a connected display/monitor by a Battlemage GPU...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proposal For Creating A New Mesa Legacy Driver Branch: R300, R600, Lima, NV30 & More]]></title>
+        <id>https://www.phoronix.com/news/Mesa-Amber2-Legacy-Branch-Call</id>
+        <link href="https://www.phoronix.com/news/Mesa-Amber2-Legacy-Branch-Call"/>
+        <updated>2024-06-19T16:40:50.000Z</updated>
+        <summary type="html"><![CDATA[Mike Blumenkrantz of Valve's open-source Linux GPU driver team and known for his work on the Zink OpenGL-on-Vulkan driver has issued a proposal for creating a new legacy branch for older/less-maintained Gallium3D drivers...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Patches Posted For Intel Lunar Lake DLVR Support]]></title>
+        <id>https://www.phoronix.com/news/Intel-Lunar-Lake-DLVR-Linux</id>
+        <link href="https://www.phoronix.com/news/Intel-Lunar-Lake-DLVR-Linux"/>
+        <updated>2024-06-19T16:13:30.000Z</updated>
+        <summary type="html"><![CDATA[While it looked like all of the Intel Lunar Lake support was wrapped up with the first of these next-gen Core Ultra laptops set to debut next quarter and the Panther Lake bring-up for Linux has begun, it looks like there may be some stragglers still around Lunar Lake. Sent out today was the patch series enabling DLVR (Digital Linear Voltage Regulator) support for these upcoming mobile SoCs...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zlib-ng 2.2 Speeds Up Compression By ~12% On x86_64 CPUs]]></title>
+        <id>https://www.phoronix.com/news/zlib-2.2-RC1</id>
+        <link href="https://www.phoronix.com/news/zlib-2.2-RC1"/>
+        <updated>2024-06-19T14:18:27.000Z</updated>
+        <summary type="html"><![CDATA[The first release candidate of Zlib-ng 2.2 for this drop-in replacement to the Zlib data compression library is now available for testing. Zlib-ng continues to ship new performance optimizations and other tuning for providing faster Zlib performance on modern processors...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Announces ROCm 6.1.3 With Better Multi-GPU Support, Beta-Level WSL2]]></title>
+        <id>https://www.phoronix.com/news/AMD-ROCm-6.1.3-Announced</id>
+        <link href="https://www.phoronix.com/news/AMD-ROCm-6.1.3-Announced"/>
+        <updated>2024-06-19T13:48:22.000Z</updated>
+        <summary type="html"><![CDATA[AMD today announced the ROCm 6.1.3 open-source GPU compute stack. While a point release, this new ROCm revision comes with several notable refinements...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updated DRM Rust Abstractions For Linux As Part Of Bringing Up The Nova Driver]]></title>
+        <id>https://www.phoronix.com/news/DRM-Rust-Abstractions-v2</id>
+        <link href="https://www.phoronix.com/news/DRM-Rust-Abstractions-v2"/>
+        <updated>2024-06-19T12:48:58.000Z</updated>
+        <summary type="html"><![CDATA[Sent out last month were the very preliminary Rust-written Nova GPU kernel driver patches for this in-development Direct Rendering Manager driver for open-source NVIDIA GPU support for RTX 20 / Turing GPUs and newer by leveraging the NVIDIA GPU System Processor (GSP). Sent out this week is the second iteration of the stubbed Nova kernel driver and the associated Rust language DRM subsystem abstractions...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Systemd 256.1 Fixes "systemd-tmpfiles" Unexpectedly Deleting Your /home Directory]]></title>
         <id>https://www.phoronix.com/news/systemd-tmpfiles-purge-drama</id>
@@ -4128,96 +4262,6 @@ Gordon Bell has died
         <link href="https://www.phoronix.com/news/NVIDIA-555.42.02-Linux-Beta"/>
         <updated>2024-05-21T14:25:15.000Z</updated>
         <summary type="html"><![CDATA[It's coming a week later than anticipated but the NVIDIA R555 Linux driver beta has been released! This is the NVIDIA proprietary Linux driver update that brings Wayland explicit sync support along with a host of other important improvements...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD EPYC 4004 Benchmarks: Outperforming Intel Xeon E-2400 With Performance, Efficiency & Value]]></title>
-        <id>https://www.phoronix.com/review/amd-epyc-4004</id>
-        <link href="https://www.phoronix.com/review/amd-epyc-4004"/>
-        <updated>2024-05-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the past several years we have seen AMD Ryzen processors being used for low-cost servers, budget web hosting platforms, game servers, and more. Since the Ryzen 5000 series we have seen the likes of ASRock Rack and Supermicro putting out interesting budget-friendly Ryzen servers and that has ramped up even more with AMD Ryzen 7000 series server performance being stellar thanks to AVX-512 and other improvements making it more practical for such workloads. AMD has now solidified its positioning for entry-level servers with the introduction of the EPYC 4004 series processors. The EPYC 4004 series is derived from the Ryzen 7000 series offerings to facilitate cost conscious server options and putting the Intel Xeon E-2400 series in the crosshairs. In this review is a look at the EPYC 4004 series along with benchmarks of nearly the entire EPYC 4004 product stack compared to Intel's current top-end Xeon E-2400 series processor, the Intel Xeon E-2488 Raptor Lake.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice 24.8 Alpha 1 Open-Source Office Suite Released]]></title>
-        <id>https://www.phoronix.com/news/LibreOffice-24.8-Alpha-1</id>
-        <link href="https://www.phoronix.com/news/LibreOffice-24.8-Alpha-1"/>
-        <updated>2024-05-21T12:26:51.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of the planned release in August, the first alpha release of the LibreOffice 24.8 open-source office suite is now available for testing...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Adds eDP/DisplayPort Support For The Snapdragon X Elite]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-eDP-DP-X-Elite</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-eDP-DP-X-Elite"/>
-        <updated>2024-05-21T11:12:02.000Z</updated>
-        <summary type="html"><![CDATA[Qualcomm and their partners at Linaro have been busy working on the Linux support for the Snapdragon X Elite as the high-end Arm SoC beginning to roll-out for laptops. The latest Snapdragon X Elite upstreaming is Embedded DisplayPort and DisplayPort support for the Snapdragon X Elite...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F2FS With Linux 6.10 Delivers Better Performance On Zoned Storage]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-F2FS</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-F2FS"/>
-        <updated>2024-05-21T10:58:35.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot of file-system activity going on for the Linux 6.10 merge window: Bcachefs safety improvements, better OCFS2 write performance, continued XFS online repair, and even a "mail-in merge request" from prison for ReiserFS. The Flash-Friendly File-System (F2FS) has also seen some new feature work this cycle and has now been merged...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hangover 9.9 Adds Support For Using The NTSYNC Driver]]></title>
-        <id>https://www.phoronix.com/news/Hangover-9.9-Released</id>
-        <link href="https://www.phoronix.com/news/Hangover-9.9-Released"/>
-        <updated>2024-05-21T10:51:27.000Z</updated>
-        <summary type="html"><![CDATA[André Zwing continues hacking on the Hangover project as a means of running Windows applications on AArch64 Linux by leveraging Wine and pairing it with emulators like QEMU, FEX, or Box64. Besides the initial AArch64/ARM64 focus, Hangover can be important for bring Windows game/application on Linux support eventually to other architectures like POWER and RISC-V...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC 13.3 Compiler Released With Tons Of Bug Fixes]]></title>
-        <id>https://www.phoronix.com/news/GCC-13.3-Released</id>
-        <link href="https://www.phoronix.com/news/GCC-13.3-Released"/>
-        <updated>2024-05-21T10:23:32.000Z</updated>
-        <summary type="html"><![CDATA[While GCC 14 recently debuted as stable in the form of GCC 14.1, for those relying on the GCC 13 compiler that debuted last year there is now a new point release available with many bug fixes...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Adds Support To Reset CXL Devices]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Reset-CXL-Devices</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Reset-CXL-Devices"/>
-        <updated>2024-05-21T10:12:55.000Z</updated>
-        <summary type="html"><![CDATA[In addition to the CXL updates for Linux 6.10 that were sent in last week, the PCI subsystem updates this week bring a notable addition for Compute Express Link (CXL) devices...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qt 6.7.1 Released With 400+ Fixes - Including Several Wayland Fixes]]></title>
-        <id>https://www.phoronix.com/news/Qt-6.7.1-Released</id>
-        <link href="https://www.phoronix.com/news/Qt-6.7.1-Released"/>
-        <updated>2024-05-21T10:03:41.000Z</updated>
-        <summary type="html"><![CDATA[The Qt Company today released Qt 6.7.1 as the first point release for the cross-platform Qt 6.7.1 toolkit. Since releasing Qt 6.7 just under two months ago, they have fixed more than 400 bugs...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XFS Expanding Its Online Repair Capabilities In Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-XFS</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-XFS"/>
-        <updated>2024-05-21T00:40:25.000Z</updated>
-        <summary type="html"><![CDATA[The XFS file-system improvements have been merged for the in-development Linux 6.10 kernel...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
