@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-20T01:16:45.604Z</updated>
+    <updated>2024-06-20T12:33:56.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Introduces New Gaudi "2D" Product Support To Their Linux Driver]]></title>
+        <id>https://www.phoronix.com/news/Intel-Gaudi2D-Linux-Driver</id>
+        <link href="https://www.phoronix.com/news/Intel-Gaudi2D-Linux-Driver"/>
+        <updated>2024-06-20T10:30:56.000Z</updated>
+        <summary type="html"><![CDATA[It was just a few months back that Intel introduced a Gaudi "2C" variant of Gaudi2 to their open-source Linux driver. This variant might be for some export model or otherwise a hyperscaler/customer-specific revision or something along those lines. Now appearing within new Habana Labs driver patches for the upcoming Linux 6.11 kernel are patches for a new Gaudi 2D variant...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC 12.4 Compiler Released With 84+ Bugs Fixed]]></title>
+        <id>https://www.phoronix.com/news/GCC-12.4-Released</id>
+        <link href="https://www.phoronix.com/news/GCC-12.4-Released"/>
+        <updated>2024-06-20T10:18:33.000Z</updated>
+        <summary type="html"><![CDATA[For those continuing to rely on the GCC 12 series open-source compiler that was introduced as stable in 2022, GCC 12.4 is out today as the newest bug fix release...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monochrome TV Mode Coming To Linux 6.11, Added By Raspberry Pi Developers]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.11-DRM-Monochrome-TV</id>
+        <link href="https://www.phoronix.com/news/Linux-6.11-DRM-Monochrome-TV"/>
+        <updated>2024-06-20T09:58:11.000Z</updated>
+        <summary type="html"><![CDATA[Another weeks worth of random DRM-Misc-Next changes have been queued ahead of next month's Linux 6.11 merge window...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theseus Ship 6.1 Released For This KWinFT Evolution Now Based On KDE Plasma 6.1]]></title>
+        <id>https://www.phoronix.com/news/Theseus-Ship-6.1</id>
+        <link href="https://www.phoronix.com/news/Theseus-Ship-6.1"/>
+        <updated>2024-06-20T09:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Theseus Ship is the X11/Wayland compositor previously known as KWinFT developed by Roman Gilg as a fork of KDE Plasma's KWin. Pulling in patches from KWin in this week's KDE Plasma 6.1 release, Theseus Ship 6.1 is now available...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zhaoxin "Shijidadao" x86_64 CPU Support Merged Into The GCC 15 Compiler]]></title>
         <id>https://www.phoronix.com/news/Zhaxoin-Shijidadao-GCC-15</id>
@@ -4188,80 +4228,6 @@ Leaked OpenAI documents reveal aggressive tactics toward former employees
         <link href="https://www.phoronix.com/news/Box64-0.2.8-Released"/>
         <updated>2024-05-22T09:56:20.000Z</updated>
         <summary type="html"><![CDATA[Box64 is out as the newest version of this Linux user-space x86_64 emulator for running on ARM64 Linux devices. There is also an updated version of Box86 too for that x86 32-bit version on ARM...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-21]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-21.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-21.html"/>
-        <updated>2024-05-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 21, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-City in a Bottle – A 256 Byte Raycasting System
-(comments)
-
-
-pg_timeseries: Open-source time-series extension for PostgreSQL
-(comments)
-
-
-Enlightenmentware
-(comments)
-
-
-Chameleon: Meta’s New Multi-Modal LLM
-(comments)
-
-
-Shipbreaking
-(comments)
-
-
-NoTunes is a macOS application that will prevent Apple Music from launching
-(comments)
-
-
-Going Dark: The war on encryption is on the rise
-(comments)
-
-
-What UI density means and how to design for it
-(comments)
-
-
-CADmium: A local-first CAD program built for the browser
-(comments)
-
-
-Gordon Bell has died
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASRock Rack Releases BIOS Update For EPYC 4004 Support With AM5 Ryzen Boards]]></title>
-        <id>https://www.phoronix.com/news/ASRock-Rack-EPYC-4004-BIOS</id>
-        <link href="https://www.phoronix.com/news/ASRock-Rack-EPYC-4004-BIOS"/>
-        <updated>2024-05-21T17:30:41.000Z</updated>
-        <summary type="html"><![CDATA[As a follow-up to this morning's AMD EPYC 4004 review and benchmarks, Supermicro, ASRock Rack, Giga Computing, Tyan, and others have announced new motherboards/servers for these entry-level EPYC servers. In addition with the likes of ASRock Rack they have already published BIOS updates enabling existing AM5 Ryzen server boards to officially support the EPYC 4004 series processors...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA 555.42.02 Linux Beta Brings Wayland Explicit Sync, GSP Firmware Used By Default]]></title>
-        <id>https://www.phoronix.com/news/NVIDIA-555.42.02-Linux-Beta</id>
-        <link href="https://www.phoronix.com/news/NVIDIA-555.42.02-Linux-Beta"/>
-        <updated>2024-05-21T14:25:15.000Z</updated>
-        <summary type="html"><![CDATA[It's coming a week later than anticipated but the NVIDIA R555 Linux driver beta has been released! This is the NVIDIA proprietary Linux driver update that brings Wayland explicit sync support along with a host of other important improvements...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
