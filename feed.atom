@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-21T01:17:06.083Z</updated>
+    <updated>2024-06-21T12:33:17.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Lunar Lake Workload Hints & Power Floor Patches Posted For Linux]]></title>
+        <id>https://www.phoronix.com/news/Intel-LunarLake-WLT-Power-Floor</id>
+        <link href="https://www.phoronix.com/news/Intel-LunarLake-WLT-Power-Floor"/>
+        <updated>2024-06-21T11:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Intel software engineers have been upstreaming the Lunar Lake support for Linux a number of months already and the basics appear in good shape, aside from the Xe2 graphics enablement being an ongoing matter. Much of the rest of the core functionality has appeared to be in good shape ahead of Lunar Lake laptops launching in Q3, but it seems there have been a few missing power management related bits...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Mesa On POWER Now Presents A Default Set Of OpenGL & Vulkan Drivers]]></title>
+        <id>https://www.phoronix.com/news/Mesa-24.2-Default-POWER-PPC</id>
+        <link href="https://www.phoronix.com/news/Mesa-24.2-Default-POWER-PPC"/>
+        <updated>2024-06-21T10:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Newly merged patches for Mesa 24.2 slightly enhance the default out-of-the-box build experience for the open-source OpenGL and Vulkan drivers on POWER/PowerPC platforms...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Xe Driver Seeing PMT Support For Alchemist & Battlemage]]></title>
+        <id>https://www.phoronix.com/news/Intel-Xe-PMT-DG2-BMG-Patches</id>
+        <link href="https://www.phoronix.com/news/Intel-Xe-PMT-DG2-BMG-Patches"/>
+        <updated>2024-06-21T09:55:32.000Z</updated>
+        <summary type="html"><![CDATA[The Intel Xe driver is working on supporting PMT functionality with a new set of patches that may be mainlined for Linux v6.11~6.12...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-06-20]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-06-20.html</id>
@@ -4148,130 +4178,6 @@ Daylight Computer – New 60fps e-paper tablet
         <link href="https://www.phoronix.com/news/systemd-256-rc3-Released"/>
         <updated>2024-05-23T00:37:10.000Z</updated>
         <summary type="html"><![CDATA[It looks like systemd 256 will officially debut as stable in the near future with systemd 256-rc3 being released today and not tacking on any new features compared to the prior release candidates...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Initial Windows NT Sync Driver Merged Into Linux 6.10 But Not Yet Complete]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-char-misc</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-char-misc"/>
-        <updated>2024-05-23T00:07:51.000Z</updated>
-        <summary type="html"><![CDATA[Greg Kroah-Hartman today sent in the char/misc updates for Linux 6.10 alongside the other areas of the kernel he oversees. Among the char/misc changes is adding the NTSYNC driver that exposes the /dev/ntsync character device for use by the likes of Wine and Valve's Steam Play (Proton). But for Linux 6.10 the driver is effectively "broken" as most of the feature patches have yet to be included...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-22]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-22.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-22.html"/>
-        <updated>2024-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 22, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-Show HN: I built a game to help you learn neural network architectures
-(comments)
-
-
-Show HN: Pls Fix – Hire big tech employees to appeal account suspensions
-(comments)
-
-
-Amber: Programming language compiled to Bash
-(comments)
-
-
-The curious case of the missing period
-(comments)
-
-
-Storing knowledge in a single long plain text file
-(comments)
-
-
-'Right to roam' movement fights to give the commons back to the public
-(comments)
-
-
-Pluckable Strings
-(comments)
-
-
-One-third of Amazon warehouse workers are on food stamps or Medicaid
-(comments)
-
-
-Try Clojure
-(comments)
-
-
-Leaked OpenAI documents reveal aggressive tactics toward former employees
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa 24.1 Released With Explicit Sync Vulkan Drivers, More Mature NVK Driver]]></title>
-        <id>https://www.phoronix.com/news/Mesa-24.1-Released</id>
-        <link href="https://www.phoronix.com/news/Mesa-24.1-Released"/>
-        <updated>2024-05-22T19:27:29.000Z</updated>
-        <summary type="html"><![CDATA[Eric Engestrom has announced the release of Mesa 24.1 as this quarter's feature release to these open-source OpenGL and Vulkan drivers...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RISC-V Now Supports Rust In The Linux Kernel]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-RISC-V</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-RISC-V"/>
-        <updated>2024-05-22T19:19:01.000Z</updated>
-        <summary type="html"><![CDATA[The latest RISC-V port updates have been merged for the in-development Linux 6.10 kernel...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Deck Platform Driver In No Apparent Rush For Upstreaming Into The Linux Kernel]]></title>
-        <id>https://www.phoronix.com/news/Steam-Deck-Platform-Driver-2024</id>
-        <link href="https://www.phoronix.com/news/Steam-Deck-Platform-Driver-2024"/>
-        <updated>2024-05-22T17:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Back in February 2022 prior to the Valve Steam Deck being released, a Steam Deck Platform Driver was posted for the Linux kernel. Sadly, more than two years later, this driver still hasn't been upstreamed into the mainline Linux kernel and it looks like it could still be months before it happens...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10's Hardening Configuration Now Enables KCFI & Other Features]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Hardening</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Hardening"/>
-        <updated>2024-05-22T16:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Introduced last year with the Linux 6.7 kernel was a hardening configuration to allow for "make hardening.config" as an easy way of building a security-hardened Linux kernel with sane defaults. With Linux 6.10 there are some additional security minded features now enabled...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Shows People Are Still Using USB To Parallel Port Adapters In 2024]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-USB</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-USB"/>
-        <updated>2024-05-22T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Greg Kroah-Hartman sent out the USB/Thunderbolt changes this morning for the Linux 6.10 merge window that is wrapping up this weekend. Surprisingly, in 2024, a new USB to parallel printer port adapter variant is being introduced with Linux 6.10...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUSE Adds VirtIO-FS Multi-Queue For ~5x Performance Win With Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-FUSE</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-FUSE"/>
-        <updated>2024-05-22T15:11:51.000Z</updated>
-        <summary type="html"><![CDATA[The FUSE updates have been submitted for the Linux 6.10 kernel in supporting file-system implementations within user-space...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>

@@ -294,16 +294,6 @@
           "wordCount": 564,
           "title": "Daily Hacker News for 2024-05-23",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-22.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 22, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: I built a game to help you learn neural network architectures\n(comments)\n\n\nShow HN: Pls Fix – Hire big tech employees to appeal account suspensions\n(comments)\n\n\nAmber: Programming language compiled to Bash\n(comments)\n\n\nThe curious case of the missing period\n(comments)\n\n\nStoring knowledge in a single long plain text file\n(comments)\n\n\n'Right to roam' movement fights to give the commons back to the public\n(comments)\n\n\nPluckable Strings\n(comments)\n\n\nOne-third of Amazon warehouse workers are on food stamps or Medicaid\n(comments)\n\n\nTry Clojure\n(comments)\n\n\nLeaked OpenAI documents reveal aggressive tactics toward former employees\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-22.html",
-          "publishedOn": "2024-05-23T00:00:00.000Z",
-          "wordCount": 577,
-          "title": "Daily Hacker News for 2024-05-22",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,36 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Intel-LunarLake-WLT-Power-Floor",
+          "author": "Michael Larabel",
+          "description": "Intel software engineers have been upstreaming the Lunar Lake support for Linux a number of months already and the basics appear in good shape, aside from the Xe2 graphics enablement being an ongoing matter. Much of the rest of the core functionality has appeared to be in good shape ahead of Lunar Lake laptops launching in Q3, but it seems there have been a few missing power management related bits...",
+          "link": "https://www.phoronix.com/news/Intel-LunarLake-WLT-Power-Floor",
+          "publishedOn": "2024-06-21T11:02:07.000Z",
+          "wordCount": 1868,
+          "title": "Intel Lunar Lake Workload Hints & Power Floor Patches Posted For Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Mesa-24.2-Default-POWER-PPC",
+          "author": "Michael Larabel",
+          "description": "Newly merged patches for Mesa 24.2 slightly enhance the default out-of-the-box build experience for the open-source OpenGL and Vulkan drivers on POWER/PowerPC platforms...",
+          "link": "https://www.phoronix.com/news/Mesa-24.2-Default-POWER-PPC",
+          "publishedOn": "2024-06-21T10:34:50.000Z",
+          "wordCount": 1998,
+          "title": "Building Mesa On POWER Now Presents A Default Set Of OpenGL & Vulkan Drivers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-Xe-PMT-DG2-BMG-Patches",
+          "author": "Michael Larabel",
+          "description": "The Intel Xe driver is working on supporting PMT functionality with a new set of patches that may be mainlined for Linux v6.11~6.12...",
+          "link": "https://www.phoronix.com/news/Intel-Xe-PMT-DG2-BMG-Patches",
+          "publishedOn": "2024-06-21T09:55:32.000Z",
+          "wordCount": 1853,
+          "title": "Intel Xe Driver Seeing PMT Support For Alchemist & Battlemage",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Qualcomm-AIC100-Firmware",
           "author": "Michael Larabel",
@@ -2890,76 +2910,6 @@
           "publishedOn": "2024-05-23T00:37:10.000Z",
           "wordCount": 1844,
           "title": "systemd 256 Nears Release With run0, systemd-vpick, importctl & More",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-char-misc",
-          "author": "Michael Larabel",
-          "description": "Greg Kroah-Hartman today sent in the char/misc updates for Linux 6.10 alongside the other areas of the kernel he oversees. Among the char/misc changes is adding the NTSYNC driver that exposes the /dev/ntsync character device for use by the likes of Wine and Valve's Steam Play (Proton). But for Linux 6.10 the driver is effectively \"broken\" as most of the feature patches have yet to be included...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-char-misc",
-          "publishedOn": "2024-05-23T00:07:51.000Z",
-          "wordCount": 1800,
-          "title": "Initial Windows NT Sync Driver Merged Into Linux 6.10 But Not Yet Complete",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Mesa-24.1-Released",
-          "author": "Michael Larabel",
-          "description": "Eric Engestrom has announced the release of Mesa 24.1 as this quarter's feature release to these open-source OpenGL and Vulkan drivers...",
-          "link": "https://www.phoronix.com/news/Mesa-24.1-Released",
-          "publishedOn": "2024-05-22T19:27:29.000Z",
-          "wordCount": 1929,
-          "title": "Mesa 24.1 Released With Explicit Sync Vulkan Drivers, More Mature NVK Driver",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-RISC-V",
-          "author": "Michael Larabel",
-          "description": "The latest RISC-V port updates have been merged for the in-development Linux 6.10 kernel...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-RISC-V",
-          "publishedOn": "2024-05-22T19:19:01.000Z",
-          "wordCount": 1862,
-          "title": "RISC-V Now Supports Rust In The Linux Kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Steam-Deck-Platform-Driver-2024",
-          "author": "Michael Larabel",
-          "description": "Back in February 2022 prior to the Valve Steam Deck being released, a Steam Deck Platform Driver was posted for the Linux kernel. Sadly, more than two years later, this driver still hasn't been upstreamed into the mainline Linux kernel and it looks like it could still be months before it happens...",
-          "link": "https://www.phoronix.com/news/Steam-Deck-Platform-Driver-2024",
-          "publishedOn": "2024-05-22T17:46:44.000Z",
-          "wordCount": 1903,
-          "title": "Steam Deck Platform Driver In No Apparent Rush For Upstreaming Into The Linux Kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Hardening",
-          "author": "Michael Larabel",
-          "description": "Introduced last year with the Linux 6.7 kernel was a hardening configuration to allow for \"make hardening.config\" as an easy way of building a security-hardened Linux kernel with sane defaults. With Linux 6.10 there are some additional security minded features now enabled...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Hardening",
-          "publishedOn": "2024-05-22T16:53:01.000Z",
-          "wordCount": 1746,
-          "title": "Linux 6.10's Hardening Configuration Now Enables KCFI & Other Features",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-USB",
-          "author": "Michael Larabel",
-          "description": "Greg Kroah-Hartman sent out the USB/Thunderbolt changes this morning for the Linux 6.10 merge window that is wrapping up this weekend. Surprisingly, in 2024, a new USB to parallel printer port adapter variant is being introduced with Linux 6.10...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-USB",
-          "publishedOn": "2024-05-22T16:10:00.000Z",
-          "wordCount": 1895,
-          "title": "Linux 6.10 Shows People Are Still Using USB To Parallel Port Adapters In 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-FUSE",
-          "author": "Michael Larabel",
-          "description": "The FUSE updates have been submitted for the Linux 6.10 kernel in supporting file-system implementations within user-space...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-FUSE",
-          "publishedOn": "2024-05-22T15:11:51.000Z",
-          "wordCount": 1849,
-          "title": "FUSE Adds VirtIO-FS Multi-Queue For ~5x Performance Win With Linux 6.10",
           "imageUrl": null
         }
       ]
