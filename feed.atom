@@ -2,10 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-20T12:33:56.244Z</updated>
+    <updated>2024-06-21T01:17:06.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-20]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-20.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-20.html"/>
+        <updated>2024-06-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 20, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Show HN: Radius – A Meetup.com alternative
+(comments)
+
+
+Agricultural drones are transforming rice farming in the Mekong River delta
+(comments)
+
+
+Please don't mention AI again
+(comments)
+
+
+EU Council has withdrawn the vote on Chat Control
+(comments)
+
+
+Tetris Font
+(comments)
+
+
+Claude 3.5 Sonnet
+(comments)
+
+
+Show HN: I made a puzzle game that gently introduces my favorite math mysteries
+(comments)
+
+
+Small claims court became Meta's customer service hotline
+(comments)
+
+
+More Disabled Americans Are Employed, Thanks to Remote Work
+(comments)
+
+
+Gilead shot prevents all HIV cases in trial
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm Cloud AI 100 "AIC100" Firmware Upstreamed]]></title>
+        <id>https://www.phoronix.com/news/Qualcomm-AIC100-Firmware</id>
+        <link href="https://www.phoronix.com/news/Qualcomm-AIC100-Firmware"/>
+        <updated>2024-06-20T19:57:43.000Z</updated>
+        <summary type="html"><![CDATA[While not talked about as much as the likes of the Intel Gaudi accelerators with their upstream Habana Labs kernel driver or the AMD Instinct MI300 series with their open-source upstream support too, back in 2022 Qualcomm did post an open-source kernel driver for their Cloud AI accelerator. That was followed by an open-source compiler and user-space stack and in turn the QAIC driver was upstreamed into the accelerator (accel) subsystem last year with Linux 6.4...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Linux NPU Driver v1.5 Released - Now Validated On Arrow Lake & Lunar Lake]]></title>
+        <id>https://www.phoronix.com/news/Intel-Linux-NPU-Driver-1.5</id>
+        <link href="https://www.phoronix.com/news/Intel-Linux-NPU-Driver-1.5"/>
+        <updated>2024-06-20T17:15:30.000Z</updated>
+        <summary type="html"><![CDATA[Intel on Wednesday released version 1.5 of their Linux NPU driver, their user-space driver component for Linux systems in enabling the neural processing unit found with Core Ultra "Meteor Lake" processors and newer. This goes along with their upstream IVPU kernel accelerator driver for allowing a full open-source solution for AI workloads with the likes of OpenVINO...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi 5 Kernel Graphics Driver Support Will Hopefully Be Upstreamed Soon]]></title>
+        <id>https://www.phoronix.com/news/Raspberry-Pi-5-Kernel-DRM-Soon</id>
+        <link href="https://www.phoronix.com/news/Raspberry-Pi-5-Kernel-DRM-Soon"/>
+        <updated>2024-06-20T16:36:45.000Z</updated>
+        <summary type="html"><![CDATA[While the Raspberry Pi 5 debuted last September, the mainline Linux kernel support for this popular single board  computer continues to lag behind the state of Raspberry Pi's downstream kernel. SUSE has been working to upstream various Raspberry Pi 5 driver support while now Raspberry Pi engineers have also begun the trek toward upstreaming their kernel graphics driver support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME Shell Accent Color Support Merged For GNOME 47]]></title>
+        <id>https://www.phoronix.com/news/GNOME-Shell-Accent-Color-Merged</id>
+        <link href="https://www.phoronix.com/news/GNOME-Shell-Accent-Color-Merged"/>
+        <updated>2024-06-20T14:38:39.000Z</updated>
+        <summary type="html"><![CDATA[In addition to Mutter seeing Wayland DRM lease protocol support merged, another long-in-development patch series hit GNOME Shell this morning: accent color support!..]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME Merges Wayland DRM Lease Protocol For Better VR Handling]]></title>
+        <id>https://www.phoronix.com/news/GNOME-Wayland-DRM-Lease</id>
+        <link href="https://www.phoronix.com/news/GNOME-Wayland-DRM-Lease"/>
+        <updated>2024-06-20T14:11:47.000Z</updated>
+        <summary type="html"><![CDATA[Merged today into GNOME's Mutter compositor is support for the Wayland DRM lease protocol to allow for nice virtual reality (VR) headset support for GNOME on Wayland...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Introduces New Gaudi "2D" Product Support To Their Linux Driver]]></title>
         <id>https://www.phoronix.com/news/Intel-Gaudi2D-Linux-Driver</id>
@@ -4168,66 +4272,6 @@ Leaked OpenAI documents reveal aggressive tactics toward former employees
         <link href="https://www.phoronix.com/news/Linux-6.10-FUSE"/>
         <updated>2024-05-22T15:11:51.000Z</updated>
         <summary type="html"><![CDATA[The FUSE updates have been submitted for the Linux 6.10 kernel in supporting file-system implementations within user-space...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpine Linux 3.20 Released With Initial 64-bit RISC-V Support]]></title>
-        <id>https://www.phoronix.com/news/Alpine-Linux-3.20</id>
-        <link href="https://www.phoronix.com/news/Alpine-Linux-3.20"/>
-        <updated>2024-05-22T13:02:08.000Z</updated>
-        <summary type="html"><![CDATA[Alpine Linux 3.20 has been released as the newest feature release to this security-minded, lightweight Linux distribution that is popular for embedded and container use. Alpine Linux continues to set itself apart from others by making use of musl libc, Busybox, and other modifications in the name of security and small footprint...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Perf Tools Brings AMD Zen 5 Events & Intel Updates]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Perf-Tools</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Perf-Tools"/>
-        <updated>2024-05-22T10:46:30.000Z</updated>
-        <summary type="html"><![CDATA[Sent out on Tuesday were all of the perf tool changes for the Linux 6.10 kernel. This includes perf event support for recent Intel CPUs as well as initial AMD Zen 5 processor support...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 KVM Does More Prepping For Intel TDX]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-KVM</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-KVM"/>
-        <updated>2024-05-22T10:32:18.000Z</updated>
-        <summary type="html"><![CDATA[The KVM changes for the Linux 6.10 kernel were merged a few days ago for this important piece to the open-source Linux virtualization stack...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eclipse OpenJ9 v0.45 Released For Supporting OpenJDK 22]]></title>
-        <id>https://www.phoronix.com/news/Eclipse-OpenJ9-0.45</id>
-        <link href="https://www.phoronix.com/news/Eclipse-OpenJ9-0.45"/>
-        <updated>2024-05-22T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Eclipse OpenJ9 v0.45 is now available as the newest version of this high performance JVM for Java applications...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Adds Support For The RISC-V Milk-V Mars & More SoC Additions]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-More-SoCs</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-More-SoCs"/>
-        <updated>2024-05-22T10:19:45.000Z</updated>
-        <summary type="html"><![CDATA[Last week the main SoC/platform updates were sent in for Linux 6.10 that included more ARM-based handheld game consoles and other new Arm devices from ASUS wireless routers to set-top boxes to enabling various SoCs. This week a secondary set of updates were submitted for the Linux 6.10 kernel merge window...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Box64 0.2.8 Released With Support For 16K Page Size - Allowing Games On Apple Silicon]]></title>
-        <id>https://www.phoronix.com/news/Box64-0.2.8-Released</id>
-        <link href="https://www.phoronix.com/news/Box64-0.2.8-Released"/>
-        <updated>2024-05-22T09:56:20.000Z</updated>
-        <summary type="html"><![CDATA[Box64 is out as the newest version of this Linux user-space x86_64 emulator for running on ARM64 Linux devices. There is also an updated version of Box86 too for that x86 32-bit version on ARM...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-20.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 20, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: Radius – A Meetup.com alternative\n(comments)\n\n\nAgricultural drones are transforming rice farming in the Mekong River delta\n(comments)\n\n\nPlease don't mention AI again\n(comments)\n\n\nEU Council has withdrawn the vote on Chat Control\n(comments)\n\n\nTetris Font\n(comments)\n\n\nClaude 3.5 Sonnet\n(comments)\n\n\nShow HN: I made a puzzle game that gently introduces my favorite math mysteries\n(comments)\n\n\nSmall claims court became Meta's customer service hotline\n(comments)\n\n\nMore Disabled Americans Are Employed, Thanks to Remote Work\n(comments)\n\n\nGilead shot prevents all HIV cases in trial\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-20.html",
+          "publishedOn": "2024-06-21T00:00:00.000Z",
+          "wordCount": 570,
+          "title": "Daily Hacker News for 2024-06-20",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-19.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 19, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: Billard – Generate music from ball collisions in 2D space\n(comments)\n\n\nNature retracts paper that claimed adult stem cell could become any type of cell\n(comments)\n\n\nKidPix\n(comments)\n\n\nAsk HN: Why do message queue-based architectures seem less popular now?\n(comments)\n\n\nFern Hollow Bridge should have been closed years before it collapsed\n(comments)\n\n\nEU Council to Vote on Chat Scanning Proposal on Thursday\n(comments)\n\n\nNeofetch developer archives all his repositories: \\\"Have taken up farming\\\"\n(comments)\n\n\nFast Crimes at Lambda School\n(comments)\n\n\n1/25-scale Cray C90 wristwatch\n(comments)\n\n\nSafe Superintelligence Inc.\n(comments)",
@@ -302,6 +312,56 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Qualcomm-AIC100-Firmware",
+          "author": "Michael Larabel",
+          "description": "While not talked about as much as the likes of the Intel Gaudi accelerators with their upstream Habana Labs kernel driver or the AMD Instinct MI300 series with their open-source upstream support too, back in 2022 Qualcomm did post an open-source kernel driver for their Cloud AI accelerator. That was followed by an open-source compiler and user-space stack and in turn the QAIC driver was upstreamed into the accelerator (accel) subsystem last year with Linux 6.4...",
+          "link": "https://www.phoronix.com/news/Qualcomm-AIC100-Firmware",
+          "publishedOn": "2024-06-20T19:57:43.000Z",
+          "wordCount": 1866,
+          "title": "Qualcomm Cloud AI 100 \"AIC100\" Firmware Upstreamed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-Linux-NPU-Driver-1.5",
+          "author": "Michael Larabel",
+          "description": "Intel on Wednesday released version 1.5 of their Linux NPU driver, their user-space driver component for Linux systems in enabling the neural processing unit found with Core Ultra \"Meteor Lake\" processors and newer. This goes along with their upstream IVPU kernel accelerator driver for allowing a full open-source solution for AI workloads with the likes of OpenVINO...",
+          "link": "https://www.phoronix.com/news/Intel-Linux-NPU-Driver-1.5",
+          "publishedOn": "2024-06-20T17:15:30.000Z",
+          "wordCount": 1885,
+          "title": "Intel Linux NPU Driver v1.5 Released - Now Validated On Arrow Lake & Lunar Lake",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Raspberry-Pi-5-Kernel-DRM-Soon",
+          "author": "Michael Larabel",
+          "description": "While the Raspberry Pi 5 debuted last September, the mainline Linux kernel support for this popular single board  computer continues to lag behind the state of Raspberry Pi's downstream kernel. SUSE has been working to upstream various Raspberry Pi 5 driver support while now Raspberry Pi engineers have also begun the trek toward upstreaming their kernel graphics driver support...",
+          "link": "https://www.phoronix.com/news/Raspberry-Pi-5-Kernel-DRM-Soon",
+          "publishedOn": "2024-06-20T16:36:45.000Z",
+          "wordCount": 1773,
+          "title": "Raspberry Pi 5 Kernel Graphics Driver Support Will Hopefully Be Upstreamed Soon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GNOME-Shell-Accent-Color-Merged",
+          "author": "Michael Larabel",
+          "description": "In addition to Mutter seeing Wayland DRM lease protocol support merged, another long-in-development patch series hit GNOME Shell this morning: accent color support!..",
+          "link": "https://www.phoronix.com/news/GNOME-Shell-Accent-Color-Merged",
+          "publishedOn": "2024-06-20T14:38:39.000Z",
+          "wordCount": 1681,
+          "title": "GNOME Shell Accent Color Support Merged For GNOME 47",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GNOME-Wayland-DRM-Lease",
+          "author": "Michael Larabel",
+          "description": "Merged today into GNOME's Mutter compositor is support for the Wayland DRM lease protocol to allow for nice virtual reality (VR) headset support for GNOME on Wayland...",
+          "link": "https://www.phoronix.com/news/GNOME-Wayland-DRM-Lease",
+          "publishedOn": "2024-06-20T14:11:47.000Z",
+          "wordCount": 1809,
+          "title": "GNOME Merges Wayland DRM Lease Protocol For Better VR Handling",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-Gaudi2D-Linux-Driver",
           "author": "Michael Larabel",
@@ -2900,66 +2960,6 @@
           "publishedOn": "2024-05-22T15:11:51.000Z",
           "wordCount": 1849,
           "title": "FUSE Adds VirtIO-FS Multi-Queue For ~5x Performance Win With Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Alpine-Linux-3.20",
-          "author": "Michael Larabel",
-          "description": "Alpine Linux 3.20 has been released as the newest feature release to this security-minded, lightweight Linux distribution that is popular for embedded and container use. Alpine Linux continues to set itself apart from others by making use of musl libc, Busybox, and other modifications in the name of security and small footprint...",
-          "link": "https://www.phoronix.com/news/Alpine-Linux-3.20",
-          "publishedOn": "2024-05-22T13:02:08.000Z",
-          "wordCount": 1709,
-          "title": "Alpine Linux 3.20 Released With Initial 64-bit RISC-V Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Perf-Tools",
-          "author": "Michael Larabel",
-          "description": "Sent out on Tuesday were all of the perf tool changes for the Linux 6.10 kernel. This includes perf event support for recent Intel CPUs as well as initial AMD Zen 5 processor support...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Perf-Tools",
-          "publishedOn": "2024-05-22T10:46:30.000Z",
-          "wordCount": 1765,
-          "title": "Linux 6.10 Perf Tools Brings AMD Zen 5 Events & Intel Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-KVM",
-          "author": "Michael Larabel",
-          "description": "The KVM changes for the Linux 6.10 kernel were merged a few days ago for this important piece to the open-source Linux virtualization stack...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-KVM",
-          "publishedOn": "2024-05-22T10:32:18.000Z",
-          "wordCount": 1731,
-          "title": "Linux 6.10 KVM Does More Prepping For Intel TDX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Eclipse-OpenJ9-0.45",
-          "author": "Michael Larabel",
-          "description": "Eclipse OpenJ9 v0.45 is now available as the newest version of this high performance JVM for Java applications...",
-          "link": "https://www.phoronix.com/news/Eclipse-OpenJ9-0.45",
-          "publishedOn": "2024-05-22T10:25:00.000Z",
-          "wordCount": 1797,
-          "title": "Eclipse OpenJ9 v0.45 Released For Supporting OpenJDK 22",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-More-SoCs",
-          "author": "Michael Larabel",
-          "description": "Last week the main SoC/platform updates were sent in for Linux 6.10 that included more ARM-based handheld game consoles and other new Arm devices from ASUS wireless routers to set-top boxes to enabling various SoCs. This week a secondary set of updates were submitted for the Linux 6.10 kernel merge window...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-More-SoCs",
-          "publishedOn": "2024-05-22T10:19:45.000Z",
-          "wordCount": 1933,
-          "title": "Linux 6.10 Adds Support For The RISC-V Milk-V Mars & More SoC Additions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Box64-0.2.8-Released",
-          "author": "Michael Larabel",
-          "description": "Box64 is out as the newest version of this Linux user-space x86_64 emulator for running on ARM64 Linux devices. There is also an updated version of Box86 too for that x86 32-bit version on ARM...",
-          "link": "https://www.phoronix.com/news/Box64-0.2.8-Released",
-          "publishedOn": "2024-05-22T09:56:20.000Z",
-          "wordCount": 1887,
-          "title": "Box64 0.2.8 Released With Support For 16K Page Size - Allowing Games On Apple Silicon",
           "imageUrl": null
         }
       ]
