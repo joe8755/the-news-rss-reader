@@ -2,10 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-21T12:33:17.982Z</updated>
+    <updated>2024-06-22T01:16:36.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-21]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-21.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-21.html"/>
+        <updated>2024-06-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 21, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+NASA releases Hubble image taken in new pointing mode
+(comments)
+
+
+Free software hijacked Philip Hazel's life
+(comments)
+
+
+Let's write a video game from scratch like it's 1987
+(comments)
+
+
+We no longer use LangChain for building our AI agents
+(comments)
+
+
+Notes on Tajikistan
+(comments)
+
+
+Donald Sutherland has died
+(comments)
+
+
+Fuzz Map
+(comments)
+
+
+MeshAnything – Converts 3D representations into efficient 3D meshes
+(comments)
+
+
+Ladybird browser spreads its wings
+(comments)
+
+
+Allan McDonald refused to approve Challenger launch, exposed cover-up (2021)
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blumenkrantz "Massively Improves" Mesa's glReadPixels Performance With 7 Lines Of Code]]></title>
+        <id>https://www.phoronix.com/news/Blumenkrantz-glReadPixels-Perf</id>
+        <link href="https://www.phoronix.com/news/Blumenkrantz-glReadPixels-Perf"/>
+        <updated>2024-06-21T19:44:05.000Z</updated>
+        <summary type="html"><![CDATA[Mike Blumenkrantz of Valve's open-source/Linux graphics driver team has submitted a merge request to "massively" improve the OpenGL glReadPixels performance within the common Mesa state tracker...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Darktable 4.8 Pulls AI Feature After Discovering It Doesn't Work Well]]></title>
+        <id>https://www.phoronix.com/news/Darktable-4.8-Released</id>
+        <link href="https://www.phoronix.com/news/Darktable-4.8-Released"/>
+        <updated>2024-06-21T16:56:36.000Z</updated>
+        <summary type="html"><![CDATA[While more software piles on AI features these days, today's release of the Darktable 4.8 RAW photography software has removed one of its AI features after realizing it only delivers mediocre quality...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VKD3D-Proton 2.13 Brings OpenVR/OpenXR Interop & Performance Improvements]]></title>
+        <id>https://www.phoronix.com/news/VKD3D-Proton-2.13</id>
+        <link href="https://www.phoronix.com/news/VKD3D-Proton-2.13"/>
+        <updated>2024-06-21T15:08:48.000Z</updated>
+        <summary type="html"><![CDATA[VKD3D-Proton 2.13 is now available as the newest version of this Direct3D 12 over Vulkan API translation later that is used by Valve's Steam Play (Proton) for accelerating D3D12 Windows games on Linux...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Can Have A "Black Screen Of Death" For Kernel Panics]]></title>
+        <id>https://www.phoronix.com/news/Linux-Black-BSoD</id>
+        <link href="https://www.phoronix.com/news/Linux-Black-BSoD"/>
+        <updated>2024-06-21T14:55:56.000Z</updated>
+        <summary type="html"><![CDATA[With some Linux users not liking the recently showcased new Linux "Blue Screen of Death" for kernel panics, Red Hat engineer Javier Martinez Canillas who has been one of those involved in the new DRM Panic infrastructure showed that it can also be a "black screen of death" if so desired...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa Developers Aren't Convinced Over Dropping Old OpenGL Drivers Right Now]]></title>
+        <id>https://www.phoronix.com/news/Mesa-Devs-On-Keeping-Drivers</id>
+        <link href="https://www.phoronix.com/news/Mesa-Devs-On-Keeping-Drivers"/>
+        <updated>2024-06-21T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week was a proposal for creating a new Mesa legacy driver branch for clearing out older OpenGL drivers like the ATI R300, AMD R600, Lima, Nouveau NV30, and other older GPU drivers. However, other upstream Mesa developers aren't convinced by the proposal...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Hypervisor 40 Released With Better Boot Time Performance]]></title>
+        <id>https://www.phoronix.com/news/Cloud-Hypervisor-40-Released</id>
+        <link href="https://www.phoronix.com/news/Cloud-Hypervisor-40-Released"/>
+        <updated>2024-06-21T14:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloud Hypervisor 40.0 is out today for this open-source Rust-written VMM that started off as an Intel software project and evolved into a multi-vendor initiative with backing from the likes of Microsoft, Arm, AMD, and others for a cloud-focused, security-critical virtualization hypervisor...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Lunar Lake Workload Hints & Power Floor Patches Posted For Linux]]></title>
         <id>https://www.phoronix.com/news/Intel-LunarLake-WLT-Power-Floor</id>
@@ -4118,66 +4232,6 @@ Daylight Computer – New 60fps e-paper tablet
         <link href="https://www.phoronix.com/news/Linux-6.10-ARM64"/>
         <updated>2024-05-23T14:28:45.000Z</updated>
         <summary type="html"><![CDATA[Merged last week for the Linux 6.10 kernel were all of the 64-bit ARM (ARM64 / AArch64) architecture changes. There is ACPI FACS support, the ability to easily construct FIT images, and a new command-line option for disabling 32-bit application support...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Staging Drops Broken & Unused Drivers To Remove 19k L.O.C.]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Staging</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Staging"/>
-        <updated>2024-05-23T10:58:20.000Z</updated>
-        <summary type="html"><![CDATA[In addition to the Linux 6.10 USB changes and char/misc with the new NTSYNC driver, Greg Kroah-Hartman on Wednesday also sent out the staging updates for Linux 6.10. There isn't much in the way of new code but some 19k lines of code removed thanks to removing an unused driver as well as a broken driver...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Removes Knights Mill & Knights Landing Xeon Phi Support In LLVM 19]]></title>
-        <id>https://www.phoronix.com/news/LLVM-19-Drops-Xeon-Phi</id>
-        <link href="https://www.phoronix.com/news/LLVM-19-Drops-Xeon-Phi"/>
-        <updated>2024-05-23T10:44:18.000Z</updated>
-        <summary type="html"><![CDATA[Similar to the GCC compiler dropping support for the Xeon Phi Knights Mill and Knights Landing accelerators a few days ago, Intel has also gone ahead and seen to the removal of Xeon Phi support for the LLVM/Clang 19 compiler...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newer AMD Radeon Graphics Cards Now Work On RISC-V With Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Non-MM-Patches</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Non-MM-Patches"/>
-        <updated>2024-05-23T10:28:29.000Z</updated>
-        <summary type="html"><![CDATA[Andrew Morton sent out more patches on Wednesday that have been pulled into the Linux 6.10 kernel. Notable from this latest round of "non-MM" updates is enabling more compiler warnings by default and getting newer AMD GPUs working on the RISC-V architecture...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME Shell & Mutter Broke Their Good Faith With Ubuntu]]></title>
-        <id>https://www.phoronix.com/news/GNOME-MRE-Over-Mutter-Shell</id>
-        <link href="https://www.phoronix.com/news/GNOME-MRE-Over-Mutter-Shell"/>
-        <updated>2024-05-23T10:09:11.000Z</updated>
-        <summary type="html"><![CDATA[GNOME Shell and Mutter had been covered by Ubuntu's GNOME MicroReleaseException "MRE" policy that allows for new point releases to ship rather easily as stable updates to existing Ubuntu Linux releases. But breaking the camel's back is GNOME 46.1 shipping explicit sync support. Due to landing a "significant new feature" into a point release, the GNOME Shell and Mutter are no longer covered by this exception...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VirtIO Improvements Ready For Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-VirtIO</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-VirtIO"/>
-        <updated>2024-05-23T09:57:19.000Z</updated>
-        <summary type="html"><![CDATA[All of the VirtIO updates are now ready for the Linux 6.10 merge window that is closing this weekend...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[systemd 256 Nears Release With run0, systemd-vpick, importctl & More]]></title>
-        <id>https://www.phoronix.com/news/systemd-256-rc3-Released</id>
-        <link href="https://www.phoronix.com/news/systemd-256-rc3-Released"/>
-        <updated>2024-05-23T00:37:10.000Z</updated>
-        <summary type="html"><![CDATA[It looks like systemd 256 will officially debut as stable in the near future with systemd 256-rc3 being released today and not tacking on any new features compared to the prior release candidates...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>

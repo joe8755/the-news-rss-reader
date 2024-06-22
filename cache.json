@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-21.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 21, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nNASA releases Hubble image taken in new pointing mode\n(comments)\n\n\nFree software hijacked Philip Hazel's life\n(comments)\n\n\nLet's write a video game from scratch like it's 1987\n(comments)\n\n\nWe no longer use LangChain for building our AI agents\n(comments)\n\n\nNotes on Tajikistan\n(comments)\n\n\nDonald Sutherland has died\n(comments)\n\n\nFuzz Map\n(comments)\n\n\nMeshAnything – Converts 3D representations into efficient 3D meshes\n(comments)\n\n\nLadybird browser spreads its wings\n(comments)\n\n\nAllan McDonald refused to approve Challenger launch, exposed cover-up (2021)\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-21.html",
+          "publishedOn": "2024-06-22T00:00:00.000Z",
+          "wordCount": 562,
+          "title": "Daily Hacker News for 2024-06-21",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-20.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 20, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: Radius – A Meetup.com alternative\n(comments)\n\n\nAgricultural drones are transforming rice farming in the Mekong River delta\n(comments)\n\n\nPlease don't mention AI again\n(comments)\n\n\nEU Council has withdrawn the vote on Chat Control\n(comments)\n\n\nTetris Font\n(comments)\n\n\nClaude 3.5 Sonnet\n(comments)\n\n\nShow HN: I made a puzzle game that gently introduces my favorite math mysteries\n(comments)\n\n\nSmall claims court became Meta's customer service hotline\n(comments)\n\n\nMore Disabled Americans Are Employed, Thanks to Remote Work\n(comments)\n\n\nGilead shot prevents all HIV cases in trial\n(comments)",
@@ -302,6 +312,66 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Blumenkrantz-glReadPixels-Perf",
+          "author": "Michael Larabel",
+          "description": "Mike Blumenkrantz of Valve's open-source/Linux graphics driver team has submitted a merge request to \"massively\" improve the OpenGL glReadPixels performance within the common Mesa state tracker...",
+          "link": "https://www.phoronix.com/news/Blumenkrantz-glReadPixels-Perf",
+          "publishedOn": "2024-06-21T19:44:05.000Z",
+          "wordCount": 1870,
+          "title": "Blumenkrantz \"Massively Improves\" Mesa's glReadPixels Performance With 7 Lines Of Code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Darktable-4.8-Released",
+          "author": "Michael Larabel",
+          "description": "While more software piles on AI features these days, today's release of the Darktable 4.8 RAW photography software has removed one of its AI features after realizing it only delivers mediocre quality...",
+          "link": "https://www.phoronix.com/news/Darktable-4.8-Released",
+          "publishedOn": "2024-06-21T16:56:36.000Z",
+          "wordCount": 1802,
+          "title": "Darktable 4.8 Pulls AI Feature After Discovering It Doesn't Work Well",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/VKD3D-Proton-2.13",
+          "author": "Michael Larabel",
+          "description": "VKD3D-Proton 2.13 is now available as the newest version of this Direct3D 12 over Vulkan API translation later that is used by Valve's Steam Play (Proton) for accelerating D3D12 Windows games on Linux...",
+          "link": "https://www.phoronix.com/news/VKD3D-Proton-2.13",
+          "publishedOn": "2024-06-21T15:08:48.000Z",
+          "wordCount": 1719,
+          "title": "VKD3D-Proton 2.13 Brings OpenVR/OpenXR Interop & Performance Improvements",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-Black-BSoD",
+          "author": "Michael Larabel",
+          "description": "With some Linux users not liking the recently showcased new Linux \"Blue Screen of Death\" for kernel panics, Red Hat engineer Javier Martinez Canillas who has been one of those involved in the new DRM Panic infrastructure showed that it can also be a \"black screen of death\" if so desired...",
+          "link": "https://www.phoronix.com/news/Linux-Black-BSoD",
+          "publishedOn": "2024-06-21T14:55:56.000Z",
+          "wordCount": 1842,
+          "title": "Linux Can Have A \"Black Screen Of Death\" For Kernel Panics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Mesa-Devs-On-Keeping-Drivers",
+          "author": "Michael Larabel",
+          "description": "Earlier this week was a proposal for creating a new Mesa legacy driver branch for clearing out older OpenGL drivers like the ATI R300, AMD R600, Lima, Nouveau NV30, and other older GPU drivers. However, other upstream Mesa developers aren't convinced by the proposal...",
+          "link": "https://www.phoronix.com/news/Mesa-Devs-On-Keeping-Drivers",
+          "publishedOn": "2024-06-21T14:10:00.000Z",
+          "wordCount": 1900,
+          "title": "Mesa Developers Aren't Convinced Over Dropping Old OpenGL Drivers Right Now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Cloud-Hypervisor-40-Released",
+          "author": "Michael Larabel",
+          "description": "Cloud Hypervisor 40.0 is out today for this open-source Rust-written VMM that started off as an Intel software project and evolved into a multi-vendor initiative with backing from the likes of Microsoft, Arm, AMD, and others for a cloud-focused, security-critical virtualization hypervisor...",
+          "link": "https://www.phoronix.com/news/Cloud-Hypervisor-40-Released",
+          "publishedOn": "2024-06-21T14:05:00.000Z",
+          "wordCount": 1838,
+          "title": "Cloud Hypervisor 40 Released With Better Boot Time Performance",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-LunarLake-WLT-Power-Floor",
           "author": "Michael Larabel",
@@ -2850,66 +2920,6 @@
           "publishedOn": "2024-05-23T14:28:45.000Z",
           "wordCount": 1964,
           "title": "64-bit ARM With Linux 6.10: Building FIT Images & Optional Disabling 32-bit User-Space",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Staging",
-          "author": "Michael Larabel",
-          "description": "In addition to the Linux 6.10 USB changes and char/misc with the new NTSYNC driver, Greg Kroah-Hartman on Wednesday also sent out the staging updates for Linux 6.10. There isn't much in the way of new code but some 19k lines of code removed thanks to removing an unused driver as well as a broken driver...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Staging",
-          "publishedOn": "2024-05-23T10:58:20.000Z",
-          "wordCount": 1968,
-          "title": "Linux 6.10 Staging Drops Broken & Unused Drivers To Remove 19k L.O.C.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/LLVM-19-Drops-Xeon-Phi",
-          "author": "Michael Larabel",
-          "description": "Similar to the GCC compiler dropping support for the Xeon Phi Knights Mill and Knights Landing accelerators a few days ago, Intel has also gone ahead and seen to the removal of Xeon Phi support for the LLVM/Clang 19 compiler...",
-          "link": "https://www.phoronix.com/news/LLVM-19-Drops-Xeon-Phi",
-          "publishedOn": "2024-05-23T10:44:18.000Z",
-          "wordCount": 1855,
-          "title": "Intel Removes Knights Mill & Knights Landing Xeon Phi Support In LLVM 19",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Non-MM-Patches",
-          "author": "Michael Larabel",
-          "description": "Andrew Morton sent out more patches on Wednesday that have been pulled into the Linux 6.10 kernel. Notable from this latest round of \"non-MM\" updates is enabling more compiler warnings by default and getting newer AMD GPUs working on the RISC-V architecture...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Non-MM-Patches",
-          "publishedOn": "2024-05-23T10:28:29.000Z",
-          "wordCount": 2031,
-          "title": "Newer AMD Radeon Graphics Cards Now Work On RISC-V With Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GNOME-MRE-Over-Mutter-Shell",
-          "author": "Michael Larabel",
-          "description": "GNOME Shell and Mutter had been covered by Ubuntu's GNOME MicroReleaseException \"MRE\" policy that allows for new point releases to ship rather easily as stable updates to existing Ubuntu Linux releases. But breaking the camel's back is GNOME 46.1 shipping explicit sync support. Due to landing a \"significant new feature\" into a point release, the GNOME Shell and Mutter are no longer covered by this exception...",
-          "link": "https://www.phoronix.com/news/GNOME-MRE-Over-Mutter-Shell",
-          "publishedOn": "2024-05-23T10:09:11.000Z",
-          "wordCount": 1851,
-          "title": "GNOME Shell & Mutter Broke Their Good Faith With Ubuntu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-VirtIO",
-          "author": "Michael Larabel",
-          "description": "All of the VirtIO updates are now ready for the Linux 6.10 merge window that is closing this weekend...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-VirtIO",
-          "publishedOn": "2024-05-23T09:57:19.000Z",
-          "wordCount": 1740,
-          "title": "VirtIO Improvements Ready For Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/systemd-256-rc3-Released",
-          "author": "Michael Larabel",
-          "description": "It looks like systemd 256 will officially debut as stable in the near future with systemd 256-rc3 being released today and not tacking on any new features compared to the prior release candidates...",
-          "link": "https://www.phoronix.com/news/systemd-256-rc3-Released",
-          "publishedOn": "2024-05-23T00:37:10.000Z",
-          "wordCount": 1844,
-          "title": "systemd 256 Nears Release With run0, systemd-vpick, importctl & More",
           "imageUrl": null
         }
       ]
