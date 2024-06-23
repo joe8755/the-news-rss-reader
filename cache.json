@@ -294,16 +294,6 @@
           "wordCount": 568,
           "title": "Daily Hacker News for 2024-05-25",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-24.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 24, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nTom Waits vs. Frito-Lay, Inc (2003)\n(comments)\n\n\nBB(3, 4) > Ack(14)\n(comments)\n\n\n300k airplanes in five years\n(comments)\n\n\nMaking EC2 boot time faster\n(comments)\n\n\nMatcha.css – Drop-in semantic styling library in pure CSS\n(comments)\n\n\nCement recycling method could help solve one of the big climate challenges\n(comments)\n\n\nPerplexica: Open-source Perplexity alternative\n(comments)\n\n\n2D Rigid Body Collision Resolution\n(comments)\n\n\nICQ will stop working from June 26\n(comments)\n\n\nFinancial Statement Analysis with Large Language Models\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-24.html",
-          "publishedOn": "2024-05-25T00:00:00.000Z",
-          "wordCount": 556,
-          "title": "Daily Hacker News for 2024-05-24",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,56 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Larry-Finger-Linux-Wireless",
+          "author": "Michael Larabel",
+          "description": "The Linux kernel community has sadly lost one of its longtime, prolific contributors to the wireless (WiFi) drivers...",
+          "link": "https://www.phoronix.com/news/Larry-Finger-Linux-Wireless",
+          "publishedOn": "2024-06-23T10:41:42.000Z",
+          "wordCount": 1759,
+          "title": "Longtime Linux Wireless Developer Passes Away",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Rust-Coreutils-uutils-0.0.27",
+          "author": "Michael Larabel",
+          "description": "The uutils project has released Rust Coreutils 0.0.27 as the newest feature update to this Rust-written, drop-in replacement to the GNU Coreutils as the common set of utilities found on Linux systems and other platforms...",
+          "link": "https://www.phoronix.com/news/Rust-Coreutils-uutils-0.0.27",
+          "publishedOn": "2024-06-23T10:31:31.000Z",
+          "wordCount": 1885,
+          "title": "Rust Coreutils 0.0.27 Continues The Climb Of Better GNU Coreutils Interoperability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AMDGPU-GFX12-DCC-Linux-6.11",
+          "author": "Michael Larabel",
+          "description": "On Friday more AMDGPU/AMDKFD kernel driver changes were submitted for the upcoming Linux 6.11 cycle by way of DRM-Next. We're nearing the end of feature work to DRM-Next before the Linux 6.11 merge window begins in mid-July while this latest AMD pull request continues preparing for upcoming RDNA4 graphics hardware among other changes...",
+          "link": "https://www.phoronix.com/news/AMDGPU-GFX12-DCC-Linux-6.11",
+          "publishedOn": "2024-06-23T10:19:30.000Z",
+          "wordCount": 1805,
+          "title": "AMD Readies More Kernel Graphics Driver Code For Linux 6.11, Enables DCC For RDNA4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-Queue-Per-CPU-Work-QPW",
+          "author": "Michael Larabel",
+          "description": "Red Hat engineer Leonardo Bras has laid out a proposal for QPWs, or \"Queue PerCPU Work\", as a better means of handling per-CPU operations within the Linux kernel especially for real-time (RT) workloads...",
+          "link": "https://www.phoronix.com/news/Linux-Queue-Per-CPU-Work-QPW",
+          "publishedOn": "2024-06-23T10:00:19.000Z",
+          "wordCount": 2022,
+          "title": "Red Hat Proposes Queue PerCPU Work \"QPW\" For Better Handling Per-CPU Work On RT Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Flathub-Two-Billion-Downloads",
+          "author": "Michael Larabel",
+          "description": "Flathub as the centralized repository for serving Flatpak sandboxed Linux applications crossed the threshold this weekend of serving more than two billion downloads...",
+          "link": "https://www.phoronix.com/news/Flathub-Two-Billion-Downloads",
+          "publishedOn": "2024-06-23T01:45:37.000Z",
+          "wordCount": 1709,
+          "title": "Flathub Has Now Served More Than Two Billion Downloads For Flatpaks",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Bcachefs-Tiny-Step-Self-Healing",
           "author": "Michael Larabel",
@@ -2780,86 +2820,6 @@
           "publishedOn": "2024-05-25T10:11:41.000Z",
           "wordCount": 1799,
           "title": "KDE Landed Many Last Minute Features Ahead Of The Plasma 6.1 Beta",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Merges-mseal",
-          "author": "Michael Larabel",
-          "description": "Merged this Friday evening into the Linux 6.10 kernel is the new mseal() system call for memory sealing...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Merges-mseal",
-          "publishedOn": "2024-05-25T00:15:04.000Z",
-          "wordCount": 2017,
-          "title": "Memory Sealing \"mseal\" System Call Merged For Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMD-More-RDNA3-Plus-RDNA4-Fixes",
-          "author": "Michael Larabel",
-          "description": "Famed open-source AMD Mesa driver developer Marek Olšák has landed 13 more patches in Mesa 24.2-devel to provide fixes for GFX12 (RDNA4) graphics IP while also adding more GFX11 (RDNA3) APUs...",
-          "link": "https://www.phoronix.com/news/AMD-More-RDNA3-Plus-RDNA4-Fixes",
-          "publishedOn": "2024-05-24T20:18:34.000Z",
-          "wordCount": 1849,
-          "title": "New AMD RDNA3 APUs Added To Open-Source Linux Driver Along With RDNA4 Fixes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/KDE-Plasma-6.1-Beta",
-          "author": "Michael Larabel",
-          "description": "The beta release of Plasma 6.1 is now available for testing over the US holiday weekend...",
-          "link": "https://www.phoronix.com/news/KDE-Plasma-6.1-Beta",
-          "publishedOn": "2024-05-24T18:24:08.000Z",
-          "wordCount": 1832,
-          "title": "KDE Plasma 6.1 Beta Released With Wayland Explicit Sync, Input Capture Portal & More",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/review/intel-core-ultra-165u",
-          "author": "Michael Larabel",
-          "description": "For those considering an Intel Core Ultra 7 165U \"Meteor Lake\" powered laptop, here are some benchmarks of the 165U using a Lenovo ThinkPad T14 Gen 5 compared against the Acer Swift 14 with the Core Ultra 7 155H (Meteor Lake), the AMD Ryzen 7 7840U (Zen 4) within the Framework 13, and the AMD Ryzen 7 7840HS (Zen 4) within the Framework 16 under Linux.",
-          "link": "https://www.phoronix.com/review/intel-core-ultra-165u",
-          "publishedOn": "2024-05-24T18:00:00.000Z",
-          "wordCount": 2069,
-          "title": "Intel Core Ultra 7 165U \"Meteor Lake\" Linux Performance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/KDE-Lands-Triple-Buffering",
-          "author": "Michael Larabel",
-          "description": "The four month old KWin merge request by Xaver Hugl to allow for triple buffering has been merged and just in time for the Plasma 6.1 code branching!..",
-          "link": "https://www.phoronix.com/news/KDE-Lands-Triple-Buffering",
-          "publishedOn": "2024-05-24T17:34:51.000Z",
-          "wordCount": 1802,
-          "title": "KDE Plasma 6.1 Lands Dynamic Triple Buffering Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/POCL-6.0-RC1",
-          "author": "Michael Larabel",
-          "description": "POCL as the \"Portable Computing Language\" OpenCL implementation that originally began as a CPU-based run-time and has expanded to support a variety of GPU and accelerator targets is out with its first release candidate of the upcoming PoCL 6.0...",
-          "link": "https://www.phoronix.com/news/POCL-6.0-RC1",
-          "publishedOn": "2024-05-24T14:46:07.000Z",
-          "wordCount": 1853,
-          "title": "PoCL 6.0-RC1 OpenCL Bringing OpenMP, Intel oneTBB Driver & Better Level Zero",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Btrfs-norecovery-Linux-6.10",
-          "author": "Michael Larabel",
-          "description": "Last week saw the main Btrfs pull request for Linux 6.10 that delivered on some performance optimizations while today saw a secondary set of merge window changes for this CoW file-system that is now adding back the \"norecovery\" mount option...",
-          "link": "https://www.phoronix.com/news/Btrfs-norecovery-Linux-6.10",
-          "publishedOn": "2024-05-24T14:35:06.000Z",
-          "wordCount": 1792,
-          "title": "Btrfs Sends In Fixes For Linux 6.10 & Restores \"norecovery\" Mount Option",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-DM",
-          "author": "Michael Larabel",
-          "description": "The Device Mapper changes were merged last week into the Linux 6.10 kernel, including a new \"high priority\" option for DM-Crypt...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-DM",
-          "publishedOn": "2024-05-24T13:41:40.000Z",
-          "wordCount": 1835,
-          "title": "DM-Crypt \"High Priority\" In Linux 6.10 Makes For Better Throughput & Latency",
           "imageUrl": null
         }
       ]

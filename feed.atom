@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-23T01:22:41.404Z</updated>
+    <updated>2024-06-23T12:32:16.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Longtime Linux Wireless Developer Passes Away]]></title>
+        <id>https://www.phoronix.com/news/Larry-Finger-Linux-Wireless</id>
+        <link href="https://www.phoronix.com/news/Larry-Finger-Linux-Wireless"/>
+        <updated>2024-06-23T10:41:42.000Z</updated>
+        <summary type="html"><![CDATA[The Linux kernel community has sadly lost one of its longtime, prolific contributors to the wireless (WiFi) drivers...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Coreutils 0.0.27 Continues The Climb Of Better GNU Coreutils Interoperability]]></title>
+        <id>https://www.phoronix.com/news/Rust-Coreutils-uutils-0.0.27</id>
+        <link href="https://www.phoronix.com/news/Rust-Coreutils-uutils-0.0.27"/>
+        <updated>2024-06-23T10:31:31.000Z</updated>
+        <summary type="html"><![CDATA[The uutils project has released Rust Coreutils 0.0.27 as the newest feature update to this Rust-written, drop-in replacement to the GNU Coreutils as the common set of utilities found on Linux systems and other platforms...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Readies More Kernel Graphics Driver Code For Linux 6.11, Enables DCC For RDNA4]]></title>
+        <id>https://www.phoronix.com/news/AMDGPU-GFX12-DCC-Linux-6.11</id>
+        <link href="https://www.phoronix.com/news/AMDGPU-GFX12-DCC-Linux-6.11"/>
+        <updated>2024-06-23T10:19:30.000Z</updated>
+        <summary type="html"><![CDATA[On Friday more AMDGPU/AMDKFD kernel driver changes were submitted for the upcoming Linux 6.11 cycle by way of DRM-Next. We're nearing the end of feature work to DRM-Next before the Linux 6.11 merge window begins in mid-July while this latest AMD pull request continues preparing for upcoming RDNA4 graphics hardware among other changes...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat Proposes Queue PerCPU Work "QPW" For Better Handling Per-CPU Work On RT Linux]]></title>
+        <id>https://www.phoronix.com/news/Linux-Queue-Per-CPU-Work-QPW</id>
+        <link href="https://www.phoronix.com/news/Linux-Queue-Per-CPU-Work-QPW"/>
+        <updated>2024-06-23T10:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat engineer Leonardo Bras has laid out a proposal for QPWs, or "Queue PerCPU Work", as a better means of handling per-CPU operations within the Linux kernel especially for real-time (RT) workloads...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flathub Has Now Served More Than Two Billion Downloads For Flatpaks]]></title>
+        <id>https://www.phoronix.com/news/Flathub-Two-Billion-Downloads</id>
+        <link href="https://www.phoronix.com/news/Flathub-Two-Billion-Downloads"/>
+        <updated>2024-06-23T01:45:37.000Z</updated>
+        <summary type="html"><![CDATA[Flathub as the centralized repository for serving Flatpak sandboxed Linux applications crossed the threshold this weekend of serving more than two billion downloads...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-06-22]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-06-22.html</id>
@@ -4038,140 +4088,6 @@ Google scrambles to manually remove weird AI answers in search
         <link href="https://www.phoronix.com/news/Plasma-6.1-Last-Minute-Features"/>
         <updated>2024-05-25T10:11:41.000Z</updated>
         <summary type="html"><![CDATA[It was a busy week for KDE developers ahead of yesterday's Plasma 6.1 Beta release. KDE developer Nate Graham in his weekly development summary outlined all of the interesting changes to make it into the Plasma 6.1 desktop ahead of the feature freeze that went into effect with the beta release...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory Sealing "mseal" System Call Merged For Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Merges-mseal</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Merges-mseal"/>
-        <updated>2024-05-25T00:15:04.000Z</updated>
-        <summary type="html"><![CDATA[Merged this Friday evening into the Linux 6.10 kernel is the new mseal() system call for memory sealing...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-24]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-24.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-24.html"/>
-        <updated>2024-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 24, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-Tom Waits vs. Frito-Lay, Inc (2003)
-(comments)
-
-
-BB(3, 4) > Ack(14)
-(comments)
-
-
-300k airplanes in five years
-(comments)
-
-
-Making EC2 boot time faster
-(comments)
-
-
-Matcha.css – Drop-in semantic styling library in pure CSS
-(comments)
-
-
-Cement recycling method could help solve one of the big climate challenges
-(comments)
-
-
-Perplexica: Open-source Perplexity alternative
-(comments)
-
-
-2D Rigid Body Collision Resolution
-(comments)
-
-
-ICQ will stop working from June 26
-(comments)
-
-
-Financial Statement Analysis with Large Language Models
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New AMD RDNA3 APUs Added To Open-Source Linux Driver Along With RDNA4 Fixes]]></title>
-        <id>https://www.phoronix.com/news/AMD-More-RDNA3-Plus-RDNA4-Fixes</id>
-        <link href="https://www.phoronix.com/news/AMD-More-RDNA3-Plus-RDNA4-Fixes"/>
-        <updated>2024-05-24T20:18:34.000Z</updated>
-        <summary type="html"><![CDATA[Famed open-source AMD Mesa driver developer Marek Olšák has landed 13 more patches in Mesa 24.2-devel to provide fixes for GFX12 (RDNA4) graphics IP while also adding more GFX11 (RDNA3) APUs...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Plasma 6.1 Beta Released With Wayland Explicit Sync, Input Capture Portal & More]]></title>
-        <id>https://www.phoronix.com/news/KDE-Plasma-6.1-Beta</id>
-        <link href="https://www.phoronix.com/news/KDE-Plasma-6.1-Beta"/>
-        <updated>2024-05-24T18:24:08.000Z</updated>
-        <summary type="html"><![CDATA[The beta release of Plasma 6.1 is now available for testing over the US holiday weekend...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Core Ultra 7 165U "Meteor Lake" Linux Performance]]></title>
-        <id>https://www.phoronix.com/review/intel-core-ultra-165u</id>
-        <link href="https://www.phoronix.com/review/intel-core-ultra-165u"/>
-        <updated>2024-05-24T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For those considering an Intel Core Ultra 7 165U "Meteor Lake" powered laptop, here are some benchmarks of the 165U using a Lenovo ThinkPad T14 Gen 5 compared against the Acer Swift 14 with the Core Ultra 7 155H (Meteor Lake), the AMD Ryzen 7 7840U (Zen 4) within the Framework 13, and the AMD Ryzen 7 7840HS (Zen 4) within the Framework 16 under Linux.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Plasma 6.1 Lands Dynamic Triple Buffering Support]]></title>
-        <id>https://www.phoronix.com/news/KDE-Lands-Triple-Buffering</id>
-        <link href="https://www.phoronix.com/news/KDE-Lands-Triple-Buffering"/>
-        <updated>2024-05-24T17:34:51.000Z</updated>
-        <summary type="html"><![CDATA[The four month old KWin merge request by Xaver Hugl to allow for triple buffering has been merged and just in time for the Plasma 6.1 code branching!..]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PoCL 6.0-RC1 OpenCL Bringing OpenMP, Intel oneTBB Driver & Better Level Zero]]></title>
-        <id>https://www.phoronix.com/news/POCL-6.0-RC1</id>
-        <link href="https://www.phoronix.com/news/POCL-6.0-RC1"/>
-        <updated>2024-05-24T14:46:07.000Z</updated>
-        <summary type="html"><![CDATA[POCL as the "Portable Computing Language" OpenCL implementation that originally began as a CPU-based run-time and has expanded to support a variety of GPU and accelerator targets is out with its first release candidate of the upcoming PoCL 6.0...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Btrfs Sends In Fixes For Linux 6.10 & Restores "norecovery" Mount Option]]></title>
-        <id>https://www.phoronix.com/news/Btrfs-norecovery-Linux-6.10</id>
-        <link href="https://www.phoronix.com/news/Btrfs-norecovery-Linux-6.10"/>
-        <updated>2024-05-24T14:35:06.000Z</updated>
-        <summary type="html"><![CDATA[Last week saw the main Btrfs pull request for Linux 6.10 that delivered on some performance optimizations while today saw a secondary set of merge window changes for this CoW file-system that is now adding back the "norecovery" mount option...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DM-Crypt "High Priority" In Linux 6.10 Makes For Better Throughput & Latency]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-DM</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-DM"/>
-        <updated>2024-05-24T13:41:40.000Z</updated>
-        <summary type="html"><![CDATA[The Device Mapper changes were merged last week into the Linux 6.10 kernel, including a new "high priority" option for DM-Crypt...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
