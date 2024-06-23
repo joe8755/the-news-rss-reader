@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-22T12:31:35.025Z</updated>
+    <updated>2024-06-23T01:22:41.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-22]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-22.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-22.html"/>
+        <updated>2024-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 22, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Show HN: Eidos – Offline alternative to Notion
+(comments)
+
+
+Spending 3 months investigating a 7-year old bug and fixing it in 1 line of code
+(comments)
+
+
+Innovation heroes are a sign of a dysfunctional organization
+(comments)
+
+
+Testing Generative AI for Circuit Board Design
+(comments)
+
+
+Self-driving Waymos secure final clearance for expansion beyond S.F
+(comments)
+
+
+Internet Archive forced to remove 500k books after publishers' court win
+(comments)
+
+
+My Windows Computer Just Doesn't Feel Like Mine Anymore
+(comments)
+
+
+Language is primarily a tool for communication rather than thought [pdf]
+(comments)
+
+
+After my dad died, I ran and sold his company (2018)
+(comments)
+
+
+Andrew S. Tanenbaum Receives ACM Software System Award
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bcachefs Making Tiny Steps Toward Full Self-Healing Capabilities]]></title>
+        <id>https://www.phoronix.com/news/Bcachefs-Tiny-Step-Self-Healing</id>
+        <link href="https://www.phoronix.com/news/Bcachefs-Tiny-Step-Self-Healing"/>
+        <updated>2024-06-22T20:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Another round of Bcachefs file-system fixes were merged today for the in-development Linux 6.10 kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD AI Compiler Engineer Lands A Generic MLIR To SPIR-V Pass In LLVM 19]]></title>
+        <id>https://www.phoronix.com/news/LLVM-19-MLIR-To-SPIR-V</id>
+        <link href="https://www.phoronix.com/news/LLVM-19-MLIR-To-SPIR-V"/>
+        <updated>2024-06-22T12:40:46.000Z</updated>
+        <summary type="html"><![CDATA[Merged on Friday to LLVM 19 Git is a generic MLIR to SPIR-V pass for lowering the Multi-Level Intermediate Representation down into SPIR-V as the intermediate representation consumed by OpenGL / OpenCL / Vulkan drivers...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNOME Seeing Much Work On Their "Setup" OEM Style Installer, Key Rack & oo7]]></title>
         <id>https://www.phoronix.com/news/GNOME-Setup-KeyRack-oo7</id>
@@ -4098,46 +4172,6 @@ Financial Statement Analysis with Large Language Models
         <link href="https://www.phoronix.com/news/Linux-6.10-DM"/>
         <updated>2024-05-24T13:41:40.000Z</updated>
         <summary type="html"><![CDATA[The Device Mapper changes were merged last week into the Linux 6.10 kernel, including a new "high priority" option for DM-Crypt...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PipeWire 1.2 Can Stream To Snapcast Servers For Multi-Room Audio]]></title>
-        <id>https://www.phoronix.com/news/PipeWire-1.2-RC2</id>
-        <link href="https://www.phoronix.com/news/PipeWire-1.2-RC2"/>
-        <updated>2024-05-24T11:11:12.000Z</updated>
-        <summary type="html"><![CDATA[Following the recent PipeWire 1.2 release candidate, a second release candidate is out today that also includes the ability to stream to Snapcast servers...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Hardware Monitoring Includes New Lenovo ThinkStation Driver]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-HWMON</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-HWMON"/>
-        <updated>2024-05-24T10:51:51.000Z</updated>
-        <summary type="html"><![CDATA[The hardware monitoring "HWMON" subsystem changes for the Linux 6.10 kernel include enabling monitoring of more all-in-one liquid coolers for CPUs, a new driver for exposing monitoring on Lenovo ThinkStation workstations, and other new monitoring capabilities...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framework 13 & 16 Added To ChromeOS Platform Driver In Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Framework-CrOS</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Framework-CrOS"/>
-        <updated>2024-05-24T10:43:42.000Z</updated>
-        <summary type="html"><![CDATA[The Framework 13 and Framework 16 AMD Ryzen powered laptops make use of an NPCX embedded controller that rely on the ChromeOS open-source embedded controller (EC) firmware. With the Linux 6.10 kernel the Chrome OS "cros_ec_lpc" driver is being extended to support these latest Framework upgradeable laptops...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Adds Support For The Machenike G5 Pro Controller]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Input</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Input"/>
-        <updated>2024-05-24T10:17:58.000Z</updated>
-        <summary type="html"><![CDATA[Following the HID changes last week that brought Steam Deck IMU and ASUS ROG Ally support along with other Human Interface Device additions, on Thursday the input subsystem updates were submitted for this new kernel. The Machenike G5 Pro gaming controller is now supported along with other input additions...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
