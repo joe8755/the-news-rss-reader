@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-23.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 23, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nI kind of like rebasing\n(comments)\n\n\nThe biggest CRT ever made: Sony's PVM-4300\n(comments)\n\n\nShow HN: I made tool that let's you see everything about any website\n(comments)\n\n\nHH70, the first high-temperature superconducting Tokamak achieves first plasma\n(comments)\n\n\nRuby: A great language for shell scripts\n(comments)\n\n\nI've stopped using box plots (2021)\n(comments)\n\n\nLlama.ttf: A font which is also an LLM\n(comments)\n\n\nI am using AI to drop hats outside my window onto New Yorkers\n(comments)\n\n\nThe tiny chip that powers Montreal subway tickets\n(comments)\n\n\nStart all of your commands with a comma (2009)\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-23.html",
+          "publishedOn": "2024-06-24T00:00:00.000Z",
+          "wordCount": 579,
+          "title": "Daily Hacker News for 2024-06-23",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-22.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 22, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: Eidos – Offline alternative to Notion\n(comments)\n\n\nSpending 3 months investigating a 7-year old bug and fixing it in 1 line of code\n(comments)\n\n\nInnovation heroes are a sign of a dysfunctional organization\n(comments)\n\n\nTesting Generative AI for Circuit Board Design\n(comments)\n\n\nSelf-driving Waymos secure final clearance for expansion beyond S.F\n(comments)\n\n\nInternet Archive forced to remove 500k books after publishers' court win\n(comments)\n\n\nMy Windows Computer Just Doesn't Feel Like Mine Anymore\n(comments)\n\n\nLanguage is primarily a tool for communication rather than thought [pdf]\n(comments)\n\n\nAfter my dad died, I ran and sold his company (2018)\n(comments)\n\n\nAndrew S. Tanenbaum Receives ACM Software System Award\n(comments)",
@@ -302,6 +312,26 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-rc5",
+          "author": "Michael Larabel",
+          "description": "Linus Torvalds has just tagged Linux 6.10-rc5 as the newest weekly test release leading up to the Linux 6.10 stable release by mid-July...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-rc5",
+          "publishedOn": "2024-06-23T21:47:55.000Z",
+          "wordCount": 1936,
+          "title": "Linux 6.10-rc5 Released With This Kernel Cycle Looking Good So Far",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-MM-Local-Kernel-Allocs",
+          "author": "Michael Larabel",
+          "description": "Back in 2019 after various speculation-based CPU vulnerabilities began coming to light, Amazon engineers proposed process-local memory allocations for hiding KVM secrets. They were striving for an alternative mitigation for vulnerabilities like L1TF by essentially providing some memory regions for kernel allocations out of view/access from other kernel code. Amazon engineers this week laid out a new proposal after five years of ongoing Linux kernel improvements for MM-local memory allocations for dealing with current and future speculation-based cross-process attacks...",
+          "link": "https://www.phoronix.com/news/Linux-MM-Local-Kernel-Allocs",
+          "publishedOn": "2024-06-23T13:42:42.000Z",
+          "wordCount": 2168,
+          "title": "Amazon Exploring MM-Local Memory Allocations To Help With Current/Future Speculation Attacks",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Larry-Finger-Linux-Wireless",
           "author": "Michael Larabel",
@@ -2770,56 +2800,6 @@
           "publishedOn": "2024-05-25T13:45:00.000Z",
           "wordCount": 1947,
           "title": "Linux 6.10 Improves AMD ROCm Compute Support For \"Small\" Ryzen APUs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-RISC-V-Image-Comp",
-          "author": "Michael Larabel",
-          "description": "A few days ago with the main RISC-V architecture pull for Linux 6.10 was enabling Rust support within the kernel for this ISA as well as other additions. A secondary set of RISC-V changes have been merged as well ahead of the Linux 6.10 merge window closing this weekend...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-RISC-V-Image-Comp",
-          "publishedOn": "2024-05-25T13:04:32.000Z",
-          "wordCount": 1784,
-          "title": "Linux 6.10 On RISC-V Allows Configurable Boot Image Compression",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Llamafile-0.8.5-Released",
-          "author": "Michael Larabel",
-          "description": "The Mozilla Ocho group has published their newest version of Llamafile, the open-source project that makes it very easy to distribute and run large language models (LLMs) as a single file. Llamafile is an excellent solution for easily sharing and running LLMs and supporting both speedy CPU-based execution as well as GPU acceleration where available...",
-          "link": "https://www.phoronix.com/news/Llamafile-0.8.5-Released",
-          "publishedOn": "2024-05-25T10:50:00.000Z",
-          "wordCount": 1800,
-          "title": "Llamafile 0.8.5 Delivers Greater Performance: Tiny Models 2x Faster On Threadripper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GNOME-Memorial-Week-2024",
-          "author": "Michael Larabel",
-          "description": "This Week In GNOME is out with their newest edition to outline all of the interesting developments as we approach the end of May...",
-          "link": "https://www.phoronix.com/news/GNOME-Memorial-Week-2024",
-          "publishedOn": "2024-05-25T10:33:41.000Z",
-          "wordCount": 1810,
-          "title": "GNOME Continues Working On New Installer, \"Major Issue\" With STF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-NPU-Accel-Lib-1.1",
-          "author": "Michael Larabel",
-          "description": "Intel software engineers did a late Friday night release of the Intel NPU Acceleration Library v1.1, their Python library for tapping into the Intel Neural Processing Unit (NPU) found on the new Core Ultra (Meteor Lake) processors. This Python library makes it easier to interface with the Intel VPU/NPU kernel driver and in turn enjoying accelerated operations for AI...",
-          "link": "https://www.phoronix.com/news/Intel-NPU-Accel-Lib-1.1",
-          "publishedOn": "2024-05-25T10:18:50.000Z",
-          "wordCount": 1842,
-          "title": "Intel NPU Acceleration Library 1.1 Adds New Model Support & Optimizations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Plasma-6.1-Last-Minute-Features",
-          "author": "Michael Larabel",
-          "description": "It was a busy week for KDE developers ahead of yesterday's Plasma 6.1 Beta release. KDE developer Nate Graham in his weekly development summary outlined all of the interesting changes to make it into the Plasma 6.1 desktop ahead of the feature freeze that went into effect with the beta release...",
-          "link": "https://www.phoronix.com/news/Plasma-6.1-Last-Minute-Features",
-          "publishedOn": "2024-05-25T10:11:41.000Z",
-          "wordCount": 1799,
-          "title": "KDE Landed Many Last Minute Features Ahead Of The Plasma 6.1 Beta",
           "imageUrl": null
         }
       ]

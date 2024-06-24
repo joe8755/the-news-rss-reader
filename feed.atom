@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-23T12:32:16.131Z</updated>
+    <updated>2024-06-24T01:19:17.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-23]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-23.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-23.html"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 23, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+I kind of like rebasing
+(comments)
+
+
+The biggest CRT ever made: Sony's PVM-4300
+(comments)
+
+
+Show HN: I made tool that let's you see everything about any website
+(comments)
+
+
+HH70, the first high-temperature superconducting Tokamak achieves first plasma
+(comments)
+
+
+Ruby: A great language for shell scripts
+(comments)
+
+
+I've stopped using box plots (2021)
+(comments)
+
+
+Llama.ttf: A font which is also an LLM
+(comments)
+
+
+I am using AI to drop hats outside my window onto New Yorkers
+(comments)
+
+
+The tiny chip that powers Montreal subway tickets
+(comments)
+
+
+Start all of your commands with a comma (2009)
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10-rc5 Released With This Kernel Cycle Looking Good So Far]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-rc5</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-rc5"/>
+        <updated>2024-06-23T21:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds has just tagged Linux 6.10-rc5 as the newest weekly test release leading up to the Linux 6.10 stable release by mid-July...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Exploring MM-Local Memory Allocations To Help With Current/Future Speculation Attacks]]></title>
+        <id>https://www.phoronix.com/news/Linux-MM-Local-Kernel-Allocs</id>
+        <link href="https://www.phoronix.com/news/Linux-MM-Local-Kernel-Allocs"/>
+        <updated>2024-06-23T13:42:42.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2019 after various speculation-based CPU vulnerabilities began coming to light, Amazon engineers proposed process-local memory allocations for hiding KVM secrets. They were striving for an alternative mitigation for vulnerabilities like L1TF by essentially providing some memory regions for kernel allocations out of view/access from other kernel code. Amazon engineers this week laid out a new proposal after five years of ongoing Linux kernel improvements for MM-local memory allocations for dealing with current and future speculation-based cross-process attacks...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Longtime Linux Wireless Developer Passes Away]]></title>
         <id>https://www.phoronix.com/news/Larry-Finger-Linux-Wireless</id>
@@ -4038,56 +4112,6 @@ Google scrambles to manually remove weird AI answers in search
         <link href="https://www.phoronix.com/news/Linux-6.10-AMDKFD-Small-APUs"/>
         <updated>2024-05-25T13:45:00.000Z</updated>
         <summary type="html"><![CDATA[Sneaking in as a "fix" for the Linux 6.10 kernel is an enhancement to the AMDKFD kernel compute driver used by the ROCm compute stack for better supporting small Ryzen APUs like client and embedded SoCs...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 On RISC-V Allows Configurable Boot Image Compression]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-RISC-V-Image-Comp</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-RISC-V-Image-Comp"/>
-        <updated>2024-05-25T13:04:32.000Z</updated>
-        <summary type="html"><![CDATA[A few days ago with the main RISC-V architecture pull for Linux 6.10 was enabling Rust support within the kernel for this ISA as well as other additions. A secondary set of RISC-V changes have been merged as well ahead of the Linux 6.10 merge window closing this weekend...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Llamafile 0.8.5 Delivers Greater Performance: Tiny Models 2x Faster On Threadripper]]></title>
-        <id>https://www.phoronix.com/news/Llamafile-0.8.5-Released</id>
-        <link href="https://www.phoronix.com/news/Llamafile-0.8.5-Released"/>
-        <updated>2024-05-25T10:50:00.000Z</updated>
-        <summary type="html"><![CDATA[The Mozilla Ocho group has published their newest version of Llamafile, the open-source project that makes it very easy to distribute and run large language models (LLMs) as a single file. Llamafile is an excellent solution for easily sharing and running LLMs and supporting both speedy CPU-based execution as well as GPU acceleration where available...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME Continues Working On New Installer, "Major Issue" With STF]]></title>
-        <id>https://www.phoronix.com/news/GNOME-Memorial-Week-2024</id>
-        <link href="https://www.phoronix.com/news/GNOME-Memorial-Week-2024"/>
-        <updated>2024-05-25T10:33:41.000Z</updated>
-        <summary type="html"><![CDATA[This Week In GNOME is out with their newest edition to outline all of the interesting developments as we approach the end of May...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel NPU Acceleration Library 1.1 Adds New Model Support & Optimizations]]></title>
-        <id>https://www.phoronix.com/news/Intel-NPU-Accel-Lib-1.1</id>
-        <link href="https://www.phoronix.com/news/Intel-NPU-Accel-Lib-1.1"/>
-        <updated>2024-05-25T10:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Intel software engineers did a late Friday night release of the Intel NPU Acceleration Library v1.1, their Python library for tapping into the Intel Neural Processing Unit (NPU) found on the new Core Ultra (Meteor Lake) processors. This Python library makes it easier to interface with the Intel VPU/NPU kernel driver and in turn enjoying accelerated operations for AI...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Landed Many Last Minute Features Ahead Of The Plasma 6.1 Beta]]></title>
-        <id>https://www.phoronix.com/news/Plasma-6.1-Last-Minute-Features</id>
-        <link href="https://www.phoronix.com/news/Plasma-6.1-Last-Minute-Features"/>
-        <updated>2024-05-25T10:11:41.000Z</updated>
-        <summary type="html"><![CDATA[It was a busy week for KDE developers ahead of yesterday's Plasma 6.1 Beta release. KDE developer Nate Graham in his weekly development summary outlined all of the interesting changes to make it into the Plasma 6.1 desktop ahead of the feature freeze that went into effect with the beta release...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
