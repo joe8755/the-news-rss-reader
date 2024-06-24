@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-24T01:19:17.430Z</updated>
+    <updated>2024-06-24T12:34:49.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 24.10 Now Defaults To NVIDIA On Wayland]]></title>
+        <id>https://www.phoronix.com/news/Ubuntu-24.10-GDM-Wayland-NVIDIA</id>
+        <link href="https://www.phoronix.com/news/Ubuntu-24.10-GDM-Wayland-NVIDIA"/>
+        <updated>2024-06-24T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[With Ubuntu 24.10 due for release in October one of the expressed planned changes has been NVIDIA defaulting to using Wayland rather than X11 for the default desktop session. As of this past week the change is now in place for Ubuntu 24.10 daily users that will find Wayland-by-default when using the official NVIDIA Linux graphics driver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CentOS Linux 7 Is End-Of-Life Next Week]]></title>
+        <id>https://www.phoronix.com/news/CentOS-7-EOL-Next-Week</id>
+        <link href="https://www.phoronix.com/news/CentOS-7-EOL-Next-Week"/>
+        <updated>2024-06-24T10:37:09.000Z</updated>
+        <summary type="html"><![CDATA[Just a friendly reminder that if you've been procrastinating in migrating past the once-great CentOS Linux 7, there is less than one week to go now until it's officially end-of-life...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm Aiming For Snapdragon X Elite GPU Support In Linux 6.11]]></title>
+        <id>https://www.phoronix.com/news/Qualcomm-Adreno-X1-85-GPU-Linux</id>
+        <link href="https://www.phoronix.com/news/Qualcomm-Adreno-X1-85-GPU-Linux"/>
+        <updated>2024-06-24T10:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Qualcomm engineers on Sunday posted patches for enabling the Adreno X1-85 GPU within the MSM DRM driver. The Adreno X1-85 GPU is what's found within the Snapdragon X Elite SoC powering various new Windows ARM laptops although the Linux support continues maturing too for these platforms...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASUS ROG Raikiri Pro Controller Support Being Added To Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/ASUS-ROG-Raikiri-Pro-Linux-6.10</id>
+        <link href="https://www.phoronix.com/news/ASUS-ROG-Raikiri-Pro-Linux-6.10"/>
+        <updated>2024-06-24T09:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Back during the Linux 6.9 kernel cycle support was added for the ASUS ROG Raikiri as a newer gaming controller. Now on its way for landing in Linux 6.10 is support for the ASUS ROG Raikiri Pro...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-06-23]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-06-23.html</id>
@@ -4048,70 +4088,6 @@ Google Meet rolls out multi-device adaptive audio merging
         <link href="https://www.phoronix.com/news/Linux-6.10-NTFS-Fixes"/>
         <updated>2024-05-26T10:01:39.000Z</updated>
         <summary type="html"><![CDATA[While not as exciting as XFS expanding its online repair support, Bcachefs prepping for online fsck, Btrfs seeing some performance work, or F2FS improving zoned storage support, the modern NTFS driver "NTFS3" saw a set of fixes land for the Linux 6.10 kernel...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-25]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-25.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-25.html"/>
-        <updated>2024-05-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 25, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-Show HN: We open sourced our entire text-to-SQL product
-(comments)
-
-
-Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic
-(comments)
-
-
-Sharing details on a recent incident impacting one of our customers
-(comments)
-
-
-Thermodynamic Natural Gradient Descent
-(comments)
-
-
-Samsung WB850F Firmware Reverse Engineering
-(comments)
-
-
-Writing a Unix clone in about a month
-(comments)
-
-
-Mp3tag – Universal Tag Editor
-(comments)
-
-
-Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go
-(comments)
-
-
-Abusing Go's Infrastructure
-(comments)
-
-
-Google scrambles to manually remove weird AI answers in search
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Improves AMD ROCm Compute Support For "Small" Ryzen APUs]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-AMDKFD-Small-APUs</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-AMDKFD-Small-APUs"/>
-        <updated>2024-05-25T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Sneaking in as a "fix" for the Linux 6.10 kernel is an enhancement to the AMDKFD kernel compute driver used by the ROCm compute stack for better supporting small Ryzen APUs like client and embedded SoCs...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>

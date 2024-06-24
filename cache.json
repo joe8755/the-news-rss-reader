@@ -294,16 +294,6 @@
           "wordCount": 561,
           "title": "Daily Hacker News for 2024-05-26",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-25.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 25, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nShow HN: We open sourced our entire text-to-SQL product\n(comments)\n\n\nVoxel Displacement Renderer – Modernizing the Retro 3D Aesthetic\n(comments)\n\n\nSharing details on a recent incident impacting one of our customers\n(comments)\n\n\nThermodynamic Natural Gradient Descent\n(comments)\n\n\nSamsung WB850F Firmware Reverse Engineering\n(comments)\n\n\nWriting a Unix clone in about a month\n(comments)\n\n\nMp3tag – Universal Tag Editor\n(comments)\n\n\nShow HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go\n(comments)\n\n\nAbusing Go's Infrastructure\n(comments)\n\n\nGoogle scrambles to manually remove weird AI answers in search\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-25.html",
-          "publishedOn": "2024-05-26T00:00:00.000Z",
-          "wordCount": 568,
-          "title": "Daily Hacker News for 2024-05-25",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Ubuntu-24.10-GDM-Wayland-NVIDIA",
+          "author": "Michael Larabel",
+          "description": "With Ubuntu 24.10 due for release in October one of the expressed planned changes has been NVIDIA defaulting to using Wayland rather than X11 for the default desktop session. As of this past week the change is now in place for Ubuntu 24.10 daily users that will find Wayland-by-default when using the official NVIDIA Linux graphics driver...",
+          "link": "https://www.phoronix.com/news/Ubuntu-24.10-GDM-Wayland-NVIDIA",
+          "publishedOn": "2024-06-24T10:50:00.000Z",
+          "wordCount": 1939,
+          "title": "Ubuntu 24.10 Now Defaults To NVIDIA On Wayland",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/CentOS-7-EOL-Next-Week",
+          "author": "Michael Larabel",
+          "description": "Just a friendly reminder that if you've been procrastinating in migrating past the once-great CentOS Linux 7, there is less than one week to go now until it's officially end-of-life...",
+          "link": "https://www.phoronix.com/news/CentOS-7-EOL-Next-Week",
+          "publishedOn": "2024-06-24T10:37:09.000Z",
+          "wordCount": 1829,
+          "title": "CentOS Linux 7 Is End-Of-Life Next Week",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Qualcomm-Adreno-X1-85-GPU-Linux",
+          "author": "Michael Larabel",
+          "description": "Qualcomm engineers on Sunday posted patches for enabling the Adreno X1-85 GPU within the MSM DRM driver. The Adreno X1-85 GPU is what's found within the Snapdragon X Elite SoC powering various new Windows ARM laptops although the Linux support continues maturing too for these platforms...",
+          "link": "https://www.phoronix.com/news/Qualcomm-Adreno-X1-85-GPU-Linux",
+          "publishedOn": "2024-06-24T10:22:56.000Z",
+          "wordCount": 1897,
+          "title": "Qualcomm Aiming For Snapdragon X Elite GPU Support In Linux 6.11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/ASUS-ROG-Raikiri-Pro-Linux-6.10",
+          "author": "Michael Larabel",
+          "description": "Back during the Linux 6.9 kernel cycle support was added for the ASUS ROG Raikiri as a newer gaming controller. Now on its way for landing in Linux 6.10 is support for the ASUS ROG Raikiri Pro...",
+          "link": "https://www.phoronix.com/news/ASUS-ROG-Raikiri-Pro-Linux-6.10",
+          "publishedOn": "2024-06-24T09:55:13.000Z",
+          "wordCount": 1875,
+          "title": "ASUS ROG Raikiri Pro Controller Support Being Added To Linux 6.10",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.10-rc5",
           "author": "Michael Larabel",
@@ -2790,16 +2820,6 @@
           "publishedOn": "2024-05-26T10:01:39.000Z",
           "wordCount": 1898,
           "title": "Modern NTFS Driver Sees Bug Fixes With Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-AMDKFD-Small-APUs",
-          "author": "Michael Larabel",
-          "description": "Sneaking in as a \"fix\" for the Linux 6.10 kernel is an enhancement to the AMDKFD kernel compute driver used by the ROCm compute stack for better supporting small Ryzen APUs like client and embedded SoCs...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-AMDKFD-Small-APUs",
-          "publishedOn": "2024-05-25T13:45:00.000Z",
-          "wordCount": 1947,
-          "title": "Linux 6.10 Improves AMD ROCm Compute Support For \"Small\" Ryzen APUs",
           "imageUrl": null
         }
       ]
