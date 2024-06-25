@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-24T12:34:49.665Z</updated>
+    <updated>2024-06-25T01:18:06.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-24]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-24.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-24.html"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 24, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Timeliness without datagrams using QUIC
+(comments)
+
+
+Detecting hallucinations in large language models using semantic entropy
+(comments)
+
+
+LINQPad – The .NET Programmer's Playground
+(comments)
+
+
+Apple's secret silicon fab next to thousands of homes
+(comments)
+
+
+Cosmopolitan v3.5
+(comments)
+
+
+US prosecutors recommend Justice Department criminally charge Boeing
+(comments)
+
+
+Apple found in breach of EU competition rules
+(comments)
+
+
+Microfeatures I love in blogs and personal websites
+(comments)
+
+
+Car dealerships revert to pens and paper after cyberattacks on software provider
+(comments)
+
+
+Windows 11 is now enabling OneDrive folder backup without asking permission
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RadeonSI Enables Compute PBO Blits: "Massively Improves Perf In A Number Of Cases"]]></title>
+        <id>https://www.phoronix.com/news/RadeonSI-Compute-PBO-Blits</id>
+        <link href="https://www.phoronix.com/news/RadeonSI-Compute-PBO-Blits"/>
+        <updated>2024-06-24T17:59:01.000Z</updated>
+        <summary type="html"><![CDATA[Related to the work by Mike Blumenkrantz for significantly improving the Mesa glReadPixels performance by more than 100%, the open-source driver developer at Valve has now enabled compute PBO blits within mainline Mesa for the AMD Radeon "RadeonSI" Gallium3D driver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Llamafile 0.8.7 Brings Fixes, Better ARM Performance & Preps For New Server]]></title>
+        <id>https://www.phoronix.com/news/Llamafile-0.8.7-Released</id>
+        <link href="https://www.phoronix.com/news/Llamafile-0.8.7-Released"/>
+        <updated>2024-06-24T15:11:01.000Z</updated>
+        <summary type="html"><![CDATA[Llamafile has been one of the better new initiatives out of Mozilla in recent years. Llamafile makes it easy to conveniently distribute and run large language models as a single file while supporting both CPU and GPU execution and all-around making AI LLMs much more approachable for end-users. Out today is Llamafile 0.8.7 with more performance optimizations and new features...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel P-State Patches Further Tune Linux For Better Scheduling On Hybrid CPUs]]></title>
+        <id>https://www.phoronix.com/news/Intel-P-State-Asymmetric-Cap</id>
+        <link href="https://www.phoronix.com/news/Intel-P-State-Asymmetric-Cap"/>
+        <updated>2024-06-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new set of patches are currently being tested for improving task scheduling and in turn performance for modern Intel Core hybrid processors. With the patch also mentioning systems that are hybrid but without SMT, this looks like it may be some early tuning as well for upcoming Intel Lunar Lake processors that lack Hyper Threading...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ubuntu 24.10 Now Defaults To NVIDIA On Wayland]]></title>
         <id>https://www.phoronix.com/news/Ubuntu-24.10-GDM-Wayland-NVIDIA</id>
@@ -4048,46 +4132,6 @@ Google Meet rolls out multi-device adaptive audio merging
         <link href="https://www.phoronix.com/news/Intel-NPU-iVPU-Refactoring"/>
         <updated>2024-05-26T13:50:19.000Z</updated>
         <summary type="html"><![CDATA[Intel's open-source NPU "iVPU" Linux kernel driver for supporting their Neural Processing Unit beginning with Core Ultra "Meteor Lake" processors is already seeing a code refactoring. The refactoring of this Intel accelerator driver is intended for allowing more versatile CPU and NPU combinations moving forward...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 Supports NUMA Balancing For Multi-Size THPs]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-MM</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-MM"/>
-        <updated>2024-05-26T10:59:13.000Z</updated>
-        <summary type="html"><![CDATA[With the memory management "MM" updates merged for the Linux 6.10 there is now NUMA balancing support for multi-size transparent hugepages (THPs). This is yielding some nice performance results and there is also other work in this new kernel around multi-size THPs...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updated Patches For AMD "Fast CPPC" To Yield Higher Performance At Same Power Level]]></title>
-        <id>https://www.phoronix.com/news/AMD-Fast-CPPC-v4-Linux</id>
-        <link href="https://www.phoronix.com/news/AMD-Fast-CPPC-v4-Linux"/>
-        <updated>2024-05-26T10:30:29.000Z</updated>
-        <summary type="html"><![CDATA[One of the patch series that sadly was not ready in time for the Linux 6.10 merge window and thus will need to wait a few months for at least the next kernel is enabling AMD Fast CPPC support for Zen 4 processors. Fast CPPC aims to allow the processor to deliver higher performance at the same power consumption...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nouveau DRM_Panic Being Worked On For Linux "Blue Screen Of Death" Type Situations]]></title>
-        <id>https://www.phoronix.com/news/Nouveau-DRM-Panic-Patches</id>
-        <link href="https://www.phoronix.com/news/Nouveau-DRM-Panic-Patches"/>
-        <updated>2024-05-26T10:15:17.000Z</updated>
-        <summary type="html"><![CDATA[Merged for Linux 6.10 is DRM_Panic as a kernel panic screen for situations akin to Windows' well known "Blue Screen of Death". This is a kernel-based panic screen as an  alternative to systemd's recent systemd-bsod. Patches have been posted by Red Hat for allowing the open-source NVIDIA "Nouveau" Direct Rendering Manager driver to work with DRM Panic...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern NTFS Driver Sees Bug Fixes With Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-NTFS-Fixes</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-NTFS-Fixes"/>
-        <updated>2024-05-26T10:01:39.000Z</updated>
-        <summary type="html"><![CDATA[While not as exciting as XFS expanding its online repair support, Bcachefs prepping for online fsck, Btrfs seeing some performance work, or F2FS improving zoned storage support, the modern NTFS driver "NTFS3" saw a set of fixes land for the Linux 6.10 kernel...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>

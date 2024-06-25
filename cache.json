@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-24.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 24, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nTimeliness without datagrams using QUIC\n(comments)\n\n\nDetecting hallucinations in large language models using semantic entropy\n(comments)\n\n\nLINQPad – The .NET Programmer's Playground\n(comments)\n\n\nApple's secret silicon fab next to thousands of homes\n(comments)\n\n\nCosmopolitan v3.5\n(comments)\n\n\nUS prosecutors recommend Justice Department criminally charge Boeing\n(comments)\n\n\nApple found in breach of EU competition rules\n(comments)\n\n\nMicrofeatures I love in blogs and personal websites\n(comments)\n\n\nCar dealerships revert to pens and paper after cyberattacks on software provider\n(comments)\n\n\nWindows 11 is now enabling OneDrive folder backup without asking permission\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-24.html",
+          "publishedOn": "2024-06-25T00:00:00.000Z",
+          "wordCount": 572,
+          "title": "Daily Hacker News for 2024-06-24",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-23.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 23, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nI kind of like rebasing\n(comments)\n\n\nThe biggest CRT ever made: Sony's PVM-4300\n(comments)\n\n\nShow HN: I made tool that let's you see everything about any website\n(comments)\n\n\nHH70, the first high-temperature superconducting Tokamak achieves first plasma\n(comments)\n\n\nRuby: A great language for shell scripts\n(comments)\n\n\nI've stopped using box plots (2021)\n(comments)\n\n\nLlama.ttf: A font which is also an LLM\n(comments)\n\n\nI am using AI to drop hats outside my window onto New Yorkers\n(comments)\n\n\nThe tiny chip that powers Montreal subway tickets\n(comments)\n\n\nStart all of your commands with a comma (2009)\n(comments)",
@@ -302,6 +312,36 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/RadeonSI-Compute-PBO-Blits",
+          "author": "Michael Larabel",
+          "description": "Related to the work by Mike Blumenkrantz for significantly improving the Mesa glReadPixels performance by more than 100%, the open-source driver developer at Valve has now enabled compute PBO blits within mainline Mesa for the AMD Radeon \"RadeonSI\" Gallium3D driver...",
+          "link": "https://www.phoronix.com/news/RadeonSI-Compute-PBO-Blits",
+          "publishedOn": "2024-06-24T17:59:01.000Z",
+          "wordCount": 1799,
+          "title": "RadeonSI Enables Compute PBO Blits: \"Massively Improves Perf In A Number Of Cases\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Llamafile-0.8.7-Released",
+          "author": "Michael Larabel",
+          "description": "Llamafile has been one of the better new initiatives out of Mozilla in recent years. Llamafile makes it easy to conveniently distribute and run large language models as a single file while supporting both CPU and GPU execution and all-around making AI LLMs much more approachable for end-users. Out today is Llamafile 0.8.7 with more performance optimizations and new features...",
+          "link": "https://www.phoronix.com/news/Llamafile-0.8.7-Released",
+          "publishedOn": "2024-06-24T15:11:01.000Z",
+          "wordCount": 1949,
+          "title": "Llamafile 0.8.7 Brings Fixes, Better ARM Performance & Preps For New Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-P-State-Asymmetric-Cap",
+          "author": "Michael Larabel",
+          "description": "A new set of patches are currently being tested for improving task scheduling and in turn performance for modern Intel Core hybrid processors. With the patch also mentioning systems that are hybrid but without SMT, this looks like it may be some early tuning as well for upcoming Intel Lunar Lake processors that lack Hyper Threading...",
+          "link": "https://www.phoronix.com/news/Intel-P-State-Asymmetric-Cap",
+          "publishedOn": "2024-06-24T14:00:00.000Z",
+          "wordCount": 2419,
+          "title": "Intel P-State Patches Further Tune Linux For Better Scheduling On Hybrid CPUs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Ubuntu-24.10-GDM-Wayland-NVIDIA",
           "author": "Michael Larabel",
@@ -2780,46 +2820,6 @@
           "publishedOn": "2024-05-26T13:50:19.000Z",
           "wordCount": 1980,
           "title": "Intel NPU Driver Being Refactored For More Versatile CPU+NPU Handling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-MM",
-          "author": "Michael Larabel",
-          "description": "With the memory management \"MM\" updates merged for the Linux 6.10 there is now NUMA balancing support for multi-size transparent hugepages (THPs). This is yielding some nice performance results and there is also other work in this new kernel around multi-size THPs...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-MM",
-          "publishedOn": "2024-05-26T10:59:13.000Z",
-          "wordCount": 1771,
-          "title": "Linux 6.10 Supports NUMA Balancing For Multi-Size THPs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMD-Fast-CPPC-v4-Linux",
-          "author": "Michael Larabel",
-          "description": "One of the patch series that sadly was not ready in time for the Linux 6.10 merge window and thus will need to wait a few months for at least the next kernel is enabling AMD Fast CPPC support for Zen 4 processors. Fast CPPC aims to allow the processor to deliver higher performance at the same power consumption...",
-          "link": "https://www.phoronix.com/news/AMD-Fast-CPPC-v4-Linux",
-          "publishedOn": "2024-05-26T10:30:29.000Z",
-          "wordCount": 1909,
-          "title": "Updated Patches For AMD \"Fast CPPC\" To Yield Higher Performance At Same Power Level",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Nouveau-DRM-Panic-Patches",
-          "author": "Michael Larabel",
-          "description": "Merged for Linux 6.10 is DRM_Panic as a kernel panic screen for situations akin to Windows' well known \"Blue Screen of Death\". This is a kernel-based panic screen as an  alternative to systemd's recent systemd-bsod. Patches have been posted by Red Hat for allowing the open-source NVIDIA \"Nouveau\" Direct Rendering Manager driver to work with DRM Panic...",
-          "link": "https://www.phoronix.com/news/Nouveau-DRM-Panic-Patches",
-          "publishedOn": "2024-05-26T10:15:17.000Z",
-          "wordCount": 1970,
-          "title": "Nouveau DRM_Panic Being Worked On For Linux \"Blue Screen Of Death\" Type Situations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-NTFS-Fixes",
-          "author": "Michael Larabel",
-          "description": "While not as exciting as XFS expanding its online repair support, Bcachefs prepping for online fsck, Btrfs seeing some performance work, or F2FS improving zoned storage support, the modern NTFS driver \"NTFS3\" saw a set of fixes land for the Linux 6.10 kernel...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-NTFS-Fixes",
-          "publishedOn": "2024-05-26T10:01:39.000Z",
-          "wordCount": 1898,
-          "title": "Modern NTFS Driver Sees Bug Fixes With Linux 6.10",
           "imageUrl": null
         }
       ]
