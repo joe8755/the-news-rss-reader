@@ -294,16 +294,6 @@
           "wordCount": 572,
           "title": "Daily Hacker News for 2024-05-27",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-26.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 26, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\n&udm=14 – easy access to an AI-free Google search\n(comments)\n\n\nSo good, it works on barbed wire (2001)\n(comments)\n\n\nHelen Keller on her life before self-consciousness (1908)\n(comments)\n\n\nDiffusion Models\n(comments)\n\n\nAsk HN: What is your ChatGPT customization prompt?\n(comments)\n\n\nHow Home Assistant is being used to protect from missile and drone attacks\n(comments)\n\n\nBraid: Synchronization for HTTP\n(comments)\n\n\nHurl, the Exceptional Language\n(comments)\n\n\nCloudflare took down our website\n(comments)\n\n\nGoogle Meet rolls out multi-device adaptive audio merging\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-26.html",
-          "publishedOn": "2024-05-27T00:00:00.000Z",
-          "wordCount": 561,
-          "title": "Daily Hacker News for 2024-05-26",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMD-P-State-Linux-6.11-Round-2",
+          "author": "Michael Larabel",
+          "description": "Earlier this month AMD Fast CPPC support was queued into the Linux power management subsystem's \"-next\" codebase ahead of the Linux 6.11 cycle. Additional AMD P-State driver enhancements are now deemed ready and submitted for staging ahead of next month's Linux 6.11 cycle kicking off...",
+          "link": "https://www.phoronix.com/news/AMD-P-State-Linux-6.11-Round-2",
+          "publishedOn": "2024-06-25T10:49:00.000Z",
+          "wordCount": 1923,
+          "title": "More AMD P-State Driver Improvements Queued For Linux 6.11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-ANV-Sparse-Zink-Fixes",
+          "author": "Michael Larabel",
+          "description": "The open-source Intel ANV Vulkan driver has recently been seeing improvements around better handling the Zink OpenGL-on-Vulkan driver...",
+          "link": "https://www.phoronix.com/news/Intel-ANV-Sparse-Zink-Fixes",
+          "publishedOn": "2024-06-25T10:33:02.000Z",
+          "wordCount": 1806,
+          "title": "Intel Vulkan Driver Sees Fixes To Improve OpenGL-On-Vulkan Zink Compatibility",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Fedora-41-Anaconda-Wayland",
+          "author": "Michael Larabel",
+          "description": "With Fedora's new web-based installer UI being delayed to 2025 with Fedora 42, part of Red Hat's justification for that setback was needing to invest resources first in Fedora 41 by transitioning the OS installer to being a native Wayland application. The Fedora Engineering and Steering Committee (FESCo) has now signed off on that work as expected to make the Anaconda OS installer a native Wayland application...",
+          "link": "https://www.phoronix.com/news/Fedora-41-Anaconda-Wayland",
+          "publishedOn": "2024-06-25T10:08:00.000Z",
+          "wordCount": 1916,
+          "title": "Fedora 41 Installer Proceeding To Transition From X11 To Wayland App",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/OpenShot-3.2-Released",
+          "author": "Michael Larabel",
+          "description": "OpenShot 3.2 has been released as the latest feature update to this open-source, non-linear video editor that is popular on Linux systems...",
+          "link": "https://www.phoronix.com/news/OpenShot-3.2-Released",
+          "publishedOn": "2024-06-25T09:38:45.000Z",
+          "wordCount": 1665,
+          "title": "OpenShot 3.2 Released With Better Performance For This Open-Source Video Editor",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/RadeonSI-Compute-PBO-Blits",
           "author": "Michael Larabel",
@@ -2800,26 +2830,6 @@
           "publishedOn": "2024-05-27T10:26:31.000Z",
           "wordCount": 2315,
           "title": "An End-User Has Made It Easier To Build ROCm & AMD GPU Machine Learning Software",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-rc1",
-          "author": "Michael Larabel",
-          "description": "The Linux 6.10-rc1 kernel was just released to top off the Linux 6.10 merge window...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-rc1",
-          "publishedOn": "2024-05-26T22:38:15.000Z",
-          "wordCount": 2015,
-          "title": "Linux 6.10-rc1 Kernel Released With Many New Features",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-NPU-iVPU-Refactoring",
-          "author": "Michael Larabel",
-          "description": "Intel's open-source NPU \"iVPU\" Linux kernel driver for supporting their Neural Processing Unit beginning with Core Ultra \"Meteor Lake\" processors is already seeing a code refactoring. The refactoring of this Intel accelerator driver is intended for allowing more versatile CPU and NPU combinations moving forward...",
-          "link": "https://www.phoronix.com/news/Intel-NPU-iVPU-Refactoring",
-          "publishedOn": "2024-05-26T13:50:19.000Z",
-          "wordCount": 1980,
-          "title": "Intel NPU Driver Being Refactored For More Versatile CPU+NPU Handling",
           "imageUrl": null
         }
       ]
