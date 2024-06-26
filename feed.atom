@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-25T12:34:05.963Z</updated>
+    <updated>2024-06-26T01:18:09.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-25]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-25.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-25.html"/>
+        <updated>2024-06-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 25, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+More Memory Safety for Let's Encrypt: Deploying ntpd-rs
+(comments)
+
+
+The case for not sanitising fairy tales
+(comments)
+
+
+Round Rects Are Everywhere
+(comments)
+
+
+Julian Assange has reached a plea deal with the U.S., allowing him to go free
+(comments)
+
+
+SIMD-accelerated computer vision on a $2 microcontroller
+(comments)
+
+
+Local First, Forever
+(comments)
+
+
+Microsoft breached antitrust rules by bundling Teams and Office, EU says
+(comments)
+
+
+Microsoft removes documentation for switching to a local account in Windows 11
+(comments)
+
+
+Show HN: I built a JavaScript-powered flipdisc display
+(comments)
+
+
+Polyfill supply chain attack hits 100K+ sites
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NUMA Emulation Yields "Significant Performance Uplift" To Raspberry Pi 5]]></title>
+        <id>https://www.phoronix.com/news/ARM64-NUMA-Emulation-RPi5</id>
+        <link href="https://www.phoronix.com/news/ARM64-NUMA-Emulation-RPi5"/>
+        <updated>2024-06-25T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Engineers at consulting firm Igalia are exploring NUMA emulation for ARM64 (AArch64) due to the potential of "significant" performance uplift as observed on the popular Raspberry Pi 5 single board computer...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6.1 Performing Much Better On Older Intel Integrated Graphics]]></title>
+        <id>https://www.phoronix.com/news/KDE-Plasma-6.1-Intel-iGPU</id>
+        <link href="https://www.phoronix.com/news/KDE-Plasma-6.1-Intel-iGPU"/>
+        <updated>2024-06-25T15:01:34.000Z</updated>
+        <summary type="html"><![CDATA[With the recently released KDE Plasma 6.1 desktop environment, those still relying on old Intel integrated graphics should have a much more pleasant experience thanks to improvements made to the KWin compositor. For very old Intel integrated graphics, it can effectively be a night and day difference upgrading to the new Plasma 6.1 desktop...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's Linux Software Optimizations Still Pay Off For Xeon 6700E "Sierra Forest" E-Core CPUs]]></title>
+        <id>https://www.phoronix.com/review/intel-xeon-6e-clear-linux</id>
+        <link href="https://www.phoronix.com/review/intel-xeon-6e-clear-linux"/>
+        <updated>2024-06-25T13:48:09.000Z</updated>
+        <summary type="html"><![CDATA[When testing Intel's aggressive software Linux optimizations shipped by way of their in-house Clear Linux distribution, I am most often testing it on their high core count Xeon processors with AVX-512... Over the years in dozens of Phoronix articles there have been countless metrics showing off the out-of-the-box performance benefits from leveraging software built for higher x86_64 micro-architecture feature levels, employing compiler-based function multi-versioning, and the other extensive performance tuning carried out by Intel software engineers. But now with the Intel Xeon 6700E "Sierra Forest" series now being available for these all-E-core server processors, I was curious about quantifying the Clear Linux benefits over the likes of Ubuntu Linux. Here are those benchmarks for those curious about the difference.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Connect Adds Remote Shell Access, Support For Older Raspberry Pi SBCs]]></title>
+        <id>https://www.phoronix.com/news/Raspberry-Pi-Connect-Shell</id>
+        <link href="https://www.phoronix.com/news/Raspberry-Pi-Connect-Shell"/>
+        <updated>2024-06-25T13:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Back in May the Raspberry Pi crew announced Raspberry Pi Access as an easy means of remote GUI access to Raspberry Pi single board computers all from a web browser. Today they've announced the latest improvements to Raspberry Pi Connect...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More AMD P-State Driver Improvements Queued For Linux 6.11]]></title>
         <id>https://www.phoronix.com/news/AMD-P-State-Linux-6.11-Round-2</id>
@@ -4078,26 +4172,6 @@ Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero
         <link href="https://www.phoronix.com/news/Vulkan-Memory-Allocator-3.1"/>
         <updated>2024-05-27T13:44:01.000Z</updated>
         <summary type="html"><![CDATA[AMD by way of their GPUOpen group have released version 3.1 of the open-source Vulkan Memory Allocator...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Patches Posted For Enabling A 22 x 35 mm RISC-V / ARM Board]]></title>
-        <id>https://www.phoronix.com/news/LicheeRV-Nano-Linux-Patches</id>
-        <link href="https://www.phoronix.com/news/LicheeRV-Nano-Linux-Patches"/>
-        <updated>2024-05-27T10:55:09.000Z</updated>
-        <summary type="html"><![CDATA[Linux kernel patches were posted today for enabling Linux to boot on the LicheeRV Nano, a mini single board computer that comes in at a mere 22.86 x 35.56 mm. As interesting as the size with this SBC is the Sophgo SG2002 SoC that features a mix of RISC-V and ARM cores...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An End-User Has Made It Easier To Build ROCm & AMD GPU Machine Learning Software]]></title>
-        <id>https://www.phoronix.com/news/Making-ROCm-Build-Easier</id>
-        <link href="https://www.phoronix.com/news/Making-ROCm-Build-Easier"/>
-        <updated>2024-05-27T10:26:31.000Z</updated>
-        <summary type="html"><![CDATA[An end-user and Phoronix reader has taken up creating his own AMD ROCm SDK build system to make it easier to setup a machine learning software stack from scratch on AMD Radeon GPUs under Linux. This open-source build system pulls in the AMD ROCm source code as well as AMD GPU-accelerated tools like PyTorch and ONNX and makes it easier to deploy and without having to rely on Docker or other solutions...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>

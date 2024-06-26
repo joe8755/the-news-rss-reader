@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-25.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 25, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nMore Memory Safety for Let's Encrypt: Deploying ntpd-rs\n(comments)\n\n\nThe case for not sanitising fairy tales\n(comments)\n\n\nRound Rects Are Everywhere\n(comments)\n\n\nJulian Assange has reached a plea deal with the U.S., allowing him to go free\n(comments)\n\n\nSIMD-accelerated computer vision on a $2 microcontroller\n(comments)\n\n\nLocal First, Forever\n(comments)\n\n\nMicrosoft breached antitrust rules by bundling Teams and Office, EU says\n(comments)\n\n\nMicrosoft removes documentation for switching to a local account in Windows 11\n(comments)\n\n\nShow HN: I built a JavaScript-powered flipdisc display\n(comments)\n\n\nPolyfill supply chain attack hits 100K+ sites\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-25.html",
+          "publishedOn": "2024-06-26T00:00:00.000Z",
+          "wordCount": 576,
+          "title": "Daily Hacker News for 2024-06-25",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-24.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 24, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nTimeliness without datagrams using QUIC\n(comments)\n\n\nDetecting hallucinations in large language models using semantic entropy\n(comments)\n\n\nLINQPad – The .NET Programmer's Playground\n(comments)\n\n\nApple's secret silicon fab next to thousands of homes\n(comments)\n\n\nCosmopolitan v3.5\n(comments)\n\n\nUS prosecutors recommend Justice Department criminally charge Boeing\n(comments)\n\n\nApple found in breach of EU competition rules\n(comments)\n\n\nMicrofeatures I love in blogs and personal websites\n(comments)\n\n\nCar dealerships revert to pens and paper after cyberattacks on software provider\n(comments)\n\n\nWindows 11 is now enabling OneDrive folder backup without asking permission\n(comments)",
@@ -302,6 +312,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/ARM64-NUMA-Emulation-RPi5",
+          "author": "Michael Larabel",
+          "description": "Engineers at consulting firm Igalia are exploring NUMA emulation for ARM64 (AArch64) due to the potential of \"significant\" performance uplift as observed on the popular Raspberry Pi 5 single board computer...",
+          "link": "https://www.phoronix.com/news/ARM64-NUMA-Emulation-RPi5",
+          "publishedOn": "2024-06-25T16:50:00.000Z",
+          "wordCount": 1843,
+          "title": "NUMA Emulation Yields \"Significant Performance Uplift\" To Raspberry Pi 5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/KDE-Plasma-6.1-Intel-iGPU",
+          "author": "Michael Larabel",
+          "description": "With the recently released KDE Plasma 6.1 desktop environment, those still relying on old Intel integrated graphics should have a much more pleasant experience thanks to improvements made to the KWin compositor. For very old Intel integrated graphics, it can effectively be a night and day difference upgrading to the new Plasma 6.1 desktop...",
+          "link": "https://www.phoronix.com/news/KDE-Plasma-6.1-Intel-iGPU",
+          "publishedOn": "2024-06-25T15:01:34.000Z",
+          "wordCount": 1972,
+          "title": "KDE Plasma 6.1 Performing Much Better On Older Intel Integrated Graphics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/intel-xeon-6e-clear-linux",
+          "author": "Michael Larabel",
+          "description": "When testing Intel's aggressive software Linux optimizations shipped by way of their in-house Clear Linux distribution, I am most often testing it on their high core count Xeon processors with AVX-512... Over the years in dozens of Phoronix articles there have been countless metrics showing off the out-of-the-box performance benefits from leveraging software built for higher x86_64 micro-architecture feature levels, employing compiler-based function multi-versioning, and the other extensive performance tuning carried out by Intel software engineers. But now with the Intel Xeon 6700E \"Sierra Forest\" series now being available for these all-E-core server processors, I was curious about quantifying the Clear Linux benefits over the likes of Ubuntu Linux. Here are those benchmarks for those curious about the difference.",
+          "link": "https://www.phoronix.com/review/intel-xeon-6e-clear-linux",
+          "publishedOn": "2024-06-25T13:48:09.000Z",
+          "wordCount": 2017,
+          "title": "Intel's Linux Software Optimizations Still Pay Off For Xeon 6700E \"Sierra Forest\" E-Core CPUs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Raspberry-Pi-Connect-Shell",
+          "author": "Michael Larabel",
+          "description": "Back in May the Raspberry Pi crew announced Raspberry Pi Access as an easy means of remote GUI access to Raspberry Pi single board computers all from a web browser. Today they've announced the latest improvements to Raspberry Pi Connect...",
+          "link": "https://www.phoronix.com/news/Raspberry-Pi-Connect-Shell",
+          "publishedOn": "2024-06-25T13:31:27.000Z",
+          "wordCount": 1822,
+          "title": "Raspberry Pi Connect Adds Remote Shell Access, Support For Older Raspberry Pi SBCs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AMD-P-State-Linux-6.11-Round-2",
           "author": "Michael Larabel",
@@ -2810,26 +2860,6 @@
           "publishedOn": "2024-05-27T13:44:01.000Z",
           "wordCount": 1827,
           "title": "AMD's GPUOpen Vulkan Memory Allocator 3.1 Improves Raspberry Pi Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/LicheeRV-Nano-Linux-Patches",
-          "author": "Michael Larabel",
-          "description": "Linux kernel patches were posted today for enabling Linux to boot on the LicheeRV Nano, a mini single board computer that comes in at a mere 22.86 x 35.56 mm. As interesting as the size with this SBC is the Sophgo SG2002 SoC that features a mix of RISC-V and ARM cores...",
-          "link": "https://www.phoronix.com/news/LicheeRV-Nano-Linux-Patches",
-          "publishedOn": "2024-05-27T10:55:09.000Z",
-          "wordCount": 1954,
-          "title": "Linux Patches Posted For Enabling A 22 x 35 mm RISC-V / ARM Board",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Making-ROCm-Build-Easier",
-          "author": "Michael Larabel",
-          "description": "An end-user and Phoronix reader has taken up creating his own AMD ROCm SDK build system to make it easier to setup a machine learning software stack from scratch on AMD Radeon GPUs under Linux. This open-source build system pulls in the AMD ROCm source code as well as AMD GPU-accelerated tools like PyTorch and ONNX and makes it easier to deploy and without having to rely on Docker or other solutions...",
-          "link": "https://www.phoronix.com/news/Making-ROCm-Build-Easier",
-          "publishedOn": "2024-05-27T10:26:31.000Z",
-          "wordCount": 2315,
-          "title": "An End-User Has Made It Easier To Build ROCm & AMD GPU Machine Learning Software",
           "imageUrl": null
         }
       ]
