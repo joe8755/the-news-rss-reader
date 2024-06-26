@@ -294,16 +294,6 @@
           "wordCount": 560,
           "title": "Daily Hacker News for 2024-05-28",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-27.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 27, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nTo the brain, reading computer code is not the same as reading language (2020)\n(comments)\n\n\nMediocre Engineer's Guide to HTTPS\n(comments)\n\n\nWhat the damaged Svalbard cable looked like\n(comments)\n\n\nThe one-year anniversary of my total glossectomy\n(comments)\n\n\nThe t-test was invented at the Guinness brewery\n(comments)\n\n\nBig data is dead (2023)\n(comments)\n\n\nInstead of “auth”, we should say “permissions” and “login”\n(comments)\n\n\nShould I use JWTs for authentication tokens?\n(comments)\n\n\nThe Internet Archive is under a DDoS attack\n(comments)\n\n\nControlling the Taylor Swift Eras Tour wristbands with Flipper Zero\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-27.html",
-          "publishedOn": "2024-05-28T00:00:00.000Z",
-          "wordCount": 572,
-          "title": "Daily Hacker News for 2024-05-27",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,56 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMDVLK-2024.Q2.3",
+          "author": "Michael Larabel",
+          "description": "AMD has published AMDVLK 2024.Q2.3 as the newest version of their open-source Radeon Vulkan driver for Linux systems...",
+          "link": "https://www.phoronix.com/news/AMDVLK-2024.Q2.3",
+          "publishedOn": "2024-06-26T12:12:12.000Z",
+          "wordCount": 1723,
+          "title": "AMDVLK 2024.Q2.3 Release Brings Few Changes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-Xe2-Coop-Matrix-Enable",
+          "author": "Michael Larabel",
+          "description": "Intel's open-source Linux graphics driver developers continue to be quite busy in preparing for the Xe2 next-generation graphics to be found with forthcoming Lunar Lake processors and the Battlemage discrete graphics cards...",
+          "link": "https://www.phoronix.com/news/Intel-Xe2-Coop-Matrix-Enable",
+          "publishedOn": "2024-06-26T10:25:00.000Z",
+          "wordCount": 1946,
+          "title": "Intel Vulkan Driver Enables Cooperative Matrix Support For Xe2 GPUs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GCC-15-NVIDIA-Grace-CPU",
+          "author": "Michael Larabel",
+          "description": "NVIDIA has upstreamed a patch to the GCC 15 compiler for adding the \"-mcpu=grace\" option to make it easier to target NVIDIA Grace AArch64 CPU cores from this open-source compiler...",
+          "link": "https://www.phoronix.com/news/GCC-15-NVIDIA-Grace-CPU",
+          "publishedOn": "2024-06-26T10:12:17.000Z",
+          "wordCount": 1784,
+          "title": "GCC 15 Adds NVIDIA Grace CPU Support With \"-mcpu=grace\" Option",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/openSUSE-Leap-Micro-6.0",
+          "author": "Michael Larabel",
+          "description": "OpenSUSE has released Leap Micro 6.0 as stable for this community rebranded build of SUSE Linux Enterprise Micro 6.0. Leap Micro continues to be focused on delivering a very reliable and robust experience for containers and virtual machines...",
+          "link": "https://www.phoronix.com/news/openSUSE-Leap-Micro-6.0",
+          "publishedOn": "2024-06-26T10:01:05.000Z",
+          "wordCount": 1764,
+          "title": "openSUSE Leap Micro 6.0 Now Available For Container & VM Needs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Fedora-41-OpenSSL-Distrust-SHA1",
+          "author": "Michael Larabel",
+          "description": "A change proposal has been approved for Fedora 41 to make OpenSSL distrust SHA1 signatures by default...",
+          "link": "https://www.phoronix.com/news/Fedora-41-OpenSSL-Distrust-SHA1",
+          "publishedOn": "2024-06-26T09:51:55.000Z",
+          "wordCount": 1962,
+          "title": "Fedora 41 Will Make OpenSSL Distrust SHA1 Signatures By Default",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/ARM64-NUMA-Emulation-RPi5",
           "author": "Michael Larabel",
@@ -2820,46 +2860,6 @@
           "publishedOn": "2024-05-28T09:58:54.000Z",
           "wordCount": 1780,
           "title": "Ubuntu 24.04 Now Available For The Milk-V Mars RISC-V Single Board Computer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/FreeBSD-14.1-RC1-Released",
-          "author": "Michael Larabel",
-          "description": "FreeBSD 14.1-RC1 is now available for testing as this incremental update to FreeBSD 14 prepares for its stable release in June...",
-          "link": "https://www.phoronix.com/news/FreeBSD-14.1-RC1-Released",
-          "publishedOn": "2024-05-27T21:27:40.000Z",
-          "wordCount": 1804,
-          "title": "FreeBSD 14.1-RC1 Adds More Packages To The DVD Images - Including The Sway Compositor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Perf-Limit-Reasons-Linux",
-          "author": "Michael Larabel",
-          "description": "Intel Performance Limit Reasons (PLR) can indicate why your CPU is downclocking / limited to a lower performance limit for a given core or die. With some Windows utilities this information this Intel CPU feature has been available there while now Intel is bringing PLR support to Linux too...",
-          "link": "https://www.phoronix.com/news/Intel-Perf-Limit-Reasons-Linux",
-          "publishedOn": "2024-05-27T17:23:44.000Z",
-          "wordCount": 1795,
-          "title": "Intel Performance Limit Reasons For Linux To Report Why Your CPU Is Downclocking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-ISPC-1.24-Released",
-          "author": "Michael Larabel",
-          "description": "The Intel Implicit SPMD Program Compiler (ISPC) is out with a new version today for this C programming language variant that features SPMD programming extensions. Intel ISPC aims to make it easy to take advantage of SIMD capabilities on their modern processors as well as GPUs...",
-          "link": "https://www.phoronix.com/news/Intel-ISPC-1.24-Released",
-          "publishedOn": "2024-05-27T14:37:08.000Z",
-          "wordCount": 1763,
-          "title": "Intel Releases ISPC 1.24 With New AVX-VNNI & AVX512-VNNI Targets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Vulkan-Memory-Allocator-3.1",
-          "author": "Michael Larabel",
-          "description": "AMD by way of their GPUOpen group have released version 3.1 of the open-source Vulkan Memory Allocator...",
-          "link": "https://www.phoronix.com/news/Vulkan-Memory-Allocator-3.1",
-          "publishedOn": "2024-05-27T13:44:01.000Z",
-          "wordCount": 1827,
-          "title": "AMD's GPUOpen Vulkan Memory Allocator 3.1 Improves Raspberry Pi Support",
           "imageUrl": null
         }
       ]
