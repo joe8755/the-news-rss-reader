@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-26.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 26, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nLiquid Layers\n(comments)\n\n\nI found a 1-click exploit in South Korea's biggest mobile chat app\n(comments)\n\n\nShow HN: Triplit – Open-source syncing database that runs on server and client\n(comments)\n\n\nShow HN: From dotenv to dotenvx – better config management\n(comments)\n\n\nWaymo One is now open to everyone in San Francisco\n(comments)\n\n\nShow HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm\n(comments)\n\n\nFixing QuickLook (2023)\n(comments)\n\n\nBall: A ball that lives in your dock\n(comments)\n\n\nHyperCard Simulator\n(comments)\n\n\nOne Million Checkboxes\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-26.html",
+          "publishedOn": "2024-06-27T00:00:00.000Z",
+          "wordCount": 569,
+          "title": "Daily Hacker News for 2024-06-26",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-25.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 25, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nMore Memory Safety for Let's Encrypt: Deploying ntpd-rs\n(comments)\n\n\nThe case for not sanitising fairy tales\n(comments)\n\n\nRound Rects Are Everywhere\n(comments)\n\n\nJulian Assange has reached a plea deal with the U.S., allowing him to go free\n(comments)\n\n\nSIMD-accelerated computer vision on a $2 microcontroller\n(comments)\n\n\nLocal First, Forever\n(comments)\n\n\nMicrosoft breached antitrust rules by bundling Teams and Office, EU says\n(comments)\n\n\nMicrosoft removes documentation for switching to a local account in Windows 11\n(comments)\n\n\nShow HN: I built a JavaScript-powered flipdisc display\n(comments)\n\n\nPolyfill supply chain attack hits 100K+ sites\n(comments)",
@@ -302,6 +312,66 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/FSF-3-New-Board-Members",
+          "author": "Michael Larabel",
+          "description": "Following a more than one year long process, the Free Software Foundation today named three additional board members...",
+          "link": "https://www.phoronix.com/news/FSF-3-New-Board-Members",
+          "publishedOn": "2024-06-27T00:30:00.000Z",
+          "wordCount": 1875,
+          "title": "Free Software Foundation Names Three New Board Members",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-CR-24.22.29735.20",
+          "author": "Michael Larabel",
+          "description": "Intel today issued the Compute Runtime 24.22.29735.20 release as their open-source driver providing OpenCL and oneAPI Level Zero capabilities on Windows and Linux systems. This update was joined by an updated Intel Graphics Compiler, IGC 1.0.16900.23...",
+          "link": "https://www.phoronix.com/news/Intel-CR-24.22.29735.20",
+          "publishedOn": "2024-06-26T23:05:36.000Z",
+          "wordCount": 1785,
+          "title": "Intel Compute Runtime 24.22.29735.20 Brings Latest OpenCL & Level Zero Support On Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Archinstall-2.8.1-Released",
+          "author": "Michael Larabel",
+          "description": "Archinstall 2.8.1 is now available for the newest version of this easy-to-use, command-line driven installer for the Arch Linux operating system...",
+          "link": "https://www.phoronix.com/news/Archinstall-2.8.1-Released",
+          "publishedOn": "2024-06-26T15:47:49.000Z",
+          "wordCount": 1719,
+          "title": "Arch Linux Installer \"Archinstall\" 2.8.1 Adds Experimental LVM Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/COSMIC-Alpha-Next-Month",
+          "author": "Michael Larabel",
+          "description": "System76 developers are still on track for releasing the alpha version of their Rust-written COSMIC desktop in late July...",
+          "link": "https://www.phoronix.com/news/COSMIC-Alpha-Next-Month",
+          "publishedOn": "2024-06-26T15:16:49.000Z",
+          "wordCount": 1682,
+          "title": "COSMIC Alpha Desktop Release Still Planned For Late July",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Canonical-12Year-Everything-LTS",
+          "author": "Michael Larabel",
+          "description": "Ubuntu maker Canonical announced \"Everything LTS\" as a new initiative where for Ubuntu Pro customers they will offer up a twelve year LTS period for any open-source Docker image...",
+          "link": "https://www.phoronix.com/news/Canonical-12Year-Everything-LTS",
+          "publishedOn": "2024-06-26T14:14:18.000Z",
+          "wordCount": 1908,
+          "title": "Canonical Offers Up 12 Year \"Everything LTS\" For Docker Images",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Rusticl-V3D-OpenCL-Raspberry-Pi",
+          "author": "Michael Larabel",
+          "description": "Mesa's Rusticl driver as a Rust-based OpenCL driver for GPUs backed by Gallium3D support now works with the Broadcom V3D driver. This V3D support is notable as it's most commonly associated with the Raspberry Pi single board computers...",
+          "link": "https://www.phoronix.com/news/Rusticl-V3D-OpenCL-Raspberry-Pi",
+          "publishedOn": "2024-06-26T12:37:55.000Z",
+          "wordCount": 1739,
+          "title": "Rust-Written OpenCL Driver Now Works On Raspberry Pi GPUs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AMDVLK-2024.Q2.3",
           "author": "Michael Larabel",
@@ -2820,46 +2890,6 @@
           "publishedOn": "2024-05-28T14:06:35.000Z",
           "wordCount": 1813,
           "title": "AlmaLinux 8.10 Released With Support Re-Enabled For Some Older Hardware",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/TPM-HMAC-Encrypt-x86_64",
-          "author": "Michael Larabel",
-          "description": "One of the new security features coming with Linux 6.10 is TPM bus encryption and integrity protection to fend off a wave of possible attacks against Trusted Platform Module recovery keys, TPM sniffing, etc. This functionality was merged for the Linux 6.10 merge window but is now being pulled back to x86_64-only by default where it's been sufficiently tested...",
-          "link": "https://www.phoronix.com/news/TPM-HMAC-Encrypt-x86_64",
-          "publishedOn": "2024-05-28T12:54:17.000Z",
-          "wordCount": 1902,
-          "title": "TPM HMAC Encryption Being Pulled Back To x86_64 By Default For Linux 6.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/ASUS-Linux-Cores-APU-Mem-TGP",
-          "author": "Michael Larabel",
-          "description": "The ASUS WMI platform driver for Linux that is predominantly used by ASUS laptops for enabling more functionality under Linux has a new patch series available that is enabling yet more features for the latest ASUS hardware on Linux...",
-          "link": "https://www.phoronix.com/news/ASUS-Linux-Cores-APU-Mem-TGP",
-          "publishedOn": "2024-05-28T10:38:32.000Z",
-          "wordCount": 1885,
-          "title": "ASUS Linux Driver Adding Ability To Toggle CPU Cores, APU Memory Settings & dGPU TGP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/openSUSE-Aeon-RC2",
-          "author": "Michael Larabel",
-          "description": "Nearly one year ago to the day the openSUSE project anounced MicroOS Desktop GNOME being renamed to openSUSE Aeon while openSUSE Desktop Plasma was taking the name openSUSE Kalpa...",
-          "link": "https://www.phoronix.com/news/openSUSE-Aeon-RC2",
-          "publishedOn": "2024-05-28T10:13:47.000Z",
-          "wordCount": 1876,
-          "title": "openSUSE Aeon RC2 Released With Btrfs Compression Default, ZRAM & Tik",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Ubuntu-24.04-Milk-V-Mars",
-          "author": "Michael Larabel",
-          "description": "Canonical announced this morning an optimized Ubuntu 24.04 image for the Milk-V Mars, a \"credit card sized\" RISC-V single board computer...",
-          "link": "https://www.phoronix.com/news/Ubuntu-24.04-Milk-V-Mars",
-          "publishedOn": "2024-05-28T09:58:54.000Z",
-          "wordCount": 1780,
-          "title": "Ubuntu 24.04 Now Available For The Milk-V Mars RISC-V Single Board Computer",
           "imageUrl": null
         }
       ]
