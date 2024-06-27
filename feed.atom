@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-27T01:18:35.335Z</updated>
+    <updated>2024-06-27T12:34:29.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD P-State Core Performance Boost To Be Merged For Linux 6.11]]></title>
+        <id>https://www.phoronix.com/news/AMD-Core-Perf-Boost-Linux-6.11</id>
+        <link href="https://www.phoronix.com/news/AMD-Core-Perf-Boost-Linux-6.11"/>
+        <updated>2024-06-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Linux 6.11 is shaping up to be an exciting summertime kernel cycle for AMD Ryzen owners. The newest feature now being queued ahead of next month's merge window is Core Performance Boost support within the AMD P-State CPU frequency scaling driver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Battlemage PCI IDs Being Added To Linux 6.11 For Xe Kernel Graphics Driver]]></title>
+        <id>https://www.phoronix.com/news/DRM-Xe-Next-BMG-PCI-IDs</id>
+        <link href="https://www.phoronix.com/news/DRM-Xe-Next-BMG-PCI-IDs"/>
+        <updated>2024-06-27T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Sent out on Wednesday were the latest set of DRM-Xe-Next changes of the last round of feature updates for this Xe kernel graphics driver targeting the upcoming Linux 6.11 cycle...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD's AOMP 19.0-2 Compiler Brings Zero-Copy For CPU-GPU Unified Shared Memory]]></title>
+        <id>https://www.phoronix.com/news/AMD-AOMP-19.0-2-Compiler</id>
+        <link href="https://www.phoronix.com/news/AMD-AOMP-19.0-2-Compiler"/>
+        <updated>2024-06-27T09:56:00.000Z</updated>
+        <summary type="html"><![CDATA[AMD compiler engineers have released AOMP 19.0-2 as the newest version of their downstream LLVM/Clang compiler that carries all of their latest work around OpenMP/AOCC GPU device offloading to Radeon and Instinct hardware. With this updated AOMP compiler is now run-time support for zero-copy with CPU-GPU unified shared memory and various other new features for this GPU/accelerator-focused compiler...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Grain Timestamps Revived For Linux File-Systems]]></title>
+        <id>https://www.phoronix.com/news/Multi-Grain-Timestamps-Revived</id>
+        <link href="https://www.phoronix.com/news/Multi-Grain-Timestamps-Revived"/>
+        <updated>2024-06-27T09:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Last year a new kernel feature merged in Linux 6.6 was multi-grain(ed) timestamps for file-systems as a means of better timestamp handling originally for NFS compared to the existing coarse-grained timestamps with the once per jiffy timestamps being used for invalidating NFS caches. But multi-grain timestamps was reverted just weeks after landing in the mainline kernel due to corner cases like a newer file with a coarse-grained timestamp appearing earlier than another file with a fine-grained timestamp. Due to subtle bugs like that, multi-grain timestamps were dropped before Linux 6.6 was even released while now there is a revised attempt...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Granite Rapids Brings New "SBAF" Core Testing Capability]]></title>
+        <id>https://www.phoronix.com/news/Intel-Granite-Rapids-SBAF-IFS</id>
+        <link href="https://www.phoronix.com/news/Intel-Granite-Rapids-SBAF-IFS"/>
+        <updated>2024-06-27T09:19:34.000Z</updated>
+        <summary type="html"><![CDATA[Upcoming Intel Xeon 6 "Granite Rapids" processors will support a new Structural Based Functional Test at Field (SBAF) testing capability to help verify the health of the CPU cores...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free Software Foundation Names Three New Board Members]]></title>
         <id>https://www.phoronix.com/news/FSF-3-New-Board-Members</id>
@@ -4078,130 +4128,6 @@ Kino: Pro Video Camera
         <link href="https://www.phoronix.com/news/Flowblade-2.16-Released"/>
         <updated>2024-05-29T10:15:46.000Z</updated>
         <summary type="html"><![CDATA[Flowblade 2.16 is out today as the newest version of this open-source non-linear video editor...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVT-AV1 2.1 Released With Yet More Performance Improvements]]></title>
-        <id>https://www.phoronix.com/news/SVT-AV1-2.1-Released</id>
-        <link href="https://www.phoronix.com/news/SVT-AV1-2.1-Released"/>
-        <updated>2024-05-29T00:34:06.000Z</updated>
-        <summary type="html"><![CDATA[SVT-AV1 that started out as an open-source AV1 video encoder at Intel and more recently an an Alliance of Open Media project quietly released SVT-AV1 v2.1 last week. With this new SVT-AV1 release are yet more performance optimizations and tuning...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-28]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-28.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-28.html"/>
-        <updated>2024-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 28, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-A 1.3B-light-year-across ring of galaxies has confounded astronomers
-(comments)
-
-
-Resume Tip: Hacking \"AI\" screening of resumes
-(comments)
-
-
-Priced out of home ownership
-(comments)
-
-
-Surveilling the masses with wi-fi-based positioning systems
-(comments)
-
-
-Tantivy – full-text search engine library inspired by Apache Lucene
-(comments)
-
-
-WP21
-(comments)
-
-
-Show HN: I made a free app to calibrate your turntable by simply playing a song
-(comments)
-
-
-Reproducing GPT-2 in llm.c
-(comments)
-
-
-TTE: Terminal Text Effects
-(comments)
-
-
-API Shouldn't Redirect HTTP to HTTPS
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xe2 Ray-Tracing & More Intel Lunar Lake Enabling Land In Mesa 24.2]]></title>
-        <id>https://www.phoronix.com/news/Mesa-24.2-More-Intel-Lunar-Lake</id>
-        <link href="https://www.phoronix.com/news/Mesa-24.2-More-Intel-Lunar-Lake"/>
-        <updated>2024-05-28T20:34:29.000Z</updated>
-        <summary type="html"><![CDATA[Intel's open-source Linux graphics driver engineers continue to be quite busy preparing their Xe kernel driver and Mesa user-space ANV Vulkan / Iris Gallium3D driver for upcoming Lunar Lake processors. Merged today for Mesa 24.2-devel is more Lunar Lake platform enablement work plus early support for ray-tracing with the integrated Xe2 graphics. However, more work is still needed before this Lunar Lake / Xe2 support will be ready for end-users on the Linux desktop...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Starts Preparing Its Open-Source DirectX Shader Compiler For "HLSL 202x"]]></title>
-        <id>https://www.phoronix.com/news/MS-HLSL-202x-Prep-Compiler</id>
-        <link href="https://www.phoronix.com/news/MS-HLSL-202x-Prep-Compiler"/>
-        <updated>2024-05-28T18:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft's open-source DirectX Shader Compiler that is open-source and derived from the LLVM/Clang compiler infrastructure is out with a significant new release as it begins preparing for "HLSL 202x" as a big leap for the High-Level Shader Language...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 127 Should Provide PipeWire Camera Capture Support]]></title>
-        <id>https://www.phoronix.com/news/Chrome-127-PipeWire-Capture</id>
-        <link href="https://www.phoronix.com/news/Chrome-127-PipeWire-Capture"/>
-        <updated>2024-05-28T18:18:27.000Z</updated>
-        <summary type="html"><![CDATA[The Google Chrome/Chromium 127 web browser release should finally provide support for PipeWire camera capturing support!..]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crucial Pro DDR5-6000 32GB Memory Kit]]></title>
-        <id>https://www.phoronix.com/review/crucial-pro-ddr5-6000</id>
-        <link href="https://www.phoronix.com/review/crucial-pro-ddr5-6000"/>
-        <updated>2024-05-28T18:05:57.000Z</updated>
-        <summary type="html"><![CDATA[Crucial last week announced the launch of their newest Crucial DDR5 Pro Memory: Overclocking (OC) Edition in white heatspreader form. Crucial recently sent over a pair of these 2 x 16GB Crucial Pro DDR5-6000 UDIMM memory kits that we've been putting through the paces with Intel Core i9 14900K and AMD Ryzen 9 7950X systems. These new Crucial Pro DIMMs have been working out very well and align with the great quality we've long enjoyed from Crucial/Micron.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux cpupower Tool Fix Coming For AMD Zen 5 CPUs]]></title>
-        <id>https://www.phoronix.com/news/Linux-cpupower-Fix-AMD-Zen-5</id>
-        <link href="https://www.phoronix.com/news/Linux-cpupower-Fix-AMD-Zen-5"/>
-        <updated>2024-05-28T16:26:57.000Z</updated>
-        <summary type="html"><![CDATA[Sent out today as a fix for the Linux kernel's in-tree "cpupower" utility is properly handling P-State frequency reporting for upcoming AMD Zen 5 processors...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlmaLinux 8.10 Released With Support Re-Enabled For Some Older Hardware]]></title>
-        <id>https://www.phoronix.com/news/AlmaLinux-8.10-Released</id>
-        <link href="https://www.phoronix.com/news/AlmaLinux-8.10-Released"/>
-        <updated>2024-05-28T14:06:35.000Z</updated>
-        <summary type="html"><![CDATA[For those continuing to rely on the Enterprise Linux 8 series, AlmaLinux 8.10 has made its stable debut this morning as the newest version of this community-oriented operating system derived from Red Hat Enterprise Linux 8.10...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
