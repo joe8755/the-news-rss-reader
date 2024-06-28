@@ -294,16 +294,6 @@
           "wordCount": 569,
           "title": "Daily Hacker News for 2024-05-30",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-05-29.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non May 29, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nMobifree – An open-source mobile ecosystem\n(comments)\n\n\nShow HN: Openkoda – Open–source, private, Salesforce alternative\n(comments)\n\n\nLlama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars\n(comments)\n\n\nEx-OpenAI board member reveals what led to Sam Altman's brief ousting\n(comments)\n\n\nAI headphones let wearer listen to a single person in a crowd by looking at them\n(comments)\n\n\nCodestral: Mistral's Code Model\n(comments)\n\n\nI sold TinyPilot, my first successful business\n(comments)\n\n\nOttawa wants the power to create secret backdoors in networks for surveillance\n(comments)\n\n\nVector indexing all of Wikipedia on a laptop\n(comments)\n\n\nKino: Pro Video Camera\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-05-29.html",
-          "publishedOn": "2024-05-30T00:00:00.000Z",
-          "wordCount": 580,
-          "title": "Daily Hacker News for 2024-05-29",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Lavapipe-Vulkan-Sparse-Merged",
+          "author": "Michael Larabel",
+          "description": "Merged into Mesa 24.2 on Thursday is Vulkan sparse binding support for the CPU-based Lavapipe driver...",
+          "link": "https://www.phoronix.com/news/Lavapipe-Vulkan-Sparse-Merged",
+          "publishedOn": "2024-06-28T10:34:33.000Z",
+          "wordCount": 1959,
+          "title": "Vulkan Sparse Binding Support Comes To Lavapipe Software Driver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/openSUSE-Agama-9-Installer",
+          "author": "Michael Larabel",
+          "description": "Besides Red Hat / Fedora working on a new web-based UI for their Anaconda OS installer, (open)SUSE developers remain very busy working on their Agama installer with new web-based interface. Agama 9 has now been announced as the latest iteration of SUSE's OS installer work...",
+          "link": "https://www.phoronix.com/news/openSUSE-Agama-9-Installer",
+          "publishedOn": "2024-06-28T10:23:49.000Z",
+          "wordCount": 1823,
+          "title": "SUSE's \"Agama\" OS Installer Rolls Out New Web UI, Better Auto Installations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Etnaviv-NPU-NXP-MX8M-Plus",
+          "author": "Michael Larabel",
+          "description": "Open-source developer Tomeu Vizoso had been doing a lot of work on the Etnaviv driver stack for open-source, reverse-engineered Vivante driver support that began with the 3D graphics support but Vizoso tackled enabling the Vivante NPU IP as well. After all the successes with the Etnaviv NPU support, he turned his attention to creating an open-source driver stack for the Rockchip NPUs. Now thanks to a new sponsorship deal, he's back to making more Etnaviv improvements...",
+          "link": "https://www.phoronix.com/news/Etnaviv-NPU-NXP-MX8M-Plus",
+          "publishedOn": "2024-06-28T10:08:22.000Z",
+          "wordCount": 1862,
+          "title": "Open-Source Vivante NPU Driver Being Extended For The NXP i.MX 8M Plus SoC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Shotcut-24.06-Video-Editor",
+          "author": "Michael Larabel",
+          "description": "A few days ago was the release of the OpenShot 3.2 open-source video editor while Shotcut 24.06 also released this week as another great cross-platform, free software video editing solution...",
+          "link": "https://www.phoronix.com/news/Shotcut-24.06-Video-Editor",
+          "publishedOn": "2024-06-28T09:57:14.000Z",
+          "wordCount": 1691,
+          "title": "Shotcut 24.06 Supports SVT-AV1 Encode & AVIF Images, Many Fixes",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.10-rc6-PM-Intel-Core",
           "author": "Michael Larabel",
@@ -2790,76 +2820,6 @@
           "publishedOn": "2024-05-30T09:57:38.000Z",
           "wordCount": 1853,
           "title": "KDGpu v0.5 Vulkan Wrapper Released, KDXr Begins Wrapping OpenXR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/VKD3D-1.12-Released",
-          "author": "Michael Larabel",
-          "description": "While VKD3D-Proton that is bundled with Valve's Steam Play (Proton) is the most common source for mapping Direct3D 12 over the Vulkan API for Windows games on Linux, Wine's VKD3D upstream continues to be developed. Out today is VKD3D 1.12 as the newest feature release for this open-source D3D12-on-Vulkan implementation...",
-          "link": "https://www.phoronix.com/news/VKD3D-1.12-Released",
-          "publishedOn": "2024-05-30T00:23:28.000Z",
-          "wordCount": 1867,
-          "title": "VKD3D 1.12 Released With Support For Directly Outputting SPIR-V & D3D Shader Assembly",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/XZ-5.6.2-Released",
-          "author": "Michael Larabel",
-          "description": "It was two months ago today that an urgent security alert was issued over XZ being hit by malicious code that turned out to be a backdoor within liblzma added by a bad actor that worked his way into XZ co-maintainership. Longtime XZ developer Lasse Collin is back at the helm and has been auditing the prior XZ commits and today released XZ 5.6.2 with the backdoor completely removed...",
-          "link": "https://www.phoronix.com/news/XZ-5.6.2-Released",
-          "publishedOn": "2024-05-29T20:14:32.000Z",
-          "wordCount": 1892,
-          "title": "XZ 5.6.2 Released With The Frightening Backdoor Removed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AWS-Cloud-Breaks-Fedora-Mirrors",
-          "author": "Michael Larabel",
-          "description": "A massive uptick in traffic to Fedora's package mirrors is causing problems for the Linux distribution. Some five million additional systems have started putting additional strain on Fedora's mirror resources since March and appear to be coming from Amazon's cloud...",
-          "link": "https://www.phoronix.com/news/AWS-Cloud-Breaks-Fedora-Mirrors",
-          "publishedOn": "2024-05-29T19:49:21.000Z",
-          "wordCount": 1782,
-          "title": "Amazon Cloud Traffic Is Suffocating Fedora's Mirrors",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Framework-Core-Ultra-Laptop",
-          "author": "Michael Larabel",
-          "description": "Framework is out today with some exciting announcements from lowering the price of the existing Framework 13 with AMD Ryzen 7040 series SoC to announcing a new Framework Laptop 13 powered by Intel Core Ultra (Meteor Lake) and having a new 2.8K display option for this modular/upgradeable laptop shipping this summer...",
-          "link": "https://www.phoronix.com/news/Framework-Core-Ultra-Laptop",
-          "publishedOn": "2024-05-29T17:54:51.000Z",
-          "wordCount": 2030,
-          "title": "Framework Announces Intel Core Ultra Powered Laptop With 2.8k Display",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/review/linux-610-features",
-          "author": "Michael Larabel",
-          "description": "Now that the Linux 6.10 merge window has wrapped up, here's a look at all of the exciting features/changes coming to this summer 2024 kernel. Linux 6.10 brings a lot as usual for the latest/upcoming Intel and AMD platforms, never-ending work on file-systems, a new memory sealing \"mseal\" system call, TPM bus encryption, and dozens of other exciting changes and new hardware support.",
-          "link": "https://www.phoronix.com/review/linux-610-features",
-          "publishedOn": "2024-05-29T16:15:00.000Z",
-          "wordCount": 1971,
-          "title": "Linux 6.10 Features Include TPM Bus Encryption, More AMD Zen 5 & A Prison Letter Merge Request",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Arm-Cortex-X925-Cortex-A725",
-          "author": "Michael Larabel",
-          "description": "Arm today announced the latest products in the Armv9 CPU portfolio: the Cortex-X925 as their \"ultimate performance\" processor and the Cortex-A725 as their processor option for sustained performance...",
-          "link": "https://www.phoronix.com/news/Arm-Cortex-X925-Cortex-A725",
-          "publishedOn": "2024-05-29T16:00:56.000Z",
-          "wordCount": 1701,
-          "title": "Arm Announces The Cortex-X925 & Cortex-A725",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/QuestDB-8.0-Released",
-          "author": "Michael Larabel",
-          "description": "QuestDB 8.0 is out today as the newest feature update to this open-source time-series database. QuestDB continues to cater to high throughput ingestion and fast SQL queries so it can handle use-cases from financial data to IoT sensors. With today's QuestDB 8.0 release, it's even faster...",
-          "link": "https://www.phoronix.com/news/QuestDB-8.0-Released",
-          "publishedOn": "2024-05-29T14:39:02.000Z",
-          "wordCount": 1835,
-          "title": "QuestDB 8.0 Brings Up To 50% Performance Improvement, ZFS Data Compression",
           "imageUrl": null
         }
       ]
