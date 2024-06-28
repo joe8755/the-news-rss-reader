@@ -2,10 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-27T12:34:29.868Z</updated>
+    <updated>2024-06-28T01:18:19.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Fixing A Major Performance Issue For Intel Hybrid Systems With Buggy Firmware]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-rc6-PM-Intel-Core</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-rc6-PM-Intel-Core"/>
+        <updated>2024-06-28T00:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Sent in as the sole patch for this week's Linux power management subsystem updates is an important fix for Intel Core hybrid systems with buggy firmware. The Intel P-State driver fix can address as much as a 50% performance hit seen with existing Linux kernel versions on affected Intel hybrid platforms...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Hacker News for 2024-06-27]]></title>
+        <id>https://www.daemonology.net/hn-daily/2024-06-27.html</id>
+        <link href="https://www.daemonology.net/hn-daily/2024-06-27.html"/>
+        <updated>2024-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 10 highest-rated articles on
+Hacker News
+on June 27, 2024 which have not appeared on any previous
+Hacker News Daily
+are:
+
+
+Living Computers Museum to permanently close, auction vintage items
+(comments)
+
+
+Show HN: I built an indie, browser-based MMORPG
+(comments)
+
+
+Figma Slides
+(comments)
+
+
+The Forth Deck mini: a portable Forth computer with a discrete CPU
+(comments)
+
+
+South Korean telecom company attacks torrent users with malware
+(comments)
+
+
+Claude 3.5 Sonnet
+(comments)
+
+
+25 years of video clips gone as Paramount axes Comedy Central wesbite
+(comments)
+
+
+Google Sheets ported its calculation worker from JavaScript to WasmGC
+(comments)
+
+
+Lessons I Wish I Had Been Taught (1996) [pdf]
+(comments)
+
+
+Remembering Larry Finger, who made Linux wireless work
+(comments)]]></summary>
+        <author>
+            <name>Hacker News Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME 47 Can Now Be Built With X11 Support Disabled]]></title>
+        <id>https://www.phoronix.com/news/GNOME-MRs-Without-X11</id>
+        <link href="https://www.phoronix.com/news/GNOME-MRs-Without-X11"/>
+        <updated>2024-06-27T17:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Last week the GNOME 47 development code saw Wayland DRM lease protocol support for enhancing VR headset handling and separately was also accent color support for GNOME Shell. Adding to the recent slew of changes landing for GNOME 47, the GNOME Shell and Mutter code can now be successfully compiled -- optionally -- without any X11 support or requiring any X11 build dependencies...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD's Advanced Media Framework Promotes RADV Support]]></title>
+        <id>https://www.phoronix.com/news/AMD-AMF-1.4.34</id>
+        <link href="https://www.phoronix.com/news/AMD-AMF-1.4.34"/>
+        <updated>2024-06-27T17:34:23.000Z</updated>
+        <summary type="html"><![CDATA[AMD today published version 1.4.34 of its Advanced Media Framework (AMF) SDK. This accelerated multimedia framework is used on Linux and Windows for integrating with games/applications leveraging DirectX, OpenGL, and OpenCL with interoperability support for Radeon GPU customers...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PipeWire 1.2 Released With Async Processing, Explicit Sync & Other Features]]></title>
+        <id>https://www.phoronix.com/news/PipeWire-1.2-Released</id>
+        <link href="https://www.phoronix.com/news/PipeWire-1.2-Released"/>
+        <updated>2024-06-27T13:45:10.000Z</updated>
+        <summary type="html"><![CDATA[PipeWire 1.2 was christened today as the latest major feature update to this solution common to the modern Linux desktop for managing audio/video streams...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA 555.58 Stable Linux Driver Brings Wayland Explicit Sync, GSP Firmware Default]]></title>
+        <id>https://www.phoronix.com/news/NVIDIA-555.58-Linux-Driver</id>
+        <link href="https://www.phoronix.com/news/NVIDIA-555.58-Linux-Driver"/>
+        <updated>2024-06-27T13:37:42.000Z</updated>
+        <summary type="html"><![CDATA[The NVIDIA 555.58 Linux driver has debuted this morning as the first stable version in the R555 driver series. The NVIDIA 555 Linux driver is the most exciting in recent times with offering Wayland explicit sync support, more stable Wayland support in general, and GSP firmware is now used by default on RTX 20 / Turing and newer GPUs where the GPU System Processor is present...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD P-State Core Performance Boost To Be Merged For Linux 6.11]]></title>
         <id>https://www.phoronix.com/news/AMD-Core-Perf-Boost-Linux-6.11</id>
@@ -4068,66 +4172,6 @@ Kino: Pro Video Camera
         <link href="https://www.phoronix.com/news/QuestDB-8.0-Released"/>
         <updated>2024-05-29T14:39:02.000Z</updated>
         <summary type="html"><![CDATA[QuestDB 8.0 is out today as the newest feature update to this open-source time-series database. QuestDB continues to cater to high throughput ingestion and fast SQL queries so it can handle use-cases from financial data to IoT sensors. With today's QuestDB 8.0 release, it's even faster...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Launches "Opt Green" Initiative For Sustainable Software & Hardware]]></title>
-        <id>https://www.phoronix.com/news/KDE-Opt-Green</id>
-        <link href="https://www.phoronix.com/news/KDE-Opt-Green"/>
-        <updated>2024-05-29T12:58:14.000Z</updated>
-        <summary type="html"><![CDATA[KDE's Eco group announced today "Opt Green" as a new initiative for sustainable software...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canonical Developing "Flamenco" For Enhancing .NET Developer Experience On Ubuntu]]></title>
-        <id>https://www.phoronix.com/news/Flamenco-dot-NET-Ubuntu</id>
-        <link href="https://www.phoronix.com/news/Flamenco-dot-NET-Ubuntu"/>
-        <updated>2024-05-29T11:06:34.000Z</updated>
-        <summary type="html"><![CDATA[One of the newest open-source projects in-development by Ubuntu maker Canonical is a new C# written program called Flamenco...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve's AMD Shader Compiler "ACO" Makes More Preparations For Radeon RDNA4]]></title>
-        <id>https://www.phoronix.com/news/Mesa-ACO-Changes-GFX12</id>
-        <link href="https://www.phoronix.com/news/Mesa-ACO-Changes-GFX12"/>
-        <updated>2024-05-29T10:41:24.000Z</updated>
-        <summary type="html"><![CDATA[The AMD shader compiler "ACO" alternative to the AMDGPU LLVM back-end has seen another batch of changes merged in preparations for next-generation Radeon RDNA4 GPUs...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Makes One Line Tweak To GCC To Fix A "Random Performance Penalty"]]></title>
-        <id>https://www.phoronix.com/news/Intel-GCC-Loop-Alignment</id>
-        <link href="https://www.phoronix.com/news/Intel-GCC-Loop-Alignment"/>
-        <updated>2024-05-29T10:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Coming up on my radar today is a commit made to the GNU Compiler Collection (GCC) for adjusting the loop alignment with Intel's generic tuning path. In turn this should address "some random performance penalty in benchmarks" with coping better around cache lines...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel's Sub-NUMA Clustering Support Linux Patches Spun A 19th Time]]></title>
-        <id>https://www.phoronix.com/news/Intel-SNC-With-RDT-Linux-v19</id>
-        <link href="https://www.phoronix.com/news/Intel-SNC-With-RDT-Linux-v19"/>
-        <updated>2024-05-29T10:22:29.000Z</updated>
-        <summary type="html"><![CDATA[The past year there's been a big Linux kernel patch series in the work by Intel to improve Sub-NUMA Clustering "SNC" support so it behaves well with Intel Resource Director Technology (RDT) on modern Intel hardware. Hopefully that work will soon be ready for mainlining in the Linux kernel while this week brought the 19th revision to those patches...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flowblade 2.16 Open-Source Video Editor Released]]></title>
-        <id>https://www.phoronix.com/news/Flowblade-2.16-Released</id>
-        <link href="https://www.phoronix.com/news/Flowblade-2.16-Released"/>
-        <updated>2024-05-29T10:15:46.000Z</updated>
-        <summary type="html"><![CDATA[Flowblade 2.16 is out today as the newest version of this open-source non-linear video editor...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>

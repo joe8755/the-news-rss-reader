@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-27.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 27, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nLiving Computers Museum to permanently close, auction vintage items\n(comments)\n\n\nShow HN: I built an indie, browser-based MMORPG\n(comments)\n\n\nFigma Slides\n(comments)\n\n\nThe Forth Deck mini: a portable Forth computer with a discrete CPU\n(comments)\n\n\nSouth Korean telecom company attacks torrent users with malware\n(comments)\n\n\nClaude 3.5 Sonnet\n(comments)\n\n\n25 years of video clips gone as Paramount axes Comedy Central wesbite\n(comments)\n\n\nGoogle Sheets ported its calculation worker from JavaScript to WasmGC\n(comments)\n\n\nLessons I Wish I Had Been Taught (1996) [pdf]\n(comments)\n\n\nRemembering Larry Finger, who made Linux wireless work\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-27.html",
+          "publishedOn": "2024-06-28T00:00:00.000Z",
+          "wordCount": 576,
+          "title": "Daily Hacker News for 2024-06-27",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-26.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 26, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nLiquid Layers\n(comments)\n\n\nI found a 1-click exploit in South Korea's biggest mobile chat app\n(comments)\n\n\nShow HN: Triplit – Open-source syncing database that runs on server and client\n(comments)\n\n\nShow HN: From dotenv to dotenvx – better config management\n(comments)\n\n\nWaymo One is now open to everyone in San Francisco\n(comments)\n\n\nShow HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm\n(comments)\n\n\nFixing QuickLook (2023)\n(comments)\n\n\nBall: A ball that lives in your dock\n(comments)\n\n\nHyperCard Simulator\n(comments)\n\n\nOne Million Checkboxes\n(comments)",
@@ -302,6 +312,56 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-rc6-PM-Intel-Core",
+          "author": "Michael Larabel",
+          "description": "Sent in as the sole patch for this week's Linux power management subsystem updates is an important fix for Intel Core hybrid systems with buggy firmware. The Intel P-State driver fix can address as much as a 50% performance hit seen with existing Linux kernel versions on affected Intel hybrid platforms...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-rc6-PM-Intel-Core",
+          "publishedOn": "2024-06-28T00:25:08.000Z",
+          "wordCount": 2073,
+          "title": "Linux Fixing A Major Performance Issue For Intel Hybrid Systems With Buggy Firmware",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GNOME-MRs-Without-X11",
+          "author": "Michael Larabel",
+          "description": "Last week the GNOME 47 development code saw Wayland DRM lease protocol support for enhancing VR headset handling and separately was also accent color support for GNOME Shell. Adding to the recent slew of changes landing for GNOME 47, the GNOME Shell and Mutter code can now be successfully compiled -- optionally -- without any X11 support or requiring any X11 build dependencies...",
+          "link": "https://www.phoronix.com/news/GNOME-MRs-Without-X11",
+          "publishedOn": "2024-06-27T17:46:30.000Z",
+          "wordCount": 1836,
+          "title": "GNOME 47 Can Now Be Built With X11 Support Disabled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AMD-AMF-1.4.34",
+          "author": "Michael Larabel",
+          "description": "AMD today published version 1.4.34 of its Advanced Media Framework (AMF) SDK. This accelerated multimedia framework is used on Linux and Windows for integrating with games/applications leveraging DirectX, OpenGL, and OpenCL with interoperability support for Radeon GPU customers...",
+          "link": "https://www.phoronix.com/news/AMD-AMF-1.4.34",
+          "publishedOn": "2024-06-27T17:34:23.000Z",
+          "wordCount": 1824,
+          "title": "AMD's Advanced Media Framework Promotes RADV Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/PipeWire-1.2-Released",
+          "author": "Michael Larabel",
+          "description": "PipeWire 1.2 was christened today as the latest major feature update to this solution common to the modern Linux desktop for managing audio/video streams...",
+          "link": "https://www.phoronix.com/news/PipeWire-1.2-Released",
+          "publishedOn": "2024-06-27T13:45:10.000Z",
+          "wordCount": 1963,
+          "title": "PipeWire 1.2 Released With Async Processing, Explicit Sync & Other Features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/NVIDIA-555.58-Linux-Driver",
+          "author": "Michael Larabel",
+          "description": "The NVIDIA 555.58 Linux driver has debuted this morning as the first stable version in the R555 driver series. The NVIDIA 555 Linux driver is the most exciting in recent times with offering Wayland explicit sync support, more stable Wayland support in general, and GSP firmware is now used by default on RTX 20 / Turing and newer GPUs where the GPU System Processor is present...",
+          "link": "https://www.phoronix.com/news/NVIDIA-555.58-Linux-Driver",
+          "publishedOn": "2024-06-27T13:37:42.000Z",
+          "wordCount": 1882,
+          "title": "NVIDIA 555.58 Stable Linux Driver Brings Wayland Explicit Sync, GSP Firmware Default",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AMD-Core-Perf-Boost-Linux-6.11",
           "author": "Michael Larabel",
@@ -2800,66 +2860,6 @@
           "publishedOn": "2024-05-29T14:39:02.000Z",
           "wordCount": 1835,
           "title": "QuestDB 8.0 Brings Up To 50% Performance Improvement, ZFS Data Compression",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/KDE-Opt-Green",
-          "author": "Michael Larabel",
-          "description": "KDE's Eco group announced today \"Opt Green\" as a new initiative for sustainable software...",
-          "link": "https://www.phoronix.com/news/KDE-Opt-Green",
-          "publishedOn": "2024-05-29T12:58:14.000Z",
-          "wordCount": 2000,
-          "title": "KDE Launches \"Opt Green\" Initiative For Sustainable Software & Hardware",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Flamenco-dot-NET-Ubuntu",
-          "author": "Michael Larabel",
-          "description": "One of the newest open-source projects in-development by Ubuntu maker Canonical is a new C# written program called Flamenco...",
-          "link": "https://www.phoronix.com/news/Flamenco-dot-NET-Ubuntu",
-          "publishedOn": "2024-05-29T11:06:34.000Z",
-          "wordCount": 1800,
-          "title": "Canonical Developing \"Flamenco\" For Enhancing .NET Developer Experience On Ubuntu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Mesa-ACO-Changes-GFX12",
-          "author": "Michael Larabel",
-          "description": "The AMD shader compiler \"ACO\" alternative to the AMDGPU LLVM back-end has seen another batch of changes merged in preparations for next-generation Radeon RDNA4 GPUs...",
-          "link": "https://www.phoronix.com/news/Mesa-ACO-Changes-GFX12",
-          "publishedOn": "2024-05-29T10:41:24.000Z",
-          "wordCount": 1830,
-          "title": "Valve's AMD Shader Compiler \"ACO\" Makes More Preparations For Radeon RDNA4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-GCC-Loop-Alignment",
-          "author": "Michael Larabel",
-          "description": "Coming up on my radar today is a commit made to the GNU Compiler Collection (GCC) for adjusting the loop alignment with Intel's generic tuning path. In turn this should address \"some random performance penalty in benchmarks\" with coping better around cache lines...",
-          "link": "https://www.phoronix.com/news/Intel-GCC-Loop-Alignment",
-          "publishedOn": "2024-05-29T10:30:08.000Z",
-          "wordCount": 1890,
-          "title": "Intel Makes One Line Tweak To GCC To Fix A \"Random Performance Penalty\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-SNC-With-RDT-Linux-v19",
-          "author": "Michael Larabel",
-          "description": "The past year there's been a big Linux kernel patch series in the work by Intel to improve Sub-NUMA Clustering \"SNC\" support so it behaves well with Intel Resource Director Technology (RDT) on modern Intel hardware. Hopefully that work will soon be ready for mainlining in the Linux kernel while this week brought the 19th revision to those patches...",
-          "link": "https://www.phoronix.com/news/Intel-SNC-With-RDT-Linux-v19",
-          "publishedOn": "2024-05-29T10:22:29.000Z",
-          "wordCount": 1968,
-          "title": "Intel's Sub-NUMA Clustering Support Linux Patches Spun A 19th Time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Flowblade-2.16-Released",
-          "author": "Michael Larabel",
-          "description": "Flowblade 2.16 is out today as the newest version of this open-source non-linear video editor...",
-          "link": "https://www.phoronix.com/news/Flowblade-2.16-Released",
-          "publishedOn": "2024-05-29T10:15:46.000Z",
-          "wordCount": 1668,
-          "title": "Flowblade 2.16 Open-Source Video Editor Released",
           "imageUrl": null
         }
       ]
