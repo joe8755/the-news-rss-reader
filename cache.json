@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-28.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 28, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nFDA warns top U.S. bakery not to claim foods contain allergens when they don't\n(comments)\n\n\nID verification service for TikTok, Uber, X exposed driver licenses\n(comments)\n\n\nGemma 2: Improving Open Language Models at a Practical Size [pdf]\n(comments)\n\n\nSupreme Court blocks controversial Purdue Pharma opioid settlement\n(comments)\n\n\nA modern 8 bit design, built using 1950s thermionic valves\n(comments)\n\n\n200 people charged in $2.7B health care fraud crackdown\n(comments)\n\n\nInfrastructure setup and open-source scripts to train 70B model from bare metal\n(comments)\n\n\nSoftware galaxies\n(comments)\n\n\nAsk HN: What is the best code base you ever worked on?\n(comments)\n\n\nSupreme Court overturns 40-year-old \\\"Chevron deference\\\" doctrine\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-28.html",
+          "publishedOn": "2024-06-29T00:00:00.000Z",
+          "wordCount": 589,
+          "title": "Daily Hacker News for 2024-06-28",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-27.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 27, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nLiving Computers Museum to permanently close, auction vintage items\n(comments)\n\n\nShow HN: I built an indie, browser-based MMORPG\n(comments)\n\n\nFigma Slides\n(comments)\n\n\nThe Forth Deck mini: a portable Forth computer with a discrete CPU\n(comments)\n\n\nSouth Korean telecom company attacks torrent users with malware\n(comments)\n\n\nClaude 3.5 Sonnet\n(comments)\n\n\n25 years of video clips gone as Paramount axes Comedy Central wesbite\n(comments)\n\n\nGoogle Sheets ported its calculation worker from JavaScript to WasmGC\n(comments)\n\n\nLessons I Wish I Had Been Taught (1996) [pdf]\n(comments)\n\n\nRemembering Larry Finger, who made Linux wireless work\n(comments)",
@@ -302,6 +312,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Wine-9.12-Released",
+          "author": "Michael Larabel",
+          "description": "Wine 9.12 is out as the latest bi-weekly development release and in passing roughly the half-way point before Wine 10.0 stable enters the sights for early 2025...",
+          "link": "https://www.phoronix.com/news/Wine-9.12-Released",
+          "publishedOn": "2024-06-29T00:27:24.000Z",
+          "wordCount": 1700,
+          "title": "Wine 9.12 Lands Rewrite Of CMD.EXE Engine & Other Improvements",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.11-More-Intel-P-Replay",
+          "author": "Michael Larabel",
+          "description": "On top of already having queued Intel Battlemage display support and the Battlemage device PCI IDs and other Intel kernel graphics driver features like hardware hang replays, Intel engineers today sent out another batch of \"drm-intel-next\" material slated for introduction in the upcoming Linux 6.11 cycle...",
+          "link": "https://www.phoronix.com/news/Linux-6.11-More-Intel-P-Replay",
+          "publishedOn": "2024-06-28T15:49:34.000Z",
+          "wordCount": 1750,
+          "title": "Intel Preps More eDP Panel Replay Driver Code For Linux 6.11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Servo-June-2024-Update",
+          "author": "Michael Larabel",
+          "description": "The Rust-written Servo web layout engine continues progressing for this open-source project now stewarded by the Linux Foundation Europe and seeing code contribution from a range of developers. They have published their June 2024 status update to outline the latest accomplishments for this alternative web engine...",
+          "link": "https://www.phoronix.com/news/Servo-June-2024-Update",
+          "publishedOn": "2024-06-28T13:39:15.000Z",
+          "wordCount": 1910,
+          "title": "Servo Web Engine Gets WebGPU Running On OpenGL ES & Other New Features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/DRM-Panic-Monochrome-Logo",
+          "author": "Michael Larabel",
+          "description": "The DRM Panic handler in Linux 6.10 that is used for presenting a visual error message in case of kernel panics and similar when CONFIG_VT is disabled continues seeing new features. This is the Linux equivalent to Windows' Blue Screen of Death or in the case of DRM Panic can also be a black screen of death. With Linux 6.11, the DRM Panic display can now handle monochrome logos...",
+          "link": "https://www.phoronix.com/news/DRM-Panic-Monochrome-Logo",
+          "publishedOn": "2024-06-28T12:37:16.000Z",
+          "wordCount": 1823,
+          "title": "DRM Panic \"Screen of Death\" To Gain Monochrome Logo Support In Linux 6.11",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Lavapipe-Vulkan-Sparse-Merged",
           "author": "Michael Larabel",
@@ -2770,56 +2820,6 @@
           "publishedOn": "2024-05-30T14:09:28.000Z",
           "wordCount": 1858,
           "title": "Yocto 5.0 LTS Released - Now Powered By Linux 6.6 LTS, Boeing Joins The Project",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Ultra-Accelerator-Link-UALink",
-          "author": "Michael Larabel",
-          "description": "It's rare for an advanced media briefing to involve representatives from both AMD and Intel, but that happened yesterday. AMD and Intel along with Broadcom have formed the Ultra Accelerator Link \"UALink\" as a new open standard they are hoping to use to take on NVIDIA's proprietary NVLink interface...",
-          "link": "https://www.phoronix.com/news/Ultra-Accelerator-Link-UALink",
-          "publishedOn": "2024-05-30T12:00:00.000Z",
-          "wordCount": 2041,
-          "title": "AMD & Intel Team Up For UALink As Open Alternative To NVIDIA's NVLink",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Battlemage-Goes-Mesa-24.2",
-          "author": "Michael Larabel",
-          "description": "The Intel Battlemage discrete graphics support is beginning to come together for the open-source Linux graphics driver stack as the successor to DG2/Alchemist. In addition to all the Xe2 work for what's found with Lunar Lake, more Battlemage Linux kernel and user-space driver work has been appearing recently. The milestone crossed today is the initial Battlemage \"BMG\" platform support being merged for the Mesa 24.2 OpenGL/Vulkan drivers...",
-          "link": "https://www.phoronix.com/news/Intel-Battlemage-Goes-Mesa-24.2",
-          "publishedOn": "2024-05-30T10:33:06.000Z",
-          "wordCount": 1964,
-          "title": "Intel Battlemage Platform Support Begins Landing In Mesa 24.2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Linux-NMI-Source-Report",
-          "author": "Michael Larabel",
-          "description": "As part of Intel's Flexible Return Event Delivery (FRED), Intel open-source software engineers are now working on improving Non-Maskable Interrupt (NMI) source reporting for the Linux kernel...",
-          "link": "https://www.phoronix.com/news/Intel-Linux-NMI-Source-Report",
-          "publishedOn": "2024-05-30T10:24:23.000Z",
-          "wordCount": 2100,
-          "title": "Intel Improving NMI Source Reporting On Linux With FRED",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/PowerVR-GX6250-MT8173",
-          "author": "Michael Larabel",
-          "description": "Building off the PowerVR kernel driver merged in Linux 6.8 and PowerVR Vulkan driver in Mesa 24.0 that are both focused on Imagination's newer PowerVR Rogue architecture, Google engineers are working on enabling open-source driver support for the PowerVR Rogue GX6250 as found within the MediaTek MT8173 SoC...",
-          "link": "https://www.phoronix.com/news/PowerVR-GX6250-MT8173",
-          "publishedOn": "2024-05-30T10:14:11.000Z",
-          "wordCount": 1869,
-          "title": "Google Enabling PowerVR Rogue GX6250 Open-Source Support With The MediaTek MT8173",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/KDGpu-0.5-Released",
-          "author": "Michael Larabel",
-          "description": "Last year the KDAB consulting firm typically associated with Qt work published KDGpu as a thin Vulkan wrapper to make it easier leveraging this graphics API. Out today is KDGpu v0.5 with many improvements to this Vulkan wrapper...",
-          "link": "https://www.phoronix.com/news/KDGpu-0.5-Released",
-          "publishedOn": "2024-05-30T09:57:38.000Z",
-          "wordCount": 1853,
-          "title": "KDGpu v0.5 Vulkan Wrapper Released, KDXr Begins Wrapping OpenXR",
           "imageUrl": null
         }
       ]
