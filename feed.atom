@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-29T01:17:18.767Z</updated>
+    <updated>2024-06-29T12:32:41.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Prepares New Spectre BHI Mitigation Option For Cloud Environments]]></title>
+        <id>https://www.phoronix.com/news/Linux-Spectre-BHI-VMEXIT</id>
+        <link href="https://www.phoronix.com/news/Linux-Spectre-BHI-VMEXIT"/>
+        <updated>2024-06-29T12:24:18.000Z</updated>
+        <summary type="html"><![CDATA[For the Branch History Injection variant of Spectre (Spectre BHI) there is a patch pending to add a new mitigation option for that two year old CPU security vulnerability...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome's Coreboot Firmware Adapting For 64-bit Boot, Prepping For Intel Panther Lake]]></title>
+        <id>https://www.phoronix.com/news/Chrome-64-bit-Firmware-Adapt</id>
+        <link href="https://www.phoronix.com/news/Chrome-64-bit-Firmware-Adapt"/>
+        <updated>2024-06-29T10:39:08.000Z</updated>
+        <summary type="html"><![CDATA[The Open-Source Firmware Foundation is out with an interesting blog post by Google firmware engineer Subrata Banik around adapting the Coreboot-based Chrome AP Firmware for 64-bit booting. The transition to 64-bit booting is happening for the system firmware powering Chromebooks and other Chrome devices and is driven in part for Intel Panther Lake generation hardware...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME Ends Out June With New Libadwaita Addition, Optional Building Without X11]]></title>
+        <id>https://www.phoronix.com/news/GNOME-End-Of-June-2024</id>
+        <link href="https://www.phoronix.com/news/GNOME-End-Of-June-2024"/>
+        <updated>2024-06-29T10:23:08.000Z</updated>
+        <summary type="html"><![CDATA[This Week in GNOME is out with the latest summary to highlight all of the interesting changes this week...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niri 0.1.7 Scrollable-Tiling Wayland Compositor Adds Fractional Scaling]]></title>
+        <id>https://www.phoronix.com/news/Niri-0.1.7-Released</id>
+        <link href="https://www.phoronix.com/news/Niri-0.1.7-Released"/>
+        <updated>2024-06-29T09:49:21.000Z</updated>
+        <summary type="html"><![CDATA[Niri 0.1.7 is out today as the latest version of this scrollable-tiling Wayland compositor. While the version number may not signify it, Niri 0.1.7 is quite a notable feature update...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Developers Fix More Bugs For Plasma 6.1, Begin More Feature Work On Plasma 6.2]]></title>
+        <id>https://www.phoronix.com/news/KDE-This-Week-6.1-Fixes</id>
+        <link href="https://www.phoronix.com/news/KDE-This-Week-6.1-Fixes"/>
+        <updated>2024-06-29T09:33:21.000Z</updated>
+        <summary type="html"><![CDATA[KDE developers have still been busy addressing early fallout from the Plasma 6.1 desktop that released earlier this month while also beginning more feature activity for Plasma 6.2...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wine 9.12 Lands Rewrite Of CMD.EXE Engine & Other Improvements]]></title>
         <id>https://www.phoronix.com/news/Wine-9.12-Released</id>
@@ -4008,130 +4058,6 @@ IRS Direct File to open to all 50 states and D.C. for 2025 tax season
         <link href="https://www.phoronix.com/news/Kdenlive-24.05-Released"/>
         <updated>2024-05-31T10:19:03.000Z</updated>
         <summary type="html"><![CDATA[If the recent release of Flowblade 2.16 video editor wasn't of interest to you due to being GTK-based software, the Qt/KDE-aligned Kdenlive video editor is out this week with its Kdenlive 24.05 feature release...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-30]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-30.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-30.html"/>
-        <updated>2024-05-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 30, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-Donating forks to the dining hall
-(comments)
-
-
-DuckDB Doesn't Need Data to Be a Database
-(comments)
-
-
-Gov. Polis Signs Bill Mandating That Consumers Have Options to Fix Electronics
-(comments)
-
-
-FrankenPHP: Modern PHP App Server
-(comments)
-
-
-How actors remember their lines
-(comments)
-
-
-After 6 years, I'm over GraphQL
-(comments)
-
-
-I got tired of hearing that YC fired Sam, so here's what actually happened
-(comments)
-
-
-I love my wife. My wife is dead (1946)
-(comments)
-
-
-Show HN: ChatGPT UI for rabbit holes
-(comments)
-
-
-Don't DRY Your Code Prematurely
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wayland 1.23 Released With OpenBSD Support]]></title>
-        <id>https://www.phoronix.com/news/Wayland-1.23-Released</id>
-        <link href="https://www.phoronix.com/news/Wayland-1.23-Released"/>
-        <updated>2024-05-30T19:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Simon Ser today released Wayland 1.23 for this core Wayland code that brings some minor enhancements, bug fixes, and Wayland protocol clarifications...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Rolling Out New Windows Subsystem For Linux "WSL" Features For 2024]]></title>
-        <id>https://www.phoronix.com/news/Microsoft-WSL2-2024-Features</id>
-        <link href="https://www.phoronix.com/news/Microsoft-WSL2-2024-Features"/>
-        <updated>2024-05-30T18:43:47.000Z</updated>
-        <summary type="html"><![CDATA[Given Microsoft's recent BUILD conference, Microsoft has announced a number of sizable updates to Windows Subsystem for Linux (WSL)...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD EPYC 4124P Benchmarks: A Quad-Core $149 Server CPU]]></title>
-        <id>https://www.phoronix.com/review/amd-epyc-4124p</id>
-        <link href="https://www.phoronix.com/review/amd-epyc-4124p"/>
-        <updated>2024-05-30T16:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Last week with the AMD EPYC 4004 review and benchmarks I tested nearly the entire product stack for these new AM5-based server processors with the EPYC 4244P (6 cores), EPYC 4344P (8 cores), EPYC 4364P (8 cores), EPYC 4464P (12 cores), EPYC 4484X (12 cores + 3D V-Cache), EPYC 4564P (16 cores), and EPYC 4584PX (16 cores + 3D V-Cache). The only EPYC 4004 class processor I wasn't able to finish testing in time was the entry-level EPYC 4124P as a 4-core processor with $149 retail price. I've now had the time to finish benchmarking that budget-focused Zen 4 server processor as well as seeing how it compares to the 4-core Skylake Xeons that were prolific for years.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora's New Web-Based Installer UI Delayed Yet Again... Now In 2025 With Fedora 42]]></title>
-        <id>https://www.phoronix.com/news/Anaconda-Web-UI-Fedora-42</id>
-        <link href="https://www.phoronix.com/news/Anaconda-Web-UI-Fedora-42"/>
-        <updated>2024-05-30T15:10:00.000Z</updated>
-        <summary type="html"><![CDATA[It's been more than two years now talking about the Anaconda installer for Fedora/RHEL shifting to a web-based UI. Going back to Fedora 37 have been previews and plans for getting this modern user interface up to parity but it's been a long road. With repeated delays, there's at least one more delay: the Anaconda web UI was just shifted from Fedora 41 to Fedora 42...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-Time Kernel Now Available On Ubuntu 24.04 LTS]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-24.04-LTS-Real-Time</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-24.04-LTS-Real-Time"/>
-        <updated>2024-05-30T14:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Similar to the real-time kernel for Ubuntu 22.04 LTS, Canonical announced today the availability of their new real-time "RT" kernel for Ubuntu 24.04 LTS. But like with the existing Ubuntu RT kernels, this real-time support is limited to Ubuntu Pro subscriptions...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Servo Web Engine Continues Advancing But Seeing Just $1.6k In Monthly Donations]]></title>
-        <id>https://www.phoronix.com/news/Servo-Engine-May-2024</id>
-        <link href="https://www.phoronix.com/news/Servo-Engine-May-2024"/>
-        <updated>2024-05-30T14:26:58.000Z</updated>
-        <summary type="html"><![CDATA[The Rust-written Servo web engine as a reminder was started as a Mozilla project but then abandoned and now developed by multiple organizations as part of Linux Foundation Europe. The Servo project has put out a new status update that highlights the work accomplished in recent weeks...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yocto 5.0 LTS Released - Now Powered By Linux 6.6 LTS, Boeing Joins The Project]]></title>
-        <id>https://www.phoronix.com/news/Yocto-5.0-Released</id>
-        <link href="https://www.phoronix.com/news/Yocto-5.0-Released"/>
-        <updated>2024-05-30T14:09:28.000Z</updated>
-        <summary type="html"><![CDATA[Yocto 5.0 LTS has been released as the newest version from the Yocto Project that is popular for organizations assembling their own embedded/IoT-minded custom Linux distributions. The Linux Foundation also announced today that Boeing has become a Platinum Member with Yocto...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
