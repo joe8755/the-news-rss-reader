@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-29.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 29, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nIt's getting harder to die\n(comments)\n\n\nEntrust Certificate Distrust\n(comments)\n\n\nThe loneliness of the low-ranking tennis player\n(comments)\n\n\nMeta LLM Compiler: neural optimizer and disassembler\n(comments)\n\n\nIs Clear Air Turbulence becoming more common?\n(comments)\n\n\nThe story, as best I can remember, of the origin of Mosaic and Netscape [video]\n(comments)\n\n\nHow to waste bandwidth, battery power, and annoy sysadmins\n(comments)\n\n\nImhex: A hex editor for reverse engineers\n(comments)\n\n\nA bunch of programming advice I'd give to myself 15 years ago\n(comments)\n\n\nBytecode Breakdown: Unraveling Factorio's Lua Security Flaws\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-29.html",
+          "publishedOn": "2024-06-30T00:00:00.000Z",
+          "wordCount": 573,
+          "title": "Daily Hacker News for 2024-06-29",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-28.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 28, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nFDA warns top U.S. bakery not to claim foods contain allergens when they don't\n(comments)\n\n\nID verification service for TikTok, Uber, X exposed driver licenses\n(comments)\n\n\nGemma 2: Improving Open Language Models at a Practical Size [pdf]\n(comments)\n\n\nSupreme Court blocks controversial Purdue Pharma opioid settlement\n(comments)\n\n\nA modern 8 bit design, built using 1950s thermionic valves\n(comments)\n\n\n200 people charged in $2.7B health care fraud crackdown\n(comments)\n\n\nInfrastructure setup and open-source scripts to train 70B model from bare metal\n(comments)\n\n\nSoftware galaxies\n(comments)\n\n\nAsk HN: What is the best code base you ever worked on?\n(comments)\n\n\nSupreme Court overturns 40-year-old \\\"Chevron deference\\\" doctrine\n(comments)",
@@ -2740,56 +2750,6 @@
           "publishedOn": "2024-05-31T13:57:57.000Z",
           "wordCount": 1778,
           "title": "Dav1d 1.4.2 Provides More AVX2 & AVX-512 Performance Optimizations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Glibc-Memset-Perf",
-          "author": "Michael Larabel",
-          "description": "Intel engineer Noah Goldstein has landed another nice performance optimization in the GNU C Library \"glibc\" for benefiting newer Intel processors...",
-          "link": "https://www.phoronix.com/news/Intel-Glibc-Memset-Perf",
-          "publishedOn": "2024-05-31T12:56:10.000Z",
-          "wordCount": 1998,
-          "title": "Intel Lands A Nice Memset Performance Optimization In Glibc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-Easier-Quirky-Touch",
-          "author": "Michael Larabel",
-          "description": "Right now when dealing with quirky/buggy touchscreens a C file needs to be manually manipulated and the Linux kernel recompiled. With a new \"i2c_touchscreen_props\" kernel command line option on its way to the mainline kernel, the process of overriding touchscreen properties is dramatically easier for those dealing with Linux on touchscreen-enabled devices...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-Easier-Quirky-Touch",
-          "publishedOn": "2024-05-31T11:02:00.000Z",
-          "wordCount": 1926,
-          "title": "Linux 6.10 Is Making It Much Easier To Deal With Quirky Touchscreens",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Bcachefs-Look-Toward-Linux-6.11",
-          "author": "Michael Larabel",
-          "description": "Bcachefs lead developer Kent Overstreet sent in a batch of file-system fixes on Thursday for the in-development Linux 6.10 kernel. In that pull request he teased features that are set to arrive with the Linux 6.11 kernel later in the summer...",
-          "link": "https://www.phoronix.com/news/Bcachefs-Look-Toward-Linux-6.11",
-          "publishedOn": "2024-05-31T10:37:00.000Z",
-          "wordCount": 1810,
-          "title": "Bcachefs Preparing For New Features In Linux 6.11",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMDGPU-Firmware-More-RDNA-3.5",
-          "author": "Michael Larabel",
-          "description": "Last month we began seeing AMDGPU driver firmware files published for the rumored \"RDNA3+\" hardware as an RDNA3 refresh (also as \"RDNA 3.5\") for upcoming APUs. More firmware files have now landed public in linux-firmware.git for these forthcoming RDNA3 refresh products...",
-          "link": "https://www.phoronix.com/news/AMDGPU-Firmware-More-RDNA-3.5",
-          "publishedOn": "2024-05-31T10:28:00.000Z",
-          "wordCount": 1884,
-          "title": "More AMDGPU Linux Firmware Published For RDNA 3+",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Kdenlive-24.05-Released",
-          "author": "Michael Larabel",
-          "description": "If the recent release of Flowblade 2.16 video editor wasn't of interest to you due to being GTK-based software, the Qt/KDE-aligned Kdenlive video editor is out this week with its Kdenlive 24.05 feature release...",
-          "link": "https://www.phoronix.com/news/Kdenlive-24.05-Released",
-          "publishedOn": "2024-05-31T10:19:03.000Z",
-          "wordCount": 1710,
-          "title": "Kdenlive 24.05 Brings Multi-Format Rendering, Automatic Subtitle Translations",
           "imageUrl": null
         }
       ]
