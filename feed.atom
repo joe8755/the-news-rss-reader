@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-news-rss-reader/index.html</id>
     <title>the news rss reader</title>
-    <updated>2024-06-30T01:24:33.142Z</updated>
+    <updated>2024-06-30T12:32:31.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-news-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-news-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm Snapdragon X Elite Powered ASUS Vivobook S15 Laptop Seeing Linux Patches]]></title>
+        <id>https://www.phoronix.com/news/ASUS-Vivbook-S-15-Elite-X-Linux</id>
+        <link href="https://www.phoronix.com/news/ASUS-Vivbook-S-15-Elite-X-Linux"/>
+        <updated>2024-06-30T11:02:47.000Z</updated>
+        <summary type="html"><![CDATA[For those interested in laptops powered by Qualcomm's Snapdragon X Elite SoC, it's looking like the ASUS Vivobook S15 model could be one of the first devices with decent Linux support. There are patches undergoing review for upstreaming the ASUS Vivobook S 15 DeviceTree support so that much of the basic functionality is working under Linux but various features are known to be broken...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse-Engineered Vivante Driver Brings Improved Performance & Fixes For Linux 6.11]]></title>
+        <id>https://www.phoronix.com/news/Etnaviv-Driver-Linux-6.11</id>
+        <link href="https://www.phoronix.com/news/Etnaviv-Driver-Linux-6.11"/>
+        <updated>2024-06-30T10:39:57.000Z</updated>
+        <summary type="html"><![CDATA[The Etnaviv kernel graphics driver that provides reverse-engineered open-source support for Vivante graphics (and NPU) IP has seen a fresh round of patches ready to go for queuing in DRM-Next ahead of the Linux 6.11 cycle kicking off in mid-July...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kernel Optimizations, XZ, AMD ZLUDA, NOVA, EPYC 4004 & Other H1'2024 Highlights]]></title>
+        <id>https://www.phoronix.com/news/H1-2024-Highlights</id>
+        <link href="https://www.phoronix.com/news/H1-2024-Highlights"/>
+        <updated>2024-06-30T10:20:47.000Z</updated>
+        <summary type="html"><![CDATA[With the first half of the year drawing to a close, here is a look back at the most popular content on Phoronix so far in 2024. Year to date there has been 1,530 original news articles so far and 78 featured Linux hardware reviews / multi-page benchmark articles written by your's truly. There has been a lot happening in 2024 from Linux kernel improvements to exciting new hardware and other open-source advances...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Lands Improved Support For LG's Latest Laptops]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Better-LG-Laptops</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Better-LG-Laptops"/>
+        <updated>2024-06-30T10:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Merged on Saturday ahead of today's Linux 6.10-rc6 release is the latest batch of x86 platform driver changes. Notable as part of this week's fixes is improving support for the very latest (2024) LG laptop models...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian 12.6 Released With Many Security Updates & Bug Fixes]]></title>
+        <id>https://www.phoronix.com/news/Debian-12.6-Released</id>
+        <link href="https://www.phoronix.com/news/Debian-12.6-Released"/>
+        <updated>2024-06-30T10:05:00.000Z</updated>
+        <summary type="html"><![CDATA[For those on the Debian stable train, Debian 12.6 is out this weekend as the newest point release to Debian Bookworm...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News for 2024-06-29]]></title>
         <id>https://www.daemonology.net/hn-daily/2024-06-29.html</id>
@@ -3978,90 +4028,6 @@ Napster sparked a file-sharing revolution 25 years ago
         <link href="https://www.phoronix.com/news/Vulkan-1.3.286-Released"/>
         <updated>2024-06-01T00:38:43.000Z</updated>
         <summary type="html"><![CDATA[Vulkan 1.3.286 was released today with a handful of corrections/clarifications as well as one new extension...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Hacker News for 2024-05-31]]></title>
-        <id>https://www.daemonology.net/hn-daily/2024-05-31.html</id>
-        <link href="https://www.daemonology.net/hn-daily/2024-05-31.html"/>
-        <updated>2024-06-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 10 highest-rated articles on
-Hacker News
-on May 31, 2024 which have not appeared on any previous
-Hacker News Daily
-are:
-
-
-The Pumpkin Eclipse
-(comments)
-
-
-Unexpected anti-patterns for engineering leaders
-(comments)
-
-
-Show HN: Every mountain, building and tree shadow mapped for any date and time
-(comments)
-
-
-Japan's push to make all research open access
-(comments)
-
-
-Engineering for Slow Internet
-(comments)
-
-
-Every mountain, building and tree shadow in the world simulated for any time
-(comments)
-
-
-A man ordered to hide his boat painted the boat on his fence
-(comments)
-
-
-Snowflake breach: Hacker confirms access through infostealer infection
-(comments)
-
-
-Standard Ebooks' 1,000th title: Ulysses
-(comments)
-
-
-IRS Direct File to open to all 50 states and D.C. for 2025 tax season
-(comments)]]></summary>
-        <author>
-            <name>Hacker News Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine 9.10 Released With Upgrade To VKD3D 1.12, Brings DPI Awareness Improvements]]></title>
-        <id>https://www.phoronix.com/news/Wine-9.10-Released</id>
-        <link href="https://www.phoronix.com/news/Wine-9.10-Released"/>
-        <updated>2024-05-31T23:14:46.000Z</updated>
-        <summary type="html"><![CDATA[Wine 9.10 is out today as the newest bi-weekly development release for this open-source software to enjoy Windows games/applications on Linux and other operating systems...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Godot 4.3 Beta 1 Released With Native Wayland Support]]></title>
-        <id>https://www.phoronix.com/news/Godot-4.3-Beta-1</id>
-        <link href="https://www.phoronix.com/news/Godot-4.3-Beta-1"/>
-        <updated>2024-05-31T14:06:10.000Z</updated>
-        <summary type="html"><![CDATA[The open-source Godot game engine has worked its way up to the Godot 4.3 Beta 1 milestone with some exciting achievements...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dav1d 1.4.2 Provides More AVX2 & AVX-512 Performance Optimizations]]></title>
-        <id>https://www.phoronix.com/news/dav1d-1.4.2-AV1-Decoder</id>
-        <link href="https://www.phoronix.com/news/dav1d-1.4.2-AV1-Decoder"/>
-        <updated>2024-05-31T13:57:57.000Z</updated>
-        <summary type="html"><![CDATA[Jean-Baptiste Kempf released Dav1d 1.4.2 as the newest version of this speedy CPU-based AV1 video decoder. With this new dav1d 1.4.2 update are yet more performance optimizations for modern systems...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
