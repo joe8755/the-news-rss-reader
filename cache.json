@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-06-30.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non June 30, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nResearchers at ETH Zurich develop the fastest possible flow algorithm\n(comments)\n\n\nThe economics of writing technical books\n(comments)\n\n\nFUTO Keyboard\n(comments)\n\n\nPython toolkit for quantitative finance\n(comments)\n\n\nShow HN: I am building an open-source Confluence and Notion alternative\n(comments)\n\n\nAirPods fast connect security vulnerability\n(comments)\n\n\nOverleaf: An open-source online real-time collaborative LaTeX editor\n(comments)\n\n\nInside a $1 radar motion sensor\n(comments)\n\n\nWeekend projects: getting silly with C\n(comments)\n\n\nShow HN: Drop-in SQS replacement based on SQLite\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-06-30.html",
+          "publishedOn": "2024-07-01T00:00:00.000Z",
+          "wordCount": 563,
+          "title": "Daily Hacker News for 2024-06-30",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-29.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 29, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nIt's getting harder to die\n(comments)\n\n\nEntrust Certificate Distrust\n(comments)\n\n\nThe loneliness of the low-ranking tennis player\n(comments)\n\n\nMeta LLM Compiler: neural optimizer and disassembler\n(comments)\n\n\nIs Clear Air Turbulence becoming more common?\n(comments)\n\n\nThe story, as best I can remember, of the origin of Mosaic and Netscape [video]\n(comments)\n\n\nHow to waste bandwidth, battery power, and annoy sysadmins\n(comments)\n\n\nImhex: A hex editor for reverse engineers\n(comments)\n\n\nA bunch of programming advice I'd give to myself 15 years ago\n(comments)\n\n\nBytecode Breakdown: Unraveling Factorio's Lua Security Flaws\n(comments)",
@@ -302,6 +312,36 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/GNOME-Shell-Mutter-47-Alpha",
+          "author": "Michael Larabel",
+          "description": "GNOME 47 Alpha is approaching in the coming days and on Sunday evening the \"47.alpha\" versions were declared for GNOME Shell and the Mutter compositor. This alpha milestone is a big one with seeing enhanced VR headset support, the ability to build Wayland-only desktop environments, GNOME Shell accent color integration, and other Wayland improvements...",
+          "link": "https://www.phoronix.com/news/GNOME-Shell-Mutter-47-Alpha",
+          "publishedOn": "2024-07-01T00:42:20.000Z",
+          "wordCount": 1969,
+          "title": "GNOME Shell & Mutter See \"47.alpha\" Releases With Many Big Changes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.10-rc6-Released",
+          "author": "Michael Larabel",
+          "description": "The Linux 6.10 kernel cycle continues trending along nominally and giving hope for an on-time stable kernel release in two weeks...",
+          "link": "https://www.phoronix.com/news/Linux-6.10-rc6-Released",
+          "publishedOn": "2024-06-30T22:24:42.000Z",
+          "wordCount": 1874,
+          "title": "Linux 6.10-rc6 Arrives As A \"Fairly Calm\" Release",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/RISC-V-Linux-6.11-Hot-Memory",
+          "author": "Michael Larabel",
+          "description": "The RISC-V kernel port with Linux 6.11 is introducing the ability to handle memory hot plugging/unplugging...",
+          "link": "https://www.phoronix.com/news/RISC-V-Linux-6.11-Hot-Memory",
+          "publishedOn": "2024-06-30T13:31:21.000Z",
+          "wordCount": 1802,
+          "title": "RISC-V Memory Hot Plugging To Be Introduced With Linux 6.11",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/ASUS-Vivbook-S-15-Elite-X-Linux",
           "author": "Michael Larabel",
@@ -2700,66 +2740,6 @@
           "publishedOn": "2024-06-01T14:48:57.000Z",
           "wordCount": 1919,
           "title": "VCN5 AV1 Encode & More AMD RDNA4 RADV Support Land In Mesa 24.2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Xe2-Native-64-bit-Int",
-          "author": "Michael Larabel",
-          "description": "As some more exciting news for upcoming Xe2 graphics with Lunar Lake integrated graphics and Battlemage discrete GPUs, the latest open-source driver activity for Linux has confirmed Xe2 supporting native 64-bit integer arithmetic...",
-          "link": "https://www.phoronix.com/news/Intel-Xe2-Native-64-bit-Int",
-          "publishedOn": "2024-06-01T10:50:04.000Z",
-          "wordCount": 1766,
-          "title": "Intel Xe2 Brings Native 64-bit Integer Arithmetic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Debian-AI-Undecided",
-          "author": "Michael Larabel",
-          "description": "While the Gentoo Linux project recently established an AI policy to forbid contributions to the project made using any AI tools/assistance and NetBSD also came out with a similar policy against AI-generated code, the Debian project for now has no project-wide policy regarding AI...",
-          "link": "https://www.phoronix.com/news/Debian-AI-Undecided",
-          "publishedOn": "2024-06-01T10:45:24.000Z",
-          "wordCount": 1891,
-          "title": "Debian Has Yet To Establish Firm Stance On The Use Of AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/May-2024-Highlights",
-          "author": "Michael Larabel",
-          "description": "May 2024 is now in the books with 285 original news articles written by your's truly last month along with another 14 Linux hardware reviews / multi-page featured benchmark articles. It was an interesting month with some fun new hardware launches, the Linux 6.10 merge window taking place, and other open-source software progress...",
-          "link": "https://www.phoronix.com/news/May-2024-Highlights",
-          "publishedOn": "2024-06-01T10:20:00.000Z",
-          "wordCount": 4048,
-          "title": "NVIDIA Open Kernel Driver News, AMD EPYC 4004 & Linux 6.10 Made For A Fun May",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Celeron-Silver-Microcode",
-          "author": "Michael Larabel",
-          "description": "It's not too common for Intel to publish new CPU microcode updates outside of their \"Patch Tuesday\" regiment but that happened yesterday with a Friday night release of new CPU microcode although this time is limited to the Celeron and Pentium Silver families...",
-          "link": "https://www.phoronix.com/news/Intel-Celeron-Silver-Microcode",
-          "publishedOn": "2024-06-01T10:13:20.000Z",
-          "wordCount": 1873,
-          "title": "Intel Releases Updated Celeron & Pentium Silver CPU Microcode",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GNOME-STF-Update",
-          "author": "Michael Larabel",
-          "description": "Expressed last week was a \"major issue\" from the GNOME Foundation side with regard to the Sovereign Tech Fund partnership for funding a number of useful improvements to the GNOME software stack just as Germany's STF has been doing to a number of other prominent open-source projects. While there still aren't many clear public details on this \"major issue\", a Friday night update from the GNOME side seems to indicate all is well and they are also embarking on additional development funding initiatives...",
-          "link": "https://www.phoronix.com/news/GNOME-STF-Update",
-          "publishedOn": "2024-06-01T01:55:22.000Z",
-          "wordCount": 2095,
-          "title": "GNOME Shares Update On Sovereign Tech Fund & Other Development Funding",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Vulkan-1.3.286-Released",
-          "author": "Michael Larabel",
-          "description": "Vulkan 1.3.286 was released today with a handful of corrections/clarifications as well as one new extension...",
-          "link": "https://www.phoronix.com/news/Vulkan-1.3.286-Released",
-          "publishedOn": "2024-06-01T00:38:43.000Z",
-          "wordCount": 1789,
-          "title": "Vulkan 1.3.286 Released With One New Extension",
           "imageUrl": null
         }
       ]
