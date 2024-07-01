@@ -294,16 +294,6 @@
           "wordCount": 585,
           "title": "Daily Hacker News for 2024-06-02",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.daemonology.net/hn-daily/2024-06-01.html",
-          "author": null,
-          "description": "The 10 highest-rated articles on\nHacker News\non June 01, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nDebian KDE: Right Linux distribution for professional digital painting in 2024\n(comments)\n\n\nCarpenter's AirTags help uncover 'massive' case of stolen tools in Maryland\n(comments)\n\n\nThis Message Does Not Exist\n(comments)\n\n\nHow to copy a file from a 30-year-old laptop\n(comments)\n\n\nRecall: Stealing everything you've ever typed or viewed on your own Windows PC\n(comments)\n\n\nUI elements with a hand-drawn, sketchy look\n(comments)\n\n\nTiny number of 'supersharers' spread the majority of fake news\n(comments)\n\n\nROOT: analyzing petabytes of data scientifically\n(comments)\n\n\nArthur Whitney releases an open-source subset of K with MIT license\n(comments)\n\n\nNapster sparked a file-sharing revolution 25 years ago\n(comments)",
-          "link": "https://www.daemonology.net/hn-daily/2024-06-01.html",
-          "publishedOn": "2024-06-02T00:00:00.000Z",
-          "wordCount": 585,
-          "title": "Daily Hacker News for 2024-06-01",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +302,46 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/RegreSSHion-CVE-2024-6387",
+          "author": "Michael Larabel",
+          "description": "Qualys went public today with a security vulnerability they have discovered within the OpenSSH server that could lead to remote, unauthenticated code execution...",
+          "link": "https://www.phoronix.com/news/RegreSSHion-CVE-2024-6387",
+          "publishedOn": "2024-07-01T12:25:41.000Z",
+          "wordCount": 1858,
+          "title": "RegreSSHion: Remote Code Execution Vulnerability In OpenSSH Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/June-2024-Highlights",
+          "author": "Michael Larabel",
+          "description": "With the month of June wrapped up, here is a look back at the most popular open-source/Linux news and reviews from notable hardware launches to a lot of exciting kernel activity...",
+          "link": "https://www.phoronix.com/news/June-2024-Highlights",
+          "publishedOn": "2024-07-01T10:56:15.000Z",
+          "wordCount": 3690,
+          "title": "Linux BSOD, NVIDIA Linux Excitement, Intel Sierra Forest & Other June Highlights",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AMDGPU-ISP-4.x-Linux-6.11",
+          "author": "Michael Larabel",
+          "description": "AMD on Friday sent out another round of AMDGPU/AMDKFD patches for queuing in DRM-Next ahead of the Linux 6.11 merge window opening up in about two weeks...",
+          "link": "https://www.phoronix.com/news/AMDGPU-ISP-4.x-Linux-6.11",
+          "publishedOn": "2024-07-01T10:27:31.000Z",
+          "wordCount": 1886,
+          "title": "AMD Landing ISP 4.x IP In Linux 6.11, Strix Point & Granite Ridge IP Versions Confirmed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/EndeavourOS-Restores-ARM",
+          "author": "Michael Larabel",
+          "description": "Arch Linux built EndeavourOS has released new install media in celebrating the project's fifth anniversary. Making this 5th anniversary release all the more exciting is the project has restored support for EndeavourOS on ARM...",
+          "link": "https://www.phoronix.com/news/EndeavourOS-Restores-ARM",
+          "publishedOn": "2024-07-01T09:51:33.000Z",
+          "wordCount": 1720,
+          "title": "Arch Linux Powered EndeavourOS Restores ARM Support",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/GNOME-Shell-Mutter-47-Alpha",
           "author": "Michael Larabel",
@@ -2730,16 +2760,6 @@
           "publishedOn": "2024-06-02T00:37:56.000Z",
           "wordCount": 1964,
           "title": "Linux Shoots Past The 2% Threshold For The Steam Survey, AMD CPU Use Breaks 75%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMD-More-GFX12-RDNA4-Mesa-24.2",
-          "author": "Michael Larabel",
-          "description": "It's been another busy week with the open-source AMD Linux graphics driver stack with continued preparations around enabling support for next-generation RDNA4 graphics (as well as continued RDNA3+ / RDNA 3.5 tuning)...",
-          "link": "https://www.phoronix.com/news/AMD-More-GFX12-RDNA4-Mesa-24.2",
-          "publishedOn": "2024-06-01T14:48:57.000Z",
-          "wordCount": 1919,
-          "title": "VCN5 AV1 Encode & More AMD RDNA4 RADV Support Land In Mesa 24.2",
           "imageUrl": null
         }
       ]
