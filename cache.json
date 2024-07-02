@@ -6,6 +6,16 @@
       "siteUrl": "https://www.daemonology.net/hn-daily/",
       "articles": [
         {
+          "id": "https://www.daemonology.net/hn-daily/2024-07-01.html",
+          "author": null,
+          "description": "The 10 highest-rated articles on\nHacker News\non July 01, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nLosslessCut: The Swiss army knife of lossless video/audio editing\n(comments)\n\n\nHow to get root access to your Sleep Number bed\n(comments)\n\n\nWriting GUI apps for Windows is painful\n(comments)\n\n\nPipes: A spiritual successor to Yahoo Pipes\n(comments)\n\n\nCities Need More Trees\n(comments)\n\n\nRegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems\n(comments)\n\n\nMy finetuned models beat OpenAI's GPT-4\n(comments)\n\n\nShow HN: I created an After Effects alternative\n(comments)\n\n\nAsk HN: Who is hiring? (July 2024)\n(comments)\n\n\nSupreme Court rules ex-presidents have immunity for official acts\n(comments)",
+          "link": "https://www.daemonology.net/hn-daily/2024-07-01.html",
+          "publishedOn": "2024-07-02T00:00:00.000Z",
+          "wordCount": 572,
+          "title": "Daily Hacker News for 2024-07-01",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.daemonology.net/hn-daily/2024-06-30.html",
           "author": null,
           "description": "The 10 highest-rated articles on\nHacker News\non June 30, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n\n\nResearchers at ETH Zurich develop the fastest possible flow algorithm\n(comments)\n\n\nThe economics of writing technical books\n(comments)\n\n\nFUTO Keyboard\n(comments)\n\n\nPython toolkit for quantitative finance\n(comments)\n\n\nShow HN: I am building an open-source Confluence and Notion alternative\n(comments)\n\n\nAirPods fast connect security vulnerability\n(comments)\n\n\nOverleaf: An open-source online real-time collaborative LaTeX editor\n(comments)\n\n\nInside a $1 radar motion sensor\n(comments)\n\n\nWeekend projects: getting silly with C\n(comments)\n\n\nShow HN: Drop-in SQS replacement based on SQLite\n(comments)",
@@ -302,6 +312,86 @@
       "feedUrl": "https://www.phoronix.com/rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Steam-Linux-June-2024-Survey",
+          "author": "Michael Larabel",
+          "description": "With the start of the new month comes the Steam Survey hardware/software details for the month prior. The June 2024 results show a decline to the Steam on Linux marketshare but staying above the magic 2% threshold...",
+          "link": "https://www.phoronix.com/news/Steam-Linux-June-2024-Survey",
+          "publishedOn": "2024-07-02T00:28:16.000Z",
+          "wordCount": 1873,
+          "title": "Steam On Linux Use Stayed Above 2% In June",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Fedora-42-User-Metrics-Opt-In",
+          "author": "Michael Larabel",
+          "description": "Data collection around users tends to be a very touchy subject in the Linux/open-source world even when opt-in and Fedora Workstation 42 has just seen a proposal raised to do just that. If approved the Fedora Workstation 42 release would roll-out an opt-in metrics system of anonymous user information from system settings to hardware information and desktop usage patterns...",
+          "link": "https://www.phoronix.com/news/Fedora-42-User-Metrics-Opt-In",
+          "publishedOn": "2024-07-01T20:40:53.000Z",
+          "wordCount": 1854,
+          "title": "Fedora Workstation 42 Looking At Adding Opt-In User Metrics Collection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Radeon-Developer-Tools-Qt6",
+          "author": "Michael Larabel",
+          "description": "AMD's Radeon Developer Tool Suite from their GPUOpen group has now migrated to the Qt6 graphical toolkit...",
+          "link": "https://www.phoronix.com/news/Radeon-Developer-Tools-Qt6",
+          "publishedOn": "2024-07-01T17:30:00.000Z",
+          "wordCount": 1863,
+          "title": "Radeon Developer Tool Suite Migrates To Qt6",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-Mint-22-Beta",
+          "author": "Michael Larabel",
+          "description": "Linux Mint has kicked off the start of July by releasing the beta of Linux Mint 22 \"Wilma\" as the next iteration of their desktop distribution built atop Ubuntu 24.04 LTS and with plans to support it until 2029...",
+          "link": "https://www.phoronix.com/news/Linux-Mint-22-Beta",
+          "publishedOn": "2024-07-01T16:28:13.000Z",
+          "wordCount": 1825,
+          "title": "Linux Mint 22 Enters Beta, Built Atop Ubuntu 24.04 LTS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/review/linux-610-amd-zen4-intel-meteorlake",
+          "author": "Michael Larabel",
+          "description": "In part for preparing for upcoming Linux testing of AMD Ryzen AI 300 series laptops, I've been re-benchmarking various Intel/AMD laptops around the lab at Phoronix. In today's article is a fresh look at how the existing AMD Zen 4 laptop performance in the form of the popular Framework 13 and Framework 16 laptops is competing with the Intel Core Ultra 7 155H \"Meteor Lake\" SoC while using Ubuntu 24.04 LTS and upgrading to the latest Linux 6.10 development kernel as well as the newest Mesa open-source graphics driver support.",
+          "link": "https://www.phoronix.com/review/linux-610-amd-zen4-intel-meteorlake",
+          "publishedOn": "2024-07-01T15:33:15.000Z",
+          "wordCount": 1960,
+          "title": "AMD Zen 4 vs. Intel Core Ultra 7 \"Meteor Lake\" In 400+ Benchmarks On Linux 6.10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Qualcomm-Olyon-1-Glibc",
+          "author": "Michael Larabel",
+          "description": "Qualcomm has begun landing performance optimizations into the GNU C Library \"glibc\" for benefiting their new Oryon-1 CPU cores as found in the Snapdragon X Elite/Plus SoCs...",
+          "link": "https://www.phoronix.com/news/Qualcomm-Olyon-1-Glibc",
+          "publishedOn": "2024-07-01T14:49:38.000Z",
+          "wordCount": 1873,
+          "title": "Qualcomm Begins Optimizing Glibc For Their Oryon CPU Core",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GNOME-Mutter-46.2-Ubuntu",
+          "author": "Michael Larabel",
+          "description": "GNOME's Mutter 46.2-1ubuntu0.24.04.1 package was uploaded on Friday for Ubuntu 24.04 LTS users. This Mutter compositor update not only brings Mutter 46.2 changes to this current Ubuntu release but also pulls in all of the 46.1 upstream changes too...",
+          "link": "https://www.phoronix.com/news/GNOME-Mutter-46.2-Ubuntu",
+          "publishedOn": "2024-07-01T14:32:49.000Z",
+          "wordCount": 1833,
+          "title": "GNOME Mutter 46.2 Rolls Out To Ubuntu 24.04 Users, Experimental VRR Remains Rough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Suspend-To-Idle-Raspberry-Pi",
+          "author": "Michael Larabel",
+          "description": "Linux developer Stefan Wahren has been working on adding support for suspend-to-idle (s2idle) to the Raspberry Pi single board computers. It's working and there are power-savings benefits, but the downside is that initially the support is just for older Raspberry Pi boards...",
+          "link": "https://www.phoronix.com/news/Suspend-To-Idle-Raspberry-Pi",
+          "publishedOn": "2024-07-01T13:33:23.000Z",
+          "wordCount": 1884,
+          "title": "Suspend To Idle Under Linux Being Worked On For Raspberry Pi",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/RegreSSHion-CVE-2024-6387",
           "author": "Michael Larabel",
@@ -2710,56 +2800,6 @@
           "publishedOn": "2024-06-02T23:00:00.000Z",
           "wordCount": 1865,
           "title": "Linux 6.10-rc2 Released With An Initial Batch Of Fixes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Autodafe-1.0-Released",
-          "author": "Michael Larabel",
-          "description": "Controversial free software developer Eric S Raymond has been spending a lot of time recently on the new Autodafe project as a means of free software projects from relying on Autotools. This \"De-Autoconfiscation\" has now led to the release of Autodafe 1.0 with the tool now being considered production-ready...",
-          "link": "https://www.phoronix.com/news/Autodafe-1.0-Released",
-          "publishedOn": "2024-06-02T13:00:00.000Z",
-          "wordCount": 1957,
-          "title": "Autodafe 1.0 Released For Freeing Projects Of Autotools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/DRM-Misc-6.11-Nouveau-Intel-NPU",
-          "author": "Michael Larabel",
-          "description": "Now past the Linux 6.10 merge window, this week brought an initial batch of drm-misc-next changes submitted to the Direct Rendering Manager subsystem's DRM-Next for queuing until the Linux 6.11 merge window opens up in July. The changes this week include a notable addition for the open-source NVIDIA (Nouveau) driver and some improvements for the Intel iVPU driver for their Neural Processing Unit (NPU)...",
-          "link": "https://www.phoronix.com/news/DRM-Misc-6.11-Nouveau-Intel-NPU",
-          "publishedOn": "2024-06-02T12:00:00.000Z",
-          "wordCount": 1955,
-          "title": "Linux 6.11 To Bring Nouveau NVreg_RegistryDwords Support, Intel NPU Enhancements",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.10-rc2-x86-urgent",
-          "author": "Michael Larabel",
-          "description": "Ahead of today's Linux 6.10-rc2 kerne weekly test release a few \"x86/urgent\" patches were submitted for addressing some fallout on Intel and AMD processors...",
-          "link": "https://www.phoronix.com/news/Linux-6.10-rc2-x86-urgent",
-          "publishedOn": "2024-06-02T10:30:00.000Z",
-          "wordCount": 1803,
-          "title": "Linux 6.10-rc2 Will Fix Booting Intel Quark CPUs & Problems With Old AMD CPUs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/ASUS-ROG-Ally-X",
-          "author": "Michael Larabel",
-          "description": "ASUS used Computex 2024 for announcing the ROG Ally X, the latest version of their handheld gaming console. The ASUS ROG Ally X continues to be powered by the AMD Ryzen Z1 Extreme SoC but now having more storage, faster RAM, a larger battery, updated controls, and other refinements...",
-          "link": "https://www.phoronix.com/news/ASUS-ROG-Ally-X",
-          "publishedOn": "2024-06-02T10:14:48.000Z",
-          "wordCount": 1860,
-          "title": "ASUS Announces The ROG Ally X Upgraded Handheld",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-Steam-2024-Above-2",
-          "author": "Michael Larabel",
-          "description": "When Steam on Linux debuted a decade ago it maintained around a 2% marketshare before receding and then beginning its long climb back up following the debut of Steam Play for running Windows games on Linux and then with the much anticipated Steam Deck handheld game console and the modern Arch-based SteamOS. Valve just published their May 2024 numbers for the Steam Survey and they indicate the Linux marketshare is finally back above 2%...",
-          "link": "https://www.phoronix.com/news/Linux-Steam-2024-Above-2",
-          "publishedOn": "2024-06-02T00:37:56.000Z",
-          "wordCount": 1964,
-          "title": "Linux Shoots Past The 2% Threshold For The Steam Survey, AMD CPU Use Breaks 75%",
           "imageUrl": null
         }
       ]
